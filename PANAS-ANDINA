@@ -1,4 +1,111 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EC| Canela TV" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="TV | Ecuador",EC| Canela TV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176954
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="TV | Ecuador",EC| Canela TV HQ
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147950
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
+#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
+#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11029
+#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV FHD" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153889
+#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV HD" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11030
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11031
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153885
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa HD" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11032
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Ecuavisa Internacional" tvg-logo="http://l3d.us:25461/images/6122fcc278a147107e66cc037bfed5cc.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11033
+#EXTINF:-1 tvg-id="Ec2Int" tvg-name="EC| Ecuavisa Internacional HD" tvg-logo="http://l3d.us:25461/images/6122fcc278a147107e66cc037bfed5cc.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147959
+#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa Sierra" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa Sierra
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176963
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol SD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
+#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11034
+#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision FHD" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153888
+#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision HD" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147955
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV (MOVIL)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| GOL TV FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| GOL TV HD (OPC 1)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV HD (OPCION 2)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV | Ecuador
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOLTV ECUADOR HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147956
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television FHD" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176967
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television HD" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11035
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11037
+#EXTINF:-1 tvg-id="Ec4.Ec" tvg-name="EC| RTS FHD" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153887
+#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS HD" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11036
+#EXTINF:-1 tvg-id="rtu.ec" tvg-name="EC| RTU" tvg-logo="http://l3d.us:8080/images/ae52a2af095444c2049a59624f5ab1db.png" group-title="TV | Ecuador",EC| RTU
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153890
+#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="EC| TC Television" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11038
+#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-name="EC| TC Television FHD" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/172233
+#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-name="EC| TC Television HD" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11039
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11040
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas FHD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153891
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas HD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11043
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas Quito" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147954
+#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas Quito FHD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153892
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Quito HD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11042
+#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Sierra" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Sierra
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176976
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11044
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC FHD" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176977
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC HQ
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147952
+#EXTINF:-1 tvg-id="" tvg-name="HN| MAYA TV" tvg-logo="" group-title="TV | Honduras",HN| MAYA TV
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155868
+#EXTINF:-1 tvg-id="" tvg-name="HN| TELEPROGRESO" tvg-logo="" group-title="TV | Honduras",HN| TELEPROGRESO
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155873
+
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR| America TV" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210836
 #EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America TV HD" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV HD
@@ -809,112 +916,7 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10583
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/148810
 #EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="E | Warner HQ" tvg-logo="http://l3d.us:25461/images/2a6d61f2db2620999ceeb10ef97ab0e8.png" group-title="TV | Entretenimiento",E | Warner HQ
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10584
-#EXTINF:-1 tvg-id="" tvg-name="EC| Canela TV" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="TV | Ecuador",EC| Canela TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176954
-#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="TV | Ecuador",EC| Canela TV HQ
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147950
-#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
-#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
-#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
-#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
-#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11029
-#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV FHD" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153889
-#EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV HD" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="TV | Ecuador",EC| Ecuador TV HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11030
-#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11031
-#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153885
-#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa HD" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11032
-#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Ecuavisa Internacional" tvg-logo="http://l3d.us:25461/images/6122fcc278a147107e66cc037bfed5cc.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11033
-#EXTINF:-1 tvg-id="Ec2Int" tvg-name="EC| Ecuavisa Internacional HD" tvg-logo="http://l3d.us:25461/images/6122fcc278a147107e66cc037bfed5cc.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147959
-#EXTINF:-1 tvg-id="Ec2.Ec" tvg-name="EC| Ecuavisa Sierra" tvg-logo="http://l3d.us:25461/images/dbeb82b2037a362ceaaa3c2d5a5738ea.png" group-title="TV | Ecuador",EC| Ecuavisa Sierra
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176963
-#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
-#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
-#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
-#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
-#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
-#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
-#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11034
-#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision FHD" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153888
-#EXTINF:-1 tvg-id="Ec8.Ec" tvg-name="EC| Gamavision HD" tvg-logo="http://l3d.us:25461/images/e945d43e8dd6b5f8a190f89735eea61c.png" group-title="TV | Ecuador",EC| Gamavision HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147955
-#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV (MOVIL)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
-#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| GOL TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
-#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| GOL TV HD (OPC 1)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
-#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV HD (OPCION 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
-#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="TV | Ecuador (Deportes)",EC| Gol TV | Ecuador
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
-#EXTINF:-1 tvg-id="" tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOLTV ECUADOR HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
-#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147956
-#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television FHD" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176967
-#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television HD" tvg-logo="http://l3d.us:25461/images/ab4d66dd2963087ab16e49348d36699d.png" group-title="TV | Ecuador",EC| Oromar Television HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11035
-#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11037
-#EXTINF:-1 tvg-id="Ec4.Ec" tvg-name="EC| RTS FHD" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153887
-#EXTINF:-1 tvg-id="Ec4HD.Ec" tvg-name="EC| RTS HD" tvg-logo="http://l3d.us:25461/images/243653d8062248c551885f2a80f2f571.png" group-title="TV | Ecuador",EC| RTS HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11036
-#EXTINF:-1 tvg-id="rtu.ec" tvg-name="EC| RTU" tvg-logo="http://l3d.us:8080/images/ae52a2af095444c2049a59624f5ab1db.png" group-title="TV | Ecuador",EC| RTU
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153890
-#EXTINF:-1 tvg-id="Ec10.Ec" tvg-name="EC| TC Television" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11038
-#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-name="EC| TC Television FHD" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/172233
-#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-name="EC| TC Television HD" tvg-logo="http://l3d.us:25461/images/84add81c77928b11b0871deea7c7ad1f.png" group-title="TV | Ecuador",EC| TC Television HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11039
-#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11040
-#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas FHD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153891
-#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas HD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11043
-#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas Quito" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147954
-#EXTINF:-1 tvg-id="Ec5.Ec" tvg-name="EC| Teleamazonas Quito FHD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/153892
-#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Quito HD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Quito HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11042
-#EXTINF:-1 tvg-id="Ec5HD.Ec" tvg-name="EC| Teleamazonas Sierra" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="TV | Ecuador",EC| Teleamazonas Sierra
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176976
-#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11044
-#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC FHD" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176977
-#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC HQ
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147952
-#EXTINF:-1 tvg-id="" tvg-name="HN| MAYA TV" tvg-logo="" group-title="TV | Honduras",HN| MAYA TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155868
-#EXTINF:-1 tvg-id="" tvg-name="HN| TELEPROGRESO" tvg-logo="" group-title="TV | Honduras",HN| TELEPROGRESO
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155873
+
 #EXTINF:-1 tvg-id="babyfirst.us" tvg-name="I | Baby First" tvg-logo="http://l3d.us:25461/images/db971d6fe3e9fd1e5adebcf0a59b4b5d.png" group-title="TV | Infantil",I | Baby First
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/154076
 #EXTINF:-1 tvg-id="Baby Firts" tvg-name="I | Baby First FHD" tvg-logo="http://l3d.us:25461/images/db971d6fe3e9fd1e5adebcf0a59b4b5d.png" group-title="TV | Infantil",I | Baby First FHD
@@ -1173,62 +1175,7 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/126158
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10913
 #EXTINF:-1 tvg-id="" tvg-name="PR| Wapa HQ" tvg-logo="http://sdmx.com.mx/logos/wapa.png" group-title="TV | Puerto Rico",PR| Wapa HQ
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/126163
-#EXTINF:-1 tvg-id="" tvg-name="PR| Wipr Canal 6" tvg-logo="http://l3d.us:25461/images/cf5ef0970e158f1fcf82c800672e9ffc.png" group-title="TV | Puerto Rico",PR| Wipr Canal 6
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/126153
-#EXTINF:-1 tvg-id="" tvg-name="RD:  Cine Vision 19" tvg-logo="" group-title="TV | Dominicana",RD:  Cine Vision 19
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190803
-#EXTINF:-1 tvg-id="" tvg-name="RD:  Galaxia Tv 42" tvg-logo="" group-title="TV | Dominicana",RD:  Galaxia Tv 42
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190800
-#EXTINF:-1 tvg-id="" tvg-name="RD:  Super Tv 55" tvg-logo="" group-title="TV | Dominicana",RD:  Super Tv 55
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190821
-#EXTINF:-1 tvg-id="" tvg-name="RD: CDN" tvg-logo="http://l3d.us:8080/images/9ac3bca22cfb5b1613727e94ab5f0a21.jpg" group-title="TV | Dominicana",RD: CDN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190807
-#EXTINF:-1 tvg-id="" tvg-name="RD| Cinevision" tvg-logo="" group-title="TV | Dominicana",RD| Cinevision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190805
-#EXTINF:-1 tvg-id="" tvg-name="RD: CineVision Canal 19" tvg-logo="" group-title="TV | Dominicana",RD: CineVision Canal 19
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190804
-#EXTINF:-1 tvg-id="ColorVision.do" tvg-name="RD: Color Vision 9" tvg-logo="" group-title="TV | Dominicana",RD: Color Vision 9
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190802
-#EXTINF:-1 tvg-id="" tvg-name="RD: Comunion Tv" tvg-logo="" group-title="TV | Dominicana",RD: Comunion Tv
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190801
-#EXTINF:-1 tvg-id="" tvg-name="RD: Megavision" tvg-logo="" group-title="TV | Dominicana",RD: Megavision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190822
-#EXTINF:-1 tvg-id="" tvg-name="RD: Romana Tv" tvg-logo="" group-title="TV | Dominicana",RD: Romana Tv
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190818
-#EXTINF:-1 tvg-id="" tvg-name="RD: SITV" tvg-logo="" group-title="TV | Dominicana",RD: SITV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190820
-#EXTINF:-1 tvg-id="" tvg-name="RD: Telebendicion" tvg-logo="" group-title="TV | Dominicana",RD: Telebendicion
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190816
-#EXTINF:-1 tvg-id="" tvg-name="RD: Telemicro Canal 5" tvg-logo="http://l3d.us:8080/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="TV | Dominicana",RD: Telemicro Canal 5
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190814
-#EXTINF:-1 tvg-id="" tvg-name="RD: Telemilenio" tvg-logo="" group-title="TV | Dominicana",RD: Telemilenio
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190813
-#EXTINF:-1 tvg-id="" tvg-name="RD: Telesistema" tvg-logo="" group-title="TV | Dominicana",RD: Telesistema
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/190812
-#EXTINF:-1 tvg-id="" tvg-name="RD: TeleUniverso" tvg-logo="http://l3d.us:8080/images/25f6572d80fca6fbcf89a31942ae095b.png" group-title="TV | Dominicana",RD: TeleUniverso
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/199377
-#EXTINF:-1 tvg-id="" tvg-name="RD| Teleantillas" tvg-logo="http://l3d.us:8080/images/5ee7e6b3767c038f57e736186ca3a3b5.jpg" group-title="TV | Dominicana",RD| Teleantillas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/214867
-#EXTINF:-1 tvg-id="" tvg-name="RD| Telecentro" tvg-logo="" group-title="TV | Dominicana",RD| Telecentro
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/214868
-#EXTINF:-1 tvg-id="RPCTV.pa" tvg-name="RPC (PAN)" tvg-logo="" group-title="TV | Panama",RPC (PAN)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/201866
-#EXTINF:-1 tvg-id="" tvg-name="SAL|Canal 12" tvg-logo="http://l3d.us:8080/images/5daaa17bccdb60d7717522c88a861af8.png" group-title="TV | El Salvador",SAL|Canal 12
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10435
-#EXTINF:-1 tvg-id="" tvg-name="SAL|Canal 6" tvg-logo="http://l3d.us:8080/images/55ee6610a3c515ff0db54b5e81427f3c.png" group-title="TV | El Salvador",SAL|Canal 6
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10439
-#EXTINF:-1 tvg-id="" tvg-name="SAL|Megavision Canal 19" tvg-logo="http://l3d.us:8080/images/46f32dd637668cdc9d5a1a10b231bb9a.png" group-title="TV | El Salvador",SAL|Megavision Canal 19
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10441
-#EXTINF:-1 tvg-id="" tvg-name="SAL|TVES Canal 10" tvg-logo="http://l3d.us:8080/images/5437ddc767a10abbaef5ed0bba0d474b.png" group-title="TV | El Salvador",SAL|TVES Canal 10
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10444
-#EXTINF:-1 tvg-id="" tvg-name="SAL|VTV Canal 35" tvg-logo="http://l3d.us:8080/images/f747b603dc2bbb9c04d83a3a0e026bb3.png" group-title="TV | El Salvador",SAL|VTV Canal 35
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10445
-#EXTINF:-1 tvg-id="" tvg-name="SAL|Wow TV" tvg-logo="http://l3d.us:8080/images/2944c4fa3134d5804116825a436acd04.png" group-title="TV | El Salvador",SAL|Wow TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10446
-#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="S| AT&T Sportsnet Southwest" tvg-logo="http://l3d.us:8080/images/c46a86803e81ca2321cc0df16802c890.png" group-title="TV | USA Sports",S| AT&T Sportsnet Southwest
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210404
-#EXTINF:-1 tvg-id="" tvg-name="S| Box Nation" tvg-logo="http://l3d.us:25461/images/93c6ad667bd3990cb4f94b1030214dbf.png" group-title="TV | USA Sports",S| Box Nation
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10645
+
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="S| CBS Sports Network" tvg-logo="http://l3d.us:8080/images/c9d6f14d0c08da33161dc161396bb6bc.png" group-title="TV | USA Sports",S| CBS Sports Network
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10666
 #EXTINF:-1 tvg-id="espn.us" tvg-name="S| ESPN" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | USA Sports",S| ESPN
@@ -3417,56 +3364,7 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113578
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113579
 #EXTINF:-1 tvg-id="" tvg-name="OUTDOOR HD" tvg-logo="" group-title="TV | USA Entertainment",OUTDOOR HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113580
-#EXTINF:-1 tvg-id="" tvg-name="USA | American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/2560px-American_Heroes_Channel_logo.svg.png" group-title="TV | USA Entertainment",USA | American Heroes Channel
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113590
-#EXTINF:-1 tvg-id="" tvg-name="USA | BBC America" tvg-logo="http://l3d.us:25461/images/209d4b5d5619a5d677acd8468ed142c5.png" group-title="TV | USA Entertainment",USA | BBC America
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113591
-#EXTINF:-1 tvg-id="" tvg-name="USA | Cheddar" tvg-logo="http://l3d.us:25461/images/b92655af8b921ebeb39d9b8e9a45dbfc.png" group-title="TV | USA Entertainment",USA | Cheddar
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113594
-#EXTINF:-1 tvg-id="" tvg-name="USA | CMT" tvg-logo="http://l3d.us:25461/images/1e005f1d6568fc9e5f8470deaa97d953.png" group-title="TV | USA Entertainment",USA | CMT
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113595
-#EXTINF:-1 tvg-id="" tvg-name="USA | Comet" tvg-logo="http://l3d.us:25461/images/9a8a9b717a82e05df4a7ff4b0635e071.png" group-title="TV | USA Entertainment",USA | Comet
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113597
-#EXTINF:-1 tvg-id="" tvg-name="USA | Fuse" tvg-logo="http://l3d.us:25461/images/4e1123e1199487560f1718ef60cbb832.png" group-title="TV | USA Entertainment",USA | Fuse
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113601
-#EXTINF:-1 tvg-id="" tvg-name="USA | Great American Country" tvg-logo="http://l3d.us:25461/images/4d83bcf791a52d2997e51a29ad461dd9.png" group-title="TV | USA Entertainment",USA | Great American Country
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113602
-#EXTINF:-1 tvg-id="" tvg-name="USA | Logo TV" tvg-logo="http://l3d.us:25461/images/3958ecc5100f4c801eac9e191903dbd1.png" group-title="TV | USA Entertainment",USA | Logo TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113604
-#EXTINF:-1 tvg-id="" tvg-name="USA | Sony HD" tvg-logo="http://l3d.us:25461/images/642e92efb79421734881b53e1e1b18b6.png" group-title="TV | USA Entertainment",USA | Sony HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113606
-#EXTINF:-1 tvg-id="" tvg-name="US | ION" tvg-logo="http://l3d.us:25461/images/f7e7145d3f3aefeec691616495f949a8.png" group-title="TV | USA Entertainment",US | ION
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113617
-#EXTINF:-1 tvg-id="" tvg-name="US| BET JAMS" tvg-logo="" group-title="TV | USA Entertainment",US| BET JAMS
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2145659
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="USA | EPIX 2 ESTE HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIX2.PNG" group-title="TV | USA Movies",USA | EPIX 2 ESTE HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113538
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="USA | EPIX DRIVE HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPXDR.png" group-title="TV | USA Movies",USA | EPIX DRIVE HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113539
-#EXTINF:-1 tvg-id="epix.us" tvg-name="USA | EPIX EAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1200px-Epix_Logo_2019.svg.png" group-title="TV | USA Movies",USA | EPIX EAST HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113540
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA | EPIX HITS HD" tvg-logo="http://l3d.us:25461/images/48b5364b7f38a7aa33c484c18bfcd77b.png" group-title="TV | USA Movies",USA | EPIX HITS HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113541
-#EXTINF:-1 tvg-id="epix.us" tvg-name="USA | EPIX WEST" tvg-logo="http://l3d.us:25461/images/5f1b4d511bf0dddd260d808f0f0936b1.png" group-title="TV | USA Movies",USA | EPIX WEST
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113542
-#EXTINF:-1 tvg-id="ActionMaxEast.us" tvg-name="USA | Action Max" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png/revision/latest?cb=20200121211921&path-prefix=es" group-title="TV | USA Movies",USA | Action Max
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113589
-#EXTINF:-1 tvg-id="" tvg-name="USA: Hallmark Movies & Mysteries" tvg-logo="" group-title="TV | USA Movies",USA: Hallmark Movies & Mysteries
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123438
-#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="TV | USA Sports",CA | TSN SPORTS 1
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113509
-#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 2" tvg-logo="http://l3d.us:25461/images/e324ca08ff1b5d24373901863302eecb.png" group-title="TV | USA Sports",CA | TSN SPORTS 2
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113510
-#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="TV | USA Sports",CA | TSN SPORTS 3
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113511
-#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 4" tvg-logo="http://l3d.us:25461/images/06307c61c6134686ec199342a7ff423f.png" group-title="TV | USA Sports",CA | TSN SPORTS 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113512
-#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 5" tvg-logo="http://l3d.us:25461/images/1ad19be89a6ed3a66a7050db2d47a0f0.png" group-title="TV | USA Sports",CA | TSN SPORTS 5
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113513
-#EXTINF:-1 tvg-id="pac12network.us" tvg-name="US | PAC-12 LOS ANGELES" tvg-logo="http://l3d.us:25461/images/ad52498830facdfb560d81b5620b66ae.png" group-title="TV | USA Sports",US | PAC-12 LOS ANGELES
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113582
-#EXTINF:-1 tvg-id="" tvg-name="USA | PAC12 BAY 12" tvg-logo="http://l3d.us:25461/images/b9ef73260945a8b74bfa0888be31eac9.png" group-title="TV | USA Sports",USA | PAC12 BAY 12
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113583
+
 #EXTINF:-1 tvg-id="" tvg-name="US | GOLTV (SPANISH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="TV | USA Sports",US | GOLTV (SPANISH)
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113629
 #EXTINF:-1 tvg-id="" tvg-name="S| YES Network HD" tvg-logo="http://tvgo.re:8080/images/330b8fc654b3f764b2e28cba0542818d.png" group-title="TV | USA Sports",S| YES Network HD
@@ -3561,222 +3459,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113528
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113529
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBS WTJ | Pennsylvania" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png" group-title="TV | USA Networks",USA | CBS WTJ | Pennsylvania
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113530
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Tennessee | WTVF" tvg-logo="http://l3d.us:25461/images/250c51527f347066847969f002be67a2.png" group-title="TV | USA Networks",USA | CBS Tennessee | WTVF
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113531
-#EXTINF:-1 tvg-id="" tvg-name="CBS Texas" tvg-logo="http://l3d.us:25461/images/250c51527f347066847969f002be67a2.png" group-title="TV | USA Networks",CBS Texas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113532
-#EXTINF:-1 tvg-id="" tvg-name="CBS Utah" tvg-logo="http://l3d.us:25461/images/250c51527f347066847969f002be67a2.png" group-title="TV | USA Networks",CBS Utah
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113533
-#EXTINF:-1 tvg-id="" tvg-name="CBS Vermont" tvg-logo="http://l3d.us:25461/images/250c51527f347066847969f002be67a2.png" group-title="TV | USA Networks",CBS Vermont
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113534
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS WISC TV3 | Wisconsin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png" group-title="TV | USA Networks",USA | CBS WISC TV3 | Wisconsin
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113535
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 14 | Wyoming" tvg-logo="http://l3d.us:25461/images/0f8336d8b5c1d0655192db2c5126ab89.png" group-title="TV | USA Networks",USA | CBS 14 | Wyoming
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113536
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="USA | CNN USA" tvg-logo="http://l3d.us:25461/images/19161230bbd63c864d2e2cb8d621b22b.png" group-title="TV | USA Networks",USA | CNN USA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113537
-#EXTINF:-1 tvg-id="" tvg-name="FOX Arkansas" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Arkansas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113543
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 11 | California Los Angeles" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",USA | FOX 11 | California Los Angeles
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113544
-#EXTINF:-1 tvg-id="" tvg-name="FOX Colorado" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Colorado
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113545
-#EXTINF:-1 tvg-id="" tvg-name="FOX Idaho" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Idaho
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113546
-#EXTINF:-1 tvg-id="" tvg-name="FOX Indiana" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Indiana
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113547
-#EXTINF:-1 tvg-id="" tvg-name="FOX Massachusetts" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Massachusetts
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113548
-#EXTINF:-1 tvg-id="" tvg-name="FOX MIAMI" tvg-logo="http://l3d.us:25461/images/696a8969bf4171f6c100c001a71a85c6.png" group-title="TV | USA Networks",FOX MIAMI
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113549
-#EXTINF:-1 tvg-id="" tvg-name="FOX Minnesota" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Minnesota
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113550
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX 5 | New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1200px-Fts-new-york-a.svg.png" group-title="TV | USA Networks",US | FOX 5 | New York
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113551
-#EXTINF:-1 tvg-id="" tvg-name="FOX Northcarolina" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Northcarolina
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113552
-#EXTINF:-1 tvg-id="" tvg-name="FOX Ohio" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Ohio
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113553
-#EXTINF:-1 tvg-id="" tvg-name="FOX Oklahoma" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Oklahoma
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113554
-#EXTINF:-1 tvg-id="" tvg-name="FOX Pennsylvania" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Pennsylvania
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113555
-#EXTINF:-1 tvg-id="" tvg-name="FOX Rhode Island" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Rhode Island
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113556
-#EXTINF:-1 tvg-id="" tvg-name="FOX South Carolina" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX South Carolina
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113557
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Tennessee WZTV" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",USA | FOX Tennessee WZTV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113558
-#EXTINF:-1 tvg-id="" tvg-name="FOX Utah" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Utah
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113559
-#EXTINF:-1 tvg-id="" tvg-name="FOX Wyoming" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Wyoming
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113560
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="MSNBC" tvg-logo="http://l3d.us:25461/images/4787ee2b14f7ba49608f3609a9b18130.png" group-title="TV | USA Networks",MSNBC
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113566
-#EXTINF:-1 tvg-id="nbcwsmw.us" tvg-name="NBC (WVIT)" tvg-logo="http://l3d.us:25461/images/536711761ed42ba81eba1b4a8995404b.png" group-title="TV | USA Networks",NBC (WVIT)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113567
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC California Los Angeles 4" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png" group-title="TV | USA Networks",USA | NBC California Los Angeles 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113568
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Florida Miami 6" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png" group-title="TV | USA Networks",USA | NBC Florida Miami 6
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113569
-#EXTINF:-1 tvg-id="" tvg-name="NBC Florida Pensacola" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png" group-title="TV | USA Networks",NBC Florida Pensacola
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113570
-#EXTINF:-1 tvg-id="" tvg-name="NBC Maryland" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png" group-title="TV | USA Networks",NBC Maryland
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113571
-#EXTINF:-1 tvg-id="" tvg-name="NBC Rhode Island" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png" group-title="TV | USA Networks",NBC Rhode Island
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113572
-#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="NBC SPORTS BAY AREA" tvg-logo="http://l3d.us:25461/images/eb7d7098a7ab8562674e0ab1b0fe72a4.png" group-title="TV | USA Networks",NBC SPORTS BAY AREA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113573
-#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC SPORTS BOSTON" tvg-logo="http://l3d.us:25461/images/94d27e666eb65be5c190345fef2ab397.png" group-title="TV | USA Networks",US | NBC SPORTS BOSTON
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113574
-#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="NBC SPORTS CALIFORNIA" tvg-logo="http://l3d.us:25461/images/1b5a96dd23a982ed6a5fc73f3babe69a.png" group-title="TV | USA Networks",NBC SPORTS CALIFORNIA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113575
-#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="NBC SPORTS CHICAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1280px-NBC_Sports_Chicago_Logo.svg.png" group-title="TV | USA Networks",NBC SPORTS CHICAGO
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113576
-#EXTINF:-1 tvg-id="nbcwsmw.us" tvg-name="USA | NBC 4 Tennessee | WSMV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png" group-title="TV | USA Networks",USA | NBC 4 Tennessee | WSMV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113577
-#EXTINF:-1 tvg-id="" tvg-name="USA | PBS NPT Tennessee" tvg-logo="http://l3d.us:25461/images/66e9d91f0fa2b8bf79e42fae019ea4d8.png" group-title="TV | USA Networks",USA | PBS NPT Tennessee
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113584
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 6 Augusta GA" tvg-logo="http://l3d.us:25461/images/799376fcafad068c46fb413b975be56b.png" group-title="TV | USA Networks",USA | ABC 6 Augusta GA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113585
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC LOCAL 10 MIAMI" tvg-logo="http://l3d.us:25461/images/9320b2590c5c78c0afc694b564270377.png" group-title="TV | USA Networks",USA | ABC LOCAL 10 MIAMI
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113586
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 7 | New York" tvg-logo="http://l3d.us:25461/images/84e6726962cb9a5bacecd75eda24a69c.png" group-title="TV | USA Networks",USA | ABC 7 | New York
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113587
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News Live | NY" tvg-logo="http://l3d.us:25461/images/5b6ac36551c57f0057941e028b65c43f.png" group-title="TV | USA Networks",USA | ABC News Live | NY
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113588
-#EXTINF:-1 tvg-id="" tvg-name="USA | BBC World News" tvg-logo="http://l3d.us:25461/images/78fe36efc772e6c1559a902d059b198c.png" group-title="TV | USA Networks",USA | BBC World News
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113592
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS | NEWS 12 Augusta GA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Wrdw_tv_logo.PNG" group-title="TV | USA Networks",USA | CBS | NEWS 12 Augusta GA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113593
-#EXTINF:-1 tvg-id="" tvg-name="USA | CNBC World" tvg-logo="http://l3d.us:25461/images/2f41f647de8bbc44828d2e3fc0842dc4.png" group-title="TV | USA Networks",USA | CNBC World
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113596
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPNews" tvg-logo="http://l3d.us:25461/images/4c2685ff156093804bb0060562987710.png" group-title="TV | USA Networks",USA | ESPNews
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113598
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 54 Augusta GA" tvg-logo="http://l3d.us:25461/images/90a9e961b406610b4489f5d792f4feaa.png" group-title="TV | USA Networks",USA | FOX 54 Augusta GA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113599
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX Boston" tvg-logo="http://l3d.us:25461/images/3263cb12a6940219a672cb93c37bfa10.png" group-title="TV | USA Networks",USA | FOX Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113600
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC | WAGT Augusta GA" tvg-logo="http://l3d.us:25461/images/93293f1d8b2e40ffad45d429192d923a.png" group-title="TV | USA Networks",USA | NBC | WAGT Augusta GA
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113605
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 Miami" tvg-logo="http://l3d.us:25461/images/bdf30c20ce2bd8a3e29a1f800c2c2503.png" group-title="TV | USA Networks",USA | CBS 4 Miami
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113608
-#EXTINF:-1 tvg-id="" tvg-name="US | CBS KLAS | LAS VEGAS" tvg-logo="http://l3d.us:25461/images/1101d6e2d0edf6f5051de46fb49b7452.png" group-title="TV | USA Networks",US | CBS KLAS | LAS VEGAS
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113609
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS | KYMA | Yuma Az" tvg-logo="http://l3d.us:25461/images/dce376f7c7b948acf83e2ff485237bcc.png" group-title="TV | USA Networks",USA | CBS | KYMA | Yuma Az
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113610
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 5 | Yuma Az" tvg-logo="http://l3d.us:25461/images/1b16d76cddbccac668815d2d4c3bb6ba.png" group-title="TV | USA Networks",USA | ABC 5 | Yuma Az
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113611
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 9 | Yuma Az" tvg-logo="http://l3d.us:25461/images/b37ade27722b82760a49e49e261dbe09.jpg" group-title="TV | USA Networks",USA | FOX 9 | Yuma Az
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113612
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 4 | McAllen" tvg-logo="http://l3d.us:25461/images/d513d4c3c5fb968b0db71167e4416cdb.png" group-title="TV | USA Networks",USA | CBS 4 | McAllen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113613
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC KVEO | McAllen" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd" group-title="TV | USA Networks",USA | NBC KVEO | McAllen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113614
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC KRGV | McAllen" tvg-logo="http://l3d.us:25461/images/34c57e0ffb9021515dc87a1577aad051.png" group-title="TV | USA Networks",USA | ABC KRGV | McAllen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113615
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX KFXV-TV | McAllen" tvg-logo="http://l3d.us:25461/images/b3eee65fd1a111975dd354f6593bb7d0.png" group-title="TV | USA Networks",USA | FOX KFXV-TV | McAllen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113616
-#EXTINF:-1 tvg-id="" tvg-name="MX | Vallevision" tvg-logo="http://l3d.us:25461/images/1151fd20536c3953784a89217dac4845.png" group-title="TV | Mexico",MX | Vallevision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113618
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS KEYE | AUSTIN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png" group-title="TV | USA Networks",USA | CBS KEYE | AUSTIN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113619
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC KXAN | AUSTIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png" group-title="TV | USA Networks",USA | NBC KXAN | AUSTIN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113620
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC KVUE | AUSTIN" tvg-logo="http://l3d.us:25461/images/02a30b8612294a31e05061ab4cf82db0.png" group-title="TV | USA Networks",USA | ABC KVUE | AUSTIN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113621
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 7 | AUSTIN" tvg-logo="http://l3d.us:25461/images/e902007053893994028c206693d0dec8.png" group-title="TV | USA Networks",USA | FOX 7 | AUSTIN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113622
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS WBZ 4 | Boston" tvg-logo="http://l3d.us:25461/images/6e15062a8a7ad4ad074921e7c3a5dc24.png" group-title="TV | USA Networks",USA | CBS WBZ 4 | Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113623
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Boston" tvg-logo="http://l3d.us:25461/images/8a4d49aa569653a8e225e23afbcd34f2.png" group-title="TV | USA Networks",USA | NBC Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113624
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC WCVB Channel 5 | Boston" tvg-logo="http://l3d.us:25461/images/83819aa960bcbf853dbbd25a3c6ff13d.png" group-title="TV | USA Networks",USA | NBC WCVB Channel 5 | Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113625
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC WMUR | Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/WMUR-TV_logo.svg/1200px-WMUR-TV_logo.svg.png" group-title="TV | USA Networks",USA | ABC WMUR | Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113626
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 25 | Boston" tvg-logo="http://l3d.us:25461/images/90824db32fa2fdf68e928b41d63f714d.png" group-title="TV | USA Networks",USA | FOX 25 | Boston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113627
-#EXTINF:-1 tvg-id="" tvg-name="US | PBS SoCal Kids" tvg-logo="http://l3d.us:25461/images/64ff6fc4e1297146126530dcfad89d5d.png" group-title="TV | USA Networks",US | PBS SoCal Kids
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113628
-#EXTINF:-1 tvg-id="unimas68wfut.us" tvg-name="US | UNIMAS NEW YORK" tvg-logo="http://l3d.us:25461/images/23384184a3e3bc4cc2471d0ba62a8f36.png" group-title="TV | USA Networks",US | UNIMAS NEW YORK
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113630
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS 13 | Sacramento" tvg-logo="http://l3d.us:25461/images/75960c461849e1a05689495c6b763c41.png" group-title="TV | USA Networks",USA | CBS 13 | Sacramento
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113631
-#EXTINF:-1 tvg-id="" tvg-name="USA | NBC KCRA 3 | Sacramento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KCRA_logo.svg/750px-KCRA_logo.svg.png" group-title="TV | USA Networks",USA | NBC KCRA 3 | Sacramento
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113632
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC 10 | Sacramento" tvg-logo="http://l3d.us:25461/images/a7eb8d8e87b71a7f0827c20951db66c7.png" group-title="TV | USA Networks",USA | ABC 10 | Sacramento
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113633
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX 40 | Sacramento" tvg-logo="http://l3d.us:25461/images/8010d13c35998a4567c6456c8d29aa76.png" group-title="TV | USA Networks",USA | FOX 40 | Sacramento
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2113634
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC Houston" tvg-logo="" group-title="TV | USA Networks",US| NBC Houston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123436
-#EXTINF:-1 tvg-id="" tvg-name="FOX Houston" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png" group-title="TV | USA Networks",FOX Houston
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123437
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC NY" tvg-logo="" group-title="TV | USA Networks",US| NBC NY
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123439
-#EXTINF:-1 tvg-id="" tvg-name="US| BET SOUL" tvg-logo="http://tvgo.re:8080/images/bb2d41d852b054999a0a72405ca31407.png" group-title="TV | USA Networks",US| BET SOUL
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2142329
-#EXTINF:-1 tvg-id="" tvg-name="CR| Multizonas" tvg-logo="http://l3d.us:25461/images/9b7ac37ac7c321855ff2012c5175d8e2.png" group-title="TV | Costa Rica",CR| Multizonas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2120737
-#EXTINF:-1 tvg-id="" tvg-name="CR| FUTV" tvg-logo="http://l3d.us:25461/images/1ed35b6b08628f1fde11491300ff1020.png" group-title="TV | Costa Rica",CR| FUTV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121812
-#EXTINF:-1 tvg-id="" tvg-name="CR| Trivison 36" tvg-logo="" group-title="TV | Costa Rica",CR| Trivison 36
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2132365
-#EXTINF:-1 tvg-id="" tvg-name="CR| Costa Bella TV" tvg-logo="" group-title="TV | Costa Rica",CR| Costa Bella TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2147381
-#EXTINF:-1 tvg-id="" tvg-name="PA| TVN" tvg-logo="" group-title="TV | Panama",PA| TVN
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2124371
-#EXTINF:-1 tvg-id="" tvg-name="RD | RED TV" tvg-logo="http://l3d.us:25461/images/07253548716f0de59c2807ff78b62be1.png" group-title="TV | Dominicana",RD | RED TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123286
-#EXTINF:-1 tvg-id="" tvg-name="RD| San Juan" tvg-logo="" group-title="TV | Dominicana",RD| San Juan
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123295
-#EXTINF:-1 tvg-id="" tvg-name="RD| Canal 25" tvg-logo="" group-title="TV | Dominicana",RD| Canal 25
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125088
-#EXTINF:-1 tvg-id="" tvg-name="RD| Telefuturo Canal 23" tvg-logo="" group-title="TV | Dominicana",RD| Telefuturo Canal 23
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125089
-#EXTINF:-1 tvg-id="" tvg-name="RD| CERTV Canal 4" tvg-logo="" group-title="TV | Dominicana",RD| CERTV Canal 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125090
-#EXTINF:-1 tvg-id="" tvg-name="RD| MICROVISION " tvg-logo="" group-title="TV | Dominicana",RD| MICROVISION 
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125091
-#EXTINF:-1 tvg-id="" tvg-name="RD| CDN Deportes" tvg-logo="" group-title="TV | Dominicana",RD| CDN Deportes
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125092
-#EXTINF:-1 tvg-id="" tvg-name="RD| Sport Vision" tvg-logo="" group-title="TV | Dominicana",RD| Sport Vision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125093
-#EXTINF:-1 tvg-id="" tvg-name="RD| TV Montaña" tvg-logo="" group-title="TV | Dominicana",RD| TV Montaña
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130374
-#EXTINF:-1 tvg-id="" tvg-name="RD| Constanza TV" tvg-logo="" group-title="TV | Dominicana",RD| Constanza TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130380
-#EXTINF:-1 tvg-id="" tvg-name="RD| Vegavision Canal 18" tvg-logo="" group-title="TV | Dominicana",RD| Vegavision Canal 18
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130381
-#EXTINF:-1 tvg-id="" tvg-name="RD| TELEVER Canal 12" tvg-logo="" group-title="TV | Dominicana",RD| TELEVER Canal 12
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144116
-#EXTINF:-1 tvg-id="" tvg-name="RD| Telenord Canal 14" tvg-logo="" group-title="TV | Dominicana",RD| Telenord Canal 14
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144117
-#EXTINF:-1 tvg-id="" tvg-name="RD| CatorceTV" tvg-logo="" group-title="TV | Dominicana",RD| CatorceTV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144118
-#EXTINF:-1 tvg-id="" tvg-name="RD| Coral 39" tvg-logo="" group-title="TV | Dominicana",RD| Coral 39
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144120
-#EXTINF:-1 tvg-id="" tvg-name="RD| Colimbo TV" tvg-logo="" group-title="TV | Dominicana",RD| Colimbo TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144121
-#EXTINF:-1 tvg-id="" tvg-name="D | Águilas Cibaeñas - Teleuniverso 29" tvg-logo="http://l3d.us:25461/images/b2711f629a729a3de6a3feff7c146286.png" group-title="TV | Liga Dominicana de Beisbol",D | Águilas Cibaeñas - Teleuniverso 29
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144840
-#EXTINF:-1 tvg-id="" tvg-name="D | Luna TV 53" tvg-logo="http://l3d.us:25461/images/5450adc15868b5408e99e94c51c4e89a.png" group-title="TV | Liga Dominicana de Beisbol",D | Luna TV 53
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144841
-#EXTINF:-1 tvg-id="" tvg-name="D | Gigantes del Cibao - Certv 4" tvg-logo="http://l3d.us:25461/images/d03864c7b9009e32f22748da43b9fad0.png" group-title="TV | Liga Dominicana de Beisbol",D | Gigantes del Cibao - Certv 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144842
-#EXTINF:-1 tvg-id="" tvg-name="D | Teleantillas Canal 2" tvg-logo="http://l3d.us:25461/images/8b126acdeabb2bc757d68fb8b9b00005.png" group-title="TV | Liga Dominicana de Beisbol",D | Teleantillas Canal 2
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144843
-#EXTINF:-1 tvg-id="" tvg-name="PR| HIPODROMO CAMARERO" tvg-logo="http://sdmx.com.mx/logos/hipodromoc.png" group-title="TV | Puerto Rico",PR| HIPODROMO CAMARERO
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125792
-#EXTINF:-1 tvg-id="" tvg-name="PR| NBC" tvg-logo="http://l3d.us:25461/images/2e413eef2659e094fba59b11c4984f9f.png" group-title="TV | Puerto Rico",PR| NBC
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125793
-#EXTINF:-1 tvg-id="" tvg-name="PR| ABC" tvg-logo="http://l3d.us:25461/images/c4373213a0f8722232e3a66dd765e42a.png" group-title="TV | Puerto Rico",PR| ABC
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2125794
-#EXTINF:-1 tvg-id="" tvg-name="PR| Teleonce" tvg-logo="http://l3d.us:25461/images/1a6290261cced4dc0417cd7b45da17ea.png" group-title="TV | Puerto Rico",PR| Teleonce
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2127620
-#EXTINF:-1 tvg-id="" tvg-name="AR| TV5 HD" tvg-logo="" group-title="TV | Argentina",AR| TV5 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2145543
 #EXTINF:-1 tvg-id="" tvg-name="TV CL| Directv Sports 1 HD" tvg-logo="http://l3d.us:25461/images/540cd010a0d5e495ee275e11a1119478.png" group-title="TV | Chile",TV CL| Directv Sports 1 HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121673
 #EXTINF:-1 tvg-id="" tvg-name="TV CL| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/d1e84a773c0b0d9dbe94909eb3034389.png" group-title="TV | Chile",TV CL| Directv Sports 2 HD
@@ -3897,18 +3579,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2145660
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100801
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. Accion SD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España",ES: M. Accion SD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2146875
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 2 Repretel HD" tvg-logo="http://l3d.us:25461/images/f13dff9cb2a93b4ca497a892e50d2533.png" group-title="TV | Costa Rica",CR | Canal 2 Repretel HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2148422
-#EXTINF:-1 tvg-id="" tvg-name="CR | Telered HD" tvg-logo="http://l3d.us:25461/images/fc20b938a22e63ac65e7d492a7c3efab.png" group-title="TV | Costa Rica",CR | Telered HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2148423
-#EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 13 HD" tvg-logo="http://l3d.us:25461/images/577e3204087a5520062f2c4d742d37be.png" group-title="TV | Costa Rica",CR | CANAL 13 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2148424
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 4 HD" tvg-logo="http://l3d.us:25461/images/5f31321d16d6f90d6e03cc006c07e289.png" group-title="TV | Costa Rica",CR | Canal 4 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2148425
-#EXTINF:-1 tvg-id="" tvg-name="USA | GALAVISION SACRAMENTO HD" tvg-logo="http://l3d.us:25461/images/f290fd3ce445c7126f3dfca669c8e5e2.png" group-title="TV | USA Latino",USA | GALAVISION SACRAMENTO HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2148527
-#EXTINF:-1 tvg-id="" tvg-name="NIC | Canal 10 HD" tvg-logo="" group-title="TV | Nicaragua",NIC | Canal 10 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2149213
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston HD" tvg-logo="http://l3d.us:25461/images/44efe90f68e675faa23d715864f51873.png" group-title="TV | USA Latino",Telemundo Houston HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151028
 #EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS Bajío HD" tvg-logo="http://l3d.us:25461/images/d5672d833508688d0c2a35d9c1fa35e3.png" group-title="TV | Mexico",MULTIMEDIOS Bajío HD
