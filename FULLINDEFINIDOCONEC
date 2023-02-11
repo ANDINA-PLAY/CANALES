@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-name="EC | Teleamazonasⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/ae91c18c1b8a5c5a1793e7bc316fec1b.png" group-title="|EC| ECUADOR",EC | Teleamazonasⓧ SD
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/118143
-#EXTINF:-1 tvg-id="" tvg-name="EC | Teleramaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/0c8ab0596a8bffeaf75fb78177da9f1d.png" group-title="|EC| ECUADOR",EC | Teleramaⓧ SD
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/118144
-#EXTINF:-1 tvg-id="" tvg-name="EC | TV Legislativaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/99a470dff8e351757090eda32d7dc266.png" group-title="|EC| ECUADOR",EC | TV Legislativaⓧ SD
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/118146
-#EXTINF:-1 tvg-id="" tvg-name="EC | TVCⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/d58f5eb5cbb9ad9c56649a0083de7c8b.png" group-title="|EC| ECUADOR",EC | TVCⓧ SD
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/60925
-#EXTINF:-1 tvg-id="" tvg-name="EC | UCSGⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4c40fbbb326b97ce678eb569200d357a.png" group-title="|EC| ECUADOR",EC | UCSGⓧ HD
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/60926
-#EXTINF:-1 tvg-id="" tvg-name="EC | Wuan+ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/48ae5cf6f369aeac35f7ae0949f4baf5.png" group-title="|EC| ECUADOR",EC | Wuan+ⓧ
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/121964
-#EXTINF:-1 tvg-id="" tvg-name="EC | Zaracay TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9c544ace8c813f3c2d80644fa7689e4f.png" group-title="|EC| ECUADOR",EC | Zaracay TVⓧ
-http://platinumxmedia.xyz:8080/Jason_evans/rLKQNuBbqfdE/121887
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="http://movies.iptvhn.net/chlogos/distrito.png" group-title="Entretenimiento",Distrito Comedia
 http://go.iptvhn.net:25461/Denis/Denis123/6688
