@@ -3587,17 +3587,101 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151042
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151063
 #EXTINF:-1 tvg-id="" tvg-name="ES: Betis tv HD" tvg-logo="http://l3d.us:25461/images/e71b10c22a8ffbce442e005df47982fd.png" group-title="TV | España",ES: Betis tv HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151502
-#EXTINF:-1 tvg-id="" tvg-name="GT: Canal 27" tvg-logo="" group-title="TV | Guatemala",GT: Canal 27
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151605
-#EXTINF:-1 tvg-id="" tvg-name="Globosat" tvg-logo="" group-title="TV | Brasil",Globosat
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151735
-#EXTINF:-1 tvg-id="abcwisn.us" tvg-name="ABC HD Milwaukee" tvg-logo="" group-title="TV | USA Networks",ABC HD Milwaukee
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151869
-#EXTINF:-1 tvg-id="" tvg-name="ABC seattle | KOMO 4" tvg-logo="" group-title="TV | USA Sports",ABC seattle | KOMO 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151870
-#EXTINF:-1 tvg-id="" tvg-name="CA: TVA MONTREAL HD" tvg-logo="" group-title="TV | Canada",CA: TVA MONTREAL HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151893
-#EXTINF:-1 tvg-id="" tvg-name="SAL| canal 23 Tvo HD" tvg-logo="http://l3d.us:25461/images/d9ba0a57be3dc05b08792deaac4d1998.png" group-title="TV | El Salvador",SAL| canal 23 Tvo HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151894
-#EXTINF:-1 tvg-id="" tvg-name="NG| Canal 8 HD" tvg-logo="http://l3d.us:25461/images/ec210567bf3ed5e7fc27a20a6bc18521.png" group-title="TV | Nicaragua",NG| Canal 8 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151932
+#EXTINF:-1 tvg-id="" tvg-name="La vida padre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imKcAxYugiWPlHp7cJlhlSTaWvd.jpg" group-title="VOD CASTELLANO",La vida padre (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Modelo 77 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZbWaMQEGlVJsCSt73XPkZpqKZF.jpg" group-title="VOD CASTELLANO",Modelo 77 (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La piel del tambor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1UiIK8ENvvcjuZHwo0X4cs8uGz.jpg" group-title="VOD CASTELLANO",La piel del tambor (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La consagración de la primavera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGiksYltgeqN7itKActKRYRqLh.jpg" group-title="VOD CASTELLANO",La consagración de la primavera (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinco lobitos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VJcaYzD1gdNPpb4DaXDgmQ9VmK.jpg" group-title="VOD CASTELLANO",Cinco lobitos (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karol-G Viña 2023" tvg-logo="https://i.ibb.co/jrNcR52/karolg.jpg" group-title="VOD CONCIERTOS",Karol-G Viña 2023
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paloma Mami Viña 2023" tvg-logo="https://i.ibb.co/3drp4Yc/palomammai.jpg" group-title="VOD CONCIERTOS",Paloma Mami Viña 2023
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pamela Leiva Viña 2023" tvg-logo="https://i.ibb.co/LN0kd3d/pamela-leiva-1024x576.jpg" group-title="VOD HUMOR",Pamela Leiva Viña 2023
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Ilusionistas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iN3fPrPLozgPDrHO1IILh1Cx0C3.jpg" group-title="VOD SUSPENSO",Los Ilusionistas
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los ilusionistas 2 " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjGt13AXXTLxvkmdF6SpA1feFOw.jpg" group-title="VOD SUSPENSO",Los ilusionistas 2 
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg" group-title="Estrenos CAM",Ant-Man and the Wasp: Quantumania 
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Me Tender (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD0Dxd702Lycyj9eevOYVLh6wI0.jpg" group-title="VOD RETRO",Love Me Tender (1956)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Rock de la Carcel (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPsGw1yiN5BqSo1xbA9sgSCqeF.jpg" group-title="VOD RETRO",El Rock de la Carcel (1957)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loving You (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTlUbmdC6mpda4KsULNma59Xln5.jpg" group-title="VOD RETRO",Loving You (1957)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King Creole (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u33twTUXaWsOqbOOxMB7bak26ri.jpg" group-title="VOD RETRO",King Creole (1958)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="G.I. Blues (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vsi3ezokYXLxccEWJ2sbXj80sF.jpg" group-title="VOD RETRO",G.I. Blues (1960)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrella de fuego (1960)*" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9f6rHu0eeGq38y5vUUinHhMqHX0.jpg" group-title="VOD RETRO",Estrella de fuego (1960)*
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hawaii (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycfTBVoefr1oDxwd9aQWN0xCiJQ.jpg" group-title="VOD RETRO",Blue Hawaii (1961)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Chicas! ¡Chicas! ¡Chicas! (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/useGrJ4UUVuEuNnaysZd2TEz2Rr.jpg" group-title="VOD RETRO",¡Chicas! ¡Chicas! ¡Chicas! (1962)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kid Galahad (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylvE9xmAVOqN9WKUdQJ7xeRT3Az.jpg" group-title="VOD RETRO",Kid Galahad (1962)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fun in Acapulco (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plapMgwwgC75hD5fKskf9VyUxfW.jpg" group-title="VOD RETRO",Fun in Acapulco (1963)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roustabout (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzB1aQauY8GTu1SCQV3EcGOqjXF.jpg" group-title="VOD RETRO",Roustabout (1964)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viva Las Vegas (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPdxn8DnSsheIaXXQi61YuEogAI.jpg" group-title="VOD RETRO",Viva Las Vegas (1964)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tickle Me (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJsIp7Hji5pGDqARKas3vrdf2v1.jpg" group-title="VOD RETRO",Tickle Me (1965)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harum Scarum (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioRi937cX4ZQ0sIND9Rk7PjSgNG.jpg" group-title="VOD RETRO",Harum Scarum (1965)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso hawaiano (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PLfdCgjqD3Gm9UeeaF3e8iTo3M.jpg" group-title="VOD RETRO",Paraíso hawaiano (1966)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinout (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25VAtUSqtpuWmnTcHptbZqiW97H.jpg" group-title="VOD RETRO",Spinout (1966)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clambake (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d7E9eattf7dkFR16OVJmHBmBsr.jpg" group-title="VOD RETRO",Clambake (1967)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Change of Habit (1969) Sub" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shcjK8SMN4BWVRTr7hb2170QXk1.jpg" group-title="VOD RETRO",Change of Habit (1969) Sub
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Trouble with Girls (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMGjplBCvmnpFTielOBvbNx82ym.jpg" group-title="VOD RETRO",The Trouble with Girls (1969)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Noise" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/on8F4rvWAswDzQUNtkJIaPr1OJM.jpg" group-title="VOD ESTRENOS 2022",White Noise
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huesera (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg" group-title="VOD ESTRENOS 2023",Huesera (2023)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD ESTRENOS 2023",Little Dixie (2023)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharper: un plan perfecto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" group-title="VOD ESTRENOS 2023",Sharper: un plan perfecto (2023)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Identidad Desbloqueada (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVwudGk77ilXN4TwJn0B3pZtS6N.jpg" group-title="VOD ESTRENOS 2023",Identidad Desbloqueada (2023)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcriados (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg" group-title="VOD ESTRENOS 2023",Malcriados (2023)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Slam Dunk (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgUGtUJL96UxGBLOzC6fiaekcJu.jpg" group-title="VOD ANIMACIÓN",Slam Dunk (1994)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slam Dunk El Campeonato Nacional Animo Hanamichi Sakuragi (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcpDTYiKfgLC5q9bOQpFv2It5Ks.jpg" group-title="VOD ANIMACIÓN",Slam Dunk El Campeonato Nacional Animo Hanamichi Sakuragi (1994)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slam Dunk La gran crisis de Shohoku Arde Hanamichi Sakuragi (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bknduwFeTwiZUEInQldvkIwWq9W.jpg" group-title="VOD ANIMACIÓN",Slam Dunk La gran crisis de Shohoku Arde Hanamichi Sakuragi (1995)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slam Dunk El alma rugiente del basquetbolista El ardiente verano de Hanamichi y Rukawa (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CK0TFYkMnG3LLJ4PlXez5n5871.jpg" group-title="VOD ANIMACIÓN",Slam Dunk El alma rugiente del basquetbolista El ardiente verano de Hanamichi y Rukawa (1995)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ballena " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg" group-title="Estrenos CAM",La ballena 
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperio de luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y7l9FDxdknampTfpp6qjVWm54O.jpg" group-title="VOD ESTRENOS 2022",Imperio de luz (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autopista al Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXYzAWcZpPWmEnxUSq7FmBMUS0c.jpg" group-title="VOD ESTRENOS 2022",Autopista al Paraíso (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión desconocida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="VOD ESTRENOS 2022",Obsesión desconocida (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Redención (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNt3AYUcicHWR7E47tVyxC1ZpDj.jpg" group-title="VOD ESTRENOS 2022",Detective Knight: Redención (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Sin piedad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEpk6nPVBF1LVljjU644scKZiBk.jpg" group-title="VOD ESTRENOS 2022",Detective Knight: Sin piedad (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Notre-Dame: Desastre en París (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdNvIO2gU87Kj5aZ34VH79ifvl0.jpg" group-title="VOD ESTRENOS 2022",Notre-Dame: Desastre en París (2022)
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice, cariño " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg" group-title="VOD ESTRENOS 2022",Alice, cariño 
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meet Me In Paris " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3I0PW56JtibtB7FjEO48yvTKgdK.jpg" group-title="VOD ESTRENOS 2023",Meet Me In Paris 
+http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/161715.mp4
