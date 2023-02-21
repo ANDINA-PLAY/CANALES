@@ -3587,6 +3587,58 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151042
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151063
 #EXTINF:-1 tvg-id="" tvg-name="ES: Betis tv HD" tvg-logo="http://l3d.us:25461/images/e71b10c22a8ffbce442e005df47982fd.png" group-title="TV | España",ES: Betis tv HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2151502
+
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Gol TV" tvg-logo="" group-title="DEPORTES 2",Latino | Gol TV
+http://192.99.70.160:25461/Slayer1/Slayer1/91681
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS NETWORK" tvg-logo="" group-title="DEPORTES 2",FUBO SPORTS NETWORK
+http://192.99.70.160:25461/Slayer1/Slayer1/91682
+#EXTINF:-1 tvg-id="I218.61854.schedulesdirect.org" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="DEPORTES",GOLF CHANNEL
+http://192.99.70.160:25461/Slayer1/Slayer1/12
+#EXTINF:-1 tvg-id="I14.108507.schedulesdirect.org" tvg-name="AFIZZIONADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
+http://192.99.70.160:25461/Slayer1/Slayer1/15
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEIN SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORTS Ñ
+http://192.99.70.160:25461/Slayer1/Slayer1/28
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="https://taroca.es/images/canales/bein-laliga.png" group-title="DEPORTES",BEIN SPORTS LA LIGA
+http://192.99.70.160:25461/Slayer1/Slayer1/29
+#EXTINF:-1 tvg-id="I297.41677.schedulesdirect.org" tvg-name="FOX SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="DEPORTES",FOX SPORTS
+http://192.99.70.160:25461/Slayer1/Slayer1/77
+#EXTINF:-1 tvg-id="I301.66365.schedulesdirect.org" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FOX SPORTS 2
+http://192.99.70.160:25461/Slayer1/Slayer1/78
+#EXTINF:-1 tvg-id="I304.105006.schedulesdirect.org" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="DEPORTES",FOX SPORTS 3
+http://192.99.70.160:25461/Slayer1/Slayer1/79
+#EXTINF:-1 tvg-id="I468.32161.schedulesdirect.org" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV
+http://192.99.70.160:25461/Slayer1/Slayer1/84
+#EXTINF:-1 tvg-id="I658.107365.schedulesdirect.org" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports
+http://192.99.70.160:25461/Slayer1/Slayer1/243
+#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES",WINSPORTS PLUS
+http://192.99.70.160:25461/Slayer1/Slayer1/267
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="USA | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES",USA | TUDN
+http://192.99.70.160:25461/Slayer1/Slayer1/291
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | BEIN Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="DEPORTES",USA | BEIN Sport
+http://192.99.70.160:25461/Slayer1/Slayer1/293
+#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="Fight Networ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="DEPORTES",Fight Networ
+http://192.99.70.160:25461/Slayer1/Slayer1/298
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="Eleven Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="DEPORTES",Eleven Sports
+http://192.99.70.160:25461/Slayer1/Slayer1/309
+#EXTINF:-1 tvg-id="I630.49198.schedulesdirect.org" tvg-name="NBC Sports Boston" tvg-logo="https://pbs.twimg.com/profile_images/1333843071486877697/gupLPTRM_400x400.png" group-title="DEPORTES",NBC Sports Boston
+http://192.99.70.160:25461/Slayer1/Slayer1/311
+#EXTINF:-1 tvg-id="I698.73564.schedulesdirect.org" tvg-name="NBC Sports California" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/NBC_Sports_California.png" group-title="DEPORTES",NBC Sports California
+http://192.99.70.160:25461/Slayer1/Slayer1/312
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="DEPORTES",NBC Sports Chicago
+http://192.99.70.160:25461/Slayer1/Slayer1/313
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="NBC Sports Philadelphia" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2017/12/20/nbc-sports-philadelphia-640.png" group-title="DEPORTES",NBC Sports Philadelphia
+http://192.99.70.160:25461/Slayer1/Slayer1/315
+#EXTINF:-1 tvg-id="spectrumsportsnet.us" tvg-name="Spectrum Sportsnet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" group-title="DEPORTES",Spectrum Sportsnet
+http://192.99.70.160:25461/Slayer1/Slayer1/317
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_%28logo%29.png" group-title="DEPORTES",NESN SPORT
+http://192.99.70.160:25461/Slayer1/Slayer1/325
+#EXTINF:-1 tvg-id="I221.16365.schedulesdirect.org" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464754425/ys5pzhl5bucqzeofz0fc.png" group-title="DEPORTES",CBS SPORTS NETWORK
+http://192.99.70.160:25461/Slayer1/Slayer1/326
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",ARGENTINA | FOX SPORTS PREMIUN
+http://192.99.70.160:25461/Slayer1/Slayer1/329
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="DEPORTES",TIGO SPORTS
+http://192.99.70.160:25461/Slayer1/Slayer1/331
+
 #EXTINF:-1 tvg-id="" tvg-name="La vida padre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imKcAxYugiWPlHp7cJlhlSTaWvd.jpg" group-title="VOD CASTELLANO",La vida padre (2022)
 http://higherpro.xyz:8080/movie/PELICULASBESTLIVE/AEHsx6zhcZJ2/162429.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Modelo 77 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZbWaMQEGlVJsCSt73XPkZpqKZF.jpg" group-title="VOD CASTELLANO",Modelo 77 (2022)
