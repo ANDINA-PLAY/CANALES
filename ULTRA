@@ -102,8 +102,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176977
 #EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC HQ
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147952
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="HN| MAYA TV" tvg-logo="" group-title="TV | Honduras",HN| MAYA TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155868
 #EXTINF:-1 tvg-id="" tvg-name="HN| TELEPROGRESO" tvg-logo="" group-title="TV | Honduras",HN| TELEPROGRESO
@@ -1043,7 +1041,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10620
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10621
 #EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="N | Milenio Noticias HD" tvg-logo="http://l3d.us:25461/images/be40d3f040bcfbf2ef6a8f7e88652d5c.png" group-title="TV | Noticias",N | Milenio Noticias HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155160
-
 #EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="P | Universal TV FHD" tvg-logo="http://l3d.us:25461/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="TV | Entretenimiento",P | Universal TV FHD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155179
 #EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="P | Universal TV HD" tvg-logo="http://l3d.us:25461/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="TV | Entretenimiento",P | Universal TV HD
@@ -1128,7 +1125,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/200945
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10641
 #EXTINF:-1 tvg-id="" tvg-name="PR| AmericaTeVe Miami" tvg-logo="http://l3d.us:25461/images/0c20755bd1851f0e578859cd6bf08348.png" group-title="TV | Puerto Rico",PR| AmericaTeVe Miami
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/213797
-
 
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="S| CBS Sports Network" tvg-logo="http://l3d.us:8080/images/c9d6f14d0c08da33161dc161396bb6bc.png" group-title="TV | USA Sports",S| CBS Sports Network
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10666
@@ -1806,20 +1802,7 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100953
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/179041
 #EXTINF:-1 tvg-id="etvtelerama.ec" tvg-name="EC | Telerama" tvg-logo="http://l3d.us:25461/images/d23649b40765954c639d6e911906dbc7.png" group-title="TV | Ecuador",EC | Telerama
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/219710
-#EXTINF:-1 tvg-id="" tvg-name="CR | TD+ 2" tvg-logo="http://l3d.us:25461/images/411a8a64edca7d443468ac07e72a7957.png" group-title="TV | Costa Rica",CR | TD+ 2
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/222724
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 11" tvg-logo="http://l3d.us:25461/images/439617b849a1de5a4360313e73233e46.png" group-title="TV | Costa Rica",CR | Repretel 11
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/224194
-#EXTINF:-1 tvg-id="" tvg-name="SAL|CANAL 4" tvg-logo="" group-title="TV | El Salvador",SAL|CANAL 4
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2120490
-#EXTINF:-1 tvg-id="" tvg-name="SAL|MEGAVISION CANAL 21" tvg-logo="" group-title="TV | El Salvador",SAL|MEGAVISION CANAL 21
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2120491
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="SAL|CANAL 10" tvg-logo="" group-title="TV | El Salvador",SAL|CANAL 10
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2120493
-#EXTINF:-1 tvg-id="" tvg-name="RD | TELEMICRO" tvg-logo="" group-title="TV | Dominicana",RD | TELEMICRO
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/223876
-#EXTINF:-1 tvg-id="" tvg-name="RD | Digital 15" tvg-logo="" group-title="TV | Dominicana",RD | Digital 15
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/224023
+
 #EXTINF:-1 tvg-id="calitv.co" tvg-name="COL | Cali TV" tvg-logo="http://sdmx.com.mx/logos/calitv.png" group-title="TV | Colombia",COL | Cali TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/217129
 #EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="E | A&E" tvg-logo="http://l3d.us:25461/images/4b830b5eecfd1994f39549ba1bac193f.png" group-title="TV | Entretenimiento",E | A&E
@@ -3054,64 +3037,7 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121700
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121701
 #EXTINF:-1 tvg-id="" tvg-name="TV CL| Teletrak HD" tvg-logo="http://l3d.us:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="TV | Chile",TV CL| Teletrak HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121702
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | Directv Sports HD" tvg-logo="http://l3d.us:25461/images/5e56db18ff5269bd636438936869d6cf.png" group-title="TV | Uruguay",TV UY | Directv Sports HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121764
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | Maroñas" tvg-logo="http://l3d.us:25461/images/82e54e9c597a9875bbd7815b76e5dd79.png" group-title="TV | Uruguay",TV UY | Maroñas
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121765
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | VTV SD" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",TV UY | VTV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121766
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | VTV HD" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",TV UY | VTV HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121767
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | VTV FHD" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",TV UY | VTV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121768
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | VTV Plus  SD" tvg-logo="http://l3d.us:25461/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="TV | Uruguay",TV UY | VTV Plus  SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121769
-#EXTINF:-1 tvg-id="" tvg-name="TV UY | VTV Plus HD" tvg-logo="http://l3d.us:25461/images/4636ede2c4eaefb5497eebd651619702.png" group-title="TV | Uruguay",TV UY | VTV Plus HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2121770
-#EXTINF:-1 tvg-id="" tvg-name="VE| Globovision" tvg-logo="" group-title="TV | Venezuela",VE| Globovision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106060
-#EXTINF:-1 tvg-id="" tvg-name="VE| Meridiano" tvg-logo="" group-title="TV | Venezuela",VE| Meridiano
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106062
-#EXTINF:-1 tvg-id="" tvg-name="VE| TeleVen" tvg-logo="" group-title="TV | Venezuela",VE| TeleVen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106065
-#EXTINF:-1 tvg-id="" tvg-name="VE| TeleVen (Opcion 2)" tvg-logo="" group-title="TV | Venezuela",VE| TeleVen (Opcion 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106066
-#EXTINF:-1 tvg-id="" tvg-name="VE| TV Familia" tvg-logo="" group-title="TV | Venezuela",VE| TV Familia
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106068
-#EXTINF:-1 tvg-id="" tvg-name="VE: TV Conciencia" tvg-logo="" group-title="TV | Venezuela",VE: TV Conciencia
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106069
-#EXTINF:-1 tvg-id="" tvg-name="VE| TVES" tvg-logo="" group-title="TV | Venezuela",VE| TVES
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106070
-#EXTINF:-1 tvg-id="" tvg-name="VE| Vale TV" tvg-logo="" group-title="TV | Venezuela",VE| Vale TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106071
-#EXTINF:-1 tvg-id="" tvg-name="VE| Venevision (Opcion 2)" tvg-logo="" group-title="TV | Venezuela",VE| Venevision (Opcion 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106072
-#EXTINF:-1 tvg-id="" tvg-name="VE| Venevision" tvg-logo="" group-title="TV | Venezuela",VE| Venevision
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106073
-#EXTINF:-1 tvg-id="" tvg-name="VE| Venezolana de Television" tvg-logo="" group-title="TV | Venezuela",VE| Venezolana de Television
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106076
-#EXTINF:-1 tvg-id="" tvg-name="VE| Vive HD" tvg-logo="" group-title="TV | Venezuela",VE| Vive HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106078
-#EXTINF:-1 tvg-id="" tvg-name="VE: Rusia today" tvg-logo="" group-title="TV | Venezuela",VE: Rusia today
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106079
-#EXTINF:-1 tvg-id="" tvg-name="VE| Promar" tvg-logo="" group-title="TV | Venezuela",VE| Promar
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106080
-#EXTINF:-1 tvg-id="" tvg-name="VE| CGNTV" tvg-logo="" group-title="TV | Venezuela",VE| CGNTV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106081
-#EXTINF:-1 tvg-id="" tvg-name="VE| Canal Once Del Zulia" tvg-logo="" group-title="TV | Venezuela",VE| Canal Once Del Zulia
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106082
-#EXTINF:-1 tvg-id="" tvg-name="VE| La Tele Tuya TLT" tvg-logo="" group-title="TV | Venezuela",VE| La Tele Tuya TLT
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2106083
-#EXTINF:-1 tvg-id="" tvg-name="VE| Canal I" tvg-logo="" group-title="TV | Venezuela",VE| Canal I
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123566
-#EXTINF:-1 tvg-id="" tvg-name="VE| TLT" tvg-logo="" group-title="TV | Venezuela",VE| TLT
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123567
-#EXTINF:-1 tvg-id="" tvg-name="VE| Telesur" tvg-logo="" group-title="TV | Venezuela",VE| Telesur
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2123568
-#EXTINF:-1 tvg-id="" tvg-name="VE| Venevision Plus" tvg-logo="" group-title="TV | Venezuela",VE| Venevision Plus
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130324
-#EXTINF:-1 tvg-id="" tvg-name="VE| IVC" tvg-logo="" group-title="TV | Venezuela",VE| IVC
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2145660
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | España",ES: DKISS
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100801
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. Accion SD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España",ES: M. Accion SD
