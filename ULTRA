@@ -104,22 +104,12 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147952
 
 #EXTINF:-1 xui-id="543" tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS" tvg-logo="http://play.flamaplus.tv:80/images/a68992da82fe4c4b645f8e82ab2c6fd0.png" group-title="NACIONALES ECUADOR",EC| TELEAMAZONAS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFM60uTLWejRj2gIur4e5j0c/ts
-#EXTINF:-1 xui-id="546" tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA HD" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",EC| ECUAVISA HD
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFKh92mGnt2cp4gfzsqrYOzI/ts
 #EXTINF:-1 xui-id="547" tvg-id="tctelevision.ec" tvg-name="EC| TC TELEVISION" tvg-logo="http://play.flamaplus.tv:80/images/2607bc9b4566803b92d4a14bdc7ea1bc.png" group-title="NACIONALES ECUADOR",EC| TC TELEVISION
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFALGKxnvjngET9DA1yswDBg/ts
-#EXTINF:-1 xui-id="548" tvg-id="" tvg-name="EC| TVC" tvg-logo="http://play.flamaplus.tv:80/images/d468992adab393e8df8a601b98ee235c.png" group-title="NACIONALES ECUADOR",EC| TVC
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFFv92tnZy6m8cwGJhr3xdA4/ts
 #EXTINF:-1 xui-id="549" tvg-id="" tvg-name="EC| RTS" tvg-logo="http://logos.digitalesnetworks.com/logotipos/rts.png" group-title="NACIONALES ECUADOR",EC| RTS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFPVDn-f5Tl5piYaIuoKaD7s/ts
-#EXTINF:-1 xui-id="551" tvg-id="oromar.ec" tvg-name="EC| OROMAR TV" tvg-logo="http://play.flamaplus.tv:80/images/00edb44774532e7bf90e1151aef93807.png" group-title="NACIONALES ECUADOR",EC| OROMAR TV
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHspYCpcouNYS33TjFulGco/ts
 #EXTINF:-1 xui-id="552" tvg-id="ecuadortv.ec" tvg-name="EC| ECUADOR  TV" tvg-logo="http://play.flamaplus.tv:80/images/58971cf24dc32eaf3fd88151614257c4.png" group-title="NACIONALES ECUADOR",EC| ECUADOR  TV
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFNaqgMkr9EoXJ6iKg9ChqfM/ts
-#EXTINF:-1 xui-id="562" tvg-id="gamatv.ec" tvg-name="EC| GAMAVISION" tvg-logo="http://logos.digitalesnetworks.com/logotipos/gamavisionec.png" group-title="NACIONALES ECUADOR",EC| GAMAVISION
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFCq3sk-vuiwVEwLMhjuwA04/ts
-#EXTINF:-1 xui-id="556" tvg-id="" tvg-name="EC| LA TUKA RADIO" tvg-logo="http://logos.digitalesnetworks.com/logotipos/LATUKARADIO.png" group-title="NACIONALES ECUADOR",EC| LA TUKA RADIO
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAHWe7w_rYdw1queC8Km-pI/ts
 #EXTINF:-1 xui-id="558" tvg-id="" tvg-name="EC| CANAL DEL FUTBOL" tvg-logo="http://play.flamaplus.tv:80/images/d446fc28ebcd785bb2b2f102ef733b1b.png" group-title="PACK DEPORTIVO ECUADOR",EC| CANAL DEL FUTBOL
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDPP-l7fkZ2swSA6qxQCj58/ts
 #EXTINF:-1 xui-id="559" tvg-id="goltv.ec" tvg-name="EC| GOL TV" tvg-logo="http://play.flamaplus.tv:80/images/83c95710e9422430108605a1b1206233.png" group-title="PACK DEPORTIVO ECUADOR",EC| GOL TV
@@ -130,8 +120,6 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFDWVxeM4rIL4byRLT58c5AI/ts
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFIwGNQuLvMXosNq2EnGAoBM/ts
 #EXTINF:-1 xui-id="405" tvg-id="" tvg-name="ECU| DIRECTV SPORTS" tvg-logo="http://play.flamaplus.tv:80/images/60f6e90a247b0469dff6582fa27e3844.png" group-title="PACK DEPORTIVO ECUADOR",ECU| DIRECTV SPORTS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMU40rQ8DXsBabhx8IPTU4U/ts
-#EXTINF:-1 xui-id="545" tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",EC| ECUAVISA
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFOoSFZcyebza7Jepqc-2ATI/ts
 #EXTINF:-1 xui-id="563" tvg-id="" tvg-name="ECU| ECUAVISA" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",ECU| ECUAVISA
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFPAww0zt6W0KVrlLQn9A7q4/ts
 #EXTINF:-1 xui-id="557" tvg-id="" tvg-name="EC| TELEAMAZONAS QUITO FHD" tvg-logo="http://play.flamaplus.tv:80/images/a68992da82fe4c4b645f8e82ab2c6fd0.png" group-title="NACIONALES ECUADOR",EC| TELEAMAZONAS QUITO FHD
