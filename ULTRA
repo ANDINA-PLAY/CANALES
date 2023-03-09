@@ -121,8 +121,6 @@ http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFIwGNQuLvMXosNq2EnGAoBM/ts
 #EXTINF:-1 xui-id="405" tvg-id="" tvg-name="ECU| DIRECTV SPORTS" tvg-logo="http://play.flamaplus.tv:80/images/60f6e90a247b0469dff6582fa27e3844.png" group-title="PACK DEPORTIVO ECUADOR",ECU| DIRECTV SPORTS
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFMU40rQ8DXsBabhx8IPTU4U/ts
 #EXTINF:-1 xui-id="563" tvg-id="" tvg-name="ECU| ECUAVISA" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",ECU| ECUAVISA
-http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFPAww0zt6W0KVrlLQn9A7q4/ts
-#EXTINF:-1 xui-id="557" tvg-id="" tvg-name="EC| TELEAMAZONAS QUITO FHD" tvg-logo="http://play.flamaplus.tv:80/images/a68992da82fe4c4b645f8e82ab2c6fd0.png" group-title="NACIONALES ECUADOR",EC| TELEAMAZONAS QUITO FHD
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFHqN9Qt_JxS9S3Zv0wxQ4Pc/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Canela TV HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/canelatv.png" group-title="Ecuador",Canela TV HD (EC)
