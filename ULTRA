@@ -102,6 +102,57 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176977
 #EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:25461/images/7da33604c9ab86bc651e731753b70c96.png" group-title="TV | Ecuador",EC| TVC HQ
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/147952
 
+#EXTINF:-1 tvg-id="" tvg-name="Canela TV HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/canelatv.png" group-title="Ecuador",Canela TV HD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304380
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuadortv.png" group-title="Ecuador",Ecuador TV SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304381
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuadortv.png" group-title="Ecuador",Ecuador TV. FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304382
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304383
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304384
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Int. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa Int. HD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304385
+#EXTINF:-1 tvg-id="" tvg-name="El Canal Del Futbol FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304386
+#EXTINF:-1 tvg-id="" tvg-name="El Canal Del Futbol. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol. FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304387
+#EXTINF:-1 tvg-id="" tvg-name="Gamavision SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/gamavision.png" group-title="Ecuador",Gamavision SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304388
+#EXTINF:-1 tvg-id="" tvg-name="Gamavision. SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/gamavision.png" group-title="Ecuador",Gamavision. SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304389
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="Ecuador",Gol TV SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304390
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV. SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="Ecuador",Gol TV. SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304391
+#EXTINF:-1 tvg-id="" tvg-name="Oromar FHD  (EC)" tvg-logo="" group-title="Ecuador",Oromar FHD  (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304392
+#EXTINF:-1 tvg-id="" tvg-name="Oromar. SD (EC)" tvg-logo="" group-title="Ecuador",Oromar. SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304393
+#EXTINF:-1 tvg-id="" tvg-name="RTS FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/rts.png" group-title="Ecuador",RTS FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304394
+#EXTINF:-1 tvg-id="" tvg-name="Rts. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/rts.png" group-title="Ecuador",Rts. HD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304395
+#EXTINF:-1 tvg-id="" tvg-name="TC Television FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/tctelevision.png" group-title="Ecuador",TC Television FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304396
+#EXTINF:-1 tvg-id="" tvg-name="TC Television. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/tctelevision.png" group-title="Ecuador",TC Television. FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304397
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/teleamazonas.png" group-title="Ecuador",Teleamazonas HD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304398
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/teleamazonas.png" group-title="Ecuador",Teleamazonas. HD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304399
+#EXTINF:-1 tvg-id="" tvg-name="Telerama SD (EC)" tvg-logo="" group-title="Ecuador",Telerama SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304400
+#EXTINF:-1 tvg-id="" tvg-name="Telerama. SD (EC)" tvg-logo="" group-title="Ecuador",Telerama. SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304401
+#EXTINF:-1 tvg-id="" tvg-name="Televicentro SD (EC)" tvg-logo="http://hidra.live:80/images/d30df679be45a8d37666722d52820938.png" group-title="Ecuador",Televicentro SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304402
+#EXTINF:-1 tvg-id="" tvg-name="UCSG FHD (EC)" tvg-logo="" group-title="Ecuador",UCSG FHD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304403
+#EXTINF:-1 tvg-id="" tvg-name="Asomavisión SD (EC)" tvg-logo="" group-title="Ecuador",Asomavisión SD (EC)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304404
+
 #EXTINF:-1 tvg-id="" tvg-name="HN| MAYA TV" tvg-logo="" group-title="TV | Honduras",HN| MAYA TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155868
 #EXTINF:-1 tvg-id="" tvg-name="HN| TELEPROGRESO" tvg-logo="" group-title="TV | Honduras",HN| TELEPROGRESO
