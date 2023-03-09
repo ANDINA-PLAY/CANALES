@@ -174,10 +174,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304403
 #EXTINF:-1 tvg-id="" tvg-name="Asomavisión SD (EC)" tvg-logo="" group-title="Ecuador",Asomavisión SD (EC)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/304404
 
-#EXTINF:-1 tvg-id="" tvg-name="HN| MAYA TV" tvg-logo="" group-title="TV | Honduras",HN| MAYA TV
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155868
-#EXTINF:-1 tvg-id="" tvg-name="HN| TELEPROGRESO" tvg-logo="" group-title="TV | Honduras",HN| TELEPROGRESO
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/155873
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR| America TV" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210836
 #EXTINF:-1 tvg-id="americatv.ar" tvg-name="AR| America TV HD" tvg-logo="http://l3d.us:25461/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="TV | Argentina",AR| America TV HD
