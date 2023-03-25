@@ -1,160 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="NBA | Detroit Pistons" group-title="# NBA (solo eventos)",NBA | Detroit Pistons
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122383
-#EXTINF:-1 tvg-name="NBA | Milwaukee Bucks" group-title="# NBA (solo eventos)",NBA | Milwaukee Bucks
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122382
-#EXTINF:-1 tvg-name="NBA | Washington Wizards" group-title="# NBA (solo eventos)",NBA | Washington Wizards
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122381
-#EXTINF:-1 tvg-name="NBA | Chicago Bulls" group-title="# NBA (solo eventos)",NBA | Chicago Bulls
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122384
-#EXTINF:-1 tvg-name="NBA | Portland Trail Blazers" group-title="# NBA (solo eventos)",NBA | Portland Trail Blazers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122387
-#EXTINF:-1 tvg-name="NBA | Atlanta Hawks" group-title="# NBA (solo eventos)",NBA | Atlanta Hawks
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122386
-#EXTINF:-1 tvg-name="NBA | Charlotte Hornets" group-title="# NBA (solo eventos)",NBA | Charlotte Hornets
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122385
-#EXTINF:-1 tvg-name="NBA | Cleveland Cavaliers" group-title="# NBA (solo eventos)",NBA | Cleveland Cavaliers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122376
-#EXTINF:-1 tvg-name="NBA | Dallas Mavericks" group-title="# NBA (solo eventos)",NBA | Dallas Mavericks
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122375
-#EXTINF:-1 tvg-name="NBA | Denver Nuggets" group-title="# NBA (solo eventos)",NBA | Denver Nuggets
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122374
-#EXTINF:-1 tvg-name="NBA | Brooklyn Nets" group-title="# NBA (solo eventos)",NBA | Brooklyn Nets
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122377
-#EXTINF:-1 tvg-name="NBA | SAN ANTONIO SPURS" group-title="# NBA (solo eventos)",NBA | SAN ANTONIO SPURS
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122380
-#EXTINF:-1 tvg-name="NBA | Utah Jazz" group-title="# NBA (solo eventos)",NBA | Utah Jazz
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122379
-#EXTINF:-1 tvg-name="NBA | Boston Celtics" group-title="# NBA (solo eventos)",NBA | Boston Celtics
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122378
-#EXTINF:-1 tvg-name="PT: NBA TV" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/nbatv1.png" group-title="# NBA (solo eventos)",PT: NBA TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/67973
-#EXTINF:-1 tvg-name="USA: NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="# NBA (solo eventos)",USA: NBA TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/67972
-#EXTINF:-1 tvg-name="USA: NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="# NBA (solo eventos)",USA: NBA TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/67971
-#EXTINF:-1 tvg-name="CA: NBA TV Canada" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="# NBA (solo eventos)",CA: NBA TV Canada
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/67974
-#EXTINF:-1 tvg-name="USA: NBA TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/fdf79e8ec4027c0687daa42f94559022.png" group-title="# NBA (solo eventos)",USA: NBA TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78655
-#EXTINF:-1 tvg-name="US: NBA TV" tvg-logo="http://quebuscasaqui.xyz:8080/images/50540172d3714af78cc93c06e33619dd.png" group-title="# NBA (solo eventos)",US: NBA TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78654
-#EXTINF:-1 tvg-name="CANADA | NBA TV HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HayxYK3-beYgrwS36hSBtwppOC1fMwWXfOHrnSQS6RBiXgw.png" group-title="# NBA (solo eventos)",CANADA | NBA TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78653
-#EXTINF:-1 tvg-name="NBA | Oklahoma City Thunder" group-title="# NBA (solo eventos)",NBA | Oklahoma City Thunder
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122390
-#EXTINF:-1 tvg-name="NBA | Philadelphia 76ers" group-title="# NBA (solo eventos)",NBA | Philadelphia 76ers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122389
-#EXTINF:-1 tvg-name="NBA | Phoenix Suns" group-title="# NBA (solo eventos)",NBA | Phoenix Suns
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122388
-#EXTINF:-1 tvg-name="NBA | Miami Heat" group-title="# NBA (solo eventos)",NBA | Miami Heat
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122391
-#EXTINF:-1 tvg-name="US: NBA TV" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="# NBA (solo eventos)",US: NBA TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/67970
-#EXTINF:-1 tvg-name="NBA | NBA TV" tvg-logo="https://1.bp.blogspot.com/-q2yER3pbHgQ/YGEXJkFkRfI/AAAAAAAACG0/HZyw-R8bioUZlYm1fynRK7djo1IhB_gjwCLcBGAsYHQ/w200-h200/nba.png" group-title="# NBA (solo eventos)",NBA | NBA TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/31627
-#EXTINF:-1 tvg-name="NBA | Memphis Grizzlies" group-title="# NBA (solo eventos)",NBA | Memphis Grizzlies
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122392
-#EXTINF:-1 tvg-name="NBA 07 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 07 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122198
-#EXTINF:-1 tvg-name="NBA 06 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 06 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122197
-#EXTINF:-1 tvg-name="NBA 05 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 05 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122196
-#EXTINF:-1 tvg-name="NBA 08 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 08 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122199
-#EXTINF:-1 tvg-name="NBA 11 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 11 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122202
-#EXTINF:-1 tvg-name="NBA 10 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 10 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122201
-#EXTINF:-1 tvg-name="NBA 09 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 09 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122200
-#EXTINF:-1 tvg-name="NBA TV HD (PT)" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/nbatv1.png" group-title="# NBA (solo eventos)",NBA TV HD (PT)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122191
-#EXTINF:-1 tvg-name="USA | NBA TV OP1" group-title="# NBA (solo eventos)",USA | NBA TV OP1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122190
-#EXTINF:-1 tvg-name="USA | NBA TV" group-title="# NBA (solo eventos)",USA | NBA TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122189
-#EXTINF:-1 tvg-name="NBA 01 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 01 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122192
-#EXTINF:-1 tvg-name="NBA 04 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 04 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122195
-#EXTINF:-1 tvg-name="NBA 03 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 03 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122194
-#EXTINF:-1 tvg-name="NBA 02 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 02 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122193
-#EXTINF:-1 tvg-name="NBA | Los Angeles Lakers" group-title="# NBA (solo eventos)",NBA | Los Angeles Lakers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122369
-#EXTINF:-1 tvg-name="NBA | Minnesota Timberwolves" group-title="# NBA (solo eventos)",NBA | Minnesota Timberwolves
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122368
-#EXTINF:-1 tvg-name="NBA | New Orleans Pelicans" group-title="# NBA (solo eventos)",NBA | New Orleans Pelicans
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122367
-#EXTINF:-1 tvg-name="NBA | Los Angeles Clippers" group-title="# NBA (solo eventos)",NBA | Los Angeles Clippers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122370
-#EXTINF:-1 tvg-name="NBA | Golden State Warriors" group-title="# NBA (solo eventos)",NBA | Golden State Warriors
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122373
-#EXTINF:-1 tvg-name="NBA | Houston Rockets" group-title="# NBA (solo eventos)",NBA | Houston Rockets
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122372
-#EXTINF:-1 tvg-name="NBA | Indiana Pacers" group-title="# NBA (solo eventos)",NBA | Indiana Pacers
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122371
-#EXTINF:-1 tvg-name="NBA 14 League Pass" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG14.png" group-title="# NBA (solo eventos)",NBA 14 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122205
-#EXTINF:-1 tvg-name="NBA 13 League Pass" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG14.png" group-title="# NBA (solo eventos)",NBA 13 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122204
-#EXTINF:-1 tvg-name="NBA 12 League Pass" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg" group-title="# NBA (solo eventos)",NBA 12 League Pass
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122203
-#EXTINF:-1 tvg-name="NBA | Toronto Raptors" group-title="# NBA (solo eventos)",NBA | Toronto Raptors
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122363
-#EXTINF:-1 tvg-name="NBA | New York Knicks" group-title="# NBA (solo eventos)",NBA | New York Knicks
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122366
-#EXTINF:-1 tvg-name="NBA | Orlando Magic" group-title="# NBA (solo eventos)",NBA | Orlando Magic
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122365
-#EXTINF:-1 tvg-name="NBA | Sacramento Kings" group-title="# NBA (solo eventos)",NBA | Sacramento Kings
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/122364
-#EXTINF:-1 tvg-name="CL | ESPN 4 HD ©" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="# Champions league / la liga",CL | ESPN 4 HD ©
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/85399
-#EXTINF:-1 tvg-name="LALIGA | FOX SPORT 1 CL" tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="# Champions league / la liga",LALIGA | FOX SPORT 1 CL
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/85400
-#EXTINF:-1 tvg-name="LALIGA | FOX SPORT PREMIUM" tvg-logo="https://i.imgur.com/VJyoQi5.jpg" group-title="# Champions league / la liga",LALIGA | FOX SPORT PREMIUM
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/85401
-#EXTINF:-1 tvg-name="DIRECTV SPORTS FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFV9Rp6ERT0U5G7SuWvmrn2_mvnTS7S48pil2XkDBUP7OQ.png" group-title="# Champions league / la liga",DIRECTV SPORTS FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78509
-#EXTINF:-1 tvg-name="PL | ESPN 1 FHD (Latino)" tvg-logo="http://quebuscasaqui.xyz:8080/images/df8c637616e61c40c1bb699279cb1e2d.png" group-title="# Champions league / la liga",PL | ESPN 1 FHD (Latino)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78510
-#EXTINF:-1 tvg-name="LALIGA | LA LIGA" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | LA LIGA
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78511
-#EXTINF:-1 tvg-name="LALIGA | LALIGA HD EXTRA" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | LALIGA HD EXTRA
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78512
-#EXTINF:-1 tvg-name="LALIGA | LALIGA FHD *RECOMENDADO*" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | LALIGA FHD *RECOMENDADO*
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78513
-#EXTINF:-1 tvg-name="LALIGA | LALIGA FHD EXTRA 1" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | LALIGA FHD EXTRA 1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78514
-#EXTINF:-1 tvg-name="LALIGA | LALIGA FHD EXTRA 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | LALIGA FHD EXTRA 2
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78515
-#EXTINF:-1 tvg-name="LALIGA | MOVISTAR LALIGA FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",LALIGA | MOVISTAR LALIGA FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78516
-#EXTINF:-1 tvg-name="ES | LA LIGA TV 4K (SOLO EVENTOS)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="# Champions league / la liga",ES | LA LIGA TV 4K (SOLO EVENTOS)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78517
-#EXTINF:-1 tvg-name="ES | Bein Sports LaLiga" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="# Champions league / la liga",ES | Bein Sports LaLiga
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78518
-#EXTINF:-1 tvg-name="LALIGA | LALIGA BAR SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="# Champions league / la liga",LALIGA | LALIGA BAR SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78519
-#EXTINF:-1 tvg-name="LALIGA | TV BAR EXCLUSIVO" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="# Champions league / la liga",LALIGA | TV BAR EXCLUSIVO
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78520
-#EXTINF:-1 tvg-name="LALIGA | TV BAR EXCLUSIVO 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="# Champions league / la liga",LALIGA | TV BAR EXCLUSIVO 2
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78521
-#EXTINF:-1 tvg-name="LALIGA | SKY SPORTS LALIGA" tvg-logo="http://quebuscasaqui.xyz:8080/images/LQ8qATgZ-BQ8GBFiShH0YvMtbh6CK74nhIbN8ayb5lN07ETtB05NDhN4ZFoW9qepp7hpBsB2qLc711WuXgyn3isxHJZZdv0o91lI8eM8jYVdAA1IQbyOmwgYdnyHeJHljGvVNJt86npchQq0odZQ3t9E9YlvQ0gtEwb4V1JYJ_SojQ8LVP_t1979DkzKvWns.png" group-title="# Champions league / la liga",LALIGA | SKY SPORTS LALIGA
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78522
-#EXTINF:-1 tvg-name="LALIGA | MOVISTAR LALIGA 1" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="# Champions league / la liga",LALIGA | MOVISTAR LALIGA 1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78529
-#EXTINF:-1 tvg-name="LALIGA | MOVISTAR LALIGA 2" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="# Champions league / la liga",LALIGA | MOVISTAR LALIGA 2
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78530
-#EXTINF:-1 tvg-name="LALIGA | MOVISTAR LALIGA 3" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="# Champions league / la liga",LALIGA | MOVISTAR LALIGA 3
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78531
-#EXTINF:-1 tvg-name="LALIGA | MOVISTAR LALIGA 4" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="# Champions league / la liga",LALIGA | MOVISTAR LALIGA 4
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78532
-#EXTINF:-1 tvg-name="LALIGA | Super Sports Laliga" tvg-logo="https://supersport-cms-prod.azureedge.net/media/cpmepvrs/laliga-1.png?width=200" group-title="# Champions league / la liga",LALIGA | Super Sports Laliga
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/78533
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-name="ES:#VAMOS HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo12A2X99fhsg1fXM0HEWuuQ.png" group-title="⚽⚾ - DEPORTES LATINOS  - ⚽⚾",ES:#VAMOS HD
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/66435
 #EXTINF:-1 tvg-id="608dtv.cl" tvg-name="LA_SD:ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="⚽⚾ - DEPORTES LATINOS  - ⚽⚾",LA_SD:ESPN 4
@@ -445,12 +289,6 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40828
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/45433
 #EXTINF:-1 tvg-name="ESPN + SUR FHD " tvg-logo="https://www.tvplusgratis.com/img/espnplus.png" group-title="⚽⚾ - DEPORTES LATINOS  - ⚽⚾",ESPN + SUR FHD 
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/68509
-#EXTINF:-1 tvg-name="NBA | NBC SPORTS BAY AREA PLUS" tvg-logo="http://dns.k4livetv.com:8080/images/6aea20a1b39050e3c925c554d2dc7779.png" group-title="⚫ - USA NBA (ONLY EVENTS)",NBA | NBC SPORTS BAY AREA PLUS
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/490405
-#EXTINF:-1 tvg-name="NBA | NBC SPORTS BAY AREA" tvg-logo="http://dns.k4livetv.com:8080/images/6aea20a1b39050e3c925c554d2dc7779.png" group-title="⚫ - USA NBA (ONLY EVENTS)",NBA | NBC SPORTS BAY AREA
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/490406
-#EXTINF:-1 tvg-name="NBA | NBA TV" tvg-logo="http://dns.k4livetv.com:8080/images/046ed8e5b39bbddeb0d68dc9d8f7b490.png" group-title="⚫ - USA NBA (ONLY EVENTS)",NBA | NBA TV
-http://dns.k4livetv.com:8080/Alienhost400/WCwuhHbSJAjY/490407
 #EXTINF:-1 tvg-name="USA: NBA TV  HD" tvg-logo="http://tvgolatino.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="# NBA",USA: NBA TV  HD
 http://uniontv.info:8080/belmrj/0944722244/265847
 #EXTINF:-1 tvg-name="US: NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="# NBA",US: NBA TV
@@ -629,68 +467,18 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71444
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71445
 #EXTINF:-1 tvg-name="Bein Sports USA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="# BEIN SPORTS",Bein Sports USA HD
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71446
-#EXTINF:-1 tvg-name="DAZN F1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="# DAZN",DAZN F1 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69765
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="# DAZN",DAZN F1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69766
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="# DAZN",DAZN F1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69767
-#EXTINF:-1 tvg-name="DAZN F1 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png" group-title="# DAZN",DAZN F1 4K
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69768
-#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="# DAZN",DAZN 1 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69769
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="# DAZN",DAZN 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69770
-#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="# DAZN",DAZN 1 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69771
-#EXTINF:-1 tvg-name="DAZN 1 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="# DAZN",DAZN 1 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69772
-#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="# DAZN",DAZN 2 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69773
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="# DAZN",DAZN 2 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69774
-#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="# DAZN",DAZN 2 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69775
-#EXTINF:-1 tvg-name="DAZN 2 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="# DAZN",DAZN 2 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69776
-#EXTINF:-1 tvg-name="DAZN 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="# DAZN",DAZN 3 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69777
-#EXTINF:-1 tvg-name="DAZN 3 HD*" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="# DAZN",DAZN 3 HD*
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778
-#EXTINF:-1 tvg-name="DAZN 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="# DAZN",DAZN 3 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69779
-#EXTINF:-1 tvg-name="DAZN 3 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="# DAZN",DAZN 3 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69780
-#EXTINF:-1 tvg-name="DAZN 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="# DAZN",DAZN 4 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69781
-#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="# DAZN",DAZN 4 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69782
-#EXTINF:-1 tvg-name="DAZN 4 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="# DAZN",DAZN 4 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69783
-#EXTINF:-1 tvg-name="DAZN 4 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="# DAZN",DAZN 4 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69784
-#EXTINF:-1 tvg-name="DE | DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png" group-title="# DAZN",DE | DAZN
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69785
-#EXTINF:-1 tvg-name="DAZN Bar 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="# DAZN",DAZN Bar 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69786
-#EXTINF:-1 tvg-name="DE: Dazn 1 Bar HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="# DAZN",DE: Dazn 1 Bar HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69787
-#EXTINF:-1 tvg-name="DE: Dazn 2 Bar HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="# DAZN",DE: Dazn 2 Bar HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69788
-#EXTINF:-1 tvg-name="DAZN  Bar 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="# DAZN",DAZN  Bar 2 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69789
-#EXTINF:-1 tvg-name="DE: Dazn Sport 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png" group-title="# DAZN",DE: Dazn Sport 1 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69790
-#EXTINF:-1 tvg-name="DE: Dazn Sport 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVPqPksrt2Xw_Jltn0BnvuWCgGgkdVvx76ELDEo1Kr18A.png" group-title="# DAZN",DE: Dazn Sport 2 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69791
-#EXTINF:-1 tvg-name="EVENTOS PREMIUM 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="# DAZN",EVENTOS PREMIUM 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69792
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="# DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108907
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="# DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108908
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="# DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108909
+#EXTINF:-1 tvg-id="Bein Españ" tvg-name="D| beIN Sports en Español " tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="# BEIN SPORTS",D| beIN Sports en Español 
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/157370
+#EXTINF:-1 tvg-name="UK: beIN Sports En Espanyol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="# BEIN SPORTS",UK: beIN Sports En Espanyol
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71429
+#EXTINF:-1 tvg-name="beIN Sports N Espanol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="# BEIN SPORTS",beIN Sports N Espanol
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71445
+#EXTINF:-1 tvg-name="Bein Sports USA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="# BEIN SPORTS",Bein Sports USA HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71446
+#EXTINF:-1 tvg-name="US_HD:LA_beIN Sports Ñ" group-title="# BEIN SPORTS",US_HD:LA_beIN Sports Ñ
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50337
+#EXTINF:-1 tvg-name="US_HD:beIN Sports Ñ" group-title="# BEIN SPORTS",US_HD:beIN Sports Ñ
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50338
 #EXTINF:-1 group-title="# DAZN",D| DAZN F1 FHD
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144849
 #EXTINF:-1 group-title="# DAZN",D| DAZN 1 FHD
@@ -865,26 +653,6 @@ http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/176967
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/176977
 #EXTINF:-1 group-title="LAT - Ecuador",EC| Directv Sports Plus FHD
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/176955
-#EXTINF:-1 tvg-name="•●★-- Deportes Ecuador --★●•" tvg-logo="http://swedtv.net:8080/images/e474d6b3bfa66e059306186e77c421d3.png" group-title="LAT - Ecuador Deportes ⚽",•●★-- Deportes Ecuador --★●•
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/32344.ts
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="SP: EC: Directv Ecuador" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qjwoj61642114251.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Directv Ecuador
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/26941.ts
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="SP: EC: Directv Ecuador HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qjwoj61642114251.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Directv Ecuador HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/24650.ts
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="SP: EC: Gol TV (MOVIL)" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/GOL_TV.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Gol TV (MOVIL)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/65820.ts
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="SP: EC: Gol TV" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/GOL_TV.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Gol TV
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/355.ts
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="SP: EC: Gol TV HD" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/GOL_TV.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Gol TV HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/15127.ts
-#EXTINF:-1 tvg-id="goltv.ec" tvg-name="SP: EC: Gol TV FHD" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/GOL_TV.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: Gol TV FHD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/115764.ts
-#EXTINF:-1 tvg-name="SP: EC: El Canal del Futbol SD" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/el_%20canal%20del_%20deporte.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: El Canal del Futbol SD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/94453.ts
-#EXTINF:-1 tvg-name="SP: EC: El Canal del Futbol HD" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/el_%20canal%20del_%20deporte.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: El Canal del Futbol HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/32837.ts
-#EXTINF:-1 tvg-name="SP: EC: El Canal del Futbol FHD" tvg-logo="http://swedtv.vip/logos/Ecuador_deportes/el_%20canal%20del_%20deporte.png" group-title="LAT - Ecuador Deportes ⚽",SP: EC: El Canal del Futbol FHD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/94454.ts
 #EXTINF:-1 tvg-name="EC| Canela TV" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="LAT - Ecuador 2",EC| Canela TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176954
 #EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="http://l3d.us:25461/images/7a47142b703a2192655e3c537d9549a5.png" group-title="LAT - Ecuador 2",EC| Canela TV HQ
@@ -971,40 +739,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2138875
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2138876
 #EXTINF:-1 tvg-name="EC| Teleamazonas Guayaquil HD" tvg-logo="http://l3d.us:25461/images/2d434224f3d92c5f45647e5d3b247cc8.png" group-title="LAT - Ecuador 2",EC| Teleamazonas Guayaquil HD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2145107
-#EXTINF:-1 tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
-#EXTINF:-1 tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
-#EXTINF:-1 tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports Plus FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
-#EXTINF:-1 tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports Plus HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
-#EXTINF:-1 tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV (MOVIL)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
-#EXTINF:-1 tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOL TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
-#EXTINF:-1 tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOL TV HD (OPC 1)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
-#EXTINF:-1 tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV HD (OPCION 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
-#EXTINF:-1 tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV | Ecuador
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
-#EXTINF:-1 tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOLTV ECUADOR HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS HD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="LAT - Ecuador 3",ECU - TELEAMAZONAS HD
 http://ac.ntvlatino.com:8080/mitv/wAqfqtdguy/3428
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="LAT - Ecuador 3",ECU - TC TELEVISION HD
@@ -1203,6 +937,40 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/56444
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/56445
 #EXTINF:-1 tvg-name="Ecuador - Canal Uno SD" tvg-logo="http://144.217.91.146/Logos/Ecuador/canal-uno-ec.png" group-title="LAT - Ecuador 5",Ecuador - Canal Uno SD
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/56446
+#EXTINF:-1 tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
+#EXTINF:-1 tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports 2 HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
+#EXTINF:-1 tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
+#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports Plus FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
+#EXTINF:-1 tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Directv Sports Plus HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
+#EXTINF:-1 tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
+#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
+#EXTINF:-1 tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
+#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
+#EXTINF:-1 tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| El Canal del Futbol SD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
+#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
+#EXTINF:-1 tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV (MOVIL)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
+#EXTINF:-1 tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOL TV FHD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
+#EXTINF:-1 tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOL TV HD (OPC 1)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
+#EXTINF:-1 tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV HD (OPCION 2)
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
+#EXTINF:-1 tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="LAT - Ecuador Deportes 2 ⚽",EC| Gol TV | Ecuador
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
+#EXTINF:-1 tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="LAT - Ecuador Deportes 2 ⚽",EC| GOLTV ECUADOR HD
+http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
 #EXTINF:-1 tvg-name="Ecuador - Gol TV FHD" tvg-logo="http://daleplay.biz:8080/images/717c502b25f2cf218e6151c0c1940ea6.png" group-title="# LIGA PRO ECUADOR",Ecuador - Gol TV FHD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37092
 #EXTINF:-1 tvg-name="Ecuador - Gol TV HD" tvg-logo="http://daleplay.biz:8080/images/717c502b25f2cf218e6151c0c1940ea6.png" group-title="# LIGA PRO ECUADOR",Ecuador - Gol TV HD
@@ -1213,70 +981,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37094
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37095
 #EXTINF:-1 group-title="# LIGA PRO ECUADOR",2 MB | GOL TV LQ
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095412
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Fox Sports 1 Sur" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/mlo2451549460358.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports 1 Sur
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232227.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Fox Sports 2 Sur" tvg-logo="http://vaktar.vip:8080/images/ad28161e269c0fd59826bdc005baaaab.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports 2 Sur
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232228.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: ESPN HD" tvg-logo="http://vaktar.vip:8080/images/60c4c080e15515cc3d91af14f39a98ec.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: ESPN HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232229.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: ESPN 2 HD" tvg-logo="http://vaktar.vip:8080/images/6d81f1d2de2d17f61a0a9826aa7bb93c.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: ESPN 2 HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232230.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Bein Sports N HD" tvg-logo="http://vaktar.vip:8080/images/1864f0b284e8f69b08d70170f2ce4503.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Bein Sports N HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232231.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Fox Sports HD (Brasil)" tvg-logo="http://vaktar.vip:8080/images/569d360eff3f9a79326cd35fe9146a93.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports HD (Brasil)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232232.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Fox Sports 2 HD (Brasil)" tvg-logo="http://vaktar.vip:8080/images/ad28161e269c0fd59826bdc005baaaab.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Fox Sports 2 HD (Brasil)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232233.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Sport TV 1 (Portugal)" tvg-logo="http://viperos.net:8080/images/377fa011860482db184ed9f15214cb48.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Sport TV 1 (Portugal)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232234.ts
-#EXTINF:-1 tvg-name="SP: Copa Libertadores: Sport TV 2 (Portugal)" tvg-logo="http://vaktar.vip:8080/images/f1e69814472a797a1a298fafd3840988.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Copa Libertadores: Sport TV 2 (Portugal)
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232235.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 1 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 1 SD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309447.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 1 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 1 HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309446.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 2 HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309451.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 3 HD
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309456.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 4" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 4
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309459.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV 5 FHD PREMIUM" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV 5 FHD PREMIUM
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309460.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 1:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 1:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309466.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 2:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 2:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309467.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 3:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 3:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309468.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 4:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 4:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309469.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 5:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 5:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309470.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Libertadores 6:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Libertadores 6:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309471.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Sudamericana 1:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Sudamericana 1:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309476.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Sudamericana 2:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Sudamericana 2:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309477.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Sudamericana 3:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Sudamericana 3:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309478.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Sudamericana 4:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Sudamericana 4:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309479.ts
-#EXTINF:-1 tvg-name="SP: Conmebol TV Sudamericana 5:" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-sulamericana-logo.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",SP: Conmebol TV Sudamericana 5:
-http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/309480.ts
-#EXTINF:-1 tvg-id="Bein Españ" tvg-name="D| beIN Sports en Español " tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",D| beIN Sports en Español 
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/157370
-#EXTINF:-1 tvg-name="UK: beIN Sports En Espanyol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",UK: beIN Sports En Espanyol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71429
-#EXTINF:-1 tvg-name="beIN Sports N Espanol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",beIN Sports N Espanol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71445
-#EXTINF:-1 tvg-name="Bein Sports USA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",Bein Sports USA HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71446
-#EXTINF:-1 tvg-name="US_HD:LA_beIN Sports Ñ" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",US_HD:LA_beIN Sports Ñ
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50337
-#EXTINF:-1 tvg-name="US_HD:beIN Sports Ñ" group-title="# Copa Libertadores ⚽ Copa Sudamericana ⚽",US_HD:beIN Sports Ñ
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50338
 #EXTINF:-1 tvg-name="SP: Bundesliga: Sky Bundesliga 1 HD" group-title="# La Bundesliga ⚽",SP: Bundesliga: Sky Bundesliga 1 HD
 http://monterocity.com:25461/live/intertvla3232/Jd1hxw4zeZ/232192.ts
 #EXTINF:-1 tvg-name="SP: Bundesliga: Sky Bundesliga 2 HD (Solo Eventos)" group-title="# La Bundesliga ⚽",SP: Bundesliga: Sky Bundesliga 2 HD (Solo Eventos)
@@ -7671,308 +7375,30 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69292
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69293
 #EXTINF:-1 tvg-name="| Universal Reality" tvg-logo="http://51.222.43.170:36995/images/011ecee7d295c066ae68d4396215c3d0.png" group-title="TV | Cine",| Universal Reality
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69294
-#EXTINF:-1 tvg-name="CINE| Starz Cinema HD_1080P" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="PPV STARZ",CINE| Starz Cinema HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13754
-#EXTINF:-1 tvg-name="CINE| Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PPV STARZ",CINE| Starz Comedy HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13752
-#EXTINF:-1 tvg-name="CINE| Starz East HD_1080P" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PPV STARZ",CINE| Starz East HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13751
-#EXTINF:-1 tvg-name="CINE| Starz Edge HD_1080P" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PPV STARZ",CINE| Starz Edge HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13750
-#EXTINF:-1 tvg-name="CINE| Starz Encore Black HD_1080P" group-title="PPV STARZ",CINE| Starz Encore Black HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13748
-#EXTINF:-1 tvg-name="CINE| Starz Encore Classic HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="PPV STARZ",CINE| Starz Encore Classic HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13747
-#EXTINF:-1 tvg-name="CINE| Starz Encore Family HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="PPV STARZ",CINE| Starz Encore Family HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13745
-#EXTINF:-1 tvg-name="CINE| Starz Encore HD" group-title="PPV STARZ",CINE| Starz Encore HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13744
 #EXTINF:-1 tvg-name="CINE| Starz Encore Suspense HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="PPV STARZ",CINE| Starz Encore Suspense HD_1080P
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13743
-#EXTINF:-1 tvg-name="CINE| Starz Encore Western HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="PPV STARZ",CINE| Starz Encore Western HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13742
-#EXTINF:-1 tvg-name="CINE| Starz HD_1080P" group-title="PPV STARZ",CINE| Starz HD_1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13741
+#EXTINF:-1 tvg-name="CINE| Starz Encore HD" group-title="PPV STARZ",CINE| Starz Encore HD
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13744
+#EXTINF:-1 tvg-name="CINE| Starz Encore Family HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="PPV STARZ",CINE| Starz Encore Family HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13745
 #EXTINF:-1 tvg-name="CINE| Starz West HD_1080P" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="PPV STARZ",CINE| Starz West HD_1080P
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13739
-#EXTINF:-1 tvg-name="DAZN F1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69765
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69766
-#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png" group-title="ESPAÑA DAZN",DAZN F1 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69767
-#EXTINF:-1 tvg-name="DAZN F1 4K" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png" group-title="ESPAÑA DAZN",DAZN F1 4K
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69768
-#EXTINF:-1 tvg-name="DAZN 1 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69769
-#EXTINF:-1 tvg-name="DAZN 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69770
-#EXTINF:-1 tvg-name="DAZN 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69771
-#EXTINF:-1 tvg-name="DAZN 1 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png" group-title="ESPAÑA DAZN",DAZN 1 FHD (x265)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69772
-#EXTINF:-1 tvg-name="DAZN 2 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69773
-#EXTINF:-1 tvg-name="DAZN 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69774
-#EXTINF:-1 tvg-name="DAZN 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69775
-#EXTINF:-1 tvg-name="DAZN 2 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png" group-title="ESPAÑA DAZN",DAZN 2 FHD (x265)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69776
-#EXTINF:-1 tvg-name="DAZN 3 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69777
-#EXTINF:-1 tvg-name="DAZN 3 HD*" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 HD*
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69778
-#EXTINF:-1 tvg-name="DAZN 3 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69779
-#EXTINF:-1 tvg-name="DAZN 3 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png" group-title="ESPAÑA DAZN",DAZN 3 FHD (x265)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69780
-#EXTINF:-1 tvg-name="DAZN 4 SD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69781
-#EXTINF:-1 tvg-name="DAZN 4 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69782
-#EXTINF:-1 tvg-name="DAZN 4 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69783
-#EXTINF:-1 tvg-name="DAZN 4 FHD (x265)" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png" group-title="ESPAÑA DAZN",DAZN 4 FHD (x265)
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69784
-#EXTINF:-1 tvg-name="DE | DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png" group-title="ESPAÑA DAZN",DE | DAZN
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69785
-#EXTINF:-1 tvg-name="DAZN Bar 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="ESPAÑA DAZN",DAZN Bar 1 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69786
-#EXTINF:-1 tvg-name="DE: Dazn 1 Bar HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="ESPAÑA DAZN",DE: Dazn 1 Bar HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69787
-#EXTINF:-1 tvg-name="DE: Dazn 2 Bar HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="ESPAÑA DAZN",DE: Dazn 2 Bar HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69788
-#EXTINF:-1 tvg-name="DAZN  Bar 2 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="ESPAÑA DAZN",DAZN  Bar 2 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69789
-#EXTINF:-1 tvg-name="DE: Dazn Sport 1 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png" group-title="ESPAÑA DAZN",DE: Dazn Sport 1 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69790
-#EXTINF:-1 tvg-name="DE: Dazn Sport 2 FHD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVPqPksrt2Xw_Jltn0BnvuWCgGgkdVvx76ELDEo1Kr18A.png" group-title="ESPAÑA DAZN",DE: Dazn Sport 2 FHD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69791
-#EXTINF:-1 tvg-name="EVENTOS PREMIUM 1 HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png" group-title="ESPAÑA DAZN",EVENTOS PREMIUM 1 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/69792
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="ESPAÑA DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/108907
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="ESPAÑA DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/108908
-#EXTINF:-1 tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png" group-title="ESPAÑA DAZN",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/108909
-#EXTINF:-1 tvg-name="MX || A3 Series HD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/11/10/80BBD3A5-3843-4BCE-AA2D-8064DC738680/default.jpg" group-title="MEXICO",MX || A3 Series HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51366
-#EXTINF:-1 tvg-name="MX || Adn 40 SD" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="MEXICO",MX || Adn 40 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40103
-#EXTINF:-1 tvg-name="MX || ADN40 HD" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="MEXICO",MX || ADN40 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51386
-#EXTINF:-1 tvg-name="MX || ADN40 SD" tvg-logo="https://i.imgur.com/9n17TjZ.png" group-title="MEXICO",MX || ADN40 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51265
-#EXTINF:-1 tvg-name="Dep|| Adrenalina Sports." tvg-logo="http://mylatinotv.com:8080/images/mexico/adrenalina.png" group-title="MEXICO",Dep|| Adrenalina Sports.
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51404
-#EXTINF:-1 tvg-name="MX || Al Jazeera HD" group-title="MEXICO",MX || Al Jazeera HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51461
-#EXTINF:-1 tvg-name="MX || AyM Sports HD" tvg-logo="https://i.imgur.com/89YGlxB.png" group-title="MEXICO",MX || AyM Sports HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51288
-#EXTINF:-1 tvg-name="MX || AZ Corazon HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="MEXICO",MX || AZ Corazon HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51336
-#EXTINF:-1 tvg-name="MX || Az Corazón HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="MEXICO",MX || Az Corazón HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40110
-#EXTINF:-1 tvg-name="MX || Az Corazón SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="MEXICO",MX || Az Corazón SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40109
-#EXTINF:-1 tvg-name="MX || AZ Mundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MX || AZ Mundo
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51324
-#EXTINF:-1 tvg-name="MX || Az Mundo HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MX || Az Mundo HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40105
-#EXTINF:-1 tvg-name="MX || Az Mundo SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MX || Az Mundo SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40104
-#EXTINF:-1 tvg-name="MX || Azteca 7 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",MX || Azteca 7 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51370
-#EXTINF:-1 tvg-name="MX || Azteca 7 HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",MX || Azteca 7 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40095
-#EXTINF:-1 tvg-name="MX || Azteca 7 HD Opc 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",MX || Azteca 7 HD Opc 1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51377
-#EXTINF:-1 tvg-name="MX || Azteca 7 SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",MX || Azteca 7 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51392
-#EXTINF:-1 tvg-name="MX || Azteca Cinema SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="MEXICO",MX || Azteca Cinema SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51184
-#EXTINF:-1 tvg-name="MX || Azteca Click HD" tvg-logo="https://i.imgur.com/cOf7mXM.png" group-title="MEXICO",MX || Azteca Click HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51394
-#EXTINF:-1 tvg-name="MX || AZTECA CLICK SD" tvg-logo="http://mylatinotv.com:8080/images/mexico/azclic.png" group-title="MEXICO",MX || AZTECA CLICK SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51274
-#EXTINF:-1 tvg-name="MX || Azteca Corazon HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="MEXICO",MX || Azteca Corazon HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51294
-#EXTINF:-1 tvg-name="MX || Azteca Corazon SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="MEXICO",MX || Azteca Corazon SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51178
-#EXTINF:-1 tvg-name="MX || Azteca Corazon SD." tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png" group-title="MEXICO",MX || Azteca Corazon SD.
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51219
-#EXTINF:-1 tvg-name="MX || Azteca Mundo SD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MX || Azteca Mundo SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51209
-#EXTINF:-1 tvg-name="MX || Azteca UNO" tvg-logo="http://mylatinotv.com:8080/images/mexico/aztecauno.png" group-title="MEXICO",MX || Azteca UNO
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51345
-#EXTINF:-1 tvg-name="MX || Azteca UNO HD" tvg-logo="https://i.imgur.com/5FkjvqF.jpg" group-title="MEXICO",MX || Azteca UNO HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51380
-#EXTINF:-1 tvg-name="MX || Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",MX || Azteca Uno HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40087
-#EXTINF:-1 tvg-name="MX || Azteca Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="MEXICO",MX || Azteca Uno HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40088
-#EXTINF:-1 tvg-name="MX || Azteca UNO." tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="MEXICO",MX || Azteca UNO.
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51276
-#EXTINF:-1 tvg-name="MX || Azteca UNO.." tvg-logo="https://i.imgur.com/f1hE6cL.jpg" group-title="MEXICO",MX || Azteca UNO..
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51268
-#EXTINF:-1 tvg-name="MX || Bandamax SD" tvg-logo="https://i.imgur.com/PBBQlwy.jpg" group-title="MEXICO",MX || Bandamax SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51278
-#EXTINF:-1 tvg-name="MX || Bandamax SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MEXICO",MX || Bandamax SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40122
-#EXTINF:-1 tvg-name="MX || BitMe HD" tvg-logo="https://www.eleconomista.com.mx/__export/1562785978686/sites/eleconomista/img/2019/07/10/bitme-televisa.jpg_1810791533.jpg" group-title="MEXICO",MX || BitMe HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40126
-#EXTINF:-1 tvg-name="MX || BitMe SD" tvg-logo="https://www.eleconomista.com.mx/__export/1562785978686/sites/eleconomista/img/2019/07/10/bitme-televisa.jpg_1810791533.jpg" group-title="MEXICO",MX || BitMe SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40125
-#EXTINF:-1 tvg-name="MX || Canal 14 SPR Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_11/canal14.png.8e09339834d7a51b01ca91078439fab1.png" group-title="MEXICO",MX || Canal 14 SPR Noticias
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51431
-#EXTINF:-1 tvg-name="MX || Canal 26 Aguascalientes HD" tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="MEXICO",MX || Canal 26 Aguascalientes HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51364
-#EXTINF:-1 tvg-name="MX || Canal 26 Aguascalientes SD" tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="MEXICO",MX || Canal 26 Aguascalientes SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51243
-#EXTINF:-1 tvg-name="MX || Canal 26 HD" tvg-logo="https://ryta.com.mx/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-05-at-11.37.01-AM-1.jpeg" group-title="MEXICO",MX || Canal 26 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40101
-#EXTINF:-1 tvg-name="MX || Canal 26 HD" tvg-logo="https://ryta.com.mx/wp-content/uploads/2020/02/WhatsApp-Image-2020-02-05-at-11.37.01-AM-1.jpeg" group-title="MEXICO",MX || Canal 26 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40102
-#EXTINF:-1 tvg-name="MX || Canal 4 Guadalajara" group-title="MEXICO",MX || Canal 4 Guadalajara
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51433
-#EXTINF:-1 tvg-name="MX || Canal 4 HD" tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="MEXICO",MX || Canal 4 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51343
-#EXTINF:-1 tvg-name="MX || Canal 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="MEXICO",MX || Canal 4 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40091
-#EXTINF:-1 tvg-name="MX || Canal 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="MEXICO",MX || Canal 4 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40090
-#EXTINF:-1 tvg-name="MX || Canal 5 HD" tvg-logo="https://i.imgur.com/5marY43.png" group-title="MEXICO",MX || Canal 5 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51393
-#EXTINF:-1 tvg-name="MX || Canal 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",MX || Canal 5 HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40093
-#EXTINF:-1 tvg-name="MX || Canal 5 SD" tvg-logo="https://i.imgur.com/5marY43.png" group-title="MEXICO",MX || Canal 5 SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51272
-#EXTINF:-1 tvg-name="MX || Canal del Congreso SD" tvg-logo="https://i.imgur.com/YSNzvpM.png" group-title="MEXICO",MX || Canal del Congreso SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51346
-#EXTINF:-1 tvg-name="MX || CANAL Once HD" tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="MEXICO",MX || CANAL Once HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51390
-#EXTINF:-1 tvg-name="MX || Canal Once HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="MEXICO",MX || Canal Once HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40100
-#EXTINF:-1 tvg-name="MX || CANAL Once SD" tvg-logo="https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg" group-title="MEXICO",MX || CANAL Once SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51269
-#EXTINF:-1 tvg-name="MX || Canal Once SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_Actual_Canal_Once.png" group-title="MEXICO",MX || Canal Once SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40099
-#EXTINF:-1 tvg-name="MX || DISTRITO COMEDIA SD" tvg-logo="https://i.imgur.com/HFjeGWh.jpg" group-title="MEXICO",MX || DISTRITO COMEDIA SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51212
-#EXTINF:-1 tvg-name="MX || Dog TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="MEXICO",MX || Dog TV
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51399
-#EXTINF:-1 tvg-name="MX || Excelsior TV HD" tvg-logo="https://i.imgur.com/3FQPuhT.jpg" group-title="MEXICO",MX || Excelsior TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51436
-#EXTINF:-1 tvg-name="MX || Excelsior TV SD" tvg-logo="https://i.imgur.com/3FQPuhT.jpg" group-title="MEXICO",MX || Excelsior TV SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51445
-#EXTINF:-1 tvg-name="MX || Formula Noticias" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO",MX || Formula Noticias
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51385
-#EXTINF:-1 tvg-name="MX || Foro Tv SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="MEXICO",MX || Foro Tv SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51273
-#EXTINF:-1 tvg-name="MX || Hola TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="MEXICO",MX || Hola TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51354
-#EXTINF:-1 tvg-name="MX || Imagen Tv HD" tvg-logo="https://i.imgur.com/QmPIrhM.png" group-title="MEXICO",MX || Imagen Tv HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51444
-#EXTINF:-1 tvg-name="MX || IMAGEN TV SD" tvg-logo="https://i.imgur.com/QmPIrhM.png" group-title="MEXICO",MX || IMAGEN TV SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51438
-#EXTINF:-1 tvg-name="MX || INGENIO TV SD" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="MEXICO",MX || INGENIO TV SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51186
-#EXTINF:-1 tvg-name="MX || Las Estrellas HD" tvg-logo="https://i.imgur.com/EHrkCCY.png" group-title="MEXICO",MX || Las Estrellas HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51171
-#EXTINF:-1 tvg-name="MX || Las Estrellas HD" tvg-logo="https://images.produ.com/noticias/0816/big-lasEstrellas.jpg" group-title="MEXICO",MX || Las Estrellas HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51395
-#EXTINF:-1 tvg-name="MX || Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",MX || Las Estrellas HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40115
-#EXTINF:-1 tvg-name="MX || Las Estrellas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",MX || Las Estrellas SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40113
-#EXTINF:-1 tvg-name="MX || Las estrellas SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",MX || Las estrellas SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40114
-#EXTINF:-1 tvg-name="MX || Las Estrellas SD Opc. 1" tvg-logo="https://i.imgur.com/EHrkCCY.png" group-title="MEXICO",MX || Las Estrellas SD Opc. 1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51247
-#EXTINF:-1 tvg-name="MX || Latin American sports LAS" tvg-logo="https://i.imgur.com/pa9bcy0.png" group-title="MEXICO",MX || Latin American sports LAS
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51369
-#EXTINF:-1 tvg-name="MX || Mexiquense HD" tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="MEXICO",MX || Mexiquense HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51154
-#EXTINF:-1 tvg-name="MX || Mexiquense SD" tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="MEXICO",MX || Mexiquense SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51149
-#EXTINF:-1 tvg-name="MX || Mexiquense SD" tvg-logo="https://pbs.twimg.com/profile_images/1237444962121396226/hkrvwCFW_400x400.jpg" group-title="MEXICO",MX || Mexiquense SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51181
-#EXTINF:-1 tvg-name="MX || Mexiquense SD" tvg-logo="https://pbs.twimg.com/profile_images/1283205753625391106/5TpLzHhV.jpg" group-title="MEXICO",MX || Mexiquense SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40130
-#EXTINF:-1 tvg-name="MX || Morbido TV HD" tvg-logo="https://i.imgur.com/wcIcl0U.jpg" group-title="MEXICO",MX || Morbido TV HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51293
-#EXTINF:-1 tvg-name="MX || Morbido TV SD" tvg-logo="https://i.imgur.com/wcIcl0U.jpg" group-title="MEXICO",MX || Morbido TV SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51177
-#EXTINF:-1 tvg-name="MX || Multimedios" tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="MEXICO",MX || Multimedios
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51233
-#EXTINF:-1 tvg-name="MX || Multimedios Guadalajara" group-title="MEXICO",MX || Multimedios Guadalajara
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51416
-#EXTINF:-1 tvg-name="MX || Multimedios HD" tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="MEXICO",MX || Multimedios HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51351
-#EXTINF:-1 tvg-name="MX || Multimedios HD Mty" tvg-logo="https://radionotas.com/wp-content/uploads/2017/04/Multimedios.jpg" group-title="MEXICO",MX || Multimedios HD Mty
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51408
-#EXTINF:-1 tvg-name="MX || Multimedios Laguna" tvg-logo="https://pbs.twimg.com/profile_images/1229843536012566534/SmEiCnrz_400x400.jpg" group-title="MEXICO",MX || Multimedios Laguna
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51417
-#EXTINF:-1 tvg-name="MX || MULTIMEDIOS P. SD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/descarga%20(4)-310x163-474395033.png" group-title="MEXICO",MX || MULTIMEDIOS P. SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51264
-#EXTINF:-1 tvg-name="MX || NU9VE HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="MEXICO",MX || NU9VE HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51391
-#EXTINF:-1 tvg-name="MX || NU9VE HD 2" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="MEXICO",MX || NU9VE HD 2
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51381
-#EXTINF:-1 tvg-name="MX || NU9VE HD opc1" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="MEXICO",MX || NU9VE HD opc1
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51261
-#EXTINF:-1 tvg-name="MX || NU9VE SD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png" group-title="MEXICO",MX || NU9VE SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51270
-#EXTINF:-1 tvg-name="MX || NU9VE SD" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/Canales-para-ver-nu9ve-en-vivo.jpg" group-title="MEXICO",MX || NU9VE SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40098
-#EXTINF:-1 tvg-name="MX || RMS SD" group-title="MEXICO",MX || RMS SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51158
-#EXTINF:-1 tvg-name="MX || Rt SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="MEXICO",MX || Rt SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40141
-#EXTINF:-1 tvg-name="MX || Star Tve HD" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2016/01/Star-HD.jpg" group-title="MEXICO",MX || Star Tve HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51341
-#EXTINF:-1 tvg-name="MX || Telemax Hermosillo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpZKLaqtpkBdDl9ODE4TWeREZDLMhc15LIm-A9zLbLQ9QqHK27&usqp=CAU" group-title="MEXICO",MX || Telemax Hermosillo
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51426
-#EXTINF:-1 tvg-name="MX || Telenovelas HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO",MX || Telenovelas HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40107
-#EXTINF:-1 tvg-name="MX || Telenovelas HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO",MX || Telenovelas HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40108
-#EXTINF:-1 tvg-name="MX || TELENOVELAS SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO",MX || TELENOVELAS SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51210
-#EXTINF:-1 tvg-name="MX || Telenovelas SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO",MX || Telenovelas SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51325
-#EXTINF:-1 tvg-name="MX || Telenovelas SD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="MEXICO",MX || Telenovelas SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40106
-#EXTINF:-1 tvg-name="MX || TELERITMO SD" group-title="MEXICO",MX || TELERITMO SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51254
-#EXTINF:-1 tvg-name="MX || Televisa (Leon) SD" tvg-logo="https://i.imgur.com/pa9bcy0.png" group-title="MEXICO",MX || Televisa (Leon) SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51344
-#EXTINF:-1 tvg-name="MX || Televisa Monterrey SD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="MEXICO",MX || Televisa Monterrey SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40116
-#EXTINF:-1 tvg-name="MX || Televisa Puebla HD" tvg-logo="https://pbs.twimg.com/profile_images/1241392253647667201/0Q1BzbrL_400x400.jpg" group-title="MEXICO",MX || Televisa Puebla HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51349
-#EXTINF:-1 tvg-name="MX || Televisa Puebla HD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisa-puebla-en-vivo-859.jpg" group-title="MEXICO",MX || Televisa Puebla HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40131
-#EXTINF:-1 tvg-name="MX || Televisa Puebla SD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisa-puebla-en-vivo-859.jpg" group-title="MEXICO",MX || Televisa Puebla SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40117
-#EXTINF:-1 tvg-name="MX || TRC TV Campeche" tvg-logo="https://trccampeche.gob.mx/wp-content/uploads/2017/04/LOGOTRC16-02.jpg" group-title="MEXICO",MX || TRC TV Campeche
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51429
-#EXTINF:-1 tvg-name="MX || TVCD SD" tvg-logo="http://mylatinotv.com:8080/images/mexico/tvcd.png" group-title="MEXICO",MX || TVCD SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51239
-#EXTINF:-1 tvg-name="MX || Unicable SD" tvg-logo="https://como-funciona.com/wp-content/uploads/2019/02/unnamed-1.jpg" group-title="MEXICO",MX || Unicable SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/40123
-#EXTINF:-1 tvg-name="MX || WARNER HD" tvg-logo="https://i.imgur.com/Me5uVci.jpg" group-title="MEXICO",MX || WARNER HD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51248
-#EXTINF:-1 tvg-name="MX || Wobi SD" tvg-logo="https://i.imgur.com/AA8LuGq.jpg" group-title="MEXICO",MX || Wobi SD
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51187
-#EXTINF:-1 tvg-name="USA | telemundo 52 test" tvg-logo="http://mylatinotv.com:8080/images/mexico1/telemundo.png" group-title="MEXICO",USA | telemundo 52 test
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51397
-#EXTINF:-1 tvg-name="USA | Telemundo Chicago" tvg-logo="http://mylatinotv.com:8080/images/mexico1/telemundo.png" group-title="MEXICO",USA | Telemundo Chicago
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51398
-#EXTINF:-1 tvg-name="MX || tv azteca Querétaro" group-title="MEXICO",MX || tv azteca Querétaro
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/53487
+#EXTINF:-1 tvg-name="CINE| Starz HD_1080P" group-title="PPV STARZ",CINE| Starz HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13741
+#EXTINF:-1 tvg-name="CINE| Starz Encore Western HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="PPV STARZ",CINE| Starz Encore Western HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13742
+#EXTINF:-1 tvg-name="CINE| Starz East HD_1080P" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="PPV STARZ",CINE| Starz East HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13751
+#EXTINF:-1 tvg-name="CINE| Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="PPV STARZ",CINE| Starz Comedy HD
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13752
+#EXTINF:-1 tvg-name="CINE| Starz Cinema HD_1080P" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="PPV STARZ",CINE| Starz Cinema HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13754
+#EXTINF:-1 tvg-name="CINE| Starz Encore Classic HD_1080P" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="PPV STARZ",CINE| Starz Encore Classic HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13747
+#EXTINF:-1 tvg-name="CINE| Starz Encore Black HD_1080P" group-title="PPV STARZ",CINE| Starz Encore Black HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13748
+#EXTINF:-1 tvg-name="CINE| Starz Edge HD_1080P" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="PPV STARZ",CINE| Starz Edge HD_1080P
+http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/13750
 #EXTINF:-1 tvg-name="Dep|| Afizzionados" tvg-logo="https://i.imgur.com/hWv3Frc.png" group-title="FUTBOL-MEXICO",Dep|| Afizzionados
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/51494
 #EXTINF:-1 tvg-name="Dep|| Afizzionados Opc 2" tvg-logo="http://mylatinotv.com:8080/images/mexico/afizzionados.png" group-title="FUTBOL-MEXICO",Dep|| Afizzionados Opc 2
