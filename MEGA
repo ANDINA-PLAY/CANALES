@@ -815,10 +815,6 @@ http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/94464
 http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/94466
 #EXTINF:-1 group-title="➤ ZONA FOX SPORTS ⚽",USA: FOX SPORTS 2 HD
 http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/94467
-#EXTINF:-1 tvg-name="VIP BeIN Sports USA" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhHyry5tfD_GMseJNLW4hsftB81TklSnRL7sPkr8Nyo5_w.png" group-title="➤ ZONA BEIN SPORTS",VIP BeIN Sports USA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71416
-#EXTINF:-1 tvg-name="US: beIN Sports 09" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1K6QBBVZxxCbuDWhehljdwi27jajU1kXK6hDmB7PrwfQ.png" group-title="➤ ZONA BEIN SPORTS",US: beIN Sports 09
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71440
 #EXTINF:-1 tvg-name="US: beIN Sports Español" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="➤ ZONA BEIN SPORTS",US: beIN Sports Español
 http://uniontv.info:8080/belmrj/0944722244/219519
 #EXTINF:-1 tvg-name="US: beIN Sports USA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-qa.png" group-title="➤ ZONA BEIN SPORTS",US: beIN Sports USA HD
@@ -839,16 +835,6 @@ http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/10929
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/10956
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN LA LIGA
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144812
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 5
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144813
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 6
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144814
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 7
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144815
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 8
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144816
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS CANADA
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144817
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS EN ESPAÑOL
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2144818
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",2MB | BEIN SPORTS ESPAÑOL LQ
@@ -867,72 +853,24 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144810
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144811
 #EXTINF:-1 tvg-name="D | BEIN LA LIGA" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN LA LIGA
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144812
-#EXTINF:-1 tvg-name="D | BEIN SPORTS 5" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 5
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144813
-#EXTINF:-1 tvg-name="D | BEIN SPORTS 6" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 6
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144814
-#EXTINF:-1 tvg-name="D | BEIN SPORTS 7" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 7
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144815
-#EXTINF:-1 tvg-name="D | BEIN SPORTS 8" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS 8
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144816
 #EXTINF:-1 tvg-name="D | BEIN SPORTS CANADA" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS CANADA
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144817
 #EXTINF:-1 tvg-name="D | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D | BEIN SPORTS EN ESPAÑOL
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2144818
-#EXTINF:-1 tvg-name="VIP BeIN Sports USA" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhHyry5tfD_GMseJNLW4hsftB81TklSnRL7sPkr8Nyo5_w.png" group-title="➤ ZONA BEIN SPORTS",VIP BeIN Sports USA
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71416
-#EXTINF:-1 tvg-name="UK: beIN Sports En Espanyol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="➤ ZONA BEIN SPORTS",UK: beIN Sports En Espanyol
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71429
-#EXTINF:-1 tvg-name="UK: beIN Sports La Liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhHyry5tfD_GMseJNLW4hsftB81TklSnRL7sPkr8Nyo5_w.png" group-title="➤ ZONA BEIN SPORTS",UK: beIN Sports La Liga
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71430
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 01" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 01
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71432
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 02" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0iJhrssAjWR3Twh7bQoc0V82QL1N3xhyHLOhDUiKvLKQ.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 02
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71433
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 03" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t2gS8bL0lXSCBIpgXOXXWj0Sd6P_1i4UXQTOhlpuRH38w.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 03
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71434
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 04" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0BuCsXQmHC0i_MXBp6fbot5CsvQ12vBaNO1Q49J6cJJg.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 04
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71435
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 05" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1gWVyYbxrEimnmNhQkveS3jU0wfWHI5sYWGqeOFMU9hg.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 05
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71436
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 06" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3IYb-RC62MIYBgE5eHMnXBmtHmmO_QVqTe4sBM93Ugeg.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 06
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71437
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 07" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1jb3YKUZ6zymQCNbkS-SYxeWVvw1RTZy5NR08LunDJRg.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 07
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71438
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 08" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1CODcE4aOFGbKykdSvdOmoiVhTxHOHKZX50r7KG8XSqA.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 08
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71439
-#EXTINF:-1 tvg-name="US: beIN Sports 09" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t1K6QBBVZxxCbuDWhehljdwi27jajU1kXK6hDmB7PrwfQ.png" group-title="➤ ZONA BEIN SPORTS",US: beIN Sports 09
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71440
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 10" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t3rb5ZwWOOMa_zCR-TkufBWNeHv48mk_rebxEPCSx-Clg.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 10
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71441
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 11" tvg-logo="http://quebuscasaqui.xyz:8080/images/gwv-s8pnT1IxHEtYpdr3kGP-tYpIqmfBGbg6pAyMUhn7lKMQ_QYbYqRuZvzhATW5oCfBIO6hhIirAEqwHe-TLOeL6ygGL9zRV-t3KJm7YEMLjIvM0y9RQqvI7k_iUto6AkrTbYHSCoMcBNam_42xSguZTm2qfIAaM2gGW2MRG-z_WfWGI3ex2IXNm3GlovVD.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 11
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71442
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 12" tvg-logo="http://quebuscasaqui.xyz:8080/images/27fwMk_jAXQ8gD52tCsV-8vO-04IbQrH5l8QbpMPbVXwsJGCANadANijThiPcLh6fr-XR2rIvlOb4T-jjvvunA.png" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 12
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71443
-#EXTINF:-1 tvg-name="VIP US: beIN Sports 13" tvg-logo="http://quebuscasaqui.xyz:8080/images/nCEWSr2eYJOHu2_HyAqjdu6gtmnOcH3q0BL8Kd6VcfSfTNMMXsQs2BHvj9XwTtElRmGSUuHktvZV_PWrf2VnHoh3ZOIl63qlMRFRYj8ZVUvVOwSZWPEkSQWw0gN389Nuk4_F3IIbNrGVKpLgxee7rP9Fr0suWwiZiVcnvZQZ2VryMpG2erCP76j65AuK5drj.jpg" group-title="➤ ZONA BEIN SPORTS",VIP US: beIN Sports 13
-http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71444
 #EXTINF:-1 tvg-name="beIN Sports N Espanol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="➤ ZONA BEIN SPORTS",beIN Sports N Espanol
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71445
 #EXTINF:-1 tvg-name="Bein Sports USA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="➤ ZONA BEIN SPORTS",Bein Sports USA HD
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/71446
 #EXTINF:-1 tvg-id="Bein Españ" tvg-name="D| beIN Sports en Español " tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="➤ ZONA BEIN SPORTS",D| beIN Sports en Español 
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/157370
-#EXTINF:-1 tvg-name="UK: beIN Sports En Espanyol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="➤ ZONA BEIN SPORTS",UK: beIN Sports En Espanyol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71429
 #EXTINF:-1 tvg-name="beIN Sports N Espanol" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png" group-title="➤ ZONA BEIN SPORTS",beIN Sports N Espanol
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71445
-#EXTINF:-1 tvg-name="Bein Sports USA HD" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhEvlnmphdI9tUqsNe4cZcgB0XXcldxNEeo5FVXT3yDVsA.png" group-title="➤ ZONA BEIN SPORTS",Bein Sports USA HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71446
 #EXTINF:-1 tvg-name="US_HD:LA_beIN Sports Ñ" group-title="➤ ZONA BEIN SPORTS",US_HD:LA_beIN Sports Ñ
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50337
 #EXTINF:-1 tvg-name="US_HD:beIN Sports Ñ" group-title="➤ ZONA BEIN SPORTS",US_HD:beIN Sports Ñ
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/50338
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",USA | beIN Sports
 http://192.99.70.160:25461/Slayer1/Slayer1/91180
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",USA | beIN Sports en Españolⓧ FHD
-http://xplatinmedia.com:8080/Amigo_Skype_Exch/UkFfQMCECtx6589rTev9O/109240
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",USA | beIN Sports Xtra en Españolⓧ HD
-http://xplatinmedia.com:8080/Amigo_Skype_Exch/UkFfQMCECtx6589rTev9O/109229
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",USA: BEIN SPORTS EN ESPANOL HD
 http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/94451
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",USA: beIN Sports Xtra HD
