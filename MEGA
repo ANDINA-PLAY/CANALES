@@ -49,6 +49,20 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/115030
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/115031
 #EXTINF:-1 tvg-name="USA: FIGHT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="➤ ZONA EVENTOS LIVE Y DEPORTES 🌎",USA: FIGHT NETWORK
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/115032
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV (PM) (1080) 
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/67036
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 1 (e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1823
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 2 (e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1824
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 3 (e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140903
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 4 (e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/988
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 5 Star+ 1 (SOLO EVENTOS)(e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140904
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 6 Star+ 2 (SOLO EVENTOS)(e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140905
 #EXTINF:-1 group-title="➤ ZONA LATINO VIP",MX | Discovery Channel
 http://tvstar.icu:8080/37931569/37931569/57625
 #EXTINF:-1 group-title="➤ ZONA LATINO VIP",MX: Fox
