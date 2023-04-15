@@ -749,26 +749,18 @@ http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/114996
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/114997
 #EXTINF:-1 tvg-name="UK: UFC FIGHT PASS" tvg-logo="https://cm-inter.xyz/Logos/UK/UFC%20FIGHT%20PASS.png" group-title="➤ ZONA UFC",UK: UFC FIGHT PASS
 http://higherpro.xyz:8080/CINEAULTRAPRE/6CnkQeTAwpbd/114998
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU-Gol TV (PM)(1080)
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1097
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU-Gol TV (e)(720)
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1098
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU-Gol Tv (e)(SD)
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1099
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU-Gol TV  (tv)
-http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/22153
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| Gol TV (MOVIL)
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180467
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| GOL TV FHD
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180460
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| GOL TV HD (OPC 1)
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180461
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| Gol TV HD (OPCION 2)
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180469
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| Gol TV | Ecuador
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180453
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC| GOLTV ECUADOR HD
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/180475
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC)
+http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145490
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC) #2
+http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145491
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",EC: Gol TV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216411.ts
+#EXTINF:-1 tvg-name="ECU: GOLTV ECUADOR" tvg-logo="https://wallpapercave.com/wp/wp4209517.png" group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV ECUADOR
+http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495529
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU - GOL TV SD
+http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/25753
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU - GOL TV FHD
+http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53381
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",2 MB | GOL TV LQ
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095412
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",USA: GOLTV HD (SPANISH)
