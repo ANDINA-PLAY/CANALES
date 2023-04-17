@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV (PM) (1080) 
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/67036
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 1 (e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1823
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 2 (e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1824
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 3 (e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140903
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 4 (e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/988
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 5 Star+ 1 (SOLO EVENTOS)(e)(1080)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140904
+#EXTINF:-1 group-title="➤ COPA LIBERTADORES 🌎 SUDAMERICANA",PPV 6 Star+ 2 (SOLO EVENTOS)(e)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/140905
 #EXTINF:-1 tvg-name="US: beIN Sports USA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-qa.png" group-title="➤ ZONA BEIN SPORTS",US: beIN Sports USA HD
 http://uniontv.info:8080/belmrj/0944722244/219518
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",D| beIN Sports Ñ Latino
@@ -79,6 +93,26 @@ http://op.web24.live:8080/Mr.E2021/Florida/59153
 http://op.web24.live:8080/Mr.E2021/Florida/46525
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",LA | BEIN SPORTS N
 http://op.web24.live:8080/Mr.E2021/Florida/46524
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports HD (ARG)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123872
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports FHD (CL)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/121857
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports + FHD (CL)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/121856
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports 2 FHD (CL)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/187724
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports 2 HD (ARG)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34612
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports + HD (ARG)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123871
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports + FHD (ARG)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34616
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports HD (CO)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/43430
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports 2 HD (CO)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/43431
+#EXTINF:-1 group-title="➤ ZONA DIRECTV SPORTS",Directv Sports + HD (CO)
+http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/123885
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC)
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145490
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC) #2
