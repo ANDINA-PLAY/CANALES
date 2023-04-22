@@ -115,6 +115,14 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34693
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/4827
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",13 | GOLTV LATINOAMERICA
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/132281
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV  SD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/30462
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV HD (E)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV OPC 3
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/39524
 #EXTINF:-1 tvg-id="etvtelerama.ec" tvg-name="EC | Telerama" tvg-logo="http://l3d.us:25461/images/d23649b40765954c639d6e911906dbc7.png" group-title="LAT - Ecuador   V I P",EC | Telerama
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/219710
 #EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="LAT - Ecuador   V I P",EC| Ecuador TV
@@ -245,6 +253,42 @@ http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/133667
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145910
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: UCSG  TV
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/3595
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Canal Uno
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2450
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Canal Uno HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2451
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | DirecTV Sports
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2452
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | ECDF - El Canal Del Futbol
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/82303
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Ecuador TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2465
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Ecuavisa Costa HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2471
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Ecuavisa Internacional
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2474
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Ecuavisa Sierra
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2440
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Gamavision
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2446
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Gamavision HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2447
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Oromar HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2458
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | RTS HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2443
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | RTU
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2457
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | TC Television
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2449
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | TC Television HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2448
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Teleamazonas HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2445
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | Teleamazonas UHD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | TVC 
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/26476
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/27
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA (SIERRA)
@@ -1085,6 +1129,112 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/212026
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/212690
 #EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="LA | Telemundo Washington" tvg-logo="http://l3d.us:25461/images/2b0cf16a51985217cbec219c4cfcc71a.png" group-title="➤ ZONA LATINO VIP",LA | Telemundo Washington
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/215768
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | A&E HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2566
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | A&E MX HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2565
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Animal Planet (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2476
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Animal Planet HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2475
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Antena 3 Internacional HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/79546
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | AXN (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2568
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | AXN (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2567
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Comedy Central (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2575
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Comedy Central (MX) HD (A)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2574
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Channel (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2478
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Channel (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2515
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Familia
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20443
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery H&H (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2540
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery H&H (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2539
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery ID (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2542
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Science (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2545
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Science (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2544
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Theater HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2547
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery TLC (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2553
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery Turbo (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2556
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Discovery World HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2551
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | E! Entertainment HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2569
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | El Garage TV
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3167
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | El Gourmet
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3169
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Film & Arts HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2579
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Food Network
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3171
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | GLITZ
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3173
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Glitz HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2576
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | H2
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3162
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | H2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2559
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | HGTV Lat
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/108262
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | History Channel
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3163
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | History Channel (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2558
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | History Channel (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2557
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Hola TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2577
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | I SAT (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2584
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Lifetime HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2573
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | MAS CHIC (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2586
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | MTV
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3179
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | MTV Hits
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3180
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Much Music
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3189
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Nat Geo (Lat) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2560
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Nat Geo (MX) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2561
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Nat Geo Mundo HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2564
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Nat Geo Wild HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2563
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Sundance HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2580
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Tastemade HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/101330
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | TBS
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3176
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | TruTV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3177
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | TVE
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3191
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Unicable HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2587
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | VH1 MegaHits
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3182
+#EXTINF:-1 group-title="➤ ZONA LATINO VIP",Premium | Wobi HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2588
 #EXTINF:-1 tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://l3d.us:25461/images/f6dec16bf243fcdd72718224d28ac391.png" group-title="➤ ZONA UEFA Champion League ⚽",UEFA | MOVISTAR LIGA DE CAMPEONES
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/219402
 #EXTINF:-1 tvg-name="UEFA | TNT MX" tvg-logo="http://l3d.us:25461/images/f6dec16bf243fcdd72718224d28ac391.png" group-title="➤ ZONA UEFA Champion League ⚽",UEFA | TNT MX
@@ -1881,6 +2031,94 @@ http://playhispano.org:8080/Casjahj/Jhajsac/214260
 http://playhispano.org:8080/Casjahj/Jhajsac/214261
 #EXTINF:-1 tvg-name="ARG| DEPORT TV HD" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| DEPORT TV HD
 http://playhispano.org:8080/Casjahj/Jhajsac/214262
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports Ñ OPC 1 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1261
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports Ñ OPC 2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1262
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Claro Sports HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1309
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Claro Sports Sur HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/113373
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | DirecTV Sports + HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1284
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | DirecTV Sports 1 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1282
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | DirecTV Sports 2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1283
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1263
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Chile) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/112695
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1266
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 2 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1264
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 2 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1267
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 3 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1265
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 3 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1268
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 4 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/105410
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN Deportes HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1269
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN Plus HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1270
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN Premium HD (1)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/102180
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN Premium HD (2)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1281
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN U HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1271
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports (Chile) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1280
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports (CO) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1279
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1272
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1275
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 2 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1273
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 2 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1276
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 3 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1274
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 3 (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1277
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports Premium Mexico HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/13775
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | GOL TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1307
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Golf Channel Latino HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1305
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Meridiano TV SD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/88959
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Movistar Deportes HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1308
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | NBC Golf (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1304
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Real Madrid TV HD (B)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1302
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Red Bull TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1301
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Sky Sports 16 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1300
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Sky Sports 21 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1299
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Tigo Sports Guatemala HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/82320
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | TUDN (Mx) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1285
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | TVC Deportes HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1306
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | UFC TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1298
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Zona Futbol HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/93999
 #EXTINF:-1 group-title="➤ ZONA ESPN",ESPN SD (CL)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/157048
 #EXTINF:-1 group-title="➤ ZONA ESPN",ESPN HD (CL)
@@ -4339,6 +4577,106 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34689
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34690
 #EXTINF:-1 group-title="TV | Colombia",Win Sports + FHD (CO)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34691
+#EXTINF:-1 group-title="TV | Colombia",CO | ATN Televisión (Cúcuta | Norte de Santander) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103867
+#EXTINF:-1 group-title="TV | Colombia",CO | Avivamiento TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103868
+#EXTINF:-1 group-title="TV | Colombia",CO | Buenísima Radio TV (Gamarra | Cesar) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103869
+#EXTINF:-1 group-title="TV | Colombia",CO | Cable Noticias HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/465
+#EXTINF:-1 group-title="TV | Colombia",CO | Cablenoticias (Bogotà | Cundinamarca) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103870
+#EXTINF:-1 group-title="TV | Colombia",CO | Cali TV
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/78494
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal C (Santiago de Cali | Valle del Cauca) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103871
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal Capital HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/466
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal CNC Cartagena (Cartagena | Bolívar) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103873
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal Doce HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103874
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal Institucional HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/488
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal NorteVision (Pasto | Nariño) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103876
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal Uno HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/478
+#EXTINF:-1 group-title="TV | Colombia",CO | Canal Zoom (Bogotà | Cundinamarca) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103877
+#EXTINF:-1 group-title="TV | Colombia",CO | Caracol FHD (1)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/454
+#EXTINF:-1 group-title="TV | Colombia",CO | Caracol FHD (2)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/455
+#EXTINF:-1 group-title="TV | Colombia",CO | Caracol FHD (3)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/456
+#EXTINF:-1 group-title="TV | Colombia",CO | Caracol HD2
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/457
+#EXTINF:-1 group-title="TV | Colombia",CO | Caracol Internacional HD (E)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20422
+#EXTINF:-1 group-title="TV | Colombia",CO | City TV HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/476
+#EXTINF:-1 group-title="TV | Colombia",CO | Colombia | ESPN 1 (2)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/104179
+#EXTINF:-1 group-title="TV | Colombia",CO | Colombia | ESPN 1 (3)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/104527
+#EXTINF:-1 group-title="TV | Colombia",CO | Cosmovision HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/475
+#EXTINF:-1 group-title="TV | Colombia",CO | CTV Barranquilla (Barranquilla | Atlántico) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103878
+#EXTINF:-1 group-title="TV | Colombia",CO | DirecTV Sports 1 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/80111
+#EXTINF:-1 group-title="TV | Colombia",CO | DirecTV Sports 2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/80112
+#EXTINF:-1 group-title="TV | Colombia",CO | El Tiempo HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/473
+#EXTINF:-1 group-title="TV | Colombia",CO | ESPN (1)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/73719
+#EXTINF:-1 group-title="TV | Colombia",CO | La Kalle HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/477
+#EXTINF:-1 group-title="TV | Colombia",CO | Multicanal Televisión (Santiago de Cali | Valle del Cauca) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103879
+#EXTINF:-1 group-title="TV | Colombia",CO | NTN24 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/484
+#EXTINF:-1 group-title="TV | Colombia",CO | RCN FHD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/458
+#EXTINF:-1 group-title="TV | Colombia",CO | RCN HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/459
+#EXTINF:-1 group-title="TV | Colombia",CO | RCN HD2
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/98843
+#EXTINF:-1 group-title="TV | Colombia",CO | RCN Internacional HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20424
+#EXTINF:-1 group-title="TV | Colombia",CO | RCN Novelas HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/460
+#EXTINF:-1 group-title="TV | Colombia",CO | Senal Colombia HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/472
+#EXTINF:-1 group-title="TV | Colombia",CO | TeleAntioquia HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/468
+#EXTINF:-1 group-title="TV | Colombia",CO | TeleCafe HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/471
+#EXTINF:-1 group-title="TV | Colombia",CO | TeleCaribe HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/479
+#EXTINF:-1 group-title="TV | Colombia",CO | TeleMedellin HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/467
+#EXTINF:-1 group-title="TV | Colombia",CO | TelePacifico HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/470
+#EXTINF:-1 group-title="TV | Colombia",CO | Trece HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/487
+#EXTINF:-1 group-title="TV | Colombia",CO | TV Agro HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/486
+#EXTINF:-1 group-title="TV | Colombia",CO | Vallenato Internacional HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/90846
+#EXTINF:-1 group-title="TV | Colombia",CO | Win Sports + HD 1
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/461
+#EXTINF:-1 group-title="TV | Colombia",CO | Win Sports + HD 2
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/462
+#EXTINF:-1 group-title="TV | Colombia",CO | Win Sports + HD 3
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20427
+#EXTINF:-1 group-title="TV | Colombia",CO | Win Sports HD 1
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/463
+#EXTINF:-1 group-title="TV | Colombia",CO | Win Sports HD 2
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/464
 #EXTINF:-1 tvg-name="ES: TVE Internacional SD" tvg-logo="http://l3d.us:25461/images/34f50e6f9e30d567a10b1cd661939818.png" group-title="TV | España",ES: TVE Internacional SD
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100537
 #EXTINF:-1 tvg-name="ES: 24h SD" tvg-logo="http://l3d.us:25461/images/2e55417a3218cc187fdc82ff8248fcc2.png" group-title="TV | España",ES: 24h SD
