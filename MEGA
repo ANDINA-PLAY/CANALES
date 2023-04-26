@@ -97,6 +97,14 @@ http://playhispano.org:8080/Casjahj/Jhajsac/140676
 http://playhispano.org:8080/Casjahj/Jhajsac/140677
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC)
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145490
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV  SD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/30462
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV HD (E)
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV OPC 3
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/39524
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC) #2
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145491
 #EXTINF:-1 tvg-name="ECU: GOLTV ECUADOR" tvg-logo="https://wallpapercave.com/wp/wp4209517.png" group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV ECUADOR
@@ -115,16 +123,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/34693
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/4827
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",13 | GOLTV LATINOAMERICA
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/132281
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV  SD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/30462
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV HD (E)
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV OPC 3
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/39524
-#EXTINF:-1 tvg-id="etvtelerama.ec" tvg-name="EC | Telerama" tvg-logo="http://l3d.us:25461/images/d23649b40765954c639d6e911906dbc7.png" group-title="LAT - Ecuador   V I P",EC | Telerama
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/219710
 #EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="LAT - Ecuador   V I P",EC| Ecuador TV
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11029
 #EXTINF:-1 tvg-id="Ec7.Ec" tvg-name="EC| Ecuador TV FHD" tvg-logo="http://l3d.us:25461/images/ffc0c4b634ea6460db1d127d1946ed71.png" group-title="LAT - Ecuador   V I P",EC| Ecuador TV FHD
@@ -189,8 +187,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130559
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2130709
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: ASOMAVISIÓN SD
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/140814
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: CANAL UNO HD
-http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/3592
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: CANELA TV
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145742
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: CATAMAYO TV HD (EC)
@@ -199,8 +195,6 @@ http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145909
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145496
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: ECOTELTV
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/126538
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: ECUADOR TV
-http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/3594
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: ECUAVISA
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/27
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU: ECUAVISA (HVEC)
@@ -5265,32 +5259,6 @@ http://playhispano.org:8080/Casjahj/Jhajsac/201214
 http://playhispano.org:8080/Casjahj/Jhajsac/201215
 #EXTINF:-1 tvg-name="Tres Caínes" tvg-logo="http://playhispano.org:25461/images/ad15b001ded793a849ff0824eec5a845.jpg" group-title="➤ ZONA NOVELAS",Tres Caínes
 http://playhispano.org:8080/Casjahj/Jhajsac/201216
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",1 TAQUILLA ACCION
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146743.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",2 TAQUILLA ANIMACION
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146744.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",3 TAQUILLA CIENCIA FICCION
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146745.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",4 TAQUILLA CRIMEN
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146778.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",5 TAQUILLA TERROR
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146801.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",6 TAQUILLA DRAMA
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146797.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",7 TAQUILLA COMEDIA
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146802.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",8 TAQUILLA ROMANCE
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146796.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",11 TAQUILLA AVENTURA
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146829.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",12 TAQUILLA IPTVTOOL BELICA
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/153170.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",12 TAQUILLA STAR WARS
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/148536.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",TAQUILLA SAW
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/235652.ts
-#EXTINF:-1 group-title="➤ ZONA TAQUILLERA",TAQUILLA ESTRENOS 2 IPTVTOOL
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/148543.ts
 #EXTINF:-1 group-title="➤ ZONA CINE BAJA VELOCIDAD",2MB |  HBO Pop LQ
 http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095397
 #EXTINF:-1 group-title="➤ ZONA CINE BAJA VELOCIDAD",2MB |  RCN LQ
@@ -5841,54 +5809,6 @@ http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/186335
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/203983
 #EXTINF:-1 tvg-name="24/7 M|Películas Fantasía" tvg-logo="http://l3d.us:8080/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M|Películas Fantasía
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/203984
-#EXTINF:-1 tvg-name="24/7 M| Cinema 01" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 01
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210808
-#EXTINF:-1 tvg-name="24/7 M| Cinema 02" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 02
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210809
-#EXTINF:-1 tvg-name="24/7 M| Cinema 03" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 03
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210810
-#EXTINF:-1 tvg-name="24/7 M| Cinema 05" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 05
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210812
-#EXTINF:-1 tvg-name="24/7 M| Cinema 06" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 06
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210813
-#EXTINF:-1 tvg-name="24/7 M| Cinema 07" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 07
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210814
-#EXTINF:-1 tvg-name="24/7 M| Cinema 08" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 08
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210815
-#EXTINF:-1 tvg-name="24/7 M| Cinema 09" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 09
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210816
-#EXTINF:-1 tvg-name="24/7 M| Cinema 10" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 10
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210817
-#EXTINF:-1 tvg-name="24/7 M| Cinema 11" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 11
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210818
-#EXTINF:-1 tvg-name="24/7 M| Cinema 12" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 12
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210819
-#EXTINF:-1 tvg-name="24/7 M| Cinema 13" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 13
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210820
-#EXTINF:-1 tvg-name="24/7 M| Cinema 14" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 14
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210821
-#EXTINF:-1 tvg-name="24/7 M| Cinema 15" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 15
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210822
-#EXTINF:-1 tvg-name="24/7 M| Cinema 16" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 16
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210823
-#EXTINF:-1 tvg-name="24/7 M| Cinema 17" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 17
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210824
-#EXTINF:-1 tvg-name="24/7 M| Cinema 18" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 18
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210825
-#EXTINF:-1 tvg-name="24/7 M| Cinema 19" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 19
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210826
-#EXTINF:-1 tvg-name="24/7 M| Cinema 20" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 20
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210827
-#EXTINF:-1 tvg-name="24/7 M| Cinema 21" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 21
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210828
-#EXTINF:-1 tvg-name="24/7 M| Cinema 22" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 22
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210829
-#EXTINF:-1 tvg-name="24/7 M| Cinema 23" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 23
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210830
-#EXTINF:-1 tvg-name="24/7 M| Cinema 24" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 24
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210831
-#EXTINF:-1 tvg-name="24/7 M| Cinema 25" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 M| Cinema 25
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/210832
 #EXTINF:-1 tvg-name="24/7 :CINE ACCION" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 :CINE ACCION
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090917
 #EXTINF:-1 tvg-name="24/7 :CINE ACCION SAGAS" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="➤ ZONA  24/7 Peliculas",24/7 :CINE ACCION SAGAS
