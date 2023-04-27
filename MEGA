@@ -283,6 +283,24 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2445
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | TVC 
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/26476
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TVC
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216416.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TeleAmazonas
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216415.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TC TV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216414.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Ecuador TV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216408.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Ecuavisa
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216409.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Gamavision
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216410.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Gol TV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216411.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Oromar TV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216412.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: RTS
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216413.ts
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/27
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA (SIERRA)
@@ -4671,370 +4689,116 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20427
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/463
 #EXTINF:-1 group-title="TV | Colombia",CO | Win Sports HD 2
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/464
-#EXTINF:-1 tvg-name="ES: TVE Internacional SD" tvg-logo="http://l3d.us:25461/images/34f50e6f9e30d567a10b1cd661939818.png" group-title="TV | España",ES: TVE Internacional SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100537
-#EXTINF:-1 tvg-name="ES: 24h SD" tvg-logo="http://l3d.us:25461/images/2e55417a3218cc187fdc82ff8248fcc2.png" group-title="TV | España",ES: 24h SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100538
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: La 1 SD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España",ES: La 1 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100539
-#EXTINF:-1 tvg-name="ES: La 1 HD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España",ES: La 1 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100540
-#EXTINF:-1 tvg-name="ES: La 1 FHD" tvg-logo="http://l3d.us:25461/images/fd7767cf99cffb1732ced8527b4ca807.png" group-title="TV | España",ES: La 1 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100541
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: La 2 SD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España",ES: La 2 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100542
-#EXTINF:-1 tvg-name="ES: La 2 HD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España",ES: La 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100543
-#EXTINF:-1 tvg-name="ES: La 2 FHD" tvg-logo="http://l3d.us:25461/images/bae8ac125f07781b2875c7f5f229e582.png" group-title="TV | España",ES: La 2 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100544
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España",ES: Antena 3 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100545
-#EXTINF:-1 tvg-name="ES: Antena 3 HD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España",ES: Antena 3 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100546
-#EXTINF:-1 tvg-name="ES: Antena 3 FHD" tvg-logo="http://l3d.us:25461/images/278c010893ed8947584acbc7c1cf9609.png" group-title="TV | España",ES: Antena 3 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100547
-#EXTINF:-1 tvg-name="ES: Antena 3 Internacional SD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España",ES: Antena 3 Internacional SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100548
-#EXTINF:-1 tvg-name="ES: Antena 3 Internacional HD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España",ES: Antena 3 Internacional HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100549
-#EXTINF:-1 tvg-name="ES: Antena 3 Internacional FHD" tvg-logo="http://l3d.us:25461/images/be81e71f4d60a95f04c3ad40ee0e7c15.png" group-title="TV | España",ES: Antena 3 Internacional FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100550
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: Cuatro SD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España",ES: Cuatro SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100551
-#EXTINF:-1 tvg-name="ES: Cuatro HD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España",ES: Cuatro HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100552
-#EXTINF:-1 tvg-name="ES: Cuatro FHD" tvg-logo="http://l3d.us:25461/images/ae006bceab7f8834fb2928cc96004d29.png" group-title="TV | España",ES: Cuatro FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100553
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: Telecinco SD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España",ES: Telecinco SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100554
-#EXTINF:-1 tvg-name="ES: Telecinco HD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España",ES: Telecinco HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100555
-#EXTINF:-1 tvg-name="ES: Telecinco FHD" tvg-logo="http://l3d.us:25461/images/ab71f380322e796b814765a382cb82b4.png" group-title="TV | España",ES: Telecinco FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100556
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: La Sexta SD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España",ES: La Sexta SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100557
-#EXTINF:-1 tvg-name="ES: La Sexta HD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España",ES: La Sexta HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100558
-#EXTINF:-1 tvg-name="ES: La Sexta FHD" tvg-logo="http://l3d.us:25461/images/411f5f9b6a216581e521202d13bef7ef.png" group-title="TV | España",ES: La Sexta FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100559
-#EXTINF:-1 tvg-name="ES: Hispan TV SD" tvg-logo="http://l3d.us:25461/images/c338933dd1ee15038a3aac90356a2c5b.png" group-title="TV | España",ES: Hispan TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100560
-#EXTINF:-1 tvg-name="ES: Intereconomia" tvg-logo="http://l3d.us:25461/images/1207bb1409b21a3c69c0023354193cff.png" group-title="TV | España",ES: Intereconomia
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100561
-#EXTINF:-1 tvg-name="ES: Telemadrid SD" tvg-logo="http://l3d.us:25461/images/f8c27d7a0e447f221113a37adcd82201.png" group-title="TV | España",ES: Telemadrid SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100562
-#EXTINF:-1 tvg-name="ES: CGTN En Español SD" tvg-logo="http://l3d.us:25461/images/f3291790d2b35af70365a95c844222fc.png" group-title="TV | España",ES: CGTN En Español SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100563
-#EXTINF:-1 tvg-name="ES: Star TVE SD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | España",ES: Star TVE SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100564
-#EXTINF:-1 tvg-name="ES: Star TVE FHD" tvg-logo="http://l3d.us:25461/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="TV | España",ES: Star TVE FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100565
-#EXTINF:-1 tvg-name="ES: BeMad FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BeMad_Icon.svg/800px-BeMad_Icon.svg.png" group-title="TV | España",ES: BeMad FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100567
-#EXTINF:-1 tvg-name="ES: Blaze SD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | España",ES: Blaze SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100568
-#EXTINF:-1 tvg-name="ES: Blaze HD" tvg-logo="http://l3d.us:25461/images/dfdfce74e3685cc9a3659bc546cb37cc.png" group-title="TV | España",ES: Blaze HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100569
-#EXTINF:-1 tvg-name="ES: MEGA SD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | España",ES: MEGA SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100570
-#EXTINF:-1 tvg-name="ES: MEGA HD" tvg-logo="http://l3d.us:25461/images/d9d32b01d24d5c45f8cb75e95ca7ed31.png" group-title="TV | España",ES: MEGA HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100571
-#EXTINF:-1 tvg-name="ES: Divinity SD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | España",ES: Divinity SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100572
-#EXTINF:-1 tvg-name="ES: Divinity HD" tvg-logo="http://l3d.us:25461/images/24d1176ddefe601b948c68e67f347a71.png" group-title="TV | España",ES: Divinity HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100573
-#EXTINF:-1 tvg-name="ES: Dkiss SD" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | España",ES: Dkiss SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100574
-#EXTINF:-1 tvg-name="ES: DMAX SD" tvg-logo="http://l3d.us:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="TV | España",ES: DMAX SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100575
-#EXTINF:-1 tvg-name="ES: Energy SD" tvg-logo="http://l3d.us:25461/images/196e5b29b1cdd595717c36b7558d144d.png" group-title="TV | España",ES: Energy SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100576
-#EXTINF:-1 tvg-name="ES: FDF SD" tvg-logo="http://l3d.us:25461/images/ee2105ada1dfece7bb7ab5c0fc68f2b7.png" group-title="TV | España",ES: FDF SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100577
-#EXTINF:-1 tvg-name="ES: FDF HD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | España",ES: FDF HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100578
-#EXTINF:-1 tvg-name="ES: FDF FHD" tvg-logo="http://l3d.us:25461/images/3c46ff85e2f88f81e1392ecdd1280d36.png" group-title="TV | España",ES: FDF FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100579
-#EXTINF:-1 tvg-name="ES: Neox SD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | España",ES: Neox SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100580
-#EXTINF:-1 tvg-name="ES: Neox FHD" tvg-logo="http://l3d.us:25461/images/69f654b079d53aaf56aef0307ab8af3d.png" group-title="TV | España",ES: Neox FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100581
-#EXTINF:-1 tvg-name="ES: Nova SD" tvg-logo="http://l3d.us:25461/images/57eb99d68fe6ced7b01d09dd7c0b68fe.png" group-title="TV | España",ES: Nova SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100582
-#EXTINF:-1 tvg-name="ES: Odisea SD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España",ES: Odisea SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100583
-#EXTINF:-1 tvg-name="ES: Odisea FHD" tvg-logo="http://l3d.us:25461/images/831576acd585fbe847690893b643f0db.png" group-title="TV | España",ES: Odisea FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100584
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: Calle 13 SD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España",ES: Calle 13 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100585
-#EXTINF:-1 tvg-name="ES: Calle 13 HD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España",ES: Calle 13 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100586
-#EXTINF:-1 tvg-name="ES: Calle 13 FHD" tvg-logo="http://l3d.us:25461/images/34779632dbfd783f1f85a57301d9930e.png" group-title="TV | España",ES: Calle 13 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100587
-#EXTINF:-1 tvg-name="ES: Comedy Central SD" tvg-logo="http://l3d.us:25461/images/c9d42757c56ab3ea10c40a692b50adb3.png" group-title="TV | España",ES: Comedy Central SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100588
-#EXTINF:-1 tvg-name="ES: Comedy Central HD" tvg-logo="http://l3d.us:25461/images/c9d42757c56ab3ea10c40a692b50adb3.png" group-title="TV | España",ES: Comedy Central HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100589
-#EXTINF:-1 tvg-name="ES: Comedy Central FHD" tvg-logo="http://l3d.us:25461/images/c9d42757c56ab3ea10c40a692b50adb3.png" group-title="TV | España",ES: Comedy Central FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100590
-#EXTINF:-1 tvg-name="ES: Canal Cocina SD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | España",ES: Canal Cocina SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100591
-#EXTINF:-1 tvg-name="ES: Canal Cocina FHD" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="TV | España",ES: Canal Cocina FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100592
-#EXTINF:-1 tvg-name="ES: COSMO SD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | España",ES: COSMO SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100593
-#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-logo="http://l3d.us:25461/images/65227f2a7396f8cbbc6dbe6511dae55f.png" group-title="TV | España",ES: COSMO HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100594
-#EXTINF:-1 tvg-name="ES: COSMO FHD" tvg-logo="http://l3d.us:25461/images/76c6905d3cdbc4a0b8b105348122721c.png" group-title="TV | España",ES: COSMO FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100595
-#EXTINF:-1 tvg-name="ES: Crimen Investigacion SD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | España",ES: Crimen Investigacion SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100596
-#EXTINF:-1 tvg-name="ES: Crimen Investigacion HD" tvg-logo="http://l3d.us:25461/images/181516304609513dfff0272ea78eedde.png" group-title="TV | España",ES: Crimen Investigacion HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100597
-#EXTINF:-1 tvg-name="ES: Ten SD" tvg-logo="http://l3d.us:25461/images/97be6840973c004eaeb5d894e7681ddc.png" group-title="TV | España",ES: Ten SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100598
-#EXTINF:-1 tvg-name="ES: DARK SD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | España",ES: DARK SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100599
-#EXTINF:-1 tvg-name="ES: DARK FHD" tvg-logo="http://l3d.us:25461/images/516248c93f96b9e66ac7036b767bb2b3.png" group-title="TV | España",ES: DARK FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100601
-#EXTINF:-1 tvg-name="ES: Decasa SD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | España",ES: Decasa SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100602
-#EXTINF:-1 tvg-name="ES: Decasa HD" tvg-logo="http://l3d.us:25461/images/95048bd143f0e4a59249657a420cb7cf.png" group-title="TV | España",ES: Decasa HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100603
-#EXTINF:-1 tvg-name="ES: Discovery Channel SD" tvg-logo="http://l3d.us:25461/images/42c67e5bb71e6f7e612e0f5ec557fcd8.png" group-title="TV | España",ES: Discovery Channel SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100604
-#EXTINF:-1 tvg-name="ES: Discovery Channel FHD" tvg-logo="http://l3d.us:25461/images/42c67e5bb71e6f7e612e0f5ec557fcd8.png" group-title="TV | España",ES: Discovery Channel FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100605
-#EXTINF:-1 tvg-name="ES: Historia SD" tvg-logo="http://l3d.us:25461/images/2ce124f0a3a2c8ca5358b6c7b10b0506.png" group-title="TV | España",ES: Historia SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100606
-#EXTINF:-1 tvg-name="ES: Historia FHD" tvg-logo="http://l3d.us:25461/images/838a653f2110c40cc1a1393bd306a2ac.png" group-title="TV | España",ES: Historia FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100607
-#EXTINF:-1 tvg-name="ES: NatGeo SD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100608
-#EXTINF:-1 tvg-name="ES: NatGeo HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100609
-#EXTINF:-1 tvg-name="ES: NatGeo FHD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100610
-#EXTINF:-1 tvg-name="ES: NatGeo Wild SD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España",ES: NatGeo Wild SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100611
-#EXTINF:-1 tvg-name="ES: NatGeo Wild HD" tvg-logo="http://l3d.us:25461/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="TV | España",ES: NatGeo Wild HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100612
-#EXTINF:-1 tvg-name="ES: NatGeo Wild FHD" tvg-logo="http://l3d.us:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="TV | España",ES: NatGeo Wild FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100613
-#EXTINF:-1 tvg-name="ES: Cazavision SD" tvg-logo="http://l3d.us:25461/images/f21a9236373afe20f8fca55b0c7aa3c6.png" group-title="TV | España",ES: Cazavision SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100614
-#EXTINF:-1 tvg-id="#0.es" tvg-name="ES: #0 SD" tvg-logo="http://l3d.us:25461/images/96eb2e81a7d022ec17b9d93948bcc29c.png" group-title="TV | España",ES: #0 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100615
-#EXTINF:-1 tvg-name="ES: #0 HD" tvg-logo="http://l3d.us:25461/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="TV | España",ES: #0 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100616
-#EXTINF:-1 tvg-name="ES: Sundance TV SD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España",ES: Sundance TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100617
-#EXTINF:-1 tvg-name="ES: Sundance TV HD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España",ES: Sundance TV HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100618
-#EXTINF:-1 tvg-name="ES: Sundance TV FHD" tvg-logo="http://l3d.us:25461/images/c0eb5e1af4939d0fc1df3f17396e0ac4.png" group-title="TV | España",ES: Sundance TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100619
-#EXTINF:-1 tvg-name="ES: MyTime Movie Network SD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | España",ES: MyTime Movie Network SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100621
-#EXTINF:-1 tvg-name="ES: MyTime Movie Network HD" tvg-logo="http://l3d.us:25461/images/f10d20bd603d8d8ee5e8d52b64bc8341.png" group-title="TV | España",ES: MyTime Movie Network HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100622
-#EXTINF:-1 tvg-name="ES: MyTime Movie Network FHD" tvg-logo="http://l3d.us:25461/images/d475fc2411ad5f46e5dd9d91b27d9c70.png" group-title="TV | España",ES: MyTime Movie Network FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100623
-#EXTINF:-1 tvg-name="ES: SyFy SD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | España",ES: SyFy SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100624
-#EXTINF:-1 tvg-name="ES: SyFy FHD" tvg-logo="http://l3d.us:25461/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="TV | España",ES: SyFy FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100626
-#EXTINF:-1 tvg-name="ES: TCM SD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | España",ES: TCM SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100627
-#EXTINF:-1 tvg-name="ES: TCM HD" tvg-logo="http://l3d.us:25461/images/d8fd878a5ce34e8eeaa90d5231814aac.png" group-title="TV | España",ES: TCM HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100628
-#EXTINF:-1 tvg-name="ES: TCM FHD" tvg-logo="http://l3d.us:25461/images/7a767efe4b730c3bc91ebce22c14b359.png" group-title="TV | España",ES: TCM FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100629
-#EXTINF:-1 tvg-name="ES: Hollywood SD" tvg-logo="http://viperos.net:8080/images/6d274be0ae0d21be120712a9bdf94005.png" group-title="TV | España",ES: Hollywood SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100630
-#EXTINF:-1 tvg-name="ES: Hollywood FHD" tvg-logo="http://l3d.us:25461/images/df4b0c57a17eca4868c8b09a19a28d29.png" group-title="TV | España",ES: Hollywood FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100632
-#EXTINF:-1 tvg-name="ES: XTRM FHD" tvg-logo="http://l3d.us:25461/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="TV | España",ES: XTRM FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100634
-#EXTINF:-1 tvg-name="ES: SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_de_Somos.png" group-title="TV | España",ES: SOMOS FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100635
-#EXTINF:-1 tvg-name="ES: A3Series HD" tvg-logo="http://l3d.us:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="TV | España",ES: A3Series HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100637
-#EXTINF:-1 tvg-name="ES: A3Series Internacional FHD" tvg-logo="http://l3d.us:25461/images/31e2206ea8e12c330012c9057d8685a9.png" group-title="TV | España",ES: A3Series Internacional FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100639
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN SD" tvg-logo="http://l3d.us:25461/images/9df9dc140d139200eaefb695973cbb91.png" group-title="TV | España",ES: AXN SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100640
-#EXTINF:-1 tvg-name="ES: AXN HD" tvg-logo="http://l3d.us:25461/images/4f5aac35ad510cf89b65302bfbf84a7c.png" group-title="TV | España",ES: AXN HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100641
-#EXTINF:-1 tvg-name="ES: AXN FHD" tvg-logo="http://l3d.us:25461/images/9df9dc140d139200eaefb695973cbb91.png" group-title="TV | España",ES: AXN FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100642
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN White SD" tvg-logo="http://l3d.us:25461/images/806b81ebbefca74b87870df1b2a78a53.png" group-title="TV | España",ES: AXN White SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100643
-#EXTINF:-1 tvg-name="ES: AXN White HD" tvg-logo="http://l3d.us:25461/images/806b81ebbefca74b87870df1b2a78a53.png" group-title="TV | España",ES: AXN White HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100644
-#EXTINF:-1 tvg-name="ES: AXN White FHD" tvg-logo="http://l3d.us:25461/images/806b81ebbefca74b87870df1b2a78a53.png" group-title="TV | España",ES: AXN White FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100645
-#EXTINF:-1 tvg-name="ES: AMC SD" tvg-logo="http://l3d.us:25461/images/3aabca5d469c0ca1bebd25f152d15fbf.png" group-title="TV | España",ES: AMC SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100646
-#EXTINF:-1 tvg-name="ES: AMC HD" tvg-logo="http://l3d.us:25461/images/d0270475abc07f8ccbb549ea4edb89a7.png" group-title="TV | España",ES: AMC HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100647
-#EXTINF:-1 tvg-name="ES: AMC FHD" tvg-logo="http://l3d.us:25461/images/3aabca5d469c0ca1bebd25f152d15fbf.png" group-title="TV | España",ES: AMC FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100648
-#EXTINF:-1 tvg-name="ES: TNT SD" tvg-logo="http://l3d.us:25461/images/0488a6efb0b89b772b3e3613065ebde8.png" group-title="TV | España",ES: TNT SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100649
-#EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="http://l3d.us:25461/images/8eeea4183a652495ab53413743c60d07.png" group-title="TV | España",ES: TNT HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100650
-#EXTINF:-1 tvg-name="ES: TNT FHD" tvg-logo="http://l3d.us:25461/images/0488a6efb0b89b772b3e3613065ebde8.png" group-title="TV | España",ES: TNT FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100651
-#EXTINF:-1 tvg-name="ES: FOX SD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España",ES: FOX SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100652
-#EXTINF:-1 tvg-name="ES: FOX HD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España",ES: FOX HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100653
-#EXTINF:-1 tvg-name="ES: FOX FHD" tvg-logo="http://l3d.us:25461/images/27208cab989e6c75e53b88e1d05729a9.png" group-title="TV | España",ES: FOX FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100654
-#EXTINF:-1 tvg-name="ES: M. Estrenos SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Estrenos SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100664
-#EXTINF:-1 tvg-name="ES: M. Estrenos HD" tvg-logo="http://l3d.us:25461/images/96f68e8ed150ff892d042131309c264d.png" group-title="TV | España",ES: M. Estrenos HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100665
-#EXTINF:-1 tvg-name="ES: M. Estrenos FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Estrenos FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100666
-#EXTINF:-1 tvg-name="ES: M. Estrenos 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Estrenos 2 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100667
-#EXTINF:-1 tvg-name="ES: M. Estrenos 2 HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Estrenos 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100668
-#EXTINF:-1 tvg-name="ES: M. Estrenos 2 FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Estrenos 2 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100669
-#EXTINF:-1 tvg-name="ES: M. Drama SD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España",ES: M. Drama SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100670
-#EXTINF:-1 tvg-name="ES: M. Drama HD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España",ES: M. Drama HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100671
-#EXTINF:-1 tvg-name="ES: M. Drama FHD" tvg-logo="http://l3d.us:25461/images/14c774786a0da8b3859c42408f63ab83.png" group-title="TV | España",ES: M. Drama FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100672
-#EXTINF:-1 tvg-name="ES: M. Accion FHD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España",ES: M. Accion FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100675
-#EXTINF:-1 tvg-name="ES: M. Comedia SD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España",ES: M. Comedia SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100676
-#EXTINF:-1 tvg-name="ES: M. Comedia HD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España",ES: M. Comedia HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100677
-#EXTINF:-1 tvg-name="ES: M. Comedia FHD" tvg-logo="http://l3d.us:25461/images/55affa621060decf75fcd4fa73550c2d.png" group-title="TV | España",ES: M. Comedia FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100678
-#EXTINF:-1 tvg-name="ES: M. Series HD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Series HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100680
-#EXTINF:-1 tvg-name="ES: M. Series FHD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Series FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100682
-#EXTINF:-1 tvg-name="ES: M. Series 2 SD" tvg-logo="http://l3d.us:25461/images/2cc0f0fbe1cd185b9ce61611a947f878.png" group-title="TV | España",ES: M. Series 2 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100683
-#EXTINF:-1 tvg-name="ES: M. Series 2 FHD" tvg-logo="http://l3d.us:25461/images/d59a4095b2b513f0f931726e584e50c4.png" group-title="TV | España",ES: M. Series 2 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100684
-#EXTINF:-1 tvg-name="ES: M. Cine Español SD" tvg-logo="http://l3d.us:25461/images/7312d808e8b085fe3427978a8b4d710a.png" group-title="TV | España",ES: M. Cine Español SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100685
-#EXTINF:-1 tvg-name="ES: Taquilla 1" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 1
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100686
-#EXTINF:-1 tvg-name="ES: Taquilla 2" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 2
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100687
-#EXTINF:-1 tvg-name="ES: Taquilla 3" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 3
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100688
-#EXTINF:-1 tvg-name="ES: Taquilla 4 Crimen" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 4 Crimen
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100689
-#EXTINF:-1 tvg-name="ES: Taquilla 5" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 5
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100690
-#EXTINF:-1 tvg-name="ES: Taquilla 6" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 6
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100691
-#EXTINF:-1 tvg-name="ES: Taquilla 7" tvg-logo="http://l3d.us:25461/images/69d586f859927b229a0199ce62e7189e.png" group-title="TV | España",ES: Taquilla 7
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100692
-#EXTINF:-1 tvg-name="ES: Boing SD" tvg-logo="http://l3d.us:25461/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="TV | España",ES: Boing SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100714
-#EXTINF:-1 tvg-name="ES: Boing HD" tvg-logo="http://l3d.us:25461/images/00bb5483bd1b93c823c1434946acbacc.png" group-title="TV | España",ES: Boing HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100715
-#EXTINF:-1 tvg-name="ES: Baby TV SD" tvg-logo="http://l3d.us:25461/images/6838538c7933ec9b17ab75f4643da8f7.png" group-title="TV | España",ES: Baby TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100716
-#EXTINF:-1 tvg-name="ES: Canal Panda SD" tvg-logo="http://l3d.us:25461/images/1bb95f514e29d297c895502782c30e67.png" group-title="TV | España",ES: Canal Panda SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100717
-#EXTINF:-1 tvg-name="ES: Clan TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" group-title="TV | España",ES: Clan TVE SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100718
-#EXTINF:-1 tvg-name="ES: Disney Channel SD" tvg-logo="http://l3d.us:25461/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" group-title="TV | España",ES: Disney Channel SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100719
-#EXTINF:-1 tvg-name="ES: Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="TV | España",ES: Disney Channel HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100720
-#EXTINF:-1 tvg-name="ES: Disney Channel FHD" tvg-logo="http://l3d.us:25461/images/5bc92e45e1b6ef92fe8334157ee5ffd3.png" group-title="TV | España",ES: Disney Channel FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100721
-#EXTINF:-1 tvg-name="ES: Disney Junior SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="TV | España",ES: Disney Junior SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100722
-#EXTINF:-1 tvg-name="ES: Nick Jr SD" tvg-logo="http://l3d.us:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="TV | España",ES: Nick Jr SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100723
-#EXTINF:-1 tvg-name="ES: Nickelodeon FHD" tvg-logo="http://l3d.us:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png" group-title="TV | España",ES: Nickelodeon FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100727
-#EXTINF:-1 tvg-name="ES: M. Dreamworks HD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | España",ES: M. Dreamworks HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100729
-#EXTINF:-1 tvg-name="ES: M. Dreamworks FHD" tvg-logo="http://l3d.us:25461/images/1826d1de2415cb28f6284726e116f982.png" group-title="TV | España",ES: M. Dreamworks FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100730
-#EXTINF:-1 tvg-name="ES: Mezzo SD" tvg-logo="http://l3d.us:25461/images/8e7f4607f832559715e50be425a2cbe1.png" group-title="TV | España",ES: Mezzo SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100738
-#EXTINF:-1 tvg-name="ES: M. Fest FHD" tvg-logo="http://l3d.us:25461/images/d59636fee9b96ed457085ce3075ddca2.png" group-title="TV | España",ES: M. Fest FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100739
-#EXTINF:-1 tvg-name="ES: Alcarria TV SD" tvg-logo="http://l3d.us:25461/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="TV | España",ES: Alcarria TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100740
-#EXTINF:-1 tvg-name="ES: A Punt SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg/1200px-Logotip_d%27%C3%80_Punt_M%C3%A8dia_%282017-%29.svg.png" group-title="TV | España",ES: A Punt SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100741
-#EXTINF:-1 tvg-name="ES: Aragon TV SD" tvg-logo="http://l3d.us:25461/images/06069dbe458b1539d4d88be814ea19cb.png" group-title="TV | España",ES: Aragon TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100742
-#EXTINF:-1 tvg-name="ES: Bondia TV SD" tvg-logo="http://l3d.us:25461/images/4522ae57682243e701fb7197542e0ca4.png" group-title="TV | España",ES: Bondia TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100743
-#EXTINF:-1 tvg-name="ES: Canal Sur Andalucía FHD" tvg-logo="http://l3d.us:25461/images/b2dd0c4f74898327e6137af710116eb2.png" group-title="TV | España",ES: Canal Sur Andalucía FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100744
-#EXTINF:-1 tvg-name="ES: Canal Malaga HD" tvg-logo="http://l3d.us:25461/images/2459d140c6d2c5f1de9a365ce863da7a.png" group-title="TV | España",ES: Canal Malaga HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100745
-#EXTINF:-1 tvg-name="ES: Canal 25 Barbastro TV HD" tvg-logo="http://l3d.us:25461/images/f105b58bff03918dc7bbc52904f41474.png" group-title="TV | España",ES: Canal 25 Barbastro TV HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100746
-#EXTINF:-1 tvg-name="ES: Canal Extremadura TV SD" tvg-logo="http://l3d.us:25461/images/503616d8de996e3bb26736d29f8db408.png" group-title="TV | España",ES: Canal Extremadura TV SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100747
-#EXTINF:-1 tvg-name="ES: Diez TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/DiezTV.png" group-title="TV | España",ES: Diez TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100748
-#EXTINF:-1 tvg-name="ES: Hamaika FHD" tvg-logo="http://l3d.us:25461/images/ad22fefe609dbdfe140e9b9fbe0dcc75.png" group-title="TV | España",ES: Hamaika FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100749
-#EXTINF:-1 tvg-name="ES: Interalmeria FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Interalmeria_tv_logo.png" group-title="TV | España",ES: Interalmeria FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100751
-#EXTINF:-1 tvg-name="ES: Canal Sur Andalucía SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_Sur_Radio.png" group-title="TV | España",ES: Canal Sur Andalucía SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100752
-#EXTINF:-1 tvg-name="ES: TV Galicia America SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia America SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100753
-#EXTINF:-1 tvg-name="ES: TV Galicia America HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia America HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100754
-#EXTINF:-1 tvg-name="ES: TV Galicia Cultura HD" tvg-logo="http://l3d.us:25461/images/7d65c411e3bd9690c3f5df0607de6d4d.png" group-title="TV | España",ES: TV Galicia Cultura HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100755
-#EXTINF:-1 tvg-name="ES: TV Galicia Europa SD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia Europa SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100756
-#EXTINF:-1 tvg-name="ES: TV Galicia Europa HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia Europa HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100757
-#EXTINF:-1 tvg-name="ES: TV Galicia Infantil HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia Infantil HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100758
-#EXTINF:-1 tvg-name="ES: TV Galicia Momentos G HD" tvg-logo="http://l3d.us:25461/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="TV | España",ES: TV Galicia Momentos G HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100759
-#EXTINF:-1 tvg-name="ES: Televisió de Girona HD" tvg-logo="http://l3d.us:25461/images/bb1421c87bc56f6c4a7f3d46f1c3132f.png" group-title="TV | España",ES: Televisió de Girona HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100760
-#EXTINF:-1 tvg-name="ES: TV3 FHD" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España",ES: TV3 FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100761
-#EXTINF:-1 tvg-name="ES: ETB 1 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España",ES: ETB 1 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100762
-#EXTINF:-1 tvg-name="ES: ETB 2 SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España",ES: ETB 2 SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100764
-#EXTINF:-1 tvg-name="ES: ETB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/1200px-ETB2_2022_logo.svg.png" group-title="TV | España",ES: ETB 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100765
-#EXTINF:-1 tvg-name="ES: ETB SAT SD" tvg-logo="http://l3d.us:25461/images/71d6cafa48f7aa3d3d89bca9dc1acb89.png" group-title="TV | España",ES: ETB SAT SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100766
-#EXTINF:-1 tvg-name="ES: RTV Castilla y León SD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España",ES: RTV Castilla y León SD (web)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100767
-#EXTINF:-1 tvg-name="ES: RTV Castilla y León HD (web)" tvg-logo="http://l3d.us:25461/images/a0c6b099aa832e785f1a9577b9c30285.png" group-title="TV | España",ES: RTV Castilla y León HD (web)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100768
-#EXTINF:-1 tvg-name="SP: ES: #Vamos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España",SP: ES: #Vamos
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100770
-#EXTINF:-1 tvg-name="SP: ES: #Vamos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España",SP: ES: #Vamos HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100771
-#EXTINF:-1 tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/2490px-Vamos.svg.png" group-title="TV | España",SP: ES: #Vamos FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100772
-#EXTINF:-1 tvg-name="ES: DKISS" tvg-logo="http://l3d.us:25461/images/c0d45777646daf8263fd589cfc8f1379.png" group-title="TV | España",ES: DKISS
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2100801
-#EXTINF:-1 tvg-name="ES: M. Accion SD" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="TV | España",ES: M. Accion SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2146875
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/32.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9177.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1183.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES 2
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/33.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES 2 FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1185.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | M+ SERIES 2 HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9178.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | CALLE 13
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/24.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | CALLE 13 FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1210.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | FOX
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/28.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | FOX FULLHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1186.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AXN
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/18.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AXN FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1189.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AXN WHITE
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/19.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AXN WHITE FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1190.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AMC
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/29.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AMC FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1188.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | TNT
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/30.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | TNT HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9167.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | TNT FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1194.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | SYFY
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/15.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | SYFY HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9170.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | SYFY FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/638.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | COSMOS
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/629.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | COSMO FULLHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/2.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | COMEDY CENTRAL
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/26.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | COMEDY CENTRAL FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/5502.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | MTV
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/7.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | FDF
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/46.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | A3SERIES HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/82.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | DIVINITY
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/80.ts
+#EXTINF:-1 group-title="TV | España",************** DOCUMENTAL **************
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/68582.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | MEGA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/43.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA| ENERGY
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/72.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | AMC CRIMEN
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/40.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | DECASA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/449.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | DECASA FULLHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9703.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | CANAL COCINA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/117.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | CANAL COCINA FULLHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/8734.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | BE MAD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9100.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | BE MAD HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9192.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | BE MAD FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/546.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NEOX
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/41.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NOVA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/42.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | ODISEA FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/18890.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | BLAZE FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/51198.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | HISTORIA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/52.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | HISTORIA FULLHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/7873.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | DISCOVERY  CHANNEL
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | ODISEA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/31.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NATIONAL GEOGRAPHIC
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/37.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NAT GEO FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/6694.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NATIONAL GEOGRAFIC WILD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/34.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NATIONAL GEOGRAFIC WILD HD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9195.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | NATIONAL GEOGRAFIC WILD FHD
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/651.ts
+#EXTINF:-1 group-title="TV | España",ESPAÑA | DMAX
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/1171.ts
 #EXTINF:-1 tvg-id="SkySp16.Mx" tvg-name="SE| Sky Sports Premiere League (Español)" tvg-logo="http://l3d.us:25461/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="TV | Soccer Europa",SE| Sky Sports Premiere League (Español)
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/219090
 #EXTINF:-1 tvg-id="SkySports.UK" tvg-name="SE| Sky Sports Premiere League" tvg-logo="http://l3d.us:25461/images/cef969dfd13e807c26c71763b3d68d83.png" group-title="TV | Soccer Europa",SE| Sky Sports Premiere League
@@ -6155,6 +5919,32 @@ http://playhispano.org:8080/Casjahj/Jhajsac/130489
 http://playhispano.org:8080/Casjahj/Jhajsac/130796
 #EXTINF:-1 tvg-name="24H | Rocky Balboa" tvg-logo="http://www.skytvpluzz.online:8000/images/ef34af50059c5726d45388b27aa92f9a.png" group-title="➤ ZONA  24/7 Peliculas",24H | Rocky Balboa
 http://playhispano.org:8080/Casjahj/Jhajsac/130797
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",1 TAQUILLA ACCION
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146743.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",2 TAQUILLA ANIMACION
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146744.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",3 TAQUILLA CIENCIA FICCION
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146745.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",4 TAQUILLA CRIMEN
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146778.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",5 TAQUILLA TERROR
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146801.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",6 TAQUILLA DRAMA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146797.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",7 TAQUILLA COMEDIA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146802.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",8 TAQUILLA ROMANCE
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146796.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",11 TAQUILLA AVENTURA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/146829.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",12 TAQUILLA IPTVTOOL BELICA
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/153170.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",12 TAQUILLA STAR WARS
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/148536.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",TAQUILLA SAW
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/235652.ts
+#EXTINF:-1 group-title="➤ ZONA  24/7 Peliculas",TAQUILLA ESTRENOS 2 IPTVTOOL
+http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/148543.ts
 #EXTINF:-1 tvg-name="24/7 | Dinosaurios" tvg-logo="http://l3d.us:25461/images/7bf7018581a8bbf371d0c3d3ee92f9e8.png" group-title="➤ ZONA 24/7 Retro",24/7 | Dinosaurios
 http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/2090879
 #EXTINF:-1 tvg-name="24/7 | El Coyote y el Correcaminos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="➤ ZONA 24/7 Retro",24/7 | El Coyote y el Correcaminos
