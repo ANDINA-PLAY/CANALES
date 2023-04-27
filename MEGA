@@ -95,6 +95,14 @@ http://playhispano.org:8080/Casjahj/Jhajsac/129489
 http://playhispano.org:8080/Casjahj/Jhajsac/140676
 #EXTINF:-1 tvg-name="ECUA| GOLTV HD*" tvg-logo="http://playhispano.org:25461/images/d83efbc5a641efaf1e2c665df5664dfc.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| GOLTV HD*
 http://playhispano.org:8080/Casjahj/Jhajsac/140677
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU║ Directv Sports SD (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404338.ts
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU║ GolTv HD (10Mb) ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404339.ts
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU║ Canal Del Futbol  (12Mb) ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404340.ts
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU║ Canal Del Futbol  SD (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404341.ts
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC)
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145490
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECUADOR | Gol TV
@@ -283,24 +291,32 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2445
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
 #EXTINF:-1 group-title="LAT - Ecuador   V I P",ECUADOR | TVC 
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/26476
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TVC
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216416.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TeleAmazonas
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216415.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: TC TV
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216414.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Ecuador TV
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216408.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Ecuavisa
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216409.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Gamavision
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216410.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Gol TV
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216411.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: Oromar TV
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216412.ts
-#EXTINF:-1 group-title="LAT - Ecuador   V I P",EC: RTS
-http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/216413.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ Ecuavisa  SD (5Mb) ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404348.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ TC TELEVISION HD (12Mb)   ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404350.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ TC TELEVISION SD (5mb) test @
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404351.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ Teleamazonas  (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404353.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ TVC  Televicentro  (8Mb)   //● @
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404355.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ GAMA TV SD (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404357.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ RTS SD (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404359.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ OroMar SD (5Mb)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404361.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ CCTV QUEVEDO (5Mb)    //●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404363.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║  Canela TV  ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404367.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU : Teleamazonas [Gquil]  OP2  ●
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404386.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ TELEMAR Esmeraldas  // ●  (No 24/7)
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404388.ts
+#EXTINF:-1 group-title="LAT - Ecuador   V I P",ECU║ ON DIRECTV
+http://patxitv.com:80/live/WM8sN7AtjL/zTeWUTUp6S/1404389.ts
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA
 http://31.42.185.216:8000/LineaInterna20ANKDE/NUEVA73495FF/27
 #EXTINF:-1 group-title="LAT - Ecuador 7",ECU: ECUAVISA (SIERRA)
