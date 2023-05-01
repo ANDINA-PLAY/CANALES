@@ -1,72 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
-#EXTINF:-1 tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
-#EXTINF:-1 tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports Plus FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
-#EXTINF:-1 tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports Plus HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
-#EXTINF:-1 tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV (MOVIL)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
-#EXTINF:-1 tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOL TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
-#EXTINF:-1 tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOL TV HD (OPC 1)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
-#EXTINF:-1 tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV HD (OPCION 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
-#EXTINF:-1 tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV | Ecuador
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
-#EXTINF:-1 tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOLTV ECUADOR HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
-#EXTINF:-1 tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11047
-#EXTINF:-1 tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports 2 HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11025
-#EXTINF:-1 tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11024
-#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports Plus FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176955
-#EXTINF:-1 tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Directv Sports Plus HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/11026
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10394
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176964
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10395
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176965
-#EXTINF:-1 tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| El Canal del Futbol SD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/10396
-#EXTINF:-1 tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:25461/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/176966
-#EXTINF:-1 tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV (MOVIL)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180467
-#EXTINF:-1 tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOL TV FHD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180460
-#EXTINF:-1 tvg-name="EC| GOL TV HD (OPC 1)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOL TV HD (OPC 1)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180461
-#EXTINF:-1 tvg-name="EC| Gol TV HD (OPCION 2)" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV HD (OPCION 2)
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180469
-#EXTINF:-1 tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:25461/images/182f85375003d38954de41688317bea5.jpg" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| Gol TV | Ecuador
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180453
-#EXTINF:-1 tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC| GOLTV ECUADOR HD
-http://nmstreaming.live:25461/Daleplayperu52/tVFeXytHnZ/180475
 #EXTINF:-1 tvg-name="ECUA| GOLTV HD*" tvg-logo="https://www.nicepng.com/png/detail/5-52552_1-tvg-logo-http-gol-tv-logo-png.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| GOLTV HD*
 http://playhispano.org:8080/Casjahj/Jhajsac/86532
 #EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="https://i.picasion.com/pic92/60662cbbebf6f1be40ca8ed7f890833c.gif" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| DIRECTV SPORTS HD
@@ -147,14 +79,8 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/39524
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV HD (EC) #2
 http://31.42.185.216:8000/supertelev2/QXG8XCHKMT/145491
-#EXTINF:-1 tvg-name="ECU: GOLTV ECUADOR" tvg-logo="https://wallpapercave.com/wp/wp4209517.png" group-title="➤ ZONA LIGA PRO ECUADOR",ECU: GOLTV ECUADOR
-http://abc123.digital:8080/Jones112b@msn.com/NmI7NaNqW8/495529
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU - GOL TV SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/25753
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",ECU - GOL TV FHD
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53381
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",2 MB | GOL TV LQ
-http://sdmx.us:25461/CPlayplus_1/HsYqKZQrTZaxK/2095412
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",USA: GOLTV HD (SPANISH)
 http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/94472
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR",Gol TV HD (ECU)
