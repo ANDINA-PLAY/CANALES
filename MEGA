@@ -301,28 +301,6 @@ http://192.99.70.160:25461/maria23/maria23/360
 http://192.99.70.160:25461/maria23/maria23/362
 #EXTINF:-1 group-title="LAT - Ecuador 4",TELEAMAZONAS
 http://192.99.70.160:25461/maria23/maria23/363
-#EXTINF:-1 group-title="LAT - Ecuador 4",CANAL UNO
-http://jagertv.us:2999/skycaster/cambio/355
-#EXTINF:-1 group-title="LAT - Ecuador 4",ECUADOR TV
-http://jagertv.us:2999/skycaster/cambio/356
-#EXTINF:-1 group-title="LAT - Ecuador 4",ECUADOR TV INTERNACIONAL
-http://jagertv.us:2999/skycaster/cambio/357
-#EXTINF:-1 group-title="LAT - Ecuador 4",ECUAVISA
-http://jagertv.us:2999/skycaster/cambio/358
-#EXTINF:-1 group-title="LAT - Ecuador 4",ECUAVISA INTERNACIONAL
-http://jagertv.us:2999/skycaster/cambio/359
-#EXTINF:-1 group-title="LAT - Ecuador 4",GAMAVISION
-http://jagertv.us:2999/skycaster/cambio/360
-#EXTINF:-1 group-title="LAT - Ecuador 4",RST
-http://jagertv.us:2999/skycaster/cambio/361
-#EXTINF:-1 group-title="LAT - Ecuador 4",TC TELEVISION
-http://jagertv.us:2999/skycaster/cambio/362
-#EXTINF:-1 group-title="LAT - Ecuador 4",TELEAMAZONAS
-http://jagertv.us:2999/skycaster/cambio/363
-#EXTINF:-1 group-title="LAT - Ecuador 4",TELEVICENTRO
-http://jagertv.us:2999/skycaster/cambio/364
-#EXTINF:-1 group-title="LAT - Ecuador 4",Directv ecuador
-http://jagertv.us:2999/skycaster/cambio/137499
 #EXTINF:-1 group-title="LAT - Ecuador 3",ECUADOR: TC TELEVISI
 http://tvstar.icu:8080/37931569/37931569/164902
 #EXTINF:-1 group-title="LAT - Ecuador 3",ECUADOR: RTS HD
@@ -2337,138 +2315,6 @@ http://192.99.70.160:25461/maria23/maria23/91113
 http://192.99.70.160:25461/maria23/maria23/91116
 #EXTINF:-1 group-title="TV | Cine",SONY COMEDIAS
 http://192.99.70.160:25461/maria23/maria23/91117
-#EXTINF:-1 group-title="TV | Cine",A&E  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313032
-#EXTINF:-1 group-title="TV | Cine",AMC  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313033
-#EXTINF:-1 group-title="TV | Cine",AXN  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313034
-#EXTINF:-1 group-title="TV | Cine",Cinecanal  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313035
-#EXTINF:-1 group-title="TV | Cine",Cinemax  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313036
-#EXTINF:-1 group-title="TV | Cine",DHE FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313037
-#EXTINF:-1 group-title="TV | Cine",FX  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313038
-#EXTINF:-1 group-title="TV | Cine",Golden  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313039
-#EXTINF:-1 group-title="TV | Cine",HBO FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313040
-#EXTINF:-1 group-title="TV | Cine",Paramount  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313041
-#EXTINF:-1 group-title="TV | Cine",Star Channel FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313042
-#EXTINF:-1 group-title="TV | Cine",Sony  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313043
-#EXTINF:-1 group-title="TV | Cine",Space  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313044
-#EXTINF:-1 group-title="TV | Cine",Studio Universal FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313045
-#EXTINF:-1 group-title="TV | Cine",Sun Channel FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313046
-#EXTINF:-1 group-title="TV | Cine",TNT  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313047
-#EXTINF:-1 group-title="TV | Cine",TNT Series  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313048
-#EXTINF:-1 group-title="TV | Cine",UNIVERSAL CHANNEL FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313049
-#EXTINF:-1 group-title="TV | Cine",Warner Channel FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313050
-#EXTINF:-1 group-title="TV | Cine",HBO Family  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313051
-#EXTINF:-1 group-title="TV | Cine",HBO 2 FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313052
-#EXTINF:-1 group-title="TV | Cine",HBO Xtreme FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313053
-#EXTINF:-1 group-title="TV | Cine",CLOVER  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313054
-#EXTINF:-1 group-title="TV | Cine",Kanal D Drama  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313055
-#EXTINF:-1 group-title="TV | Cine",A3 Series FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313057
-#EXTINF:-1 group-title="TV | Cine",HBO POP  FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313058
-#EXTINF:-1 group-title="TV | Cine",TBS Very Funny FHD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313059
-#EXTINF:-1 group-title="TV | Cine",TNT  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313063
-#EXTINF:-1 group-title="TV | Cine",Star Channel  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313066
-#EXTINF:-1 group-title="TV | Cine",Warner Channel SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313067
-#EXTINF:-1 group-title="TV | Cine",Universal  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313068
-#EXTINF:-1 group-title="TV | Cine",Sony  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313069
-#EXTINF:-1 group-title="TV | Cine",Space  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313070
-#EXTINF:-1 group-title="TV | Cine",I-sat  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313072
-#EXTINF:-1 group-title="TV | Cine",AXN  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313073
-#EXTINF:-1 group-title="TV | Cine",TBS  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313074
-#EXTINF:-1 group-title="TV | Cine",SYFY  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313076
-#EXTINF:-1 group-title="TV | Cine",Tnt Series  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313077
-#EXTINF:-1 group-title="TV | Cine",FX SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313079
-#EXTINF:-1 group-title="TV | Cine",Cinecanal  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313081
-#EXTINF:-1 group-title="TV | Cine",Cinemax  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313082
-#EXTINF:-1 group-title="TV | Cine",TCM  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313088
-#EXTINF:-1 group-title="TV | Cine",EWTV  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313092
-#EXTINF:-1 group-title="TV | Cine",Golden  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313093
-#EXTINF:-1 group-title="TV | Cine",HBO  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313095
-#EXTINF:-1 group-title="TV | Cine",HBO Mundi SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313096
-#EXTINF:-1 group-title="TV | Cine",HBO Signature  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313097
-#EXTINF:-1 group-title="TV | Cine",HBO 2  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313098
-#EXTINF:-1 group-title="TV | Cine",Hola TV SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313099
-#EXTINF:-1 group-title="TV | Cine",Lifetime  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313102
-#EXTINF:-1 group-title="TV | Cine",Paramount  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313104
-#EXTINF:-1 group-title="TV | Cine",Univision TLNovelas SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313105
-#EXTINF:-1 group-title="TV | Cine",Studio Universal  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313106
-#EXTINF:-1 group-title="TV | Cine",A&E SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313107
-#EXTINF:-1 group-title="TV | Cine",HBO Family SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313108
-#EXTINF:-1 group-title="TV | Cine",HBO Plus SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313109
-#EXTINF:-1 group-title="TV | Cine",De Pelicula SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313113
-#EXTINF:-1 group-title="TV | Cine",HBO POP  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313114
-#EXTINF:-1 group-title="TV | Cine",HBO Xtreme SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313116
-#EXTINF:-1 group-title="TV | Cine",Kanal D Drama  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313117
-#EXTINF:-1 group-title="TV | Cine",Universal Comedy SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313118
-#EXTINF:-1 group-title="TV | Cine",Universal Premiere  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313119
-#EXTINF:-1 group-title="TV | Cine",Mas Chic  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313120
-#EXTINF:-1 group-title="TV | Cine",Sun Channel  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313121
-#EXTINF:-1 group-title="TV | Cine",AMC  SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313122
-#EXTINF:-1 group-title="TV | Cine",Universal Cinema SD (CL*)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/313124
 #EXTINF:-1 group-title="TV | Cine",Cinecanal FHD (CO.) (E)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35235
 #EXTINF:-1 group-title="TV | Cine",AXN FHD (CO) (E)
@@ -2477,58 +2323,6 @@ http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35239
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35241
 #EXTINF:-1 group-title="TV | Cine",DHE FHD (E)
 http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35245
-#EXTINF:-1 group-title="TV | Cine",Paramount Channel FHD (CO.) (E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35246
-#EXTINF:-1 group-title="TV | Cine",Universal Channel SD (CO.) (E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35265
-#EXTINF:-1 group-title="TV | Cine",Universal Channel FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35266
-#EXTINF:-1 group-title="TV | Cine",Studio Universal FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35267
-#EXTINF:-1 group-title="TV | Cine",HBO FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35286
-#EXTINF:-1 group-title="TV | Cine",HBO 2 FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35288
-#EXTINF:-1 group-title="TV | Cine",HBO Plus FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35290
-#EXTINF:-1 group-title="TV | Cine",HBO Family FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35292
-#EXTINF:-1 group-title="TV | Cine",HBO Xtreme FHD (MX E)
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/35258
-#EXTINF:-1 group-title="TV | Cine",Universal Channel HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312892
-#EXTINF:-1 group-title="TV | Cine",TNT Series HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312893
-#EXTINF:-1 group-title="TV | Cine",TNT HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312894
-#EXTINF:-1 group-title="TV | Cine",Caracol TV HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312895
-#EXTINF:-1 group-title="TV | Cine",TBS HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312896
-#EXTINF:-1 group-title="TV | Cine",Studio Universal HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312897
-#EXTINF:-1 group-title="TV | Cine",Space HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312898
-#EXTINF:-1 group-title="TV | Cine",Sony HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312899
-#EXTINF:-1 group-title="TV | Cine",Paramount Network HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312900
-#EXTINF:-1 group-title="TV | Cine",Natgeo HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312903
-#EXTINF:-1 group-title="TV | Cine",History Channel HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312906
-#EXTINF:-1 group-title="TV | Cine",HBO Signature HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312907
-#EXTINF:-1 group-title="TV | Cine",HBO Family HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312908
-#EXTINF:-1 group-title="TV | Cine",History 2 HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312909
-#EXTINF:-1 group-title="TV | Cine",Star Channel HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312910
-#EXTINF:-1 group-title="TV | Cine",Universal Premiere HD (LAT)*
-http://hidra.live:80/LVH60Ml8Hc/O4XSkHm6Yj/312912
-#EXTINF:-1 tvg-id="amchd.mx" tvg-name="LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="TV | Cine",LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:8080/Casjahj/Jhajsac/86848
 #EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="TV | Cine",LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Casjahj/Jhajsac/86850
 #EXTINF:-1 tvg-id="fx.mx" tvg-name="LATINO| FX PREMIUN FHD(DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/fadab9b1cc9a337d33df62a95799b4ea.gif" group-title="TV | Cine",LATINO| FX PREMIUN FHD(DUAL AUDIO)
@@ -2867,40 +2661,6 @@ http://qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI2/20083
 http://qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI2/20288
 #EXTINF:-1 group-title="TV | Cine",LA: HBO FAMILY HD
 http://qqtv.nl:8080/qqtv2qqtv2/UTibNqVKFI2/20355
-#EXTINF:-1 group-title="TV | Cine",CINECANAL
-http://jagertv.us:2999/skycaster/cambio/36
-#EXTINF:-1 group-title="TV | Cine",FOX
-http://jagertv.us:2999/skycaster/cambio/69
-#EXTINF:-1 group-title="TV | Cine",FOX LIFE
-http://jagertv.us:2999/skycaster/cambio/74
-#EXTINF:-1 group-title="TV | Cine",FX
-http://jagertv.us:2999/skycaster/cambio/80
-#EXTINF:-1 group-title="TV | Cine",FXM
-http://jagertv.us:2999/skycaster/cambio/81
-#EXTINF:-1 group-title="TV | Cine",GOLDEN EDGE
-http://jagertv.us:2999/skycaster/cambio/85
-#EXTINF:-1 group-title="TV | Cine",GOLDEN PLUS
-http://jagertv.us:2999/skycaster/cambio/86
-#EXTINF:-1 group-title="TV | Cine",HBO
-http://jagertv.us:2999/skycaster/cambio/87
-#EXTINF:-1 group-title="TV | Cine",HBO 2
-http://jagertv.us:2999/skycaster/cambio/88
-#EXTINF:-1 group-title="TV | Cine",HBO FAMILY
-http://jagertv.us:2999/skycaster/cambio/89
-#EXTINF:-1 group-title="TV | Cine",SONY
-http://jagertv.us:2999/skycaster/cambio/112
-#EXTINF:-1 group-title="TV | Cine",SPACE
-http://jagertv.us:2999/skycaster/cambio/113
-#EXTINF:-1 group-title="TV | Cine",STARZ
-http://jagertv.us:2999/skycaster/cambio/114
-#EXTINF:-1 group-title="TV | Cine",STARZ ENCORE
-http://jagertv.us:2999/skycaster/cambio/115
-#EXTINF:-1 group-title="TV | Cine",STUDIO UNIVERSAL
-http://jagertv.us:2999/skycaster/cambio/116
-#EXTINF:-1 group-title="TV | Cine",SYFY
-http://jagertv.us:2999/skycaster/cambio/118
-#EXTINF:-1 group-title="TV | Cine",TCM
-http://jagertv.us:2999/skycaster/cambio/120
 #EXTINF:-1 tvg-name="LA: DISCOVERY  HOME & HEALTH" group-title="TV | Cultura V I P",LA: DISCOVERY  HOME & HEALTH
 http://uniontv.info:8080/belmrj/0944722244/326802
 #EXTINF:-1 group-title="TV | Cultura V I P",DISCOVERY CHANNEL
