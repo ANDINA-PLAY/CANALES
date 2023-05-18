@@ -53,6 +53,8 @@ http://playhispano.org:8080/flowtvhd/JbCvBidBDt/86532
 http://playhispano.org:8080/flowtvhd/JbCvBidBDt/140676
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUA| GOLTV HD*
 http://playhispano.org:8080/flowtvhd/JbCvBidBDt/140677
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",LIGA ECUADOR: GOL TV HD OP1
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129712
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| TELEAMAZONAS HD*
 http://playhispano.org:8080/flowtvhd/JbCvBidBDt/86531
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| RST HD*
@@ -143,6 +145,82 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/304400
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304404
 #EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
 http://playhispano.org:8080/Casjahj/Jhajsac/129475
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| TELEAMAZONAS HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86531
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| GOLTV HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86532
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| RST HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86537
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86538
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| ECUAVISA INTERNACIONAL HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86543
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| TC TV HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86545
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| DIRECTV SPORTS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86547
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86549
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR| GOL TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/119642
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| ESPN 4 SUR HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/119644
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| DIRECTV SPORTS 2 HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/119648
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | CANAL UNO (fw)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129466
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | TVC HD (P)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129467
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | TC TELEVISION  (A)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129468
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | RTS (fw)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129469
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | ECUAVISA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129470
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | TELEAMAZONAS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129471
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR | CANELA TV (P)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129472
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129475
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | TELEAMAZONAS FHD (GYE)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129477
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | GAMAVISION FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129480
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | TC TELEVISION HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129482
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | ECUADOR TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129483
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | TVC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129484
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | RTS SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129485
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | DTV SPORTS SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129486
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | El Canal del Futbol SD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129488
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | DTV SPORTS 1
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129489
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129491
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | TELEAMAZONAS FHD (GYE)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129493
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC | PLANETA TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129495
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUADOR| GOL TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/140676
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECUA| GOLTV HD*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/140677
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: ECUAVISA QUITO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/142280
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: TELEAMAZONAS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/142287
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC |TC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163418
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECTV HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163432
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",ECTV SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163433
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 5",EC| Canela TV
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/176954
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 5",EC| Canela TV HQ
@@ -397,6 +475,20 @@ http://playhispano.org:8080/flowtvhd/JbCvBidBDt/87688
 http://playhispano.org:8080/flowtvhd/JbCvBidBDt/87689
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC 2mb
 http://playhispano.org:8080/flowtvhd/JbCvBidBDt/87690
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - RTS SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87681
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Gamavision 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87682
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Ecuavisa [Quito] 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87683
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Canela TV 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87687
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Canal del Futbol 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87688
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - RTS 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87689
+#EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87690
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",MX: Cinemax
 http://tvstar.icu:8080/37931569/37931569/57638
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINE - AMC
@@ -489,8 +581,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2539
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2542
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Discovery Science (MX) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2544
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Discovery Theater HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2547
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Discovery TLC (MX) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2553
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Discovery Turbo (Lat) HD
@@ -501,8 +591,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2551
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2569
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | El Garage TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3167
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | El Gourmet
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3169
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Film & Arts HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2579
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Food Network
@@ -517,8 +605,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2559
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/108262
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | History Channel
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3163
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | History Channel (Lat) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2558
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | History Channel (MX) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2557
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Hola TV HD
@@ -539,16 +625,10 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2561
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2564
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Nat Geo Wild HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2563
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Sundance HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2580
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Tastemade HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/101330
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | TruTV HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3177
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | TVE
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3191
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Unicable HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2587
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | VH1 MegaHits
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3182
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Wobi HD
@@ -569,8 +649,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1282
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1283
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Arg) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1263
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Chile) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/112695
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Mx) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1266
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 2 (Arg) HD
@@ -595,8 +673,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1271
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1280
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports (CO) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1279
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Arg) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1272
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Mx) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1275
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 2 (Arg) HD
@@ -651,8 +727,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1269
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1270
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN U HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1271
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Arg) HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1272
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 2 (Arg) HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1273
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 3 (Arg) HD
@@ -811,8 +885,82 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/195840
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/183331
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",D| Fox Sports | CL HD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/183330
-#EXTINF:-1 tvg-name="LA: DISCOVERY  HOME & HEALTH" group-title="➤ ZONA CULTURA ★ V I P ★",LA: DISCOVERY  HOME & HEALTH
-http://uniontv.info:8080/belmrj/0944722244/326802
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86978
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86979
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86980
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86988
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86989
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: CDF ESTADIO | Chile
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131140
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: CDF PREMIUM | Chile
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131141
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: CDO BASICO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131142
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: DIRECTV SPORTS
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131146
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: DIRECTV SPORTS 1 HD |
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131147
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: DIRECTV SPORTS 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131148
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: DIRECTV SPORTS PLUS | Ecuador
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131149
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: ESPN | Mexico
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131151
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: ESPN 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131152
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: ESPN Deportes USA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131155
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: EUROSPORT 1
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131157
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: EUROSPORT 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131158
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: FOX DEPORTES | USA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131159
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: FOX SPORTS 1 | Sur FXLA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131160
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: FOX SPORTS 1 | Latino America
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131163
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: NBC GOLF
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131164
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: TVC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131166
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",SD_LAT: TYC SPORT
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131167
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEP SD:  FOX SPORTS 2 (ARG)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156587
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEP SD: ESPN 1 (ARG)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156595
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 Latin
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163394
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN SPORT ESPANA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179316
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN COL
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/183901
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 1 COL
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/183902
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| ESPN 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/149629
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163392
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163393
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS PLUS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/93044
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS PLUS SD OP2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/93045
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS + PLUS SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/93046
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PERU| ESPN 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192669
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PERU| ESPN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192670
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PERU| DIRECTV SPORT 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192672
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL
 http://192.99.70.160:25461/maria23/maria23/42
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HGTV
@@ -935,8 +1083,6 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/192976
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2139190
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",C | Nat Geo FHD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/148712
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",C | Nat Geo Mundo HD
-http://sdmx.us:25461/legends/xHNG8HCVQBtC/197240
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",C | TLC HD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/10432
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",C | TV Unam
@@ -945,6 +1091,122 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/201149
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/10434
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",C | Wobi FHD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/148715
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86844
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86845
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86846
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86847
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORIA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86994
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX|*DISTRITO COMEDIA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87029
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* DISCOVERY H&H  HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87030
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* ADRENALINA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87032
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX | * H2 MEXICO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87038
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* HBO XTREME HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87041
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* HBO FAMILY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87042
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* HBO 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87045
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* COMEDY CENTRAL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87071
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* DISCOVERY WORLD HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87072
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* DISCOVERY SCIENCE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87074
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* DISCOVERY THEATHER HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87076
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MX |* DISCOVERY ID HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87077
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| A&E LATINO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86185
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| A&E MEXICO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86186
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| ANIMAL PLANET FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86187
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL HD*+*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86189
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL EN ESPANOL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86192
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CIVILIZACION FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86193
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CIVILIZACION HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86194
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY FAMILIA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86195
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY HOME & HEALTH
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86197
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HGTV HD***
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86199
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY ID FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86200
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| INVESTIGATION DISCOVERY HD*+*
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86202
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY INVESTIGATION HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86203
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY SCIENCIE FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86204
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY THEATHER FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86206
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT DISCOVERY TURBO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86209
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY TURBO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86210
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY WORLD FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86211
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| H2 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86213
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HISTORY CHANNEL FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86216
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HISTORY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86217
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| INVESTIGATION DISCOVERY FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86218
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NAT GEO WILD FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86219
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NATIONAL GEOGRAPHIC HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86221
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TLC FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86223
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TRUTV HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86226
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HQ | History
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/170743
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HQ | Discovery H&H
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/170746
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Animal Planet (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192348
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Channel (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192349
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery H&h  (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192350
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Science  (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192351
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Theater (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192352
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery TLC (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192353
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Turbo (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192354
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery World (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192355
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",H2 (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192356
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HGTV (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192357
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",History (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192358
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATGEO (SCRP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/192360
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CIVILIZATION HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87019
 #EXTINF:-1 tvg-name="LAT| VIX NOVELAS DE ORO HD" tvg-logo="https://i.picasion.com/pic92/04c9d8091474dc0b3556df33e48f7dcd.gif" group-title="➤ ZONA NOVELAS",LAT| VIX NOVELAS DE ORO HD
 http://playhispano.org:8080/Casjahj/Jhajsac/118535
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SSTV-SKY:AZTECA CORAZON" tvg-logo="https://i.picasion.com/pic92/84671326563aa7fc3b468f2a2f48247c.gif" group-title="➤ ZONA NOVELAS",SSTV-SKY:AZTECA CORAZON
@@ -1047,8 +1309,6 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/2157915
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2157916
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | AMC UHD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3368
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | FX HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3370
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | Star Channel HD (Lat)
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/73508
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine| Star Channel HD (MX)
@@ -1091,8 +1351,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/73511
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3394
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | SONY HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3395
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | Warner Channel HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3396
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | AZ Cinema
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3397
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | De Pelicula UHD
@@ -1245,6 +1503,182 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/155175
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/187786
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",P | Universal Reality
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2081447
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| AMC CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86848
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86849
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86850
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| FX PREMIUN FHD(DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86856
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86858
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| HBO PLUS PREMIUN FHD ( DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86861
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| SONY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86864
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| TNT CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86866
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86868
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINECANAL
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86973
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINEMAX
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86974
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",FOX CHANNEL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86982
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",FX HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86990
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",FXM HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86991
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",GOLDEN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86992
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",GOLDEN EDGE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86993
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",PARAMOUNT HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87004
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",SONY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87005
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",SPACE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87006
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",SYFY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87007
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",TBS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87008
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",TELEHIT HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87009
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",TNT SERIES HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87010
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| A ESTRENAR FHD **
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87515
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| ACTION MAX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87516
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| AMC HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87518
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| LIFETIME FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87524
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| CINE MEXICANO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87526
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| CINECANAL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87527
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| CINEMA DINAMITA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87530
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| CINEMAX EAST FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87533
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| CINEMAX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87534
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| DHE FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87538
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| ESTUDIO UNIVERSAL FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87540
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FILM & ARTS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87542
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FILM ZONE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87543
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FOX  FAMILY PREMIUN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87544
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FOX CHANNEL FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87547
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FOX LIFE FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87554
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FOX SERIES PREMIUN FHD MEXICO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87562
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| FX HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87565
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| GOLDEN EDGE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87568
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| GOLDEN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87569
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| GOLDEN PLUS FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87570
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| GOLDEN PREMIER FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87572
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| MAX PRIME FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87595
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| MOREMAX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87598
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| MOVIEMAX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87599
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| OUTERMAX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87603
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SHOWTIME BEYOND FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87607
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SHOWTIME EAST FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87608
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SHOWTIME EXTREME LATINO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87609
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SHOWTIME HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87610
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SHOWTIME LATINO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87611
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| SONY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87614
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ EAST FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87621
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ EDGE LATINO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87623
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ ENCORE  ACTION HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87624
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ ENCORE FAMILY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87626
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ ENCORE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87627
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ ENCORE WESTERNS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87628
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ FAMLY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87629
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ LATINO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87631
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| STARZ ENCORE EN ESPANOL  HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87632
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| TNT  FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87639
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| UNIVERSAL CHANNEL FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87643
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CINE| WARNER FHD MEXICO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87645
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HDMX | DE PELICULA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90166
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HDMX | GOLDEN EDGE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90167
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | De Pelicula Clasico
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90168
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | Golden
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90169
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | AMC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90170
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | De Pelicula
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90171
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cinelatino
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90172
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | Cinemax
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90175
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | D Pelicula Plus
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90176
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90189
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Extreme
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90190
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Family
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90191
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Mundi
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90192
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Plus
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90193
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Pop
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90194
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | HBO Signature
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90195
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",MX | SyFy
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90197
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HDMX | HBO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90199
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HDMX | HBO 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90200
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HDMX | Cinecanal
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90203
+#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",HD | Cinemax
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90204
 #EXTINF:-1 group-title="➤ ZONA ESPN",Deportes HD | ESPN 1 (Mx) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1266
 #EXTINF:-1 group-title="➤ ZONA ESPN",Deportes HD | ESPN 2 (Arg) HD
@@ -1533,6 +1967,110 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/148808
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/10567
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",E | MTV FHD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/148807
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO| FILM & ARTS CHANNEL FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86871
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO| CARTOON NETWORK PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86872
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO| DISCOVERY KIDS PREMIUN FHD (DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86873
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO| DISNEY CHANNEL PREMIUN FHD ( DUAL AUDIO)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86874
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DISTRITO COMEDIA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86976
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",E! ENTERTAINMENT
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86977
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LIFETIME HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86997
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",MILENIO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86998
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - A&E
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87429
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Antena 3
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87430
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - AMC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87431
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - AXN
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87433
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Boomerang
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87434
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Cartoon Network
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87435
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Cinecanal
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87436
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Cinemax
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87437
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Comedy Central
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87438
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - De Pelicula
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87439
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - DHE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87440
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Discovery Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87441
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Discovery Home & Healt
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87442
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Discovery Turbo
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87443
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Disney Junior
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87444
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Disney XD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87445
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - ESPN
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87446
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - ESPN 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87447
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - ESPN 3
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87448
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Fox Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87449
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Fox Life
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87453
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Fox Sports 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87456
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Fox Sports 3
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87457
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - FX
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87458
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Golden Edge
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87459
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Golden Premier
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87460
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - H2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87461
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - HBO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87462
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - HBO Plus
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87463
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - HBO Signature
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87464
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Investigation Discovery
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87465
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - ISAT
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87466
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Las Estrellas
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87467
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Nickelodeon
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87468
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - Space
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87469
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - SyFy
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87470
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - TNT
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87471
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino  2mb - TNT Series
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87472
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Sony
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87473
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Universal Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87474
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Warner Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87475
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Baby First
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87476
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Disney Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87477
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Latino 2mb - Food Network
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87478
 #EXTINF:-1 group-title="➤ ZONA CINEMA PPV",24/7: CINE ACCION HD
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090923
 #EXTINF:-1 group-title="➤ ZONA CINEMA PPV",24/7: CINE COMEDIA 2
