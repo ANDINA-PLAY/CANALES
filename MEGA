@@ -23,6 +23,12 @@ http://playhispano.org:8080/Casjahj/Jhajsac/140676
 http://playhispano.org:8080/Casjahj/Jhajsac/140677
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECDF El Canal Del Futbol
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/144284
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS  HD ECUADOR" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",DEPORTES| DIRECTV SPORTS  HD ECUADOR
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73711
+#EXTINF:-1 tvg-name="EL CANAL DE FUTBOL HD (Ecuador)" tvg-logo="http://miarea.vip:8080/images/ba575dd13059018b05b3dd090f856090.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EL CANAL DE FUTBOL HD (Ecuador)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153191
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 1 HD (Ecuador)" tvg-logo="http://miarea.vip:8080/images/3599d812c2e593dc916edc197673115b.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",DIRECTV SPORTS 1 HD (Ecuador)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153192
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
@@ -49,6 +55,56 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/176963
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/142280
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",EC: TELEAMAZONAS HD
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/142287
+#EXTINF:-1 tvg-name="ECUA| TVC HD*" tvg-logo="http://miarea.vip:8080/images/06dca510e40108c84e04a6869d1f9fc5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| TVC HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/513
+#EXTINF:-1 tvg-name="ECUA| TELEAMAZONAS HD*" tvg-logo="http://miarea.vip:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| TELEAMAZONAS HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/514
+#EXTINF:-1 tvg-name="ECUA| GAMAVISION HD" tvg-logo="http://miarea.vip:8080/images/84e1fc730982dff3b5445311ba53dfa7.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| GAMAVISION HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/516
+#EXTINF:-1 tvg-name="ECUA| ECUAVISA HD*" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| ECUAVISA HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/517
+#EXTINF:-1 tvg-name="ECUA| ECUADOR TV HD" tvg-logo="http://miarea.vip:8080/images/e3c148fa54295a55df3364cfeca358ca.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| ECUADOR TV HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/518
+#EXTINF:-1 tvg-name="ECUA| CANAL UNO HD*" tvg-logo="http://miarea.vip:8080/images/9f9aa67f371ac6e7d0ec5f09f5f74e74.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| CANAL UNO HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/519
+#EXTINF:-1 tvg-name="ECUA| RTS HD*" tvg-logo="http://miarea.vip:8080/images/4d358721c803edde72b9e29ef08ab996.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| RTS HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/557
+#EXTINF:-1 tvg-name="ECUA| ECUADOR TV INTERNACIONAL HD*" tvg-logo="http://miarea.vip:8080/images/15e60f7d8af753d0c74184e29df5e842.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/559
+#EXTINF:-1 tvg-name="ECUA| TELEAMAZONAS HD *" tvg-logo="http://miarea.vip:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| TELEAMAZONAS HD *
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8844
+#EXTINF:-1 tvg-name="ECUA| CANELA TV HD*" tvg-logo="http://miarea.vip:8080/images/7e9691d7781fbc0cebbb8565c578695e.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| CANELA TV HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8944
+#EXTINF:-1 tvg-name="ECUA| ECUAVISA INTERNACIONAL HD*" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| ECUAVISA INTERNACIONAL HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8946
+#EXTINF:-1 tvg-name="ECUA| OROMAR TV HD*" tvg-logo="http://miarea.vip:8080/images/c01e555b6ca68bee63a432eca2932905.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| OROMAR TV HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8947
+#EXTINF:-1 tvg-name="ECUA| TC TV HD*" tvg-logo="http://miarea.vip:8080/images/8d321e796897975c6624a4c794a7f7b7.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| TC TV HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8948
+#EXTINF:-1 tvg-name="ECUADOR| ECUAVISA FHD" tvg-logo="http://miarea.vip:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR| ECUAVISA FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68625
+#EXTINF:-1 tvg-name="ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://miarea.vip:8080/images/ba575dd13059018b05b3dd090f856090.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/93347
+#EXTINF:-1 tvg-name="ECUADOR| GOL TV " tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR| GOL TV 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/78595
+#EXTINF:-1 tvg-name="ECUA| GOLTV HD*" tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| GOLTV HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/515
+#EXTINF:-1 tvg-name="ECUA| ESPN 4 SUR HD" tvg-logo="http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| ESPN 4 SUR HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110367
+#EXTINF:-1 tvg-name="ECUA| FOX SPORST 2 HD" tvg-logo="http://miarea.vip:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| FOX SPORST 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110364
+#EXTINF:-1 tvg-name="ECUA| FOX SPORTS 3 HD" tvg-logo="http://miarea.vip:8080/images/f9877853403ecbe18bf5cc8782049880.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| FOX SPORTS 3 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110365
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS HD " tvg-logo="http://miarea.vip:8080/images/3599d812c2e593dc916edc197673115b.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| DIRECTV SPORTS HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8348
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| DIRECTV SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75699
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS PLUS HD" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| DIRECTV SPORTS PLUS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110353
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS 2 HD*" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUA| DIRECTV SPORTS 2 HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8945
+#EXTINF:-1 tvg-name="ECU| TV CORTOS HD " group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU| TV CORTOS HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/277504
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",Ecuador TV SD (EC)
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304381
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",Ecuador TV. FHD (EC)
@@ -411,6 +467,26 @@ http://46.166.171.183:8080/skytvperu/61DS56165DW1/87688
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/87689
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC 2mb
 http://46.166.171.183:8080/skytvperu/61DS56165DW1/87690
+#EXTINF:-1 tvg-name="Ecuador - RTS SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Rts_logo.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - RTS SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80333
+#EXTINF:-1 tvg-name="Ecuador - Gamavision 2mb" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - Gamavision 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80338
+#EXTINF:-1 tvg-name="Ecuador - Ecuavisa [Quito] 2mb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - Ecuavisa [Quito] 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80339
+#EXTINF:-1 tvg-name="Ecuador - Ecuavisa [Gquil] 2mb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - Ecuavisa [Gquil] 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80340
+#EXTINF:-1 tvg-name="Ecuador - Ecuador TV 2mb" tvg-logo="http://miarea.vip:8080/images/e3c148fa54295a55df3364cfeca358ca.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - Ecuador TV 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80341
+#EXTINF:-1 tvg-name="Ecuador - Canela TV 2mb" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - Canela TV 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80343
+#EXTINF:-1 tvg-name="Ecuador - RTS 2mb" tvg-logo="http://miarea.vip:8080/images/4d358721c803edde72b9e29ef08ab996.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - RTS 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80345
+#EXTINF:-1 tvg-name="Ecuador - TVC 2mb" tvg-logo="http://miarea.vip:8080/images/06dca510e40108c84e04a6869d1f9fc5.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80346
+#EXTINF:-1 tvg-name="Ecuador - TVC SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/TVC_Ecuador_2016.png" group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80347
+#EXTINF:-1 tvg-name="GOL TV ECUADOR SD" tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="🇪🇨 ECUADOR LQ",GOL TV ECUADOR SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/82535
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",MX: Cinemax
 http://tvstar.icu:8080/37931569/37931569/57638
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINE - AMC
@@ -553,6 +629,264 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/101330
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3182
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Premium | Wobi HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2588
+#EXTINF:-1 tvg-name="CINE| MARVEL EXCLUSIVO HD" tvg-logo="https://www.freepnglogos.com/uploads/marvel-logo-png/marvel-logo-southern-california-25.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MARVEL EXCLUSIVO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/281501
+#EXTINF:-1 tvg-name="CINE| HBO LATINO DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/2560px-HBO_Latino_%282014%29.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO LATINO DIRECTV
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/125873
+#EXTINF:-1 tvg-name="CINE| HBO 2  DIRECTV" tvg-logo="http://miarea.vip:8080/images/747bc2d78a28a447f9abec466368cc4d.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO 2  DIRECTV
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/125874
+#EXTINF:-1 tvg-name="CINE| UNIVERSAL CINEMAS HD " tvg-logo="http://miarea.vip:8080/images/5290e121f398b2a63ed3b8b720b54d33.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| UNIVERSAL CINEMAS HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/101760
+#EXTINF:-1 tvg-name="CINE| UNIVERSAL CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| UNIVERSAL CHANNEL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35607
+#EXTINF:-1 tvg-name="CINE| A ESTRENAR FHD **" tvg-logo="http://miarea.vip:8080/images/9bdf8a3744a6c60f773a1f612afd7529.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| A ESTRENAR FHD **
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/30531
+#EXTINF:-1 tvg-name="CINE| AMC FHD" tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| AMC FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43288
+#EXTINF:-1 tvg-id="I210.90653.schedulesdirect.org" tvg-name="CINE| AMC HD" tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| AMC HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/476
+#EXTINF:-1 tvg-id="I209.26083.schedulesdirect.org" tvg-name="CINE| AXN HD" tvg-logo="http://miarea.vip:8080/images/9df9dc140d139200eaefb695973cbb91.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| AXN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36035
+#EXTINF:-1 tvg-name="CINE| LIFETIME LATINO HD" tvg-logo="http://miarea.vip:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| LIFETIME LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/51107
+#EXTINF:-1 tvg-name="CINE| LIFETIME FHD " tvg-logo="http://miarea.vip:8080/images/98a2245eb8327ea202772dee3062f094.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| LIFETIME FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/51108
+#EXTINF:-1 tvg-name="CINE| CINE LATINO HD" tvg-logo="http://miarea.vip:8080/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/715
+#EXTINF:-1 tvg-name="CINE| CINE MEXICANO HD" tvg-logo="http://miarea.vip:8080/images/582970b680be7cc9fcd4d57d57e1d70e.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE MEXICANO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43289
+#EXTINF:-1 tvg-name="CINE| CINECANAL HD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINECANAL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43290
+#EXTINF:-1 tvg-name="CINE| CINECANAL LATINO FHD" tvg-logo="http://miarea.vip:8080/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINECANAL LATINO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35595
+#EXTINF:-1 tvg-name="CINE| CINECANAL MEXICO FHD" tvg-logo="http://miarea.vip:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINECANAL MEXICO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35596
+#EXTINF:-1 tvg-name="CINE| CINEMAX ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMAX ESPANOL USA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/69980
+#EXTINF:-1 tvg-name="CINE| CINEMAX FHD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMAX FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35601
+#EXTINF:-1 tvg-name="CINE| CINEMAX HD" tvg-logo="http://miarea.vip:8080/images/37615f643c1498831bdd142763b14d49.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMAX HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43291
+#EXTINF:-1 tvg-name="CINE| DE PELICULAS HD" tvg-logo="http://miarea.vip:8080/images/da70a8061beae45841b15f7ea17e3662.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| DE PELICULAS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43292
+#EXTINF:-1 tvg-name="CINE| DE PELICULAS PLUS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| DE PELICULAS PLUS*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8845
+#EXTINF:-1 tvg-name="CINE| DHE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| DHE FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43293
+#EXTINF:-1 tvg-name="CINE| DHE HD" tvg-logo="http://miarea.vip:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| DHE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43294
+#EXTINF:-1 tvg-id="I234.77534.schedulesdirect.org" tvg-name="CINE| ESTUDIO UNIVERSAL FHD" tvg-logo="http://miarea.vip:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| ESTUDIO UNIVERSAL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35247
+#EXTINF:-1 tvg-name="CINE| FILM & ARTS FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FILM & ARTS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43295
+#EXTINF:-1 tvg-name="CINE| FILM & ARTS HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FILM & ARTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43296
+#EXTINF:-1 tvg-name="CINE| FILM ZONE HD" tvg-logo="http://miarea.vip:8080/images/8c5b5666027686c0ef19b8d1440d1047.PNG" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FILM ZONE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35610
+#EXTINF:-1 tvg-id="I1638.74574.schedulesdirect.org" tvg-name="CINE| FOX ACTION PREMIUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX ACTION PREMIUN FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35622
+#EXTINF:-1 tvg-id="I221.88534.schedulesdirect.org" tvg-name="CINE| FOX CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX CHANNEL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35621
+#EXTINF:-1 tvg-name="CINE| FOX CINEMA PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/75cc0c2767e58123f76dbf125ae7e0d2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX CINEMA PREMIUN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43299
+#EXTINF:-1 tvg-id="I1506.77617.schedulesdirect.org" tvg-name="CINE| FOX LIFE FHD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX LIFE FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35623
+#EXTINF:-1 tvg-name="CINE| FOX LIFE HD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX LIFE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43303
+#EXTINF:-1 tvg-id="I1642.73049.schedulesdirect.org" tvg-name="CINE| FOX MOVIES PREMIUN FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/54d4943ce118416297e3f2689369fdf5.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX MOVIES PREMIUN FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35616
+#EXTINF:-1 tvg-name="CINE| FOX MOVIES PREMIUN HD" tvg-logo="http://miarea.vip:8080/images/54d4943ce118416297e3f2689369fdf5.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX MOVIES PREMIUN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43304
+#EXTINF:-1 tvg-id="I1552.60542.schedulesdirect.org" tvg-name="CINE| FOX SERIES PREMIUN FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/a7a3548a751b7d3862b17a2dfef82fe9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FOX SERIES PREMIUN FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35614
+#EXTINF:-1 tvg-id="I1216.97256.schedulesdirect.org" tvg-name="CINE| FX FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FX FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35599
+#EXTINF:-1 tvg-name="CINE| FX HD" tvg-logo="http://miarea.vip:8080/images/6d75915617c6c677ad0ef5e0ff7353ed.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FX HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43305
+#EXTINF:-1 tvg-id="I1508.70253.schedulesdirect.org" tvg-name="CINE| FXM FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/5125535289275193804de4334d7ebac8.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FXM FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35598
+#EXTINF:-1 tvg-name="CINE| FXM HD HD" tvg-logo="http://miarea.vip:8080/images/5125535289275193804de4334d7ebac8.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| FXM HD HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43306
+#EXTINF:-1 tvg-name="CINE| GOLDEN EDGE HD" tvg-logo="http://miarea.vip:8080/images/2484e9f1f313c78abff51f7a6371a6eb.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN EDGE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43307
+#EXTINF:-1 tvg-id="I1503.68317.schedulesdirect.org" tvg-name="CINE| GOLDEN HD " tvg-logo="http://miarea.vip:8080/images/4cac40f10785feb06d22b9c2ef655d23.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35600
+#EXTINF:-1 tvg-id="I503.50709.schedulesdirect.org" tvg-name="CINE| GOLDEN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN PLUS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35612
+#EXTINF:-1 tvg-name="CINE| GOLDEN PLUS HD" tvg-logo="http://miarea.vip:8080/images/cfb6c6930418d4e47810cb3c82cf8ffa.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN PLUS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43308
+#EXTINF:-1 tvg-id="I1650.80596.schedulesdirect.org" tvg-name="CINE| GOLDEN PREMIER FHD" tvg-logo="http://miarea.vip:8080/images/ad308ff7bbf4e99959051f22851f6861.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN PREMIER FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35611
+#EXTINF:-1 tvg-name="CINE| GOLDEN PREMIER HD" tvg-logo="http://miarea.vip:8080/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| GOLDEN PREMIER HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43309
+#EXTINF:-1 tvg-id="I532.68140.schedulesdirect.org" tvg-name="CINE| HBO 2 EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO 2 EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/650
+#EXTINF:-1 tvg-name="CINE| HBO 2 HD" tvg-logo="http://miarea.vip:8080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43311
+#EXTINF:-1 tvg-id="I522.80406.schedulesdirect.org" tvg-name="CINE| HBO FAMILY EN ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO FAMILY EN ESPANOL USA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/649
+#EXTINF:-1 tvg-id="I1610.80118.schedulesdirect.org" tvg-name="CINE| HBO FAMILY FHD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO FAMILY FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35628
+#EXTINF:-1 tvg-name="CINE| HBO FAMILY HD" tvg-logo="http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO FAMILY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43334
+#EXTINF:-1 tvg-id="I1602.19548.schedulesdirect.org" tvg-name="CINE| HBO FHD " tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35624
+#EXTINF:-1 tvg-id="I522.80406.schedulesdirect.org" tvg-name="CINE| HBO FHD EN ESPANOL" tvg-logo="http://miarea.vip:8080/images/caa67992b56f94f2c25b1a0413ecba54.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO FHD EN ESPANOL
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31145
+#EXTINF:-1 tvg-name="CINE| HBO EN ESPANOL USA HD" tvg-logo="http://miarea.vip:8080/images/f0577f3af942bfa8f365e0fa7972dfb7.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO EN ESPANOL USA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/69982
+#EXTINF:-1 tvg-name="CINE| HBO HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43310
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="CINE| HBO LATINO HD USA" tvg-logo="http://miarea.vip:8080/images/54e99501426cc22bef2c553b09545b5e.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO LATINO HD USA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/648
+#EXTINF:-1 tvg-id="I538.34887.schedulesdirect.org" tvg-name="CINE| HBO MUNDI HD" tvg-logo="http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO MUNDI HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8890
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO PLUS FHD ARGENTINA(DUAL AUDIO)" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO PLUS FHD ARGENTINA(DUAL AUDIO)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35527
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO PLUS HD" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO PLUS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35627
+#EXTINF:-1 tvg-name="CINE| HBO POP HD " tvg-logo="http://miarea.vip:8080/images/d59693b0315c2130b34fe6aea38f89fe.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO POP HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8888
+#EXTINF:-1 tvg-name="CINE| HBO POP* HD" tvg-logo="http://miarea.vip:8080/images/97e21068a9bab4e4cce283960b479925.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO POP* HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74973
+#EXTINF:-1 tvg-id="I528.74450.schedulesdirect.org" tvg-name="CINE| HBO SIGNATURE EN ESPANOL FHD" tvg-logo="http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO SIGNATURE EN ESPANOL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/647
+#EXTINF:-1 tvg-id="I1612.80120.schedulesdirect.org" tvg-name="CINE| HBO SUBTITULADO FHD" tvg-logo="http://miarea.vip:8080/images/009add9e17a20277ee78bdc91283b44a.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO SUBTITULADO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36048
+#EXTINF:-1 tvg-id="88039" tvg-name="CINE| HBO WEST FHD" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1512060072195-PSYXQ3PNQ4SGXGIFDS81/ke17ZwdGBToddI8pDm48kFSbwZiPgCXQ2TtynzWb_sQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2duNHBAs6gMow1jhelX4yFnQ8bczjh7yTA-i0J3ZOALjyCjLISwBs8eEdxAxTptZAUg/hbo-01.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO WEST FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35625
+#EXTINF:-1 tvg-id="I1614.57400.schedulesdirect.org" tvg-name="CINE| HBO XTREME HD" tvg-logo="http://miarea.vip:8080/images/e19b2629fbfaaf0586ea5aa5b0b20913.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| HBO XTREME HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35463
+#EXTINF:-1 tvg-name="CINE| I SAT CHANNEL HD " tvg-logo="http://miarea.vip:8080/images/49f1f5c584a7aaab04bf5d5cdb546a8b.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| I SAT CHANNEL HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36019
+#EXTINF:-1 tvg-name="CINE| MAX PRIME FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1200px-Max_Prime_2012_logo.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MAX PRIME FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35604
+#EXTINF:-1 tvg-name="CINE| MAX UP HD" tvg-logo="http://miarea.vip:8080/images/8b6a9afa59c602ba68615a0f6fdf3229.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MAX UP HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35606
+#EXTINF:-1 tvg-name="CINE| MOREMAX FHD" tvg-logo="http://miarea.vip:8080/images/fd14f9920e6f9506903aeced73e335a8.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MOREMAX FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35513
+#EXTINF:-1 tvg-name="CINE| MOVIEMAX FHD" tvg-logo="http://miarea.vip:8080/images/6ee13314ca5620e69bbb3daf05038fee.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MOVIEMAX FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35514
+#EXTINF:-1 tvg-name="CINE| MOVIEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/1280px-Movieplex_logo.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MOVIEPLEX FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35632
+#EXTINF:-1 tvg-name="CINE| MULTICINEMA HD" tvg-logo="http://miarea.vip:8080/images/d6fd0924e324f50669ae0295adf59567.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MULTICINEMA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36050
+#EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="CINE| MULTIPREMIER HD" tvg-logo="https://w7.pngwing.com/pngs/860/591/png-transparent-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television-angle.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MULTIPREMIER HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36051
+#EXTINF:-1 tvg-name="CINE| OUTMAX FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Outermax.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| OUTMAX FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35631
+#EXTINF:-1 tvg-name="CINE| PARAMOUNT CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| PARAMOUNT CHANNEL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35608
+#EXTINF:-1 tvg-name="CINE| SHOWTIME EAST FHD" tvg-logo="http://miarea.vip:8080/images/251c00d5bf14a655404b9ae47321e82f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SHOWTIME EAST FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35629
+#EXTINF:-1 tvg-name="CINE| SHOWTIME EXTREME LATINO HD" tvg-logo="http://miarea.vip:8080/images/f9e2b720402ec1dd8fdf65617ad1338d.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SHOWTIME EXTREME LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/828
+#EXTINF:-1 tvg-name="CINE| SHOWTIME HD" tvg-logo="http://miarea.vip:8080/images/86988b1118f5d8394fe6f23dcbb5ac73.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SHOWTIME HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/829
+#EXTINF:-1 tvg-name="CINE| SHOWTIME LATINO HD" tvg-logo="http://miarea.vip:8080/images/fba88e178aad25659902b17737441c6f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SHOWTIME LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/827
+#EXTINF:-1 tvg-name="CINE| SONY FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SONY FHD ARGENTINA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35594
+#EXTINF:-1 tvg-name="CINE| SONY FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SONY FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35593
+#EXTINF:-1 tvg-name="CINE| SONY HD" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SONY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43363
+#EXTINF:-1 tvg-name="CINE| SONY USA LATINO" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SONY USA LATINO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/938
+#EXTINF:-1 tvg-id="I235.66349.schedulesdirect.org" tvg-name="CINE| SPACE FHD" tvg-logo="http://miarea.vip:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SPACE FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35597
+#EXTINF:-1 tvg-name="CINE| SPACE HD" tvg-logo="http://miarea.vip:8080/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SPACE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43364
+#EXTINF:-1 tvg-name="CINE| STARZ COMEDY FHD" tvg-logo="http://miarea.vip:8080/images/8a337cd814de2026f1f53a3c5f99cd4c.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ COMEDY FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35636
+#EXTINF:-1 tvg-name="CINE| STARZ COMEDY HD" tvg-logo="http://miarea.vip:8080/images/be3d58a919321e2e4c1c0d381fc3e023.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ COMEDY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/840
+#EXTINF:-1 tvg-name="CINE| STARZ COMEDY LATINO HD" tvg-logo="https://b1.pngbarn.com/png/172/617/tv-channel-icons-pack-starz-comedy-black-png-clip-art-thumbnail.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ COMEDY LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/830
+#EXTINF:-1 tvg-name="CINE| STARZ EAST FHD" tvg-logo="http://miarea.vip:8080/images/b45220c396423f677c7a029f3c6955e5.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ EAST FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/913
+#EXTINF:-1 tvg-name="CINE| STARZ EAST HD" tvg-logo="https://w7.pngwing.com/pngs/797/48/png-transparent-starz-encore-logo-television-film-comedy-miscellaneous-television-text.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ EAST HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/839
+#EXTINF:-1 tvg-name="CINE| STARZ EDGE LATINO HD" tvg-logo="http://miarea.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ EDGE LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/831
+#EXTINF:-1 tvg-name="CINE| STARZ ENCORE  ACTION HD" tvg-logo="http://miarea.vip:8080/images/67be26c5efea17288f2ac334253a2273.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCORE  ACTION HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/912
+#EXTINF:-1 tvg-name="CINE| STARZ ENCORE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Encore_Action.png/1200px-Encore_Action.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCORE ACTION HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/838
+#EXTINF:-1 tvg-name="CINE| STARZ ENCORE FAMILY HD" tvg-logo="http://miarea.vip:8080/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCORE FAMILY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/837
+#EXTINF:-1 tvg-name="CINE| STARZ ENCORE HD " tvg-logo="http://miarea.vip:8080/images/a4c0709b7d79b878462d646622832e4f.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCORE HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/836
+#EXTINF:-1 tvg-name="CINE| STARZ ENCORE WESTER HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-westerns.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCORE WESTER HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/835
+#EXTINF:-1 tvg-name="CINE| STARZ FAMLY HD" tvg-logo="http://miarea.vip:8080/images/e0908afdb0bf376905c0f76ebecbdbe4.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ FAMLY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/832
+#EXTINF:-1 tvg-name="CINE| STARZ KIDS  FAMILY HD" tvg-logo="http://miarea.vip:8080/images/5821e4af7b05f838025c5a70854d989e.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ KIDS  FAMILY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/914
+#EXTINF:-1 tvg-name="CINE| STARZ LATINO HD" tvg-logo="https://img.utdstc.com/icons/starz-play-android.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/833
+#EXTINF:-1 tvg-name="CINE| STARZ ENCODEr EN ESPANOL  HD " tvg-logo="http://miarea.vip:8080/images/3de6c1b741b9a9082255cea05d431af6.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STARZ ENCODEr EN ESPANOL  HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/69996
+#EXTINF:-1 tvg-name="CINE| STUDIO UNIVERSAL HD" tvg-logo="http://miarea.vip:8080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| STUDIO UNIVERSAL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43365
+#EXTINF:-1 tvg-id="I513.16108.schedulesdirect.org" tvg-name="CINE| SUNDANCE HD" tvg-logo="https://www.pngkey.com/png/full/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SUNDANCE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35385
+#EXTINF:-1 tvg-id="I1219.101357.schedulesdirect.org" tvg-name="CINE| SYFY FHD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SYFY FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35605
+#EXTINF:-1 tvg-name="CINE| SYFY HD" tvg-logo="http://miarea.vip:8080/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| SYFY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43390
+#EXTINF:-1 tvg-id="I216.74115.schedulesdirect.org" tvg-name="CINE| TBS HD" tvg-logo="http://miarea.vip:8080/images/1baabb2d7586fb25feb0a8378df0e12a.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TBS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/477
+#EXTINF:-1 tvg-name="CINE| TCM HD" tvg-logo="http://miarea.vip:8080/images/481ee88402266fde60880abc1b4f7a48.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TCM HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36021
+#EXTINF:-1 tvg-id="I1504.106062.schedulesdirect.org" tvg-name="CINE| TNT  FHD " tvg-logo="http://miarea.vip:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TNT  FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35592
+#EXTINF:-1 tvg-name="CINE| TNT HD" tvg-logo="http://miarea.vip:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TNT HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43466
+#EXTINF:-1 tvg-id="I231.72166.schedulesdirect.org" tvg-name="CINE| WARNER FHD LATINO" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| WARNER FHD LATINO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35602
+#EXTINF:-1 tvg-id="I231.72166.schedulesdirect.org" tvg-name="CINE| WARNER FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| WARNER FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35603
+#EXTINF:-1 tvg-name="CINE| WARNER HD" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| WARNER HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/43492
+#EXTINF:-1 tvg-name="CINE| TAQUILLA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TAQUILLA 2
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/634
+#EXTINF:-1 tvg-name="CINE| TAQUILLA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| TAQUILLA 4
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/636
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 1 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49089
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 2 HD" tvg-logo="http://miarea.vip:8080/images/2f33caf3bb97b1021690852b67d0c5e6.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49090
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 3 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49091
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 4 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49092
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 5 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49093
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 7 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49094
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 9 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49096
+#EXTINF:-1 tvg-name="CINE| CINEMA PPVV 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/1024px-Premium_Cinema.svg.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINEMA PPVV 10 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49097
+#EXTINF:-1 tvg-name="CINE| MY TIME NETWORK HD LATINO" group-title="➤ ZONA LATINO ★ V I P ★",CINE| MY TIME NETWORK HD LATINO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/93351
+#EXTINF:-1 tvg-name="CINE| CINE COMEDIA HD*" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE COMEDIA HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91116
+#EXTINF:-1 tvg-name="CINE| CINE COMEDIA 2 HD *" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE COMEDIA 2 HD *
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91117
+#EXTINF:-1 tvg-name="CINE| CINE ROMANCE HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE ROMANCE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91118
+#EXTINF:-1 tvg-name="CINE| CINE ROMANTICO HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE ROMANTICO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91119
+#EXTINF:-1 tvg-name="CINE| CINE DRMA HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE DRMA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91120
+#EXTINF:-1 tvg-name="CINE| CINE ACCION HD 1" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE ACCION HD 1
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49688
+#EXTINF:-1 tvg-name="CINE| CINE ACCION SAGAS HD 1" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE ACCION SAGAS HD 1
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49690
+#EXTINF:-1 tvg-name="CINE| CINE FICCION  HD" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE FICCION  HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49694
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports Ñ OPC 1 HD
@@ -895,6 +1229,246 @@ http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/159819
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/159820
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WINSPORTS_HD
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/159810
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EXTRA HD" tvg-logo="http://miarea.vip:8080/images/731a3d7df838df35f90407dd812880c6.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS EXTRA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/79839
+#EXTINF:-1 tvg-name="DEPORTES| TUDN USA * HD" tvg-logo="http://miarea.vip:8080/images/0004101249e92ffa758620e439c3c058.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN USA * HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74974
+#EXTINF:-1 tvg-name="DEPORTES| TYC SPORTS HD LOCAL" tvg-logo="http://miarea.vip:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TYC SPORTS HD LOCAL
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73726
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 1 HD MEXICO" tvg-logo="http://miarea.vip:8080/images/7ce03ba06ad7b86f2b4b30ee24a89a1c.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 1 HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73686
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 2 HD MEXICO" tvg-logo="http://miarea.vip:8080/images/bc3c27321719cdceecc603b08cd2f816.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 2 HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73687
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 3 HD MEXICO" tvg-logo="http://miarea.vip:8080/images/4923c9eb8e0a079646cd3be8614e79b9.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 3 HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73688
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 2 FHD MEXICO " tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 2 FHD MEXICO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73715
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 3 FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 3 FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73716
+#EXTINF:-1 tvg-name="DEPORTES| ESPN XTRA MEXICO HD" tvg-logo="http://miarea.vip:8080/images/e032dc3da1a8f5c2c87978642aa74219.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN XTRA MEXICO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73689
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 HD MEXICO " tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 1 HD MEXICO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73690
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 HD MEXICO" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 2 HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73691
+#EXTINF:-1 tvg-name="DEPORTES| ESPN  3 HD MEXICO" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN  3 HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73692
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 FHD MEXICO " tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 1 FHD MEXICO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73712
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 2 FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73713
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 3 FHD MEXICO" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 3 FHD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73714
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  HD MEXICO" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN  HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73693
+#EXTINF:-1 tvg-name="DEPORTES| AFIZZIONADOS HD MEXICO" tvg-logo="http://miarea.vip:8080/images/2ecfa636fb9e0c6ba9109c7d9c147db4.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| AFIZZIONADOS HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73694
+#EXTINF:-1 tvg-name="DEPORTES| CLARO SPORTS HD MEXICO" tvg-logo="http://miarea.vip:8080/images/39d3534b5ab52e388171b1c812c30737.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| CLARO SPORTS HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73695
+#EXTINF:-1 tvg-name="DEPORTES| TVC DEPORTES HD MEXICO" tvg-logo="http://miarea.vip:8080/images/af8f6458bc7552da7bf440b2f388e33a.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TVC DEPORTES HD MEXICO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73696
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 1 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73697
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 HD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 2 HD ARGENTINA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73698
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 3 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 3 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73699
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 1 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73717
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN 2 FHD ARGENTINA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73718
+#EXTINF:-1 tvg-name="DEPORTES| ESPN  3 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| ESPN  3 FHD ARGENTINA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73719
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 1 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 1 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73700
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 3 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 3 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73702
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 1 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| FOX SPORTS 1 FHD ARGENTINA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73720
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73703
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS 2 FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS 2 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73704
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73705
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS 2 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS 2 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73706
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORS + HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORS + HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73707
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS HD COLOMBIA" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS HD COLOMBIA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73708
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS + HD COLOMBIA " tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DIRECTV SPORTS + HD COLOMBIA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73709
+#EXTINF:-1 tvg-name="DEPORTES| MOVISTAR LA LIGA FHD" tvg-logo="http://miarea.vip:8080/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| MOVISTAR LA LIGA FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31132
+#EXTINF:-1 tvg-name="DEPORTES| LA LIGATV BAR HD ESPANA LEAGUE " tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| LA LIGATV BAR HD ESPANA LEAGUE 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8887
+#EXTINF:-1 tvg-name="DEPORTES| SKY SPORTS LATINO HD" tvg-logo="http://miarea.vip:8080/images/d2e7d69d8c5499cab78b27b24bc3560f.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| SKY SPORTS LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73735
+#EXTINF:-1 tvg-name="DEPORTES|  SUPER SPORTS LA LIGA HD" tvg-logo="http://miarea.vip:8080/images/9bc98ffd4359575feace66e97fe4a4d9.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES|  SUPER SPORTS LA LIGA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/101381
+#EXTINF:-1 tvg-name="DEPORTES| LIGA DE CAMPEONES FHD " tvg-logo="https://irp-cdn.multiscreensite.com/c5a09bd2/dms3rep/multi/Screen+Shot+2019-03-10+at+9.55.12+PM.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| LIGA DE CAMPEONES FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73738
+#EXTINF:-1 tvg-name="DEPORTES| LA LIGA TV BAR FHD" tvg-logo="http://miarea.vip:8080/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| LA LIGA TV BAR FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73739
+#EXTINF:-1 tvg-name="DEPORTES| DAZN LA LIGA SPAIN HD" tvg-logo="http://miarea.vip:8080/images/fb0ccc60384b35ba7b349f290db5cdc9.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DAZN LA LIGA SPAIN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/141916
+#EXTINF:-1 tvg-name="DEPORTES| DAZN FORMULA 1 HD" tvg-logo="http://miarea.vip:8080/images/79f3e1c9163e431b3761bac45e987364.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| DAZN FORMULA 1 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/98244
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL* HD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS EN ESPANOL* HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74985
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73732
+#EXTINF:-1 tvg-name="DEPORTES|  BEIN SPORTS N EXTRA EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/b51a526e2b4cd7232fda02b8e6687c7a.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES|  BEIN SPORTS N EXTRA EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/103051
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  DEPORTES HD*" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN  DEPORTES HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/104313
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  DEPORTES HQ" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN  DEPORTES HQ
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/104314
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  DEPORTES SD" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN  DEPORTES SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/104315
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91085
+#EXTINF:-1 tvg-name="BEIN SPORTS ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN SPORTS ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/90501
+#EXTINF:-1 tvg-name="DEPORTES| TYC SPORTS FHD" tvg-logo="http://miarea.vip:8080/images/2003828a7bace1a3f72faf3d95ae91de.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TYC SPORTS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73725
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS LA LIGA  FHD " tvg-logo="http://miarea.vip:8080/images/f31075fd880608ac00a0255465732877.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS LA LIGA  FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73730
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL LATINO FHD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS EN ESPANOL LATINO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73731
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN INGLES FHD" tvg-logo="http://miarea.vip:8080/images/e94a3b93dbfe738b49830ac7cd6af8cf.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS EN INGLES FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73733
+#EXTINF:-1 tvg-name="DEPORTES| TUDN  DEPORTES HD" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| TUDN  DEPORTES HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73736
+#EXTINF:-1 tvg-name="DEPORTES| UNIVISION DEPORTES HD" tvg-logo="http://miarea.vip:8080/images/0004101249e92ffa758620e439c3c058.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| UNIVISION DEPORTES HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73737
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS FHD*" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| BEIN SPORTS FHD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73910
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 1 (BEIN SPORTS 4)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| COPA LIBERTADORES FHD 1 (BEIN SPORTS 4)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73913
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 2 (BEIN SPORTS 5)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| COPA LIBERTADORES FHD 2 (BEIN SPORTS 5)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73914
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 3 (BEIN SPORTS 6)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| COPA LIBERTADORES FHD 3 (BEIN SPORTS 6)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73915
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 4 (BEIN SPORTS 7)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| COPA LIBERTADORES FHD 4 (BEIN SPORTS 7)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73916
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 5 (BEIN SPORTS 8)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| COPA LIBERTADORES FHD 5 (BEIN SPORTS 8)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73917
+#EXTINF:-1 tvg-name="RCN HD (Colombia)" tvg-logo="http://miarea.vip:8080/images/440950cb84359791528598dfe986607a.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",RCN HD (Colombia)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153189
+#EXTINF:-1 tvg-name="VTV PLUS HD (Uruguay)" tvg-logo="http://miarea.vip:8080/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",VTV PLUS HD (Uruguay)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153194
+#EXTINF:-1 tvg-name="TV PUBLICA HD (Argentina)" tvg-logo="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TV PUBLICA HD (Argentina)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153195
+#EXTINF:-1 tvg-name="TYC SPORTS HD (Argentina)" tvg-logo="http://miarea.vip:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TYC SPORTS HD (Argentina)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153196
+#EXTINF:-1 tvg-name="UNIVISION DEPORTES HD (usa)" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",UNIVISION DEPORTES HD (usa)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153332
+#EXTINF:-1 tvg-name="TELEMUNDO NY (Usa)" tvg-logo="http://miarea.vip:8080/images/8af66698dd6133e4576a2dc20e172678.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TELEMUNDO NY (Usa)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153333
+#EXTINF:-1 tvg-name="AZTECA 7 HD (Mexico)" tvg-logo="http://miarea.vip:8080/images/9f5e3a9ee4f7941da620b1e0b7dc6d47.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",AZTECA 7 HD (Mexico)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153181
+#EXTINF:-1 tvg-name="CANAL 5 HD (Mexico)" tvg-logo="http://miarea.vip:8080/images/ba160487decb1da597d3ca8bbe9d8d60.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CANAL 5 HD (Mexico)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153182
+#EXTINF:-1 tvg-name="TUDN HD (Mexico)" tvg-logo="http://miarea.vip:8080/images/9ed7bff992d63629a4fdace761679342.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TUDN HD (Mexico)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153183
+#EXTINF:-1 tvg-name="LA 1 HD (Espana)" tvg-logo="http://miarea.vip:8080/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA 1 HD (Espana)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153184
+#EXTINF:-1 tvg-name="CARACOL  HD (Colombia)" tvg-logo="http://miarea.vip:8080/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CARACOL  HD (Colombia)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153188
+#EXTINF:-1 tvg-name="DEPORTES| EVENTOS DEPORTIVOS 1 FHD " tvg-logo="http://miarea.vip:8080/images/6a02af2f0a58047fe1b32358cf1c0b60.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| EVENTOS DEPORTIVOS 1 FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73727
+#EXTINF:-1 tvg-name="DEPORTES| EVENTOS DEPORTIVOS 2 FHD" tvg-logo="http://miarea.vip:8080/images/6a02af2f0a58047fe1b32358cf1c0b60.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES| EVENTOS DEPORTIVOS 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73728
+#EXTINF:-1 tvg-name="ARG| ESPN PREMIUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/800px-ESPN_Premium_logo.svg.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN PREMIUN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/127749
+#EXTINF:-1 tvg-name="ARG| TNT SPORTS FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TNT SPORTS FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107888
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS PREMIUN FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/384d580d7536175e2d3309505bb6f10e.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS PREMIUN FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107896
+#EXTINF:-1 tvg-name="ARG| TYC SPORTS FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TYC SPORTS FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107899
+#EXTINF:-1 tvg-name="ARG| ESPN FHD (LOCAL)" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107893
+#EXTINF:-1 tvg-name="ARG| ESPN 2 FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/2b08df484abe36bfddad540d3894a8c6.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 2 FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/108038
+#EXTINF:-1 tvg-name="ARG| ESPN 3 FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 3 FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/108039
+#EXTINF:-1 tvg-name="ARG| ESPN 4 FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/1c055f7375764526d2b1657c275ad4a6.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 4 FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/108040
+#EXTINF:-1 tvg-name="ARG| ESPN EXTRA SUR HD" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN EXTRA SUR HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110363
+#EXTINF:-1 tvg-name="ARG|  FOX SPORTS 1 FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG|  FOX SPORTS 1 FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107904
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS 2 FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/0d8b9a5c42bf79a3cfeec05fc48d271d.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 2 FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107915
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS 3  FHD (LOCAL)" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 3  FHD (LOCAL)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/107925
+#EXTINF:-1 tvg-name="ARG| DEPORT TV HD" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| DEPORT TV HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/90993
+#EXTINF:-1 tvg-id="I121.16525.schedulesdirect.org" tvg-name="ARG| TV PUBLICA FHD" tvg-logo="http://miarea.vip:8080/images/27f8ccfaa5ff751660095d5fee4e5012.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TV PUBLICA FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35760
+#EXTINF:-1 tvg-name="ARG| TNT SPORTS HQ" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TNT SPORTS HQ
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68943
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="ARG| TNT SPORTS HD" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TNT SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35750
+#EXTINF:-1 tvg-id="I1629.16275.schedulesdirect.org" tvg-name="ARG| TYC SPORTS LOCAL HD" tvg-logo="http://miarea.vip:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TYC SPORTS LOCAL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8740
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS PREMIUN HQ " tvg-logo="http://miarea.vip:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS PREMIUN HQ 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68942
+#EXTINF:-1 tvg-id="I204.24882.schedulesdirect.org" tvg-name="ARG| FOX PREMIUN SPORTS HD" tvg-logo="http://miarea.vip:8080/images/65a9e03c8d073b256861480f2746ef3f.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX PREMIUN SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35761
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS 1 SD" tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 1 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68948
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ARG| FOX SPORTS 1 FHD " tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 1 FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35762
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS 2 SD" tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 2 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68949
+#EXTINF:-1 tvg-id="I1706.71328.schedulesdirect.org" tvg-name="ARG| FOX SPORTS 2 FHD" tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35763
+#EXTINF:-1 tvg-name="ARG| FOX SPORTS 3 SD" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 3 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68950
+#EXTINF:-1 tvg-id="I1609.79923.schedulesdirect.org" tvg-name="ARG| FOX SPORTS 3 FHD" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| FOX SPORTS 3 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35764
+#EXTINF:-1 tvg-name="ARG| ESPN 1 SD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 1 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68944
+#EXTINF:-1 tvg-id="I621.10180.schedulesdirect.org" tvg-name="ARG| ESPN 1 FHD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 1 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35765
+#EXTINF:-1 tvg-name="ARG| ESPN 2 SD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 2 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68945
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ARG| ESPN 2 FHD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35766
+#EXTINF:-1 tvg-name="ARG| ESPN 3 SD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 3 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68946
+#EXTINF:-1 tvg-id="I1626.73834.schedulesdirect.org" tvg-name="ARG| ESPN 3 FHD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN 3 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35767
+#EXTINF:-1 tvg-id="I1620.96876.schedulesdirect.org" tvg-name="ARG| ESPN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/d688e8b94c87a33b3923265cf071c16e.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| ESPN PLUS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35768
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS 2 FHD" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| DIRECTV SPORTS 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35769
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS FHD" tvg-logo="http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| DIRECTV SPORTS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35770
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS PLUS FHD" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| DIRECTV SPORTS PLUS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35771
+#EXTINF:-1 tvg-name="PREMIUN| ESPN 3 HD" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| ESPN 3 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75459
+#EXTINF:-1 tvg-name="PREMIUN| ESPN 2 HD" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| ESPN 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75458
+#EXTINF:-1 tvg-name="PREMIUN| ESPN_HD " tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| ESPN_HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75457
+#EXTINF:-1 tvg-name="PREMIUN| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| ESPN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75456
+#EXTINF:-1 tvg-name="PREMIUN| FOX SPORTS HD" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| FOX SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75453
+#EXTINF:-1 tvg-name="PREMIUN| FOX SPORTS 3 HD" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| FOX SPORTS 3 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75452
+#EXTINF:-1 tvg-name="PREMIUN| FOX SPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/cf6c26ecc2f60aa8c5636d3c32a08a08.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| FOX SPORTS 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75451
+#EXTINF:-1 tvg-id="I1629.16275.schedulesdirect.org" tvg-name="ARG| TYC SPORTS HD " tvg-logo="http://miarea.vip:8080/images/2003828a7bace1a3f72faf3d95ae91de.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG| TYC SPORTS HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35774
+#EXTINF:-1 tvg-name="PREMIUN| TNT SPORTS HD" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIUN| TNT SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75461
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL
 http://192.99.70.160:25461/maria23/maria23/42
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HGTV
@@ -1133,6 +1707,220 @@ http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/159900
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/159901
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Love Nature
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/144316
+#EXTINF:-1 tvg-name="CULT| LOVE NATURE 4K HD " tvg-logo="http://miarea.vip:8080/images/b440931fe10135c9ae29a17cdf8e90d9.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| LOVE NATURE 4K HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/233344
+#EXTINF:-1 tvg-id="I223.18955.schedulesdirect.org" tvg-name="CULT| A&E LATINO HD" tvg-logo="http://miarea.vip:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| A&E LATINO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35588
+#EXTINF:-1 tvg-name="CULT| SMITHSONIAN CHANNEL" tvg-logo="http://miarea.vip:8080/images/1e2d5cf712a0023e9bf778d6684714c0.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| SMITHSONIAN CHANNEL
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/277506
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| A&E MEXICO FHD" tvg-logo="http://miarea.vip:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| A&E MEXICO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35587
+#EXTINF:-1 tvg-id="I282.57394.schedulesdirect.org" tvg-name="CULT| ANIMAL PLANET FHD" tvg-logo="http://miarea.vip:8080/images/eef5c257648bb98e7f230b835da054d2.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| ANIMAL PLANET FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35573
+#EXTINF:-1 tvg-name="CULT| ANIMAL PLANET HD" tvg-logo="http://miarea.vip:8080/images/eef5c257648bb98e7f230b835da054d2.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| ANIMAL PLANET HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44590
+#EXTINF:-1 tvg-name="CULT| DISCOVERY FAMILIA FHD" tvg-logo="http://miarea.vip:8080/images/71dc30eb4fab0720525ce3e9099207e3.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY FAMILIA FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44584
+#EXTINF:-1 tvg-name="CULT| DISCOVERY CHANNEL EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/62236dcae9cea9c0827b0ad1e4df5b6f.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44585
+#EXTINF:-1 tvg-name="CULT| DISCOVERY CHANNEL HD*+*" tvg-logo="http://miarea.vip:8080/images/f0c56b6a4b0246f026ce1d027e844b0b.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL HD*+*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/82557
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY CHANNEL  LATINOAMERICA FHD" tvg-logo="http://miarea.vip:8080/images/f0c56b6a4b0246f026ce1d027e844b0b.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL  LATINOAMERICA FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31872
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY CHANNEL FHD " tvg-logo="http://miarea.vip:8080/images/62236dcae9cea9c0827b0ad1e4df5b6f.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CHANNEL FHD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35578
+#EXTINF:-1 tvg-name="CULT| DISCOVERY CIVILIZACION FHD" tvg-logo="http://miarea.vip:8080/images/e6517c4bfe3c64d6297c97ffbe2a851a.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CIVILIZACION FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44582
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY CIVILIZACION HD" tvg-logo="https://png.pngitem.com/pimgs/s/2-25083_discovery-civilization-channel-logo-hd-png-download.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY CIVILIZACION HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35582
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY FAMILIA HD" tvg-logo="http://miarea.vip:8080/images/71dc30eb4fab0720525ce3e9099207e3.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY FAMILIA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35579
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY HOME & HEALTH" tvg-logo="http://miarea.vip:8080/images/79d786b1edff84838db507be252126db.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY HOME & HEALTH
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35581
+#EXTINF:-1 tvg-name="CULT| DISCOVERY HOME & HEALTH HD" tvg-logo="http://miarea.vip:8080/images/79d786b1edff84838db507be252126db.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY HOME & HEALTH HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44583
+#EXTINF:-1 tvg-name="CULT| HGTV HD***" tvg-logo="http://miarea.vip:8080/images/1890e0812faeb12f2f66110349f4f4cb.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HGTV HD***
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/76158
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY ID FHD" tvg-logo="http://miarea.vip:8080/images/9f904b148baf3b3a2f6ab8ff77501cf8.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY ID FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35589
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY ID FHD**" tvg-logo="http://miarea.vip:8080/images/c99033f970a968286a3387c079426629.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY ID FHD**
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31129
+#EXTINF:-1 tvg-name="CULT| INVESTIGATION DISCOVERY HD*+*" tvg-logo="http://miarea.vip:8080/images/c99033f970a968286a3387c079426629.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| INVESTIGATION DISCOVERY HD*+*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/82562
+#EXTINF:-1 tvg-name="CULT| DISCOVERY INVESTIGATION HD" tvg-logo="http://miarea.vip:8080/images/9f904b148baf3b3a2f6ab8ff77501cf8.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY INVESTIGATION HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44577
+#EXTINF:-1 tvg-name="CULT| DISCOVERY SCIENCIE FHD" tvg-logo="http://miarea.vip:8080/images/8d68ea42940dbe788102eb751900979c.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY SCIENCIE FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44581
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY SCIENCIE HD" tvg-logo="http://miarea.vip:8080/images/8d68ea42940dbe788102eb751900979c.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY SCIENCIE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35583
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY THEATHER FHD" tvg-logo="http://miarea.vip:8080/images/e283234df4e07ea91bc55e080f2eb7cb.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY THEATHER FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35584
+#EXTINF:-1 tvg-name="CULT| DISCOVERY THEATHER HD" tvg-logo="http://miarea.vip:8080/images/e283234df4e07ea91bc55e080f2eb7cb.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY THEATHER HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44580
+#EXTINF:-1 tvg-name="CULT| DISCOVERY TURBO  HD*+*" tvg-logo="http://miarea.vip:8080/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY TURBO  HD*+*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/82558
+#EXTINF:-1 tvg-name="CULT DISCOVERY TURBO FHD" tvg-logo="http://miarea.vip:8080/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT DISCOVERY TURBO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35585
+#EXTINF:-1 tvg-name="CULT| DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY TURBO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44579
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| DISCOVERY WORLD FHD" tvg-logo="http://miarea.vip:8080/images/39d3df884071b88be8e10e772633b4c6.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY WORLD FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35586
+#EXTINF:-1 tvg-name="CULT| DISCOVERY WORLD HD" tvg-logo="https://www.pngfind.com/pngs/m/495-4958979_discovery-world-logopedia-the-logo-and-branding-site.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| DISCOVERY WORLD HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44578
+#EXTINF:-1 tvg-name="CULT| H2 FHD" tvg-logo="http://miarea.vip:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| H2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44586
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| H2 HD" tvg-logo="http://miarea.vip:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| H2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35577
+#EXTINF:-1 tvg-name="CULT| HISTORY HD*+*" tvg-logo="http://miarea.vip:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HISTORY HD*+*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/82559
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| HISTORY CHANNEL FHD" tvg-logo="http://miarea.vip:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HISTORY CHANNEL FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35576
+#EXTINF:-1 tvg-name="CULT| HISTORY HD" tvg-logo="http://miarea.vip:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| HISTORY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44587
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| INVESTIGATION DISCOVERY FHD" tvg-logo="http://miarea.vip:8080/images/c99033f970a968286a3387c079426629.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| INVESTIGATION DISCOVERY FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35580
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| NAT GEO WILD FHD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NAT GEO WILD FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35574
+#EXTINF:-1 tvg-name="CULT| NATGEO WILD HD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NATGEO WILD HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44589
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| NATIONAL GEOGRAFHY FHD" tvg-logo="http://miarea.vip:8080/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NATIONAL GEOGRAFHY FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35575
+#EXTINF:-1 tvg-name="CULT| NATIONAL GEOGRAFHY HD" tvg-logo="http://miarea.vip:8080/images/26fea2bdad38bdd9bd0499c4f54fef6a.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| NATIONAL GEOGRAFHY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44588
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| TLC FHD" tvg-logo="http://miarea.vip:8080/images/147d3271a7894379d7379be0dc996f20.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TLC FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35609
+#EXTINF:-1 tvg-name="CULT| TLC HD" tvg-logo="http://miarea.vip:8080/images/147d3271a7894379d7379be0dc996f20.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TLC HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44576
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CULT| TRUE TV FHD" tvg-logo="http://miarea.vip:8080/images/288f8ea8c591feedca96250ea870d6ea.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TRUE TV FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/36024
+#EXTINF:-1 tvg-name="CULT| TRUE TV HD" tvg-logo="http://miarea.vip:8080/images/288f8ea8c591feedca96250ea870d6ea.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TRUE TV HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/44575
+#EXTINF:-1 tvg-name="CULT| TBS HD" tvg-logo="http://miarea.vip:8080/images/62b86072cbe00f827fb5f50c596bb9c2.png" group-title="➤ ZONA CULTURA ★ V I P ★",CULT| TBS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110387
+#EXTINF:-1 tvg-name="CINEBOX: WAR" tvg-logo="http://miarea.vip:8080/images/e19684b4465ba6043a5cca602c22a86f.png" group-title="➤ ZONA CULTURA ★ V I P ★",CINEBOX: WAR
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126905
+#EXTINF:-1 tvg-name="DOCUBOX: SOCIETY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: SOCIETY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126888
+#EXTINF:-1 tvg-name="DOCUBOX: HEALTH" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: HEALTH
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126889
+#EXTINF:-1 tvg-name="DOCUBOX: SEXUALITY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: SEXUALITY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126890
+#EXTINF:-1 tvg-name="DOCUBOX: SCIENCE" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: SCIENCE
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126891
+#EXTINF:-1 tvg-name="DOCUBOX: RELIGION" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: RELIGION
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126892
+#EXTINF:-1 tvg-name="DOCUBOX: POLITICS" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: POLITICS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126893
+#EXTINF:-1 tvg-name="DOCUBOX: PERFORMING ARTS" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: PERFORMING ARTS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126894
+#EXTINF:-1 tvg-name="DOCUBOX: NATURE" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: NATURE
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126895
+#EXTINF:-1 tvg-name="DOCUBOX: MYSTERY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: MYSTERY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126896
+#EXTINF:-1 tvg-name="DOCUBOX: MILITARY AND WAR" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: MILITARY AND WAR
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126897
+#EXTINF:-1 tvg-name="DOCUBOX: MEDIA" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: MEDIA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126898
+#EXTINF:-1 tvg-name="DOCUBOX: ENVIRONMENT" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: ENVIRONMENT
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126899
+#EXTINF:-1 tvg-name="DOCUBOX: ECONOMICS" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: ECONOMICS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126900
+#EXTINF:-1 tvg-name="DOCUBOX: DRUGS" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: DRUGS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126901
+#EXTINF:-1 tvg-name="DOCUBOX: CRIME" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: CRIME
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126902
+#EXTINF:-1 tvg-name="DOCUBOX: CONSPIRACY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: CONSPIRACY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126903
+#EXTINF:-1 tvg-name="DOCUBOX: BIOGRAPHY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: BIOGRAPHY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126904
+#EXTINF:-1 tvg-name="DOCUBOX: HISTORY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: HISTORY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126906
+#EXTINF:-1 tvg-name="DOCUBOX: SPORTS" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: SPORTS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126907
+#EXTINF:-1 tvg-name="DOCUBOX: TECHNOLOGY" tvg-logo="http://miarea.vip:8080/images/2e88ce80df8171797dcc43d370a10aa9.png" group-title="➤ ZONA CULTURA ★ V I P ★",DOCUBOX: TECHNOLOGY
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/126908
+#EXTINF:-1 tvg-name="Latino  2mb - A&E" tvg-logo="http://miarea.vip:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="➤ ZONA LOW",Latino  2mb - A&E
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80277
+#EXTINF:-1 tvg-name="Latino  2mb - Antena 3" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY1MDQ5NDM4NTk0ODEx/antena3png.png" group-title="➤ ZONA LOW",Latino  2mb - Antena 3
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80278
+#EXTINF:-1 tvg-name="Latino 2mb - AMC" tvg-logo="http://miarea.vip:8080/images/503cdbf879614b704e79e70ec54a55f7.png" group-title="➤ ZONA LOW",Latino 2mb - AMC
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80279
+#EXTINF:-1 tvg-name="Latino  2mb - AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="➤ ZONA LOW",Latino  2mb - AXN
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80281
+#EXTINF:-1 tvg-name="Latino  2mb - Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="➤ ZONA LOW",Latino  2mb - Boomerang
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80282
+#EXTINF:-1 tvg-name="Latino  2mb - Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1280px-Cartoon_Network_logo.svg.png" group-title="➤ ZONA LOW",Latino  2mb - Cartoon Network
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80283
+#EXTINF:-1 tvg-name="Latino  2mb - Cinecanal" tvg-logo="http://miarea.vip:8080/images/109c55db234153a62dc8d51463ae1afe.png" group-title="➤ ZONA LOW",Latino  2mb - Cinecanal
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80284
+#EXTINF:-1 tvg-name="Latino  2mb - Cinemax" tvg-logo="http://miarea.vip:8080/images/15c56aa734dded33bb6822ba33684da2.png" group-title="➤ ZONA LOW",Latino  2mb - Cinemax
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80285
+#EXTINF:-1 tvg-name="Latino  2mb - Comedy Central" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c2/Comedy_Central_Logo_red.svg.png" group-title="➤ ZONA LOW",Latino  2mb - Comedy Central
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80286
+#EXTINF:-1 tvg-name="Latino 2mb - De Pelicula" tvg-logo="http://miarea.vip:8080/images/ce1a2bd875a1d2968daaf43b069d3585.png" group-title="➤ ZONA LOW",Latino 2mb - De Pelicula
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80287
+#EXTINF:-1 tvg-name="Latino 2mb - DHE" tvg-logo="http://miarea.vip:8080/images/447ef96542382d5a195c45fbbfa552e2.png" group-title="➤ ZONA LOW",Latino 2mb - DHE
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80288
+#EXTINF:-1 tvg-name="Latino 2mb - Discovery Channel" tvg-logo="http://miarea.vip:8080/images/f0c56b6a4b0246f026ce1d027e844b0b.png" group-title="➤ ZONA LOW",Latino 2mb - Discovery Channel
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80289
+#EXTINF:-1 tvg-name="Latino  2mb - Discovery Home & Healt" tvg-logo="http://miarea.vip:8080/images/79d786b1edff84838db507be252126db.png" group-title="➤ ZONA LOW",Latino  2mb - Discovery Home & Healt
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80290
+#EXTINF:-1 tvg-name="Latino  2mb - Discovery Turbo" tvg-logo="http://miarea.vip:8080/images/306bb49a5594573218e8770f24e166c7.png" group-title="➤ ZONA LOW",Latino  2mb - Discovery Turbo
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80291
+#EXTINF:-1 tvg-name="Latino  2mb - Disney Junior" tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="➤ ZONA LOW",Latino  2mb - Disney Junior
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80292
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ZONA LOW",Latino  2mb - ESPN
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80294
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN 2" tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ZONA LOW",Latino  2mb - ESPN 2
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80295
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN 3" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ZONA LOW",Latino  2mb - ESPN 3
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80296
+#EXTINF:-1 tvg-name="Latino  2mb - Fox Channel" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="➤ ZONA LOW",Latino  2mb - Fox Channel
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80298
+#EXTINF:-1 tvg-name="Latino 2mb - Fox Sports 2" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png" group-title="➤ ZONA LOW",Latino 2mb - Fox Sports 2
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80305
+#EXTINF:-1 tvg-name="Latino 2mb - Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="➤ ZONA LOW",Latino 2mb - Fox Sports 3
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80306
+#EXTINF:-1 tvg-name="Latino  2mb - FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="➤ ZONA LOW",Latino  2mb - FX
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80307
+#EXTINF:-1 tvg-name="Latino 2mb - Golden Edge" tvg-logo="http://i.imgur.com/HBy95.png" group-title="➤ ZONA LOW",Latino 2mb - Golden Edge
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80308
+#EXTINF:-1 tvg-name="Latino 2mb - Golden Premier" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="➤ ZONA LOW",Latino 2mb - Golden Premier
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80309
+#EXTINF:-1 tvg-name="Latino  2mb - HBO" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png" group-title="➤ ZONA LOW",Latino  2mb - HBO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80311
+#EXTINF:-1 tvg-name="Latino 2mb - HBO Plus" tvg-logo="http://miarea.vip:8080/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="➤ ZONA LOW",Latino 2mb - HBO Plus
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80312
+#EXTINF:-1 tvg-name="Latino 2mb - HBO Signature" tvg-logo="http://miarea.vip:8080/images/b3e591e103c4d3fa2b0f5c1bf9611135.png" group-title="➤ ZONA LOW",Latino 2mb - HBO Signature
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80313
+#EXTINF:-1 tvg-name="Latino  2mb - Investigation Discovery" tvg-logo="http://miarea.vip:8080/images/9f904b148baf3b3a2f6ab8ff77501cf8.png" group-title="➤ ZONA LOW",Latino  2mb - Investigation Discovery
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80314
+#EXTINF:-1 tvg-name="Latino 2mb - ISAT" tvg-logo="http://miarea.vip:8080/images/f3887ad93b57cc5a798b6f43ff9d82a4.png" group-title="➤ ZONA LOW",Latino 2mb - ISAT
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80315
+#EXTINF:-1 tvg-name="Latino  2mb - Las Estrellas" tvg-logo="http://miarea.vip:8080/images/0ed9404d458cfd868328bc7a08eb4e5f.png" group-title="➤ ZONA LOW",Latino  2mb - Las Estrellas
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80316
+#EXTINF:-1 tvg-name="Latino 2mb - Nickelodeon" tvg-logo="http://miarea.vip:8080/images/0275de523815a58abb800d3e1c4a649a.png" group-title="➤ ZONA LOW",Latino 2mb - Nickelodeon
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80317
+#EXTINF:-1 tvg-name="Latino  2mb - Space" tvg-logo="http://miarea.vip:8080/images/973b56cda0c1aa82b64ca4ee4fa2044a.png" group-title="➤ ZONA LOW",Latino  2mb - Space
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80318
+#EXTINF:-1 tvg-name="Latino  2mb - SyFy" tvg-logo="https://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="➤ ZONA LOW",Latino  2mb - SyFy
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80319
+#EXTINF:-1 tvg-name="Latino  2mb - TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="➤ ZONA LOW",Latino  2mb - TNT
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80320
+#EXTINF:-1 tvg-name="Latino  2mb - TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="➤ ZONA LOW",Latino  2mb - TNT Series
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80321
+#EXTINF:-1 tvg-name="Latino 2mb - Sony" tvg-logo="http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png" group-title="➤ ZONA LOW",Latino 2mb - Sony
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80322
+#EXTINF:-1 tvg-name="Latino 2mb - Universal Channel" tvg-logo="http://miarea.vip:8080/images/c72dc58420bf5bb9bfd5792b75564396.png" group-title="➤ ZONA LOW",Latino 2mb - Universal Channel
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80324
+#EXTINF:-1 tvg-name="Latino 2mb - Warner Channel" tvg-logo="http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png" group-title="➤ ZONA LOW",Latino 2mb - Warner Channel
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80325
+#EXTINF:-1 tvg-name="Latino 2mb - Baby First" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" group-title="➤ ZONA LOW",Latino 2mb - Baby First
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80326
+#EXTINF:-1 tvg-name="Latino 2mb - Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="➤ ZONA LOW",Latino 2mb - Food Network
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80328
+#EXTINF:-1 tvg-name="España - beIN Sports ñ 2mb" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="➤ ZONA LOW",España - beIN Sports ñ 2mb
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80329
 #EXTINF:-1 tvg-name="LAT| VIX NOVELAS DE ORO HD" tvg-logo="https://i.picasion.com/pic92/04c9d8091474dc0b3556df33e48f7dcd.gif" group-title="➤ ZONA NOVELAS",LAT| VIX NOVELAS DE ORO HD
 http://playhispano.org:8080/Casjahj/Jhajsac/118535
 #EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SSTV-SKY:AZTECA CORAZON" tvg-logo="https://i.picasion.com/pic92/84671326563aa7fc3b468f2a2f48247c.gif" group-title="➤ ZONA NOVELAS",SSTV-SKY:AZTECA CORAZON
@@ -1809,6 +2597,10 @@ http://sdmx.us:25461/legends/xHNG8HCVQBtC/167174
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/10929
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",Bein Sports Xtra ñ
 http://46.166.171.183:8080/DIRECTVGOSKY/QK0WCEz6W7/144279
+#EXTINF:-1 tvg-name="ARG|*  Bein Sports FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1200px-Bein_sport_logo.png" group-title="➤ ZONA BEIN SPORTS",ARG|*  Bein Sports FHD 2
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68373
+#EXTINF:-1 tvg-name="ARG|*  Bein Sports FHD 1" tvg-logo="http://miarea.vip:8080/images/bc2f7cbd5e9e4fe999022b44a2233d55.png" group-title="➤ ZONA BEIN SPORTS",ARG|*  Bein Sports FHD 1
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68371
 #EXTINF:-1 group-title="➤ ZONA STAR +",EC - STAR + (SOLO EVENTOS)
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1118924
 #EXTINF:-1 group-title="➤ ZONA UFC",Deportes HD | UFC TV HD
@@ -2023,82 +2815,210 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/92154
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090917
 #EXTINF:-1 group-title="➤ ZONA  24/7 PELICULAS",24/7 :CINE ACCION SAGAS
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090918
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Better Call Saul
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Better Call Saul
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133348
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Cantinflas 
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cantinflas 
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090937
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Capitan America y Los Planetarios
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Capitan America y Los Planetarios
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090954
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Caso Cerrado 
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Caso Cerrado 
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/189868
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Chespirito
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090979
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Clasicos de Disney (Latino)
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Clasicos de Disney (Latino)
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090938
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 DAVE Y EVA
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 DAVE Y EVA
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2091358
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Disney Live Action
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Disney Live Action
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090939
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Donde esta Wally
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Donde esta Wally
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090955
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Dragon Ball Freezer
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Freezer
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133668
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 El Auto Fantastico
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Auto Fantastico
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090982
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 El Gallo Claudio
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Gallo Claudio
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090957
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Fenomenoide
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Fenomenoide
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090958
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Friends
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Friends
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/223069
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Game of Thrones
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Game of Thrones
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133344
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Garfield
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Garfield
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090963
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Gargolas Heroes Goticos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gargolas Heroes Goticos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090964
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Gasparin y sus Amigos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gasparin y sus Amigos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090965
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Halcones Galacticos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Halcones Galacticos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090966
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Halo
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Halo
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133343
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Hannah Montana Temp 1
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hannah Montana Temp 1
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090904
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Heidi
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Heidi
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090967
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Hercules 
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hercules 
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090983
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Hey Arnold
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hey Arnold
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090905
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 HISTORIAS
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 HISTORIAS
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2091360
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Hormiga Atomica
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hormiga Atomica
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133592
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 La casa de los Dibujos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La casa de los Dibujos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2091492
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 La Casa de Papel Corea
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Casa de Papel Corea
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2133346
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 La Familia P. Luche 
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia P. Luche 
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/200378
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Las Pistas de Blue
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Pistas de Blue
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090906
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Las Tortugas Ninja
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Tortugas Ninja
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090968
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Años Maravillosos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Años Maravillosos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090984
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Backyardigans
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Backyardigans
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090907
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Castores Cascarrabias
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Castores Cascarrabias
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090908
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Muppet Babys
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Muppet Babys
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090910
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Padrinos Magicos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Padrinos Magicos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090909
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Los Supersonicos
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Supersonicos
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090990
-#EXTINF:-1 group-title="➤ ZONA 24/7 RETRO",24/7 Mi Pequeño Pony
+#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mi Pequeño Pony
 http://sdmx.us:25461/legends/xHNG8HCVQBtC/2090911
+#EXTINF:-1 tvg-name="24/7 | JUEGO DEL CALAMAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/El_juego_del_calamar.png/1200px-El_juego_del_calamar.png" group-title="➤ ZONA 24/7",24/7 | JUEGO DEL CALAMAR HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/248499
+#EXTINF:-1 tvg-name="24/7 Luisito Comunica (Mexico) HD" tvg-logo="http://miarea.vip:8080/images/5c0bea43dcee002ba2e770ac0b657ccb.jpg" group-title="➤ ZONA 24/7",24/7 Luisito Comunica (Mexico) HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/105173
+#EXTINF:-1 tvg-name="24/7 CAZANDO INFIELES HD " tvg-logo="http://miarea.vip:8080/images/129e851537d8f1b0c6aa9267d71dee00.jpg" group-title="➤ ZONA 24/7",24/7 CAZANDO INFIELES HD 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/259531
+#EXTINF:-1 tvg-name="24/7 | EXPONIENDO INFIELES BADABU" tvg-logo="http://miarea.vip:8080/images/07d9d4218a29bf19f7c535d79b51a146.png" group-title="➤ ZONA 24/7",24/7 | EXPONIENDO INFIELES BADABU
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49059
+#EXTINF:-1 tvg-name="24/7 | CASO CERRADO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Logo-caso-cerrado-723x326.png" group-title="➤ ZONA 24/7",24/7 | CASO CERRADO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/33254
+#EXTINF:-1 tvg-name="24/7 | MIGUELITO " tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20190909/imag/foto_0000001320190909182915.png" group-title="➤ ZONA 24/7",24/7 | MIGUELITO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/33252
+#EXTINF:-1 tvg-name="24/7 | LAURA BOZZO " tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/laura-bozzo-png.png" group-title="➤ ZONA 24/7",24/7 | LAURA BOZZO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/33253
+#EXTINF:-1 tvg-name="24/7 | AVENGERS FHD" tvg-logo="https://orig00.deviantart.net/d304/f/2018/142/8/7/the_avengers___logo_original___3d_02___png_by_itstotallytoxic-dccakw7.png" group-title="➤ ZONA 24/7",24/7 | AVENGERS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74175
+#EXTINF:-1 tvg-name="24/7| MOVIECENTER KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Moviecentral.svg/1200px-Moviecentral.svg.png" group-title="➤ ZONA 24/7",24/7| MOVIECENTER KIDS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31815
+#EXTINF:-1 tvg-name="24/7 | CINEMA LEGO MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/The_Lego_Movie_logo.png" group-title="➤ ZONA 24/7",24/7 | CINEMA LEGO MOVIES HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31821
+#EXTINF:-1 tvg-name="24/7 | CINEMA DISNEY FAMILY HD" tvg-logo="http://miarea.vip:8080/images/1c2edbe5d8ff0dc64664949abf6407db.png" group-title="➤ ZONA 24/7",24/7 | CINEMA DISNEY FAMILY HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31822
+#EXTINF:-1 tvg-name="24/7 | CINEMA DISNEY PIXAR 2 HD" tvg-logo="https://i.ya-webdesign.com/images/oixar-coco-png-2.png" group-title="➤ ZONA 24/7",24/7 | CINEMA DISNEY PIXAR 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31823
+#EXTINF:-1 tvg-name="24/7 | CINEMA DREAMWORKS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="➤ ZONA 24/7",24/7 | CINEMA DREAMWORKS 1 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31824
+#EXTINF:-1 tvg-name="24/7 | CINEMA DC UNIVERSE HD" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhIUExMVFhUWFRgXFhUXGRcYGxUaFxUdGBUYGhUYHiggGB4lGxcXITEhJSsrLi8vGB8zODMtNygtLi0BCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAI0BZgMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABAUGAwcCAf/EAEoQAAEDAgQDBAUHCAgFBQAAAAEAAhEDIQQFEjEGQVEiYXGBEzJykbEzQlNzobLRFBUjNFJiwcIWQ4KSk7Ph8QckY6LwdIOjw9L/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9xREQEREBERARFCxWbYen8pWptvF3NF+m6CaioK3GeBa4tNaSP2WVXDyc1pB8iplHiHCOLQK9OXbAuAO07HbwKCzRfFGs14lrg4dWkEe8L7QEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERQ8zzFlFpLrnk2bknbwHf3IJGIrtptLnuDWgSSVmsx4pJltBvcHvBv7NMXPiY22POveK2Le0vvJGlonS224bPeZcfDlCv8ALchYwS8AnoNvM7nw25R1DL1sNisTZxe8WkOmJ5E06YgXbu6IhSMPwY+DLoMCI0sBnlIDne/qtwxgFgAB3L6QZKjwW2Bqe4HmA4keRgT7gvg8Hukw7s8u3qJ8WlkD3lbBEHn9Th2rROtoIIG4lpHMgupyItflZKXFOJwxisDUZ0dAP9mo2zvPqF6AoWPyqlVB1NEkET49Rs6O+eaDlk2eUcS2abu1EupugPb4tn7RI71ZLz/OOFKlB3pcOXQ0yADdtxsdwSeVwY8ArPh3isuiniIDthUs0EgXDwbNdI5WM7CEGtREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREEXM8c2hTL3EdGiY1OiQ0e74lZDBYepiqjnmCZvNm7m0wTAuB122kqFxPm5xFVwYSGMljd4c4SHPjpNh3De6/cr4grUWBradHvdDpMbbHkLf7oN9hcIymIaN4k8zG0/htcrusNW4oxbhDfRMM76XHyglc25/jfpKX+H/qg3qLAP4ixg/rKf+H/qr7h7idlc+jqQyqAPZqcpYeu3ZN784lBoURfNR4aCXEADckwB5oPpFlsw4suBQaHDm98gH2Rv5n/VVruIsYSSH0gJs3QTHdJKDdrI8T8PDtVaY9pscud+m3KR1jbtg+KXB36dgDDEOZJ0mY7QPK+/KOc2iZjxJXL3ehcxtMWbLdWqD64M7Hl3QglcJZzIbQfMgHQ4m5AuWGfnCbdw7r6leVVKzpc/UBU1agWtDQ0gy0gbd3kF6Hw9mf5TQbUiHXa4dHNMH8fNBZL8LgNyv1ZXi8A1sPN4ZUInkQ6nB8UGqCLG0csxZaC1sCBA9JFuVhYW5KflGW4htZrqgGls/P1biNo70GjlFQ8S4N1qrZtZwE+AdA7pBPQrlk2bhlFzX/1Y7Ft22DW2FoJA8L8ig0RIX6sXgMO/EVe0ZBdrqHYRGkiQIkt7PWAeivM3yypUc00y1oDdJuRsbbA2uguF+SsZj6VWi4Nc+5E9lztpjnHRTmZFXEDWzTzGp0Ec7aUGmQFUfFTiGM73EHvGk271T4XA4p7QWN7Ozf0gFgY2Exsg2iLLYPKsT6SmXgBrXhxOvVEGbCOYkeamcUuIFMixlwkeA5oL1CVl+H800EU3wGEmHE+q4/N6Qb9L9ZteZv8AI1fZKCZK/JWZ4TeTVxEknsUj5zUE+Nh7go2euIxFQgwYaJG8aQYnpMmEGwRZWpk2JgXBkme2RABsdryLrnhcxq4d+l+otbALCQYsI0nuHKY+IDXIoOa1AcNWc0yDReQRzBYSCCsvhcPXqT6O+mJBeWxO0e4oNsiyH5rxnQf4p/BXWNLqeCeXes2g6YINwy8Egj3hBayixGGo1qpPo7kATLotyvzvPvXapl2JYNbgRp5teXEWuf4W6+aDYoqbIc0NSWPMvAkGw1AQDMc56AC6uUBERAVTxRjTSw1QtJD3QxhFiHPMSPAEu8lbLG8dVdVSjTHzWuqbc3dhl/78jwQZenTAhu0AQO7rffyUtlLZaqrw4x+HpiIeGgy7UCOcbktIn7NumUpVuw0k3LQSg7AALhWxELhUxTQ4Oe30lMesywO/rBxG4vbY9QtlT4Pwj2tdoFwDsOY7kGJqVZXP0YO/+3QjoVPzvKDha7WC7HtJb4tiYkkgX2M+K5U6aDS8GZzVdUOHqOLwKepj3esACAWud8/cGTfeZ5Q+IMwqVqtWm4xTpv0hg2JaAdR6mT4beK/eEGRjP/Zd95q445v6fEfXO+AQRmU10hc60xaPAiQe493gtFlOSYfEUm1AzTqkQQ0wWmDccpBQZyrVUSrX3Wh4p4do0cNUqMaA5pZBgc6jWn7CVkgCSg7YZhq1aVMCdbw077GxNr2mZ6Aq04CxL6GJfRqbPLqbhvFSmYBmdiJ5bx3rrwbg/wDmmOM9lriI6kRfyBXXiGh6PGPc2A4hlZt9yDF4iJLXIN+s3xaTqojTbS/tRtdvZmOckxPzdumiY8EAgggiQRsQdis1xbPpKN7aKlpG8sg6fffv70DC5riQxobT1ACA7Q4yB3tMHyVnlONrVHOFRmkASOy5t5/eKhYbiNrWNBpukAAwWkWtzhS8Dnjar2sDHAmbnTyBPI9yC1e0EEEAgiCDsQdxCwWJaA54b6oc4CekwNu74bDZaPiPMSwCm0gOcJdzIYZFuhJH2OUDK8mFakXmQTIpmTFrSWjcTIv0nvQWvDbGClLbuJOvaQehjaARHcZ5q1WOyzGOoVYcIBIa8E+r+90t15jyWwBQZfir5Vv1f8xWpWW4q+Vb7H8xWoa4EAjYoKPiv1KftfwUDLcfXZTDadMFoLr6HG5cSbtMbyp/FfqU/aPwUTK87bSphhY8kF1wQRdxPMzz25ILLK8fXe+KlLS2CdWlzYPTtG/l0Ufiv1afifgEPE7Po37gfN5mOqcV+rT8T8AgphgXegZWEkEvDh+zpqOAdO8QAPcrTD5n6ShVY6dbWTJjtDr4i0+V91N4bYDhWggEF1UEHYj0r5BCoM0y40XxctN2vI8RpMcwPeD4oJnCPy2I+rpfeqqPxB8vU/s/cCkcI/LYj6ul96qo/EH6xU/s/cCDYrMcWNipSMbseCfZLYH/AHO96kv4mbBim6YMSWgTykiSB3gFVVWpUxVUAWJsLEtpi5l0eBuYk2tyC5LpwDzM/oH38GkKnyrF1aev0TNUxPZc6ImPV25rRZpSDcLVaJhtB4E72pkXVBk+Zihrlrnao2i0T1PegnDNsV9D/wDHU/FWHEf6rifqX/dKh/0mZ9G//t/FSM3qekwdZwtqoPIkgRLDuSYCCBwr69T2R8StGQsflGYiiXEtcdQAtH8SpuN4i1NIY0tJBlxi3gBM2nf7UEDITGIpQ6R2gCAW6hod83kLTB6Dotms3w1l0n0rmxpsyRvIu8TygkA85K0iAiIgLC57VY7GuBJcAaTHNMwJ7RA8iDZbped43E+jzR2oED01Ii24NMNBHUare9B6FU2PgV49hqxdTZ7I+C9hq7HwPwXj2Xs/R0/ZHwQK7ey7wXruC+Tp+w34LyupS7LvBeqYP5Nnst+CDIcdNnEYX2KvxYqljFd8Zj9Phvq6vxaqhzgEFjwuP+bH1LvvNUDM6sV8R9a74BS+FKk4yP8Aou++1Umc1f8AmcV9c77rUHzVxC3XBDpwdP2qn+a5eciSvRuCWxg6Y/eqf5rkFhnGXtxFF9JxIDtMkb9lwd/BUVPgqmP6x/v/ANFqkQVOUZIKDy5riQWkEHncEHyg/wB4qq44pj9C6TMVG90Fs+MyPtK1aynHpgYc/vP+4gvsmql9Ck4xJY0222XbE4RlSNbZjbfn/sovDv6rh/q2/BWKCF+aaH0Y+1fdHL6TCHNYARsb9I/ipSIIlXLaTiS5gJO5JPh1UljQAANgIHkvpEEWrl1Jzi5zASdyZ6R/AKRTYGgAbAQF9Igj4jA06hl7QTEX6f8AhXdrQAABAFgByX6iDjicMyoAHtBAuJXD800Pox9qmoghHKaH0Y+3ldd8ThWVI1tBjaV2RBzw9BtNoawQBJjxJJ+0lfmJwzKgh7Q4AyJ5Hr7iR5ldUQR8NgadMksaGlwAJHMCSPvH3r5rZfSeS5zASdzfkIClIgguyegf6se8/ipVGgxghjWtEzDQBfrZdEQfFWmHNc1wkOBBHUEQQov5pofRj7VNRBC/NND6MfapPoG6dEdmNMXFoiJXREEL81Ufox9q/aeV0QZFNsyDcTBbcETse8KYiAiIgIiIC8343/R49tQdo+ipv07fJ1Dae+F6Qsj/AMQsHqZRq3im4td0DagDSfGQB59YQan0gczU0yC2QeoIkFeV5dS/Rs9kfBb3hXGekwoaTLqYLHdbeqfMR9vRY3BN/Rs9kfBAfT7LvBek4T1GeyPgvOqx7J8FfU+NKbWtBoV7ACf0XIRzeg48cVIr4b6ur8WrNVa6l8RZwMTUa8NLQxpDZ37RBcTBjkPd3qoklBecEPnHH/07vvtUDNKJOKxf15+61WXA9GMZP/Qd99q+sbSHp8SetZ3wCCBh8Kt3wq2MMwd7/wDMcsjKm5RnzsOHMcx1Snu3TGppO4hxA08/Gd5sGszTGijSdUI1aYsLTLg3fzVC7jED+of/AH2fioedcTsr0X0m0qrS7T2nejgaXBxnS8nYdFm6lXdBu8n4lGIq+j9E5p0l0lzTtHTxWf8A+ItbVWpUwTak4kfN/SO0tO+40v8AeuHBT5xo+qf8WKNWd+W5iYgt9JpEkQ5lEweZBBIe4RuCg9GwFHRTptjTDQNO8WuJUhEQU+Z582i57SwnSJsRfsyrhYrir5St7P8A9a2qCoxWfNZUfT0ElpAmReWh38ysMdiRSY55EgRbxIH8Vkc3/Wq3ts/ymLScQfq7/wCz98IPnL86ZVdogtJ2m8wJNwrNefAHcarR2hIg7i42NvsWzyjHisyfnNs8QQJ6juKCPhs8a+oynoILnETItDXO/lXXNM1FBzAWl2oONotpLR/N9izmV/rVH23/AOVUU7i75Sh7FX71NBcPzICh6bSYiY5+tH2br5yzNmVi4AQQJgkXG0j7PeF+ZRTDsOxp2LSDysSZuNlncHWNCvcmGuLXcyWzEwPIx3c0Gyc6ASeSqcFnYqPawUyCZkzIECTsPJfnE+KDaWiRNS0WMtHr2PK4E/veCj8K4YjXUIsYa3vAu4914H9lBIxeftp1HsLCSwgTIvLA7+Zcv6SN+jd7wqjM4/Kq07ekZPh6KnKu/wAjwHSh/eb+KCVlmZCtqhpGmN+cz+CiYjiFrXvZocSx2mZF7A/xU3LqFBur0IZeNWgg7bTHiVR500HFNB2OgHvBNwglu4lbypk+YU/LM1ZWkAFrgBLTHS5BG4kxy8Lr8GSYf6FnuWZwdsQB6umu5rfAVC1t+9tvBxQa7HYttJhe6YHICSSbAAd58lSVeJj82kNvnOi/kD3LpxYxxFIwdILp7nEQ23hqE8pjmo+R4vDtbpe0BxdOpw1B0xBn5vhtaUFll+eMqO0kFhPqyQQ7zHPuUnM8eKLQ4tJkxbwnn4Ljl+X0A70tKCCLQ7U0dSOlrdOkSZj8VfJs9v8AlKD4/pI36N3vC6YfP2vc1oY7tECZFpMKPl+GwhpsNT0WuL6i2d+d1Mw2BweoFjaRcDI0kEgi82KC1REQEREBR8wwjatN9NwBDhF+u4PkYPkpCIPO8ixpwtUip2R8nVBG37Drd9p2v4FRKVSGNEXDQtHxplhj8opiXNEPH7Q5WA+3uCy2VM/KXljS/VGoAGn2gN/XvIJ2HRB+Va6iPqSr88IVv+r76H4r9ZwhVHKr76H4oM/TpEqxw2DmwEkq4p8N1R8yp76P4rQZXkjWCX3P7O/OZJ58rbb77oIPDmUuZUFQiBoLb85IsBvbSb94iVAz7L6lOpUeBqa9xdblP+2y2q+ajA4QQCOhvtcIPNDWB2XCpVWpzfhUE66RdPQFs8+brGBA69SVVu4TrHlV99D8UFDUqKPUqrRO4PrH6X30PxUXHcLOpML6jqrWjczQ8gBNyeiCnwePfSe5zN3Un0w79jWW9oDnABjvhbD/AIeZTpDq5ESNDfCx/wDPErN8PZK6u8C+kG5ttPMbWBE/6r1ahSDGtaNgAB5IPtERBi+JWzWqiCJAjvBYBI7pkeRWyp1A4BwMggEHqDcKuznKvTQ5pAeBzHrDkCdxfnyk2VI3L8U1ugB4adw1wgaje4PUk2Qcc3BOJq6bkvaALXOhjYvbcQtHxB+rv/s/fCg5Tkjg4PqxYmGWdJmzi77euxnkrPNsO6pSc1u50x5OBPwQUmQYZtVldjtjpvaQe1BE8wb+Sis9JhKokgm0wLPYTeByNutiBy3u8hwD6WvWB2tMQZ2mfiu2cZcKzP32g6DMXPI9xgIM3lJnFUT++7/JqKdxd8pQ9ir96kmW5NVZWpPcAGtcSbjnTc34kKZxBltSq6kWAQ1tQGTHrFhH3SgmZH8hT8P4lU3FGFh7anJ40nl2m856lv3O5XuWUCykxrtwL+9fOb4U1aTmjexHeQZjcbxHmgyOIxL6mgGSWtawSdyDE2G7jE25c4WzwWH9HTYyZ0tAnqeZjlJVJlOSvZVa58Q2SAIMnYT4TPiAtEgxeZtnFVh1qMHvpU1d/wBG6X7T/e3/APKhZjk1Z9aq9oEOc0i8bU2t8rtK4jJMT+0f8R34oNBl2XNohwaXHUQbxyEcgqDPwfyjs7w2PHkrHI8vq03uNQkgtgdsu5jkSvjH5dUfXDwBpBbuReDcwgqce3EMAFUuhxgS/UCReN97T5KVwzgw95qF3yZgNG8lu7uogmI5z0WjxmGbUY5jtiIm0g8iJ5jdUGCyzEUX6mgEAkG4l7Z79pgHfeEF5mD6QZ+l06SQIcJBM2t9vdE8lV1+HqbhqpPIm4nttIN7GZ6c4tspec5X6YAgw5oMTsZ5HpcC49xVHRy7FUpDA4Tc6XCCffug4YOo+jXDWkT6RrH7w4FwBtbkbHl71d8VfJs9v+UqJleS1C8Oq2DdLgCZLiLifAgeas89wb6rGhm4dNzHIoIGX5HTqU2OLngkbDTG/eFYYHJ2UnamlxMEXiL+AVJ+Y8RyJHcKjgPcF1w2UYhr2OJcQ1wJHpCZgzEEwfNBp0REBERAREQfhC874n4YfRqivQJEvBtYtdyLeh5RsRbff0VfL2BwIIBB3BuD5IM7kHE4qANrQx+wd818CSduwe4911pFmc24bkudTi8kj+EfOFz37bqmwmaYjCw2Jpi2h06R3NduyOh2uIQb9Fn8Fxfh3+uXUj++Ozy2e2REncxsbBXWHxdOoA5j2PBmC1wcDBgwRvcH3IOyIvxzgNzCD9RVGJ4nwbAScRTcRILWOFR0jlpZJlZ3MeNnvJZhqZEggOeJdMxLabSbRBBced2oNVm+bUsM0OqHeQ1oEueQJgAfE2EiViq9WvmFQEtIY0WptIIBG8EwC4zEmALef7l2R1sTUL6pJcY1E8t4Bdtb9lt7iYmVuMuy9lFsNF4AJ8Og5De3f1QfOV5ayg0BovFz/DwU1EQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAXDE4NlT1mg9+x945dy7ogy+O4OpuMsOmd4kRMybWPIRA53WfxPBVZp1NnsidWlpIsZALHBxMdBzsvSEQeXHhPFnaofP8oH2SjeDMQ+Q9xfpgwWvPUWNV4BO+3XvXqKIMNg+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/1200px-DC_Comics_logo.svg.png" group-title="➤ ZONA 24/7",24/7 | CINEMA DC UNIVERSE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31825
+#EXTINF:-1 tvg-name="24/7 | CINEMA DC COMICS HD" tvg-logo="http://miarea.vip:8080/images/6433cd453accaa4c46c9b0384ba15459.png" group-title="➤ ZONA 24/7",24/7 | CINEMA DC COMICS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31826
+#EXTINF:-1 tvg-name="24/7| DRAGON BALL SUPER" tvg-logo="http://miarea.vip:8080/images/8f6400f56fd090bf7116498c580063ba.png" group-title="➤ ZONA 24/7",24/7| DRAGON BALL SUPER
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/412
+#EXTINF:-1 tvg-name="24/7 | DRAGON BALL Z" tvg-logo="https://cdn.clipart.email/239c6c0decf2a05a58dc04c48fb84b0e_dragon-ball-z-kakaroto-logo-png_2000-694.png" group-title="➤ ZONA 24/7",24/7 | DRAGON BALL Z
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31623
+#EXTINF:-1 tvg-name="24/7| ALF " tvg-logo="http://miarea.vip:8080/images/c2231d2466403a266739760bb893d849.png" group-title="➤ ZONA 24/7",24/7| ALF 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/413
+#EXTINF:-1 tvg-name="24/7| EL CHAVO DEL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="➤ ZONA 24/7",24/7| EL CHAVO DEL 8
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/414
+#EXTINF:-1 tvg-name="24/7| SCOOBY DOO" tvg-logo="http://miarea.vip:8080/images/2fbf71494119523c2792c96f4ab1599f.png" group-title="➤ ZONA 24/7",24/7| SCOOBY DOO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/416
+#EXTINF:-1 tvg-name="24/7| LOS PICAPIEDRAS" tvg-logo="http://miarea.vip:8080/images/e10d2003102a46878637f48467fec910.png" group-title="➤ ZONA 24/7",24/7| LOS PICAPIEDRAS
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/420
+#EXTINF:-1 tvg-name="24/7 | PAW PATROL " tvg-logo="http://miarea.vip:8080/images/f8c4b9c957939b596d8fef4c6c880119.png" group-title="➤ ZONA 24/7",24/7 | PAW PATROL 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8029
+#EXTINF:-1 tvg-name="24/7 | EL CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="➤ ZONA 24/7",24/7 | EL CHAPULIN COLORADO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/41900
+#EXTINF:-1 tvg-name="24/7 | BREAKING BAD" tvg-logo="https://w0.pngwave.com/png/24/215/logo-breaking-bad-season-1-brand-font-design-breaking-bad-png-clip-art.png" group-title="➤ ZONA 24/7",24/7 | BREAKING BAD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/41903
+#EXTINF:-1 tvg-name="24/7 | PINKI & CEREBRO " tvg-logo="https://static.pintzap.com/img/pics/t/600/1580928886_cerebro-que-vamos-hacer-esta-noche-pinki-pa-aracubar.png" group-title="➤ ZONA 24/7",24/7 | PINKI & CEREBRO 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/41909
+#EXTINF:-1 tvg-name="24/7 | HE-MAN HD" tvg-logo="https://fanart.tv/fanart/tv/73014/clearlogo/HeManandtheMastersoftheUniverse-73014-2.png" group-title="➤ ZONA 24/7",24/7 | HE-MAN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68245
+#EXTINF:-1 tvg-name="24/7 | PLAY! CINEMA SCARY MOVIE HD" tvg-logo="https://vignette3.wikia.nocookie.net/moviedatabase/images/9/9c/Scary_Movie_logo.png" group-title="➤ ZONA 24/7",24/7 | PLAY! CINEMA SCARY MOVIE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68953
+#EXTINF:-1 tvg-name="24/7 | CANTINFLAS HD" tvg-logo="http://miarea.vip:8080/images/3c0775a906a0e93bb52a858a9d4f083b.png" group-title="➤ ZONA 24/7",24/7 | CANTINFLAS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74176
+#EXTINF:-1 tvg-name="24/7 | EL CLON HD" group-title="➤ ZONA 24/7",24/7 | EL CLON HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74178
+#EXTINF:-1 tvg-name="24/7 | LO QUE CALLAMOS LAS MUJERES HD" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4a59809/2147483647/strip/true/crop/3840x2160+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fff%2F75%2F3ba90b0f25ff309d3288d362860d%2Flo-que-callamos-1884415.png" group-title="➤ ZONA 24/7",24/7 | LO QUE CALLAMOS LAS MUJERES HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/77924
+#EXTINF:-1 tvg-name="24/7 | LA HORA PICO HD" tvg-logo="https://cdn-s3.sidereel.com/tv_shows/52895/giant_2x/papa.png" group-title="➤ ZONA 24/7",24/7 | LA HORA PICO HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/77925
+#EXTINF:-1 tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://i.pinimg.com/originals/9f/e1/5e/9fe15ee4322485dab71819b19da77785.png" group-title="➤ ZONA 24/7",24/7 | PEDRO INFANTE
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/77926
+#EXTINF:-1 tvg-name="24/7 | UNA FAMILIA DE DIEZ HD" group-title="➤ ZONA 24/7",24/7 | UNA FAMILIA DE DIEZ HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/77927
+#EXTINF:-1 tvg-name="24/7 JUEGO DE TRONO" tvg-logo="http://miarea.vip:8080/images/503d573963d23b88272d824c74b1d257.png" group-title="➤ ZONA 24/7",24/7 JUEGO DE TRONO
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/100138
+#EXTINF:-1 tvg-name="24/7  SMALVILLE" tvg-logo="http://miarea.vip:8080/images/c74d1f344a828f02136231474d7d67a6.png" group-title="➤ ZONA 24/7",24/7  SMALVILLE
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/100140
+#EXTINF:-1 tvg-name="24/7 DORA LA EXPLORADORA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Dora_la_exploradora.png" group-title="➤ ZONA 24/7",24/7 DORA LA EXPLORADORA 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/100145
+#EXTINF:-1 tvg-name="24/7 LOS PADRINOS MAGICOS " tvg-logo="http://miarea.vip:8080/images/d0a2a672250c63012231fa458d2cc3db.jpg" group-title="➤ ZONA 24/7",24/7 LOS PADRINOS MAGICOS 
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/100146
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Toy Story" group-title="➤ ZONA 24/7",24/7| Play! Cinema Toy Story
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112264
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Disney Pixar #2" group-title="➤ ZONA 24/7",24/7| Play! Cinema Disney Pixar #2
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112265
+#EXTINF:-1 tvg-name="24/7| Play! La casa de Mickey Mouse" group-title="➤ ZONA 24/7",24/7| Play! La casa de Mickey Mouse
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112266
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Horror" group-title="➤ ZONA 24/7",24/7| Play! Cinema Horror
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112267
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Navidad" group-title="➤ ZONA 24/7",24/7| Play! Cinema Navidad
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112268
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Lego Movies" group-title="➤ ZONA 24/7",24/7| Play! Cinema Lego Movies
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112269
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Artes Marciales" group-title="➤ ZONA 24/7",24/7| Play! Cinema Artes Marciales
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112270
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Happy Madison" group-title="➤ ZONA 24/7",24/7| Play! Cinema Happy Madison
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112272
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Halloween" group-title="➤ ZONA 24/7",24/7| Play! Cinema Halloween
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112273
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Actividad paranormal" group-title="➤ ZONA 24/7",24/7| Play! Cinema Actividad paranormal
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112274
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Keanu Reeves" group-title="➤ ZONA 24/7",24/7| Play! Cinema Keanu Reeves
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112275
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Disney Live Action" group-title="➤ ZONA 24/7",24/7| Play! Cinema Disney Live Action
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112276
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Accion Classics" group-title="➤ ZONA 24/7",24/7| Play! Cinema Accion Classics
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112277
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Mad Max" group-title="➤ ZONA 24/7",24/7| Play! Cinema Mad Max
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112278
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Señor de los Anillos" group-title="➤ ZONA 24/7",24/7| Play! Cinema Señor de los Anillos
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112280
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Los Juegos del Hambre" group-title="➤ ZONA 24/7",24/7| Play! Cinema Los Juegos del Hambre
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112283
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Ocean's Eleven" group-title="➤ ZONA 24/7",24/7| Play! Cinema Ocean's Eleven
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112285
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Rocky" group-title="➤ ZONA 24/7",24/7| Play! Cinema Rocky
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112287
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Duro de Matar" group-title="➤ ZONA 24/7",24/7| Play! Cinema Duro de Matar
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112288
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Cincuenta Sombras" group-title="➤ ZONA 24/7",24/7| Play! Cinema Cincuenta Sombras
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112289
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Blade" group-title="➤ ZONA 24/7",24/7| Play! Cinema Blade
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112290
+#EXTINF:-1 tvg-name="24/7| Play! Cinema El Padrino" group-title="➤ ZONA 24/7",24/7| Play! Cinema El Padrino
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112291
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Esta Abuela es un Peligro" group-title="➤ ZONA 24/7",24/7| Play! Cinema Esta Abuela es un Peligro
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112292
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Ciencia Ficcion" group-title="➤ ZONA 24/7",24/7| Play! Cinema Ciencia Ficcion
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112293
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Brad Pitt" group-title="➤ ZONA 24/7",24/7| Play! Cinema Brad Pitt
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112294
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Especies" group-title="➤ ZONA 24/7",24/7| Play! Cinema Especies
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112296
+#EXTINF:-1 tvg-name="24/7| Play! Cinema Búsqueda implacable" group-title="➤ ZONA 24/7",24/7| Play! Cinema Búsqueda implacable
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112297
 #EXTINF:-1 group-title="TV | Colombia",CO | ATN Televisión (Cúcuta | Norte de Santander) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103867
 #EXTINF:-1 group-title="TV | Colombia",CO | Cable Noticias HD
@@ -2445,3 +3365,21 @@ http://ugeen.live:8080/ispoki/mrspoki223/3827
 http://ugeen.live:8080/ispoki/mrspoki223/3830
 #EXTINF:-1 group-title="TV | España",ES: Odisea
 http://ugeen.live:8080/ispoki/mrspoki223/3829
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP| LA 1 HD" tvg-logo="http://miarea.vip:8080/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="TV | España",ESP| LA 1 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/345
+#EXTINF:-1 tvg-id="I2.91206.schedulesdirect.org" tvg-name="ESP| LA 2 HD" tvg-logo="http://miarea.vip:8080/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="TV | España",ESP| LA 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/346
+#EXTINF:-1 tvg-name="ESP| FOX CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="TV | España",ESP| FOX CHANNEL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/76005
+#EXTINF:-1 tvg-id="88039" tvg-name="ESP| DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="TV | España",ESP| DMAX HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/408
+#EXTINF:-1 tvg-id="I96.87058.schedulesdirect.org" tvg-name="ESP| HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="TV | España",ESP| HISTORIA HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/359
+#EXTINF:-1 tvg-id="I73.97470.schedulesdirect.org" tvg-name="ESP| DISCOVERY CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/f87b9052ea11bc8d5b932c556358a7b1.png" group-title="TV | España",ESP| DISCOVERY CHANNEL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/364
+#EXTINF:-1 tvg-name="ESP| NATIONAL GEOGRAFHY WILD FHD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="TV | España",ESP| NATIONAL GEOGRAFHY WILD FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31847
+#EXTINF:-1 tvg-name="ESP| NATGEO WILD HD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="TV | España",ESP| NATGEO WILD HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/389
+#EXTINF:-1 tvg-id="I20.91201.schedulesdirect.org" tvg-name="ESP| FOX LIFE HD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="TV | España",ESP| FOX LIFE HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/503
