@@ -27,6 +27,10 @@ http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73711
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153191
 #EXTINF:-1 tvg-name="DIRECTV SPORTS 1 HD (Ecuador)" tvg-logo="http://miarea.vip:8080/images/3599d812c2e593dc916edc197673115b.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",DIRECTV SPORTS 1 HD (Ecuador)
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/153192
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU: EL CANAL DEL FUTBOL
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145495
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU: DIRECTV ECUADOR
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145496
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
@@ -43,10 +47,6 @@ http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145490
 http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145491
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU: GOLTV PPV (EVENTOS ECUADOR)
 http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145492
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU: EL CANAL DEL FUTBOL
-http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145495
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU: DIRECTV ECUADOR
-http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/145496
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Ecuador TV HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2465
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Teleamazonas UHD
@@ -543,6 +543,152 @@ http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/60105.ts
 http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/60106.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",ECU| TVC | 2mb
 http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/60107.ts
+#EXTINF:-1 tvg-name="ECUA| ESPN 4 SUR HD" tvg-logo="http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| ESPN 4 SUR HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110367
+#EXTINF:-1 tvg-name="ECUA| FOX SPORST 2 HD" tvg-logo="http://miarea.vip:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| FOX SPORST 2 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110364
+#EXTINF:-1 tvg-name="ECUA| FOX SPORTS 3 HD" tvg-logo="http://miarea.vip:8080/images/f9877853403ecbe18bf5cc8782049880.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| FOX SPORTS 3 HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110365
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS HD " tvg-logo="http://miarea.vip:8080/images/3599d812c2e593dc916edc197673115b.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| DIRECTV SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8348
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS HD" tvg-logo="http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| DIRECTV SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75699
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS PLUS HD" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| DIRECTV SPORTS PLUS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/110353
+#EXTINF:-1 tvg-name="ECUA| DIRECTV SPORTS 2 HD*" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ECUA| DIRECTV SPORTS 2 HD*
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/8945
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Bein Sports Ñ OPC 1 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1261
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Bein Sports Ñ OPC 2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1262
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | DirecTV Sports 1 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1282
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | DirecTV Sports 2 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1283
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 1 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1263
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 2 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1264
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 3 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1265
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 4 HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/105410
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Fox Sports (Chile) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1280
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Fox Sports (CO) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1279
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Fox Sports 2 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1273
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | Fox Sports 3 (Arg) HD
+http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1274
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 1 (Arg) HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1263
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Deportes HD | ESPN 2 (Arg) HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1264
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN 1 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73697
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 HD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN 2 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73698
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 3 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN 3 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73699
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 1 FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN 1 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73717
+#EXTINF:-1 tvg-name="DEPORTES| ESPN 2 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a21cb6bf54b6fad9d29ee4ac6a91f508.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN 2 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73718
+#EXTINF:-1 tvg-name="DEPORTES| ESPN  3 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| ESPN  3 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73719
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 1 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| FOX SPORTS 1 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73700
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 3 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| FOX SPORTS 3 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73702
+#EXTINF:-1 tvg-name="DEPORTES| FOX SPORTS 1 FHD ARGENTINA " tvg-logo="http://miarea.vip:8080/images/a404f26351b81df5e90343692e7ff5d4.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| FOX SPORTS 1 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73720
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORTS FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73703
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS 2 FHD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORTS 2 FHD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73704
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/2ea156dba5886e33c0a461a41cb86c28.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORTS HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73705
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS 2 HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORTS 2 HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73706
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORS + HD ARGENTINA" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORS + HD ARGENTINA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73707
+#EXTINF:-1 tvg-name="DEPORTES| DIRECTV SPORTS + HD COLOMBIA " tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| DIRECTV SPORTS + HD COLOMBIA
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73709
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL* HD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| BEIN SPORTS EN ESPANOL* HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74985
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| BEIN SPORTS EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73732
+#EXTINF:-1 tvg-name="DEPORTES|  BEIN SPORTS N EXTRA EN ESPANOL HD" tvg-logo="http://miarea.vip:8080/images/b51a526e2b4cd7232fda02b8e6687c7a.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES|  BEIN SPORTS N EXTRA EN ESPANOL HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/103051
+#EXTINF:-1 tvg-name="DEPORTES| BEIN SPORTS EN ESPANOL LATINO FHD" tvg-logo="http://miarea.vip:8080/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| BEIN SPORTS EN ESPANOL LATINO FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73731
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 2 (BEIN SPORTS 5)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| COPA LIBERTADORES FHD 2 (BEIN SPORTS 5)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73914
+#EXTINF:-1 tvg-name="DEPORTES| COPA LIBERTADORES FHD 3 (BEIN SPORTS 6)" tvg-logo="http://miarea.vip:8080/images/a2a1d8fb30f66a288113dfb3c5e8e62b.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEPORTES| COPA LIBERTADORES FHD 3 (BEIN SPORTS 6)
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/73915
+#EXTINF:-1 tvg-name="ARG| ESPN 1 SD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 1 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68944
+#EXTINF:-1 tvg-id="I621.10180.schedulesdirect.org" tvg-name="ARG| ESPN 1 FHD" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-png-2.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 1 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35765
+#EXTINF:-1 tvg-name="ARG| ESPN 2 SD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 2 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68945
+#EXTINF:-1 tvg-id="I1621.17725.schedulesdirect.org" tvg-name="ARG| ESPN 2 FHD" tvg-logo="http://miarea.vip:8080/images/0a8b37a500a5835bdb95304f7efebddc.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35766
+#EXTINF:-1 tvg-name="ARG| ESPN 3 SD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 3 SD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68946
+#EXTINF:-1 tvg-id="I1626.73834.schedulesdirect.org" tvg-name="ARG| ESPN 3 FHD" tvg-logo="http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN 3 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35767
+#EXTINF:-1 tvg-id="I1620.96876.schedulesdirect.org" tvg-name="ARG| ESPN PLUS FHD" tvg-logo="http://miarea.vip:8080/images/d688e8b94c87a33b3923265cf071c16e.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| ESPN PLUS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35768
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS 2 FHD" tvg-logo="http://miarea.vip:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| DIRECTV SPORTS 2 FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35769
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS FHD" tvg-logo="http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| DIRECTV SPORTS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35770
+#EXTINF:-1 tvg-id="I611.107891.schedulesdirect.org" tvg-name="ARG| DIRECTV SPORTS PLUS FHD" tvg-logo="http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| DIRECTV SPORTS PLUS FHD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35771
+#EXTINF:-1 tvg-name="PREMIUN| ESPN_HD " tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",PREMIUN| ESPN_HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75457
+#EXTINF:-1 tvg-name="PREMIUN| ESPN HD" tvg-logo="http://miarea.vip:8080/images/7e9f2faec802eb9cace2303034565400.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",PREMIUN| ESPN HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/75456
+#EXTINF:-1 tvg-id="I1629.16275.schedulesdirect.org" tvg-name="ARG| TYC SPORTS HD " tvg-logo="http://miarea.vip:8080/images/2003828a7bace1a3f72faf3d95ae91de.png" group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",ARG| TYC SPORTS HD
+http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/35774
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEP| BEIN SPORT Ñ
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/8535.ts
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEP| FOX SPORTS 1 ARG | HD (A)
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/573.ts
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",DEP| FOX SPORTS 1 CHILE | 2MB
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/67012.ts
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",Dep|| beIN Sports en Español |USA Opc 1
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/41099.ts
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",39 | ESPN 2 ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/2821
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",40 | ESPN 3
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/2822
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",41 | ESPN ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/2823
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",74 | ESPN SUR ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3036
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",75 | ESPN 2 SUR ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3037
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",76 | ESPN 3 SUR ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3038
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",77 | ESPN 4 SUR ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3039
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",78 | FOX SPORTS 3 SUR ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3041
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",53 | ESPN PLUS ®
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3014
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",CHL: DIRECTV SPORTS CHILE
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3309
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",CHL: FOX SPORTS 1 HD
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3312
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",CHL: FOX SPORTS 2 HD
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/3313
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",SUR | ESPN 2
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/4794
+#EXTINF:-1 group-title="➤ ⚽  MUDIAL SUB 20 - LIBERTADORES - SUDAMERICANA ⚽",SUR | ESPN 3
+http://magmas5.com:8000/V5KNN9SYAE/4IU2JJFNPR/4795
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",MX: Cinemax
 http://tvstar.icu:8080/37931569/37931569/57638
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINE - AMC
