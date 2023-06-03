@@ -29,6 +29,8 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/186039.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/185820.ts
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU: EL CANAL DEL FUTBOL
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/145495
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",LA: EC_DIRECTV SPORT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8650
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
@@ -51,6 +53,8 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156009
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/132884
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU: GOLTV PPV (EVENTOS ECUADOR)
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/145492
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",LA: GOLTV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8649
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Ecuador TV HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2465
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Teleamazonas UHD
@@ -121,6 +125,28 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66620.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66626.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : TVC TELEVICENTRO
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66621.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: CANAL UNO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28719
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: CANELA TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28720
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: ECUADOR TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28722
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: ECUAVISA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28724
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: GAMAVISION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28726
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: OROMAR TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28728
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TC TELEVISION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28730
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TELE AMAZONAS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28731
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TVC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/78222
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: GOL TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42056
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: RTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42055
 #EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
 http://playhispano.org:8080/Casjahj/Jhajsac/129475
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 6",|EC| TELEVICENTRO TVC HD
@@ -817,6 +843,152 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156760
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/4118
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINE - CINE LATINO
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/4136
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX ACTION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8507
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX EAST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8508
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8509
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8584
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO 2 WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8585
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO FAMILY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8511
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8653
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO PLUS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8512
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO SIGNATURE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8513
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8514
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: INDIEPLEX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8588
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: MOVIEPLEX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8591
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: OUTERMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8592
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ CINEMA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8597
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ CINEMA WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8598
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ COMEDY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8599
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ EAST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8600
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ ENCORE CLASSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8532
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ ENCORE FAMILY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8608
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8606
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TBS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42164
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: GOLDEN PREMIER
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42161
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CLARO CINEMA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42153
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: WARNER CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42150
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TNT SERIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42146
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42145
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TCM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42142
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STUDIO UNIVERSAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42141
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SPACE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42140
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SONY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42139
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMA DINAMITA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42138
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: A&E
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42137
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: PARAMOUNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42135
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: LIFETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42134
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: GOLDEN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42131
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: AXN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42129
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: AMC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42128
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: FX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42127
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR MOVIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42126
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR CLASSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42125
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42122
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SYFY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42115
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: UNIVERSAL CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42082
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/17037
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY CIVILIZATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/141763
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY THEATER
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42168
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: ANIMAL PLANET
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42110
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY TURBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42109
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY SCIENCE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42108
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY HOME & HEALTH
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42106
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY INVESTIGATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42105
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: NAT GEO WILD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42104
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: NAT GEO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42103
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: VIP BR FOX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/410231
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: H2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42113
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: ID
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42112
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINE CANAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42101
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: CINECANAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11556
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: CINEMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11557
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: FX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11594
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: H2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11600
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: HBO 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11602
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: HISTORY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11607
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: LIFETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11610
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: NAT GEO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11621
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: PARAMOUNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11627
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SONY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11633
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SPACE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11634
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: STUDIO UNIVERSAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11635
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SYFY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11636
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TCM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11638
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11645
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TNT SERIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11646
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports Ñ OPC 1 HD
@@ -1181,6 +1353,50 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090737
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090739
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG - FOX SPORTS 2 ᴴᴰ
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090740
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTVSP 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8468
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTVSP 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8464
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTV SPORTS +
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8465
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORT2 CHILE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8618
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO: WIN SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8467
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/141767
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42120
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42119
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42118
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3912
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3394
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11574
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11575
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11573
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN+
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11781
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS PREMIUM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11593
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8037
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3910
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: DIRECTV SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301497
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: DIRECTV SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301496
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301491
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN PREMIUM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/386274
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HGTV
 http://192.99.70.160:25461/maria23/maria23/43
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY FAMILIA
@@ -1991,6 +2207,18 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1155808
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156006
 #EXTINF:-1 group-title="➤ ZONA CINEMA PPV",CINE - CINE ESTELAR
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156007
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 28 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8553
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 30 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8551
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 31 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8550
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 33 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8548
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 36 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8545
+#EXTINF:-1 group-title="➤ ZONA CINEMA PPV",LA: CINEMA 37 PPV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8544
 #EXTINF:-1 group-title="➤ ZONA  24/7 PELICULAS",24/7 Los Magnificos (e)(720)
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/91989
 #EXTINF:-1 group-title="➤ ZONA  24/7 PELICULAS",24/7 El Auto Fantastico (e)(SD)
