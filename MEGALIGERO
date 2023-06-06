@@ -29,6 +29,16 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/186039.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/185820.ts
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU: EL CANAL DEL FUTBOL
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/145495
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",LA: EC_DIRECTV SPORT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8650
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC | CANAL DEL FUTBOL HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/20860
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC | CANAL DEL FUTBOL SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/33875
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC | GOL TV HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/33876
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC | GOL TV SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53514
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
@@ -51,6 +61,8 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156009
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/132884
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU: GOLTV PPV (EVENTOS ECUADOR)
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/145492
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",LA: GOLTV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8649
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Ecuador TV HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2465
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Teleamazonas UHD
@@ -121,6 +133,72 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66620.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66626.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : TVC TELEVICENTRO
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66621.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: CANAL UNO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28719
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: CANELA TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28720
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: ECUADOR TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28722
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: ECUAVISA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28724
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: GAMAVISION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28726
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: OROMAR TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28728
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TC TELEVISION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28730
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TELE AMAZONAS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/28731
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: TVC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/78222
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: GOL TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42056
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC: RTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42055
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | Ecuavisa QUITO HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140743
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | Ecuavisa QUITO SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140744
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | ECUAVISA GQUIL HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140745
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | ECUAVISA GUAYAQUIL SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140746
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | Ecuavisa Internacional
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140747
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TELEAMAZONAS GQUIL  HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140748
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TELEAMAZONAS GQUIL SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140749
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TELEAMAZONAS Q SIERRA HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140750
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TELEAMAZONAS SIERRA SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140751
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | RTS HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140752
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | OROMAR TV HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140754
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | OROMAR SD..
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140755
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TC Television HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140757
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC TC TELEVISION SD..
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140758
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | Ecuador TV HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140759
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | GAMAVISION.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140760
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | HECHOS ECUADOR.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140761
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | RTU.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140762
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | GAMAVISION SD..
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140763
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | Zaracay TV.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140764
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",Multicanal.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140765
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC | TELERAMA.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/140766
 #EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
 http://playhispano.org:8080/Casjahj/Jhajsac/129475
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 6",|EC| TELEVICENTRO TVC HD
@@ -817,6 +895,152 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1156760
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/4118
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINE - CINE LATINO
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/4136
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX ACTION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8507
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX EAST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8508
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8509
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8584
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO 2 WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8585
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO FAMILY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8511
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8653
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO PLUS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8512
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO SIGNATURE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8513
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: HBO WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8514
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: INDIEPLEX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8588
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: MOVIEPLEX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8591
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: OUTERMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8592
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ CINEMA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8597
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ CINEMA WEST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8598
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ COMEDY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8599
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ EAST
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8600
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ ENCORE CLASSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8532
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ ENCORE FAMILY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8608
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STARZ
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8606
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TBS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42164
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: GOLDEN PREMIER
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42161
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CLARO CINEMA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42153
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: WARNER CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42150
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TNT SERIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42146
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42145
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: TCM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42142
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STUDIO UNIVERSAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42141
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SPACE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42140
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SONY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42139
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINEMA DINAMITA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42138
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: A&E
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42137
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: PARAMOUNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42135
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: LIFETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42134
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: GOLDEN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42131
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: AXN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42129
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: AMC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42128
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: FX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42127
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR MOVIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42126
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR CLASSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42125
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: STAR
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42122
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: SYFY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42115
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: UNIVERSAL CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42082
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/17037
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY CIVILIZATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/141763
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY THEATER
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42168
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: ANIMAL PLANET
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42110
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY TURBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42109
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY SCIENCE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42108
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY HOME & HEALTH
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42106
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: DISCOVERY INVESTIGATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42105
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: NAT GEO WILD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42104
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: NAT GEO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42103
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: VIP BR FOX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/410231
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: H2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42113
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: ID
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42112
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LA: CINE CANAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42101
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: CINECANAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11556
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: CINEMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11557
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: FX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11594
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: H2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11600
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: HBO 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11602
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: HISTORY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11607
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: LIFETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11610
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: NAT GEO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11621
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: PARAMOUNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11627
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SONY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11633
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SPACE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11634
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: STUDIO UNIVERSAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11635
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: SYFY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11636
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TCM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11638
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11645
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ARG: TNT SERIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11646
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports Ñ OPC 1 HD
@@ -1181,6 +1405,214 @@ http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090737
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090739
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG - FOX SPORTS 2 ᴴᴰ
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1090740
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTVSP 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8468
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTVSP 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8464
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: DIRECTV SPORTS +
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8465
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORT2 CHILE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8618
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO: WIN SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8467
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/141767
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42120
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42119
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: ESPN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/42118
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3912
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA: STAR SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3394
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11574
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11575
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11573
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN+
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11781
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS PREMIUM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/11593
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8037
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/3910
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: DIRECTV SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301497
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: DIRECTV SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301496
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: FOX SPORTS 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301491
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ARG: ESPN PREMIUM
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/386274
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | DSPORTS HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/58
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | DSPORTS SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/59
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | DSPORTS 2 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/60
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | DSPORTS 2  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/61
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | DSPORTS HD +
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/62
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 3  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/66
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 3  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/68
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 3  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/69
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/71
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/72
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/73
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/74
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN  1  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/75
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 3  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/76
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 3 HD 
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/77
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 3  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/78
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 2  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/81
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 1  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/82
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 1  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/83
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEP | FOX SPORTS 1  FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/84
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | TNT SPORTS  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/1313
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | TNT SPORTS  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/1379
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | TYC SPORTS  INTERNACIONAL HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/1380
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | TYC SPORTS  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/1381
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | TYC SPORTS  SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/1382
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS. PREMIUM FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/11570
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS PREMIUM  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/11571
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS PREMIUM SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/11572
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | AFIZZIONADOS
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/68638
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | CLARO SPORTS HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/68639
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT: GOLF CHANNEL LATINOAMERICA ©️
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/99327
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 SD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/230
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 HD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/49631
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 SD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/52964
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 3 HD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/52965
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 HD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/52967
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 FHD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/52968
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 FHD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/54170
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 4 SD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144042
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 4 FHD*
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144043
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN EXTRA FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144044
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Fox Sport 1 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144045
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Fox Sport 2 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144046
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Fox Sport 3 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144047
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144048
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147931
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147932
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES HD OP B
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147935
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES FHD OP B
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147936
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES 2 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147937
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES 2 
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147940
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES 3
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147941
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ES | M+LIGA DE CAMPEONES 3 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/147944
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 1 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/99836
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 1 SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/99837
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | FOX SPORTS 1 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/100115
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIER LEAGUE Full HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110360
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Premier League Es
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/113192
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIER LEAGUE 2
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/113193
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIER LEAGUE 3
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/113194
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",PREMIER LEAGUE 4
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/113195
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ELEVEN SPORT
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/113197
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228110
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228111
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 1 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228112
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228113
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228114
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 2 FHD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228115
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 3 FHD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228199
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 4 HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228200
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 4 SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228201
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN 4 FHD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228202
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN EXTRA HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228203
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LAT | ESPN EXTRA SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228204
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 1 HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228205
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 1 SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228206
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 2 HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228207
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 2 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228208
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 3 HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228209
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN 3 SD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228210
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN EXTRA FHD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228263
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",MX | ESPN EXTRA HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/228265
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HGTV
 http://192.99.70.160:25461/maria23/maria23/43
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY FAMILIA
@@ -1371,6 +1803,100 @@ http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31626
 http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31627
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",|MX| HGTV HD
 http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31628
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Europa europa
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/157337
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Channel HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53457
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Channel SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53458
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Home & Health HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53459
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Investigation FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53462
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Home & Health SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53460
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Investigation HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53463
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY Science
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53464
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY Theater HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53465
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY Theater 
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53466
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY Turbo SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53467
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY World SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53469
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY Turbo HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53468
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY World HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53470
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Familia FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53472
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Familia HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53473
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",EL GOURMET
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53474
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORY HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53481
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORY SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53482
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",History 2 FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53483
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",History 2 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53488
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONA Geographic HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53491
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATGEO WILD FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/53492
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATGEO WILD HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/54171
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ANIMAL Planet HD.
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/54172
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ANIMAL Planet SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/118747
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",E! Entretainment FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/122959
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",E! Entretainment HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/126151
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORIA
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110248
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORIA HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110249
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORIA FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110250
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110251
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110252
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110253
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC WILD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110254
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAFIC WILD HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110255
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC WILD FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110256
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110257
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110258
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110259
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DMAX
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110260
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ODISEA
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110261
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ODISEA HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110262
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ODISEA FHD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110263
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",BLAZE
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110264
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",BLAZE HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110265
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",MEZZO LIVE FULL HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110267
 #EXTINF:-1 tvg-name="Latino  2mb - A&E" tvg-logo="http://miarea.vip:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="➤ ZONA LOW",Latino  2mb - A&E
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80277
 #EXTINF:-1 tvg-name="Latino  2mb - Antena 3" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY1MDQ5NDM4NTk0ODEx/antena3png.png" group-title="➤ ZONA LOW",Latino  2mb - Antena 3
@@ -1609,226 +2135,52 @@ http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31571
 http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31572
 #EXTINF:-1 group-title="➤ ZONA NOVELAS",|MX| TLNOVELAS HD
 http://unlock-pro.biz:80/CM6evf6EEvA6/thFR9wKPGhRK/31538
-#EXTINF:-1 tvg-name="24/7 CAZANDO INFIELES HD " tvg-logo="http://miarea.vip:8080/images/129e851537d8f1b0c6aa9267d71dee00.jpg" group-title="➤ ZONA 24/7",24/7 CAZANDO INFIELES HD 
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/259531
-#EXTINF:-1 tvg-name="24/7| DRAGON BALL SUPER" tvg-logo="http://miarea.vip:8080/images/8f6400f56fd090bf7116498c580063ba.png" group-title="➤ ZONA 24/7",24/7| DRAGON BALL SUPER
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/412
-#EXTINF:-1 tvg-name="24/7| EL CHAVO DEL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="➤ ZONA 24/7",24/7| EL CHAVO DEL 8
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/414
-#EXTINF:-1 tvg-name="24/7| SCOOBY DOO" tvg-logo="http://miarea.vip:8080/images/2fbf71494119523c2792c96f4ab1599f.png" group-title="➤ ZONA 24/7",24/7| SCOOBY DOO
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/416
-#EXTINF:-1 tvg-name="24/7| LOS PICAPIEDRAS" tvg-logo="http://miarea.vip:8080/images/e10d2003102a46878637f48467fec910.png" group-title="➤ ZONA 24/7",24/7| LOS PICAPIEDRAS
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/420
-#EXTINF:-1 tvg-name="24/7 | PLAY! CINEMA SCARY MOVIE HD" tvg-logo="https://vignette3.wikia.nocookie.net/moviedatabase/images/9/9c/Scary_Movie_logo.png" group-title="➤ ZONA 24/7",24/7 | PLAY! CINEMA SCARY MOVIE HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/68953
-#EXTINF:-1 tvg-name="24/7 | EL CLON HD" group-title="➤ ZONA 24/7",24/7 | EL CLON HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/74178
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Toy Story" group-title="➤ ZONA 24/7",24/7| Play! Cinema Toy Story
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112264
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Disney Pixar #2" group-title="➤ ZONA 24/7",24/7| Play! Cinema Disney Pixar #2
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112265
-#EXTINF:-1 tvg-name="24/7| Play! La casa de Mickey Mouse" group-title="➤ ZONA 24/7",24/7| Play! La casa de Mickey Mouse
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112266
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Horror" group-title="➤ ZONA 24/7",24/7| Play! Cinema Horror
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112267
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Navidad" group-title="➤ ZONA 24/7",24/7| Play! Cinema Navidad
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112268
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Lego Movies" group-title="➤ ZONA 24/7",24/7| Play! Cinema Lego Movies
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112269
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Artes Marciales" group-title="➤ ZONA 24/7",24/7| Play! Cinema Artes Marciales
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112270
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Happy Madison" group-title="➤ ZONA 24/7",24/7| Play! Cinema Happy Madison
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112272
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Actividad paranormal" group-title="➤ ZONA 24/7",24/7| Play! Cinema Actividad paranormal
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112274
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Keanu Reeves" group-title="➤ ZONA 24/7",24/7| Play! Cinema Keanu Reeves
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112275
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Disney Live Action" group-title="➤ ZONA 24/7",24/7| Play! Cinema Disney Live Action
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112276
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Accion Classics" group-title="➤ ZONA 24/7",24/7| Play! Cinema Accion Classics
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112277
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Mad Max" group-title="➤ ZONA 24/7",24/7| Play! Cinema Mad Max
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112278
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Señor de los Anillos" group-title="➤ ZONA 24/7",24/7| Play! Cinema Señor de los Anillos
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112280
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Los Juegos del Hambre" group-title="➤ ZONA 24/7",24/7| Play! Cinema Los Juegos del Hambre
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112283
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Ocean's Eleven" group-title="➤ ZONA 24/7",24/7| Play! Cinema Ocean's Eleven
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112285
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Rocky" group-title="➤ ZONA 24/7",24/7| Play! Cinema Rocky
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112287
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Duro de Matar" group-title="➤ ZONA 24/7",24/7| Play! Cinema Duro de Matar
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112288
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Cincuenta Sombras" group-title="➤ ZONA 24/7",24/7| Play! Cinema Cincuenta Sombras
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112289
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Blade" group-title="➤ ZONA 24/7",24/7| Play! Cinema Blade
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112290
-#EXTINF:-1 tvg-name="24/7| Play! Cinema El Padrino" group-title="➤ ZONA 24/7",24/7| Play! Cinema El Padrino
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112291
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Esta Abuela es un Peligro" group-title="➤ ZONA 24/7",24/7| Play! Cinema Esta Abuela es un Peligro
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112292
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Ciencia Ficcion" group-title="➤ ZONA 24/7",24/7| Play! Cinema Ciencia Ficcion
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112293
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Brad Pitt" group-title="➤ ZONA 24/7",24/7| Play! Cinema Brad Pitt
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112294
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Especies" group-title="➤ ZONA 24/7",24/7| Play! Cinema Especies
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112296
-#EXTINF:-1 tvg-name="24/7| Play! Cinema Búsqueda implacable" group-title="➤ ZONA 24/7",24/7| Play! Cinema Búsqueda implacable
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/112297
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : 12 CORAZONES
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/339651.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : ADUANA 24/7 PANAMA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/117310.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : ALERTA AEROPUERTO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65615.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : ALERTA MAXIMA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65616.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : AVATAR LA LEYENDA DE AANG
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87443.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : CANTINFLA 1
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/273153.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : CAPITAN TSUBSA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87405.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : CASO CERRADO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/294647.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : COYOTE & CORRE CAMINO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85872.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DAVE EL BARBARO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87418.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DEATH NOTE
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65618.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DEMON SLAYER
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/292947.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DETECTIVE CONAN
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/337213.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DIGIMON
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65619.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DRAGON BALL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65620.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DRAGON BALL GT
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65621.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DRAGON BALL SUPER
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/117799.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL CHAPULIN COLORADO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87396.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL CHAVO DEL OCHO 1
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87395.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL CHAVO DEL OCHO 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/94963.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL COYOTE & EL CORRECAMINO 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87390.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL PRINICIPE DEL RAP
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87432.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL SHOW DEL BIG SHOW
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65622.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : EL ZORRO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87422.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : FERNANDO EL FUNCIONARIO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65624.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : FULLMETAL ALCHEMIST
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65625.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : FUTURAMA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87397.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : HAJIME NO IPPO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/337214.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : HE-MAN
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87398.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : HEIDI
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65627.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : HOMBRE DE NEGRO ANIMADO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87413.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : ICARLY
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/339840.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : INUYASHA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87451.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : JUEGOS DE TRONOS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/284161.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : KUNG FU PANDA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65630.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA BIBLIA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65631.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA CAPITAL DEL HUMOR
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/117282.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA LIGA DE LA JUSTICIA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87455.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA PATRULLA CANINA
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65632.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA PEQUEÑA LULU
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87458.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LA TREMENDA CORTE
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139413.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LOS CABALLERO DEL ZODIACO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87388.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LOS SIMPSONS 1
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/115359.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : LOS SIMPSONS 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/117797.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : MALCOLM
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65638.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : MASTER CHEF (CELEBRITY)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/132482.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : MASTER CHEF T1
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/132481.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : MI BELLA GENIO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65641.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : NARUTO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87400.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : NARUTO SHIPPUDEN
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/273152.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : PEÑALBA EL ALBAÑIL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/65642.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : PINKY Y CEREBRO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87402.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : POKEMON
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87403.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : RICK AND MORTY
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/292946.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : SAKURA CAZADORA DE CARTAS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87457.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : SAMURAI X
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/290694.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : SOUTH PARK 1 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/114058.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : SUPERVIVENCIA AL DESNUDO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/339678.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : TOM & JERRY
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87437.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : TUNDERCATS (2011)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85870.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : DOS HOMBRES Y MEDIO 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/339992.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : HERCULES Y LOS VIAJES LEGENDARIOS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/340633.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : CHEATERS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/342490.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : UNA FAMILIA DE DIEZ 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/342704.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : GRAVITY FALLS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/344954.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 EL CHAVO DEL OCHO
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/18576
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - GARFIELD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/18577
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - DRAGON BALL SUPER
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/29406
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - FUTURAMA
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/29407
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - LOONEY TUNES
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/29409
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - LOS SIMPSON HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/29412
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - DRAGON BALL GT
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/44344
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - ALF
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/44721
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - QUE HAY DE NUEVO SCOOBY DOO
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/44723
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - MALCOM
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/44818
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - TOM Y JERRY
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/46490
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 - THE BIG BANG THEORY
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/46491
+#EXTINF:-1 group-title="➤ ZONA NOVELAS",TL NOVELAS
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/93368
+#EXTINF:-1 group-title="➤ ZONA NOVELAS",PASIONES
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/114379
+#EXTINF:-1 group-title="➤ ZONA NOVELAS",SUNDANCE  TV
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/114380
+#EXTINF:-1 group-title="➤ ZONA NOVELAS",TRUTV
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/114382
+#EXTINF:-1 group-title="➤ ZONA NOVELAS",RCN TELENOVELAS
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/144409
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | BABY TV HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132689
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | BABY TV SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132690
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICK HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132691
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICK SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132692
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICK 2 HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132693
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICK JR HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132695
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICK JR SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132696
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISNEY JR HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132697
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISNEY JR SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132698
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISNEY CHANNEL HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132699
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISNEY CHANNEL SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132700
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISCOVERY KIDS  HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132701
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | DISCOVERY KIDS SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132702
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | TOONCAST HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132703
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | TOONCAST SD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132704
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | CARTOON NETWORK HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132707
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",NIÑOS | NICKTOONS HD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/132709
+#EXTINF:-1 group-title="➤ ZONA INFANTIL",INF | DISNEY XD
+http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/143797
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | AMC UHD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3368
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine| Star Channel HD (MX)
