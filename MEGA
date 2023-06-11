@@ -65,10 +65,6 @@ http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/132884
 http://31.42.185.216:8000/RX493MMJWV/QQIAZAD7KH/145492
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",LA: GOLTV
 http://parkpay.live:8080/Whts1414/gkCjBHNgAP/8649
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",EC: Gamavision
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/9162
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",EC: GAMAVISION
-http://lista.deluxeprime.net:8080/gt/gt/181803
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU - GOL TV FHD
 http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53381
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU - GOL TV HD
@@ -97,6 +93,94 @@ http://lista.deluxeprime.net:8080/gt/gt/181808
 http://lista.deluxeprime.net:8080/gt/gt/181809
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR TVC
 http://lista.deluxeprime.net:8080/gt/gt/181812
+#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="ECU-PPV 3 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-PPV 3 (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/69536
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/989
+#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/990
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU-Directv Sports (e)(SD)" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/991
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="ECU-Gol TV (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV (TV)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22160
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="ECU-Gol TV (e)(720)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1098
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU-Gol Tv (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol Tv (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1099
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV  (tv)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU-Gama TV (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama TV (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121625
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU-Gama Tv (e)(720)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama Tv (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121626
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU-Gama TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama TV (M)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22152
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazonas Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121622
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazonas Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121623
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazonas Quito (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121624
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazonas Quito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (M)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174608
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU-Teleamazonas Costa (e)(1080)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1094
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU-Teleamazonas Costa (e)(720)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1095
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU-Teleamazonas Costa (e)(SD)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1096
+#EXTINF:-1 tvg-name="ECU-Teleamazonas Costa (C)(1080)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (C)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174609
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazona Costa (X)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazona Costa (X)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22156
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU-RTS Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1103
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU-RTS Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1104
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU-RTS Costa (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (TV)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1105
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU-RTS (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS (M)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174610
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ECU-TVC (e)(1080)" tvg-logo="https://static.wixstatic.com/media/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TVC (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/155354
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ECU-TVC (e)(720)" tvg-logo="https://static.wixstatic.com/media/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TVC (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/155355
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="ECU-TVC (e)(SD)" tvg-logo="https://static.wixstatic.com/media/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e1560f_dd46d74c0fee46ee9648e08bbb543e1f~mv2.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TVC (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/155356
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121619
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121620
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Quito (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/121621
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Quito (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (M)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174611
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1109
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1110
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU-Ecuavisa Costa (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1111
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU- Ecuavisa Costa (C)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU- Ecuavisa Costa (C)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174220
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU- Ecuavisa Costa (C)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU- Ecuavisa Costa (C)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174221
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU-TC Television Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television Costa (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1106
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU-TC Television Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television Costa (e)(720)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1107
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU-TC Television (C)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television (C)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/174612
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU-TC Television (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television (X)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22155
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU-Oromar Tv (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar Tv (e)(1080)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1100
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU-Oromar Tv (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar Tv (e)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/1102
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="ECU-Oromar TV (C)(SD)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar TV (C)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22150
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="ECU-RTU (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-H5W5qz0qPb4/XjhHQmMuSPI/AAAAAAAABDo/pjnD_hVKWtARtSvJ_LCkwEvhL5vfFU9xQCLcBGAsYHQ/s200/9.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTU (M)(SD)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22151
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : ECUAVISA  HD
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66619.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : GAMAVISION
