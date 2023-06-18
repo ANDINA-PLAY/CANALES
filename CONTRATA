@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="ACUARIO" group-title="CONTRATA PREMIUM",ACUARIO
 https://www.youtube.com/watch?v=tAuXNZ5TSlA
 #EXTINF:-1 group-title="CONTRATA PREMIUM",ACUARIO 1
-http://localhost:%port%/?plugin://plugin.video.youtube/play/?video_id=
+https://www.dailymotion.com/video/x7sfc7f
 #EXTINF:-1 group-title="CONTRATA PREMIUM",Baladas En Ingles EN VIVO
 https://www.youtube.com/watch?v=uRONDX6mF5A
 #EXTINF:-1 tvg-name="Ibiza Summer Mix 2023" group-title="CONTRATA PREMIUM",Ibiza Summer Mix 2023
