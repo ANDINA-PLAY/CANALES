@@ -4113,6 +4113,10 @@ http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110126
 http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110128
 #EXTINF:-1 group-title="➤ ZONA CINEMA PPV",ALQUILER 10
 http://streamingtv.vip:8080/Mddlistanr/Kejrb837374/110129
+#EXTINF:-1 group-title="➤ VOD EXCLUSIVO",El Cielo Es Real
+https://cdn2.tokyvideo.com/videos/163/163026/mp4/5b05eaa767fb3562f9df23e1ef5840404a6f9f1becb7cc4b1fdedac1de807daa.mp4?nva=20230627003033&nvb=20230625003033&token=02b4e2908977dca6d1332
+#EXTINF:-1 group-title="➤ VOD EXCLUSIVO",Dios no esta muerto 3
+https://cdn4.tokyvideo.com/videos/487/48711/mp4/ce1f3a56e8e4177cffeb7fbec9f29aaecec3d0300bf9640d834698f0f91bbc91.mp4?nva=20230627004604&nvb=20230625004604&token=0f41791686ea266b75d19
 #EXTINF:-1 group-title="TV | Colombia",CO | ATN Televisión (Cúcuta | Norte de Santander) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103867
 #EXTINF:-1 group-title="TV | Colombia",CO | Cable Noticias HD
