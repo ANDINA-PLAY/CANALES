@@ -7,26 +7,18 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/140677
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/140676
 #EXTINF:-1 tvg-name="EC: Oromar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cfcc8b9527512a97c41b42311373df42.png" group-title="VIP ECUADOR",EC: Oromar TV
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/9164
-#EXTINF:-1 group-title="VIP ECUADOR",ECU - TC TELEVISION FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53458
-#EXTINF:-1 group-title="VIP ECUADOR",ECU - TC TELEVISION HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7533
 #EXTINF:-1 group-title="VIP ECUADOR",EC | ECUAVISA FHD (GYE)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/129475
 #EXTINF:-1 tvg-name="EC: TVC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/fe28db1f2c2345332be96321edbfb378.png" group-title="VIP ECUADOR",EC: TVC
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/47932
 #EXTINF:-1 tvg-name="EC: RTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e46bb79c1263f6fc534c655e7f307b8b.png" group-title="VIP ECUADOR",EC: RTS
 http://45.129.133.15:8080/Millenium/7Se7MBqtCsEEt3VC/9165
-#EXTINF:-1 group-title="VIP ECUADOR",ECU - RTS
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7534
 #EXTINF:-1 group-title="VIP ECUADOR",ECUA| ECUADOR TV INTERNACIONAL HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
 #EXTINF:-1 group-title="VIP ECUADOR",ECUA| TELEAMAZONAS HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
 #EXTINF:-1 group-title="ECUADOR",Canal UNO
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2379
-#EXTINF:-1 group-title="ECUADOR",Canela TV
-https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1002564163.m3u8
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2381
 #EXTINF:-1 group-title="ECUADOR",Ecuavisa HD
@@ -57,30 +49,14 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78743.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78746.ts
 #EXTINF:-1 group-title="ECUADOR",|.LATIN.| TELEAMAZONAS FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78748.ts
-#EXTINF:-1 group-title="ECUADOR",Ecuador tv
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185878
-#EXTINF:-1 group-title="ECUADOR",Gamavision
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185880
-#EXTINF:-1 group-title="ECUADOR",Rts
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185881
-#EXTINF:-1 group-title="ECUADOR",Tc television
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185882
-#EXTINF:-1 group-title="ECUADOR",Teleamazonas
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185883
-#EXTINF:-1 group-title="ECUADOR",Televicentro
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185884
 #EXTINF:-1 group-title="ECUADOR",ECUA| TELEAMAZONAS HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
 #EXTINF:-1 group-title="ECUADOR",ECUA| ECUADOR TV INTERNACIONAL HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
 #EXTINF:-1 group-title="ECUADOR",ECUA| ECUAVISA INTERNACIONAL HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86543
-#EXTINF:-1 group-title="ECUADOR",ECUA| DIRECTV SPORTS HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86547
 #EXTINF:-1 group-title="ECUADOR",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86549
-#EXTINF:-1 group-title="ECUADOR",Ecuador - RTS SD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87681
 #EXTINF:-1 group-title="ECUADOR",Ecuador - Gamavision 2mb
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87682
 #EXTINF:-1 group-title="ECUADOR",Ecuador - Ecuavisa [Quito] 2mb
@@ -89,8 +65,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87683
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87687
 #EXTINF:-1 group-title="ECUADOR",Ecuador - Canal del Futbol 2mb
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87688
-#EXTINF:-1 group-title="ECUADOR",Ecuador - RTS 2mb
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87689
 #EXTINF:-1 group-title="ECUADOR",Ecuador - TVC 2mb
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87690
 #EXTINF:-1 group-title="ECUADOR",ECUA| ESPN 4 SUR HD
@@ -101,8 +75,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/119645
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/119646
 #EXTINF:-1 group-title="ECUADOR",ECUA| DIRECTV SPORTS PLUS HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/119647
-#EXTINF:-1 group-title="ECUADOR",ECUA| DIRECTV SPORTS 2 HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/119648
 #EXTINF:-1 group-title="ECUADOR",ECUADOR | CANAL UNO (fw)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/129466
 #EXTINF:-1 group-title="ECUADOR",ECUADOR | TVC HD (P)
@@ -149,56 +121,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/142287
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/163432
 #EXTINF:-1 group-title="ECUADOR",ECTV SD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/163433
-#EXTINF:-1 group-title="ECUADOR",ECU - CNT SPORTS / GOL TV
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7471
-#EXTINF:-1 group-title="ECUADOR",ECU - TELEAMAZONAS FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7532
-#EXTINF:-1 group-title="ECUADOR",ECU - TC TELEVISION HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7533
-#EXTINF:-1 group-title="ECUADOR",ECU - RTS
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7534
-#EXTINF:-1 group-title="ECUADOR",ECU - CANAL UNO FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/8083
-#EXTINF:-1 group-title="ECUADOR",ECU - ECUAVISA SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/8084
-#EXTINF:-1 group-title="ECUADOR",ECU - DIRECTV SPORTS HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/23239
-#EXTINF:-1 group-title="ECUADOR",ECU - GOL TV SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/25753
-#EXTINF:-1 group-title="ECUADOR",ECU - GOL TV FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53381
-#EXTINF:-1 group-title="ECUADOR",ECU - CANAL UNO SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53452
-#EXTINF:-1 group-title="ECUADOR",ECU - ECUADOR TV HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53453
-#EXTINF:-1 group-title="ECUADOR",ECU - ECUAVISA FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53455
-#EXTINF:-1 group-title="ECUADOR",ECU - GAMAVISIÓN FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53456
-#EXTINF:-1 group-title="ECUADOR",ECU - RTS SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53457
-#EXTINF:-1 group-title="ECUADOR",ECU - TC TELEVISION FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53458
-#EXTINF:-1 group-title="ECUADOR",EC - TELEAMAZONAS SD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53459
-#EXTINF:-1 group-title="ECUADOR",EC - TVC FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53460
-#EXTINF:-1 group-title="ECUADOR",EC - DIRECTV SPORTS FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53462
-#EXTINF:-1 group-title="ECUADOR",EC - DIRECTV SPORTS 2 HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53489
-#EXTINF:-1 group-title="ECUADOR",EC - DIRECTV SPORTS + FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53490
-#EXTINF:-1 group-title="ECUADOR",EC - GOL TV HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/53491
-#EXTINF:-1 group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1086208
-#EXTINF:-1 group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL FHD
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1092640
-#EXTINF:-1 group-title="ECUADOR",EC - PPV ECUADOR
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1118922
-#EXTINF:-1 group-title="ECUADOR",EC - STAR + (SOLO EVENTOS)
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1118924
 #EXTINF:-1 group-title="ECUADOR",Canela TV HD (EC)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304380
 #EXTINF:-1 group-title="ECUADOR",Ecuador TV SD (EC)
@@ -327,10 +249,6 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/47932
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2435
 #EXTINF:-1 group-title="NOTICIAS",CNN International
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/4889
-#EXTINF:-1 group-title="NOTICIAS",DW - Latino América
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40029
-#EXTINF:-1 group-title="NOTICIAS",DW - Amerika
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40049
 #EXTINF:-1 group-title="NOTICIAS",RT Español
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/6826
 #EXTINF:-1 group-title="NOTICIAS",|.LATIN.| CNN en Espa
@@ -339,6 +257,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78391.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78392.ts
 #EXTINF:-1 group-title="NOTICIAS",|.LATIN.| CNN ESPANOL
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78393.ts
+#EXTINF:-1 group-title="NOTICIAS",|.LATIN.| CNN EN ESPA FHD
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78390.ts
 #EXTINF:-1 group-title="CULTURA",Animal Planet
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2454
 #EXTINF:-1 group-title="CULTURA",Animal Planet FHD
@@ -365,8 +285,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30608
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2458
 #EXTINF:-1 group-title="CULTURA",Discovery Science
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30609
-#EXTINF:-1 group-title="CULTURA",Discovery Science HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2459
 #EXTINF:-1 group-title="CULTURA",Discovery Theater
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/38519
 #EXTINF:-1 group-title="CULTURA",Discovery Theater HD
@@ -427,8 +345,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/86999
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87002
 #EXTINF:-1 group-title="CULTURA",SYFY HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87007
-#EXTINF:-1 group-title="CULTURA",TBS HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87008
 #EXTINF:-1 group-title="CULTURA",TELEHIT HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87009
 #EXTINF:-1 group-title="CULTURA",TRUTV HD
@@ -477,8 +393,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/50562
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/55037
 #EXTINF:-1 group-title="DEPORTES",Afizzionados (Mexico)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14718
-#EXTINF:-1 group-title="DEPORTES",All Sports
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31755
 #EXTINF:-1 group-title="DEPORTES",Bar TV La Liga
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/6854
 #EXTINF:-1 group-title="DEPORTES",Bein Sports La Liga (España)
@@ -493,8 +407,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/37457
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/37458
 #EXTINF:-1 group-title="DEPORTES",Bein Sports English 1
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51370
-#EXTINF:-1 group-title="DEPORTES",Bein Sports English 2
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51371
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports Chile (Solo Partidos)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/57004
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports Chile
@@ -505,16 +417,12 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/57002
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/57001
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports (MOVIL)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/57000
-#EXTINF:-1 group-title="DEPORTES",T*N*T Estadio Sports (Solo Partidos)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56999
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports 2 Chile
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56998
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports 3 Chile
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56997
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports 3
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56996
-#EXTINF:-1 group-title="DEPORTES",CDO
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3117
 #EXTINF:-1 group-title="DEPORTES",CDO Premium
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/9399
 #EXTINF:-1 group-title="DEPORTES",Combate (Brasil)
@@ -523,48 +431,32 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14128
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/39993
 #EXTINF:-1 group-title="DEPORTES",Claro Sports HD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/39994
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 2
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56928
 #EXTINF:-1 group-title="DEPORTES",DA*ZN 1
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53500
-#EXTINF:-1 group-title="DEPORTES",DA*ZN 1 HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51263
 #EXTINF:-1 group-title="DEPORTES",DA*ZN 2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53501
 #EXTINF:-1 group-title="DEPORTES",DA*ZN 2 HD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51264
-#EXTINF:-1 group-title="DEPORTES",DA*ZN 3
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51265
 #EXTINF:-1 group-title="DEPORTES",DA*ZN 4
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51266
-#EXTINF:-1 group-title="DEPORTES",DA*ZN F1
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53418
 #EXTINF:-1 group-title="DEPORTES",DA*ZN LA LIGA
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53496
 #EXTINF:-1 group-title="DEPORTES",DA*ZN LA LIGA HD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53497
 #EXTINF:-1 group-title="DEPORTES",DA*ZN LA LIGA 2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53498
-#EXTINF:-1 group-title="DEPORTES",DA*ZN LA LIGA 2 HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53499
 #EXTINF:-1 group-title="DEPORTES",D*TV SP (Arg)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/47580
-#EXTINF:-1 group-title="DEPORTES",D*TV SP HD (arg)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/33608
 #EXTINF:-1 group-title="DEPORTES",D*TV SP (Chi)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31759
 #EXTINF:-1 group-title="DEPORTES",D*TV SP HD (Chi)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51491
-#EXTINF:-1 group-title="DEPORTES",D*TV SP (Col)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52452
 #EXTINF:-1 group-title="DEPORTES",D*TV SP (Peru)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52453
 #EXTINF:-1 group-title="DEPORTES",D*TV SP (Ecu)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56979
 #EXTINF:-1 group-title="DEPORTES",D*TV SP +
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31761
-#EXTINF:-1 group-title="DEPORTES",D*TV SP + HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/32680
 #EXTINF:-1 group-title="DEPORTES",D*TV SP 2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31760
 #EXTINF:-1 group-title="DEPORTES",D*TV SP 2 HD
@@ -645,10 +537,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3424
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51368
 #EXTINF:-1 group-title="DEPORTES",ECDF
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52252
-#EXTINF:-1 group-title="DEPORTES",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 group-title="DEPORTES",Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 1 Argentina
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3082
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 1 Argentina HD
@@ -665,8 +553,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3088
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/37134
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Argentina HD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3083
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Brasil
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14134
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Latino
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3089
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 Latino HD
@@ -687,8 +573,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52561
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56053
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2 USA
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56087
-#EXTINF:-1 group-title="DEPORTES",Formula 1 HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/38487
 #EXTINF:-1 group-title="DEPORTES",Gol Peru
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14029
 #EXTINF:-1 group-title="DEPORTES",Gol Peru HD
@@ -707,8 +591,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56088
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56089
 #EXTINF:-1 group-title="DEPORTES",Movistar Deportes España
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3100
-#EXTINF:-1 group-title="DEPORTES",Movistar Deportes Peru
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3102
 #EXTINF:-1 group-title="DEPORTES",Movistar Futbol
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30360
 #EXTINF:-1 group-title="DEPORTES",Movistar Golf HD
@@ -717,8 +599,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3103
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/50584
 #EXTINF:-1 group-title="DEPORTES",Movistar Liga De Campeones
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/49752
-#EXTINF:-1 group-title="DEPORTES",Mundo Pista
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30630
 #EXTINF:-1 group-title="DEPORTES",MLB Network
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/38900
 #EXTINF:-1 group-title="DEPORTES",MLB Network 2
@@ -733,8 +613,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52074
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52075
 #EXTINF:-1 group-title="DEPORTES",MLB Network 7
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/52076
-#EXTINF:-1 group-title="DEPORTES",MLS (Soccer)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51474
 #EXTINF:-1 group-title="DEPORTES",NBA TV
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3104
 #EXTINF:-1 group-title="DEPORTES",NBA Network
@@ -749,12 +627,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/43878
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14129
 #EXTINF:-1 group-title="DEPORTES",PGA Tour
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51475
-#EXTINF:-1 group-title="DEPORTES",Sporting Club Chile
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Stadium 1
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30454
-#EXTINF:-1 group-title="DEPORTES",Stadium 2
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30455
 #EXTINF:-1 group-title="DEPORTES",Sportv
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/33328
 #EXTINF:-1 group-title="DEPORTES",Sportv  2
@@ -783,12 +655,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51269
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30477
 #EXTINF:-1 group-title="DEPORTES",TD+2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30478
-#EXTINF:-1 group-title="DEPORTES",Teletrak Chile
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7009
-#EXTINF:-1 group-title="DEPORTES",Teletrak Chile 2
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51994
-#EXTINF:-1 group-title="DEPORTES",Tv Turf
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30915
 #EXTINF:-1 group-title="DEPORTES",Tennis Channel USA HD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3108
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Bolivia
@@ -803,8 +669,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3125
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/55825
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Honduras
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3124
-#EXTINF:-1 group-title="DEPORTES",Tigo Sports Paraguay (Solo Partidos)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/3122
 #EXTINF:-1 group-title="DEPORTES",Tigo Sports Paraguay
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/5875
 #EXTINF:-1 group-title="DEPORTES",T*N*T Sports Argentina
@@ -1053,8 +917,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123871
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
 #EXTINF:-1 group-title="DEPORTES",Directv Sports 2 HD (CO)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
-#EXTINF:-1 group-title="DEPORTES",Directv Sports + HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123885
 #EXTINF:-1 group-title="DEPORTES",Claro Sports SD (LAT)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34617
 #EXTINF:-1 group-title="DEPORTES",Claro Sports FHD (LAT)
@@ -1095,8 +957,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34643
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34644
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 SD (ARG)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34645
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34646
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 3 FHD (ARG)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34647
 #EXTINF:-1 group-title="CINE",Cine Accion - Plutotv
@@ -1107,8 +967,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40045
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40048
 #EXTINF:-1 group-title="CINE",Cine Estelar - Plutotv
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40032
-#EXTINF:-1 group-title="CINE",Cine Navidad - Plutotv
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40047
 #EXTINF:-1 group-title="CINE",Cine Terror - Plutotv
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/40037
 #EXTINF:-1 group-title="CINE",Cine Susenso - Plutotv
@@ -1163,8 +1021,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/29483
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2624
 #EXTINF:-1 group-title="CINE",De Película Plus
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2625
-#EXTINF:-1 group-title="CINE",De Película Clásico
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14716
 #EXTINF:-1 group-title="CINE",Dreamworks
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56978
 #EXTINF:-1 group-title="CINE",Europa Europa
@@ -1189,8 +1045,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/49061
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/53388
 #EXTINF:-1 group-title="CINE",HBO
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7010
-#EXTINF:-1 group-title="CINE",HBO HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2642
 #EXTINF:-1 group-title="CINE",HBO FHD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2676
 #EXTINF:-1 group-title="CINE",HBO 2
@@ -1341,8 +1195,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7053
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2664
 #EXTINF:-1 group-title="CINE",TNT Series FHD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2681
-#EXTINF:-1 group-title="CINE",TNT Novelas
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/57005
 #EXTINF:-1 group-title="CINE",Ultra Kidz
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/23668
 #EXTINF:-1 group-title="CINE",Ultra Cine
@@ -1381,8 +1233,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7049
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/2666
 #EXTINF:-1 group-title="CINE",Warner Channel FHD
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7050
-#EXTINF:-1 group-title="CINE",Film & Arts HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/56693
 #EXTINF:-1 group-title="CINE",|.LATIN.| A&E FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
 #EXTINF:-1 group-title="CINE",|.LATIN.| A3 SERIES HD
@@ -1515,8 +1365,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67363.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67365.ts
 #EXTINF:-1 group-title="CINE",LATINO| AXN CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86849
-#EXTINF:-1 group-title="CINE",LATINO| CINECANAL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86850
 #EXTINF:-1 group-title="CINE",LATINO| FX PREMIUN FHD(DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86856
 #EXTINF:-1 group-title="CINE",LATINO| HBO  PREMIUN FHD ( DUAL AUDIO)
@@ -1529,8 +1377,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/86864
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86866
 #EXTINF:-1 group-title="CINE",LATINO| TNT SERIES PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86867
-#EXTINF:-1 group-title="CINE",LATINO| STUDIO UNIVERSAL CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86868
 #EXTINF:-1 group-title="CINE",LATINO| WARNER CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86870
 #EXTINF:-1 group-title="CINE",CINECANAL
@@ -1555,8 +1401,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87006
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87013
 #EXTINF:-1 group-title="CINE",WARNER CHANNEL HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87014
-#EXTINF:-1 group-title="CINE",CINE| AMC HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87518
 #EXTINF:-1 group-title="CINE",CINE| LIFETIME FHD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87524
 #EXTINF:-1 group-title="CINE",CINE| CINECANAL HD
@@ -1565,12 +1409,8 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87527
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87533
 #EXTINF:-1 group-title="CINE",CINE| CINEMAX FHD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87534
-#EXTINF:-1 group-title="CINE",CINE| DHE FHD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87538
 #EXTINF:-1 group-title="CINE",CINE| ESTUDIO UNIVERSAL FHD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87540
-#EXTINF:-1 group-title="CINE",CINE| FILM & ARTS HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87542
 #EXTINF:-1 group-title="CINE",CINE| FILM ZONE HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87543
 #EXTINF:-1 group-title="CINE",CINE| FOX  FAMILY PREMIUN HD
@@ -1619,12 +1459,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87623
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87624
 #EXTINF:-1 group-title="CINE",CINE| STARZ ENCORE FAMILY HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87626
-#EXTINF:-1 group-title="CINE",CINE| STARZ ENCORE HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87627
-#EXTINF:-1 group-title="CINE",CINE| STARZ ENCORE WESTERNS HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87628
-#EXTINF:-1 group-title="CINE",CINE| STARZ FAMLY HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87629
 #EXTINF:-1 group-title="CINE",CINE| STARZ LATINO HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87631
 #EXTINF:-1 group-title="CINE",CINE| STARZ ENCORE EN ESPANOL  HD
@@ -1643,8 +1477,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/90167
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/130327
 #EXTINF:-1 group-title="CINE",PREM (FHD): GOLDEN
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/130335
-#EXTINF:-1 group-title="CINE",PREM (FHD): GOLDEN EDGE
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/130336
 #EXTINF:-1 group-title="CINE",PREM (FHD): GOLDEN PLUS
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/130337
 #EXTINF:-1 group-title="CINE",PREM (FHD): GOLDEN PREMIER 1
@@ -1741,8 +1573,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/149647
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/149648
 #EXTINF:-1 group-title="CINE",PREMIUN| UNIVERSAL CHANNEL HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/149649
-#EXTINF:-1 group-title="CINE",PREMIUN| AXN HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/149650
 #EXTINF:-1 group-title="CINE",PREMIUN| A&E HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/149652
 #EXTINF:-1 group-title="CINE",PREMIUN| TBS HD
@@ -1883,84 +1713,18 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67389.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67392.ts
 #EXTINF:-1 group-title="ENTRETENIMIENTO",|.LATINO.| MAX PRIME
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67394.ts
-#EXTINF:-1 group-title="NOTICIAS",|.LATIN.| CNN EN ESPA FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78390.ts
 #EXTINF:-1 group-title="LOW",Latino  2mb - A&E
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87429
 #EXTINF:-1 group-title="LOW",Latino  2mb - Antena 3
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87430
-#EXTINF:-1 group-title="LOW",Latino  2mb - AXN
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87433
 #EXTINF:-1 group-title="LOW",Latino  2mb - Boomerang
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87434
-#EXTINF:-1 group-title="LOW",Latino  2mb - Cartoon Network
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87435
-#EXTINF:-1 group-title="LOW",Latino  2mb - Cinecanal
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87436
-#EXTINF:-1 group-title="LOW",Latino  2mb - Cinemax
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87437
-#EXTINF:-1 group-title="LOW",Latino  2mb - Comedy Central
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87438
-#EXTINF:-1 group-title="LOW",Latino 2mb - De Pelicula
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87439
-#EXTINF:-1 group-title="LOW",Latino 2mb - DHE
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87440
-#EXTINF:-1 group-title="LOW",Latino 2mb - Discovery Channel
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87441
-#EXTINF:-1 group-title="LOW",Latino  2mb - Discovery Home & Healt
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87442
-#EXTINF:-1 group-title="LOW",Latino  2mb - Discovery Turbo
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87443
-#EXTINF:-1 group-title="LOW",Latino  2mb - Disney Junior
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87444
-#EXTINF:-1 group-title="LOW",Latino  2mb - ESPN
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
-#EXTINF:-1 group-title="LOW",Latino  2mb - ESPN 2
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
-#EXTINF:-1 group-title="LOW",Latino  2mb - ESPN 3
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
-#EXTINF:-1 group-title="LOW",Latino  2mb - Fox Channel
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87449
-#EXTINF:-1 group-title="LOW",Latino 2mb - Fox Sports 2
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
 #EXTINF:-1 group-title="LOW",Latino 2mb - Fox Sports 3
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
-#EXTINF:-1 group-title="LOW",Latino  2mb - FX
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87458
-#EXTINF:-1 group-title="LOW",Latino 2mb - Golden Edge
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87459
-#EXTINF:-1 group-title="LOW",Latino  2mb - HBO
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87462
-#EXTINF:-1 group-title="LOW",Latino 2mb - HBO Plus
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87463
-#EXTINF:-1 group-title="LOW",Latino 2mb - HBO Signature
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87464
 #EXTINF:-1 group-title="LOW",Latino  2mb - Investigation Discovery
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87465
-#EXTINF:-1 group-title="LOW",Latino 2mb - ISAT
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87466
-#EXTINF:-1 group-title="LOW",Latino  2mb - Las Estrellas
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87467
-#EXTINF:-1 group-title="LOW",Latino 2mb - Nickelodeon
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87468
 #EXTINF:-1 group-title="LOW",Latino  2mb - Space
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87469
-#EXTINF:-1 group-title="LOW",Latino  2mb - SyFy
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87470
-#EXTINF:-1 group-title="LOW",Latino  2mb - TNT
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87471
-#EXTINF:-1 group-title="LOW",Latino  2mb - TNT Series
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87472
-#EXTINF:-1 group-title="LOW",Latino 2mb - Sony
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87473
-#EXTINF:-1 group-title="LOW",Latino 2mb - Universal Channel
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87474
-#EXTINF:-1 group-title="LOW",Latino 2mb - Warner Channel
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87475
-#EXTINF:-1 group-title="LOW",Latino 2mb - Baby First
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87476
-#EXTINF:-1 group-title="LOW",Latino 2mb - Food Network
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87478
 #EXTINF:-1 group-title="LOW",Latino | Imagen
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/124057
 #EXTINF:-1 group-title="LOW",Latino | Foro TV
@@ -2115,26 +1879,18 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/170743
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/170746
 #EXTINF:-1 group-title="RADIOS",Radio Onda TV
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/32
-#EXTINF:-1 group-title="RADIOS",Radio Romantica TV
-http://unlimited1-us.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",Radio Recuerdos Retro
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/5963
 #EXTINF:-1 group-title="RADIOS",Radio Hoy
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/29558
 #EXTINF:-1 group-title="RADIOS",Radio Fiesta TV
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/29559
-#EXTINF:-1 group-title="RADIOS",Radio Romantica (Chile)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51016
 #EXTINF:-1 group-title="RADIOS",Radio Soberania (Chile)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51002
 #EXTINF:-1 group-title="RADIOS",Radio CNN (Argentina)
 http://stm1.xcast.com.br:8188/stream
 #EXTINF:-1 group-title="RADIOS",Radio Fiesta (Argentina)
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/50842
-#EXTINF:-1 group-title="RADIOS",Radio Romantica FM (Argentina)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/50843
-#EXTINF:-1 group-title="RADIOS",Radio Caracol (Colombia)
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/51028
 #EXTINF:-1 group-title="ADULTOS",XXX: Anal Pinkotv
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14033
 #EXTINF:-1 group-title="ADULTOS",XXX: Abrazzers TV
@@ -2213,14 +1969,10 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7033
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14035
 #EXTINF:-1 group-title="ADULTOS",XXX: Cuckold
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14037
-#EXTINF:-1 group-title="ADULTOS",XXX: DORCEL
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31857
 #EXTINF:-1 group-title="ADULTOS",XXX: Dusk
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30700
 #EXTINF:-1 group-title="ADULTOS",XXX: Erotic
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30701
-#EXTINF:-1 group-title="ADULTOS",XXX: Erox HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31855
 #EXTINF:-1 group-title="ADULTOS",XXX: Evil Angel
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/13351
 #EXTINF:-1 group-title="ADULTOS",XXX: Fetish
@@ -2257,20 +2009,12 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7040
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30694
 #EXTINF:-1 group-title="ADULTOS",XXX: Newsensation 2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30695
-#EXTINF:-1 group-title="ADULTOS",XXX: Newsensation 3
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30696
 #EXTINF:-1 group-title="ADULTOS",XXX: Newsensation 4
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30697
 #EXTINF:-1 group-title="ADULTOS",XXX: Nuart TV
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30372
 #EXTINF:-1 group-title="ADULTOS",XXX: O-La-La
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31859
-#EXTINF:-1 group-title="ADULTOS",XXX: Playboy
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/13353
-#EXTINF:-1 group-title="ADULTOS",XXX: Playboy HD
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30376
-#EXTINF:-1 group-title="ADULTOS",XXX: Party
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30918
 #EXTINF:-1 group-title="ADULTOS",XXX: Pasiones Tv
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30377
 #EXTINF:-1 group-title="ADULTOS",XXX: Pasión
@@ -2285,8 +2029,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/31858
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/13360
 #EXTINF:-1 group-title="ADULTOS",XXX: Play House
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14043
-#EXTINF:-1 group-title="ADULTOS",XXX: Porn Angel 1
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48308
 #EXTINF:-1 group-title="ADULTOS",XXX: Porn Angel 2
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48346
 #EXTINF:-1 group-title="ADULTOS",XXX: Pornstar
@@ -2299,8 +2041,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30699
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/14040
 #EXTINF:-1 group-title="ADULTOS",XXX: Russian
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7043
-#EXTINF:-1 group-title="ADULTOS",XXX: Sacrificio
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30367
 #EXTINF:-1 group-title="ADULTOS",XXX: SCT Classic
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/13354
 #EXTINF:-1 group-title="ADULTOS",XXX: Sexmex
@@ -2317,8 +2057,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/45190
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7044
 #EXTINF:-1 group-title="ADULTOS",XXX: Threesome
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/7045
-#EXTINF:-1 group-title="ADULTOS",XXX: Tiny
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30373
 #EXTINF:-1 group-title="ADULTOS",XXX: Trio
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/30368
 #EXTINF:-1 group-title="ADULTOS",XXX: Venus
@@ -2331,8 +2069,6 @@ http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48966
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48967
 #EXTINF:-1 group-title="ADULTOS",XXX: Zona Hot 3
 http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48968
-#EXTINF:-1 group-title="ADULTOS",XXX: Zona Hot 4
-http://154.53.54.238:33200/restreamfinetchile/753grto8352dsh49rt/48969
 #EXTINF:-1 group-title="ADULTOS",Playboy Latino FHD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35326
 #EXTINF:-1 group-title="ADULTOS",Playboy TV Europe HD
@@ -2361,8 +2097,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35366
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35367
 #EXTINF:-1 group-title="ADULTOS",Pinko 4 SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35368
-#EXTINF:-1 group-title="ADULTOS",Pinko 5 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35369
 #EXTINF:-1 group-title="ADULTOS",Pinko 6 SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35370
 #EXTINF:-1 group-title="ADULTOS", Pinko 8 SD
@@ -2375,161 +2109,3 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35390
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35398
 #EXTINF:-1 group-title="ADULTOS",Venus TV SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35404
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 11
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7128
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 04
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7129
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 02
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/7130
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 16
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/17190
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 12
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/18550
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 07
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/47989
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 09
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/47990
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 14
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/47991
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 08
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1068362
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 13
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1071029
-#EXTINF:-1 group-title="ADULTOS",ADULTOS - PPV 17
-http://tv.fullytv.com:8080/Jomyson/jdu768862.PMnjs/1071030
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX 4K Brasileirinhas: Contos do Big
-http://ghewp.com:80/8596088841manuel/1046sfcd256/758
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX 4K Brasileirinhas: Contos Erticos
-http://ghewp.com:80/8596088841manuel/1046sfcd256/759
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX A Casa das Brasileirinhas Vol. 62
-http://ghewp.com:80/8596088841manuel/1046sfcd256/760
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX A Casa das Brasileirinhas Vol. 63
-http://ghewp.com:80/8596088841manuel/1046sfcd256/761
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Abella Danger
-http://ghewp.com:80/8596088841manuel/1046sfcd256/765
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Alessandra Marques
-http://ghewp.com:80/8596088841manuel/1046sfcd256/764
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Alexandre Frota
-http://ghewp.com:80/8596088841manuel/1046sfcd256/762
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Aline Rios
-http://ghewp.com:80/8596088841manuel/1046sfcd256/763
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Ana Julia
-http://ghewp.com:80/8596088841manuel/1046sfcd256/766
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Analine
-http://ghewp.com:80/8596088841manuel/1046sfcd256/767
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Asiaticas 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/768
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Asiaticas 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/769
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Asiaticas 03
-http://ghewp.com:80/8596088841manuel/1046sfcd256/770
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Asiaticas 04
-http://ghewp.com:80/8596088841manuel/1046sfcd256/771
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/772
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/773
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 03
-http://ghewp.com:80/8596088841manuel/1046sfcd256/774
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 04
-http://ghewp.com:80/8596088841manuel/1046sfcd256/775
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 05
-http://ghewp.com:80/8596088841manuel/1046sfcd256/777
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 06
-http://ghewp.com:80/8596088841manuel/1046sfcd256/776
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 07
-http://ghewp.com:80/8596088841manuel/1046sfcd256/778
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 08
-http://ghewp.com:80/8596088841manuel/1046sfcd256/779
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 09
-http://ghewp.com:80/8596088841manuel/1046sfcd256/780
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 10
-http://ghewp.com:80/8596088841manuel/1046sfcd256/781
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 11
-http://ghewp.com:80/8596088841manuel/1046sfcd256/783
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brad Montana 12
-http://ghewp.com:80/8596088841manuel/1046sfcd256/782
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 01 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/784
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 02 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/785
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 03 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/786
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 04 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/787
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 05 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/788
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Brazzers 06 FHD
-http://ghewp.com:80/8596088841manuel/1046sfcd256/789
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Carol Fenix
-http://ghewp.com:80/8596088841manuel/1046sfcd256/790
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Esposa Heyya [amador]
-http://ghewp.com:80/8596088841manuel/1046sfcd256/791
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Fernandinha Fernandez
-http://ghewp.com:80/8596088841manuel/1046sfcd256/792
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Gina Jolie
-http://ghewp.com:80/8596088841manuel/1046sfcd256/793
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Julia Mattos
-http://ghewp.com:80/8596088841manuel/1046sfcd256/794
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Julia Paes
-http://ghewp.com:80/8596088841manuel/1046sfcd256/795
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Julianna Vega
-http://ghewp.com:80/8596088841manuel/1046sfcd256/796
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Loupan
-http://ghewp.com:80/8596088841manuel/1046sfcd256/797
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Manu Fox
-http://ghewp.com:80/8596088841manuel/1046sfcd256/798
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Mia Linz
-http://ghewp.com:80/8596088841manuel/1046sfcd256/799
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Monica Santiago
-http://ghewp.com:80/8596088841manuel/1046sfcd256/800
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Nicolle Bittencourt
-http://ghewp.com:80/8596088841manuel/1046sfcd256/801
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Pamela Pantera
-http://ghewp.com:80/8596088841manuel/1046sfcd256/802
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Rafaela Nakamura
-http://ghewp.com:80/8596088841manuel/1046sfcd256/803
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Rita Cadillac 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/804
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Rita Cadillac 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/805
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Show de Bundas 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/806
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Show de Bundas 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/807
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Thammy Gretchen
-http://ghewp.com:80/8596088841manuel/1046sfcd256/808
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Wanessa Boyer
-http://ghewp.com:80/8596088841manuel/1046sfcd256/809
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX Yara Rocha
-http://ghewp.com:80/8596088841manuel/1046sfcd256/810
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | BangBros 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/743
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | BangBros 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/744
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | BangBros 03
-http://ghewp.com:80/8596088841manuel/1046sfcd256/745
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | BangBros 04
-http://ghewp.com:80/8596088841manuel/1046sfcd256/747
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | CarnaFunk 2019
-http://ghewp.com:80/8596088841manuel/1046sfcd256/746
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 01
-http://ghewp.com:80/8596088841manuel/1046sfcd256/748
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 02
-http://ghewp.com:80/8596088841manuel/1046sfcd256/749
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 03
-http://ghewp.com:80/8596088841manuel/1046sfcd256/750
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 04
-http://ghewp.com:80/8596088841manuel/1046sfcd256/751
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 05
-http://ghewp.com:80/8596088841manuel/1046sfcd256/752
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 06
-http://ghewp.com:80/8596088841manuel/1046sfcd256/753
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 07
-http://ghewp.com:80/8596088841manuel/1046sfcd256/754
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 08
-http://ghewp.com:80/8596088841manuel/1046sfcd256/755
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 09
-http://ghewp.com:80/8596088841manuel/1046sfcd256/757
-#EXTINF:0 tvg-id="ext" group-title="VOD ADULTOS",XXX | 4K | Holed 10
-http://ghewp.com:80/8596088841manuel/1046sfcd256/756
