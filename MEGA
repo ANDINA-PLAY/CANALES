@@ -17,6 +17,28 @@ http://playhispano.org:8080/Casjahj/Jhajsac/140677
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/186039.ts
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",DIRECTO : ECDF ECUADOR SD
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/185820.ts
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-PPV 1 (PM)(1080) 
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/66867
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-PPV 2 (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/66868
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Gol TV (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1097
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Canal Del Futbol (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/65386
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Canal Del Futbol (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/65387
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Canal Del Futbol (PM)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/65388
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol TV  (tv)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol TV (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1098
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol Tv (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1099
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol TV  (M)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22153
+#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol TV (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22160
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
@@ -57,6 +79,74 @@ http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22151
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/c2aba857-e798-4ea1-84ff-88f1a8c36f60.m3u
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",LATINO : ECUADOR TV
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/9144b8d2-d824-48ad-8e98-73e7ed89c215.m3u
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1098
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol Tv (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1099
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV  (M)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22153
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gol TV (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22160
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/989
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/990
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Directv Sports (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/991
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1109
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1110
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Costa (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1111
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121619
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121620
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Ecuavisa Quito (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121621
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama Tv (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121625
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama Tv (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121626
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Gama TV (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22152
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar Tv (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1100
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar Tv (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1101
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Oromar TV (X)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22150
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-PPV 3 (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69536
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1103
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1104
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTS Costa (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1105
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTU (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22151
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22155
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television Costa (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1106
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-TC Television Costa (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1107
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazona Costa (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22156
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1094
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1095
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Costa (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1096
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121622
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121623
+#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazonas Quito (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121624
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| TELEAMAZONAS HD*
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| ECUADOR TV INTERNACIONAL HD*
@@ -349,6 +439,30 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309470.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309479.ts
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",SP: Conmebol TV Sudamericana 5:
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309480.ts
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn 2 MEX (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1899
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn 4 (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/975
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn Extra ARG (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/973
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn Extra MEX (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/63211
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Directv Sports 2 (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/959
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Directv Sports + (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/962
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - beIN Sports Ñ (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/141449
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - beIN Sports U (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/141448
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Fox Sports 1 MEX (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1903
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Fox Sports 2 MEX (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1902
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Fox Sports 3 ARG (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/981
+#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Fox Sports 3 MEX (PM)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69587
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINECANAL
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86973
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINEMAX
@@ -503,6 +617,60 @@ http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91119
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/91120
 #EXTINF:-1 tvg-name="CINE| CINE ACCION HD 1" tvg-logo="http://miarea.vip:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="➤ ZONA LATINO ★ V I P ★",CINE| CINE ACCION HD 1
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/49688
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",AMC ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/199
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ANIMAL PLANET ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/184
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINECANAL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/260
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINELATINO
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/261
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINEMAX ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/263
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/266
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA CLASICO
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/572
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA PLUS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/571
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",FX ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/211
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/277
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK DRAMA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/278
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK MOVIES & MYSTERIES
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/279
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO 2 ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/290
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO FAMILY ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/283
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO LATINOAMERICA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/284
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO PLUS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/285
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LIFETIME MOVIES
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/61
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",MULTIPREMIER
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/292
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SONY ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/217
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SONY MOVIE CHANNEL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/300
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SPACE
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/301
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SPORTSMAN CHANNEL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/113
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",STAR FOX CHANNEL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/201
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Starz Latino
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/309
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",STUDIO UNIVERSAL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/302
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SYFY ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/218
+#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",A&E ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/198
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Claro Sports HD
@@ -669,6 +837,240 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185887
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Claro Sports 2 HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185888
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN 1 ENG
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/86
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/161
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO ESPN 2
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/89
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 1
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/90
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 2
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/91
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 3
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/92
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN DEPORTES
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/96
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN PLUS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/99
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS 1 ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/107
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS 2
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/105
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/133
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports + FHD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/738
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports 2 FHD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/737
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Directv Sports FHD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/736
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TUDN LATINO MX
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/744
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS PLUS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/739
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ZONAFUTBOL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/983
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Bein LaLiga
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/982
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN-XTRA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1032
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/959
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 3 SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/952
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/958
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN PLUS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/951
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Claro Sports 3 HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1116
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Fox Sports 2 HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/954
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS PREMIUM ARG.
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1122
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS PREMIUM MEXICO
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1141
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",UFC  FIGHT PASS
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/130
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 ARG (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166827
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166828
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 ARG (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69718
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 COL (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/965
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 COL (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/964
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 CHI (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177284
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 CHI (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177285
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 MEX (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26817
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 MEX (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1533
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 2 ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/136228
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 2 ARG (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/969
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 2 ARG (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/967
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 2 MEX (TV)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1534
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 3 ARG (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/63209
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 3 ARG (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1542
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 3 MEX (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1536
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 4 (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/976
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 4 (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/977
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 4 (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1525
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Deportes (C)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1544
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/974
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra ARG (e)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69719
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra ARG (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1543
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra MEX (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1539
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra MEX (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26810
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Premium ARG (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154049
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Premium ARG (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154050
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 1 ARG (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166831
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 1 ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166832
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 1 ECU (e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/955
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 1 ECU (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/956
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 1 (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/4668
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (L)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154271
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (D)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154273
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121703
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (TV)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/4672
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (D)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154276
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (D)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154275
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/963
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports Fight (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/20143
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/4674
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports Fight (C)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154277
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 1 ARG (D)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/141445
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 1 ARG (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/141446
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 1 MEX (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26814
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 1 MEX (X)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1521
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 2 ARG (PM)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/978
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 2 ARG (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1526
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 2 ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/979
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 2 MEX (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26815
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 2 MEX (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1518
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 3 ARG (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1527
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 3 ARG (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/982
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1523
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports 3 MEX (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26812
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports Premium ARG (C)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1528
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Sports Premium ARG (X)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1529
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Deportes (C)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69983
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fox Deportes (X)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1524
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Fight BOX  (TV)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/60375
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Gol TV ES (C)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153304
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Gol TV Internacional (TV)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154242
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - beIN Sport U (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/2876
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - beIN Sports Xtra Ñ (C)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/144405
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - beIN Sports Ñ (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/2872
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - beIN Sports Ñ (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/59788
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Golf Latin America (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26767
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - MEX Golf Latin (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26813
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - NBA U (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/2873
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Sky Sports 16 (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/60372
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Sky Sports 21 (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/60373
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Sky sports MEX (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153586
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Tennis Channel (M)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/23132
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TNT Sports (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166830
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TNT Sports(e)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166829
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN USA (C)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177322
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN USA (TV)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177323
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN USA (TV)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177324
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX) (M)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1549
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX) (X)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153613
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX)(TV)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/66005
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX)(TV)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/117291
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TVC Deportes (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1547
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TyC Sports INT (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/2076
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TyC Sports INT(M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/27530
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - UFC (720) 
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/8918
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - UFC Fight PASS (M)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/5699
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - WWE (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153466
+#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - WWE Op 2 (X)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153467
 #EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Casjahj/Jhajsac/86846
 #EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.vippng.com/png/detail/495-4956688_discovery-channel-logo-white-investigation-discovery.png" group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)
@@ -1045,6 +1447,36 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/a76fb40e-9e6e-44ce-a867
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141393
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Channel HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185889
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATGEO MUNDO HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/195
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/185
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY FAMILIA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/33
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY HOME & HEALTH
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/187
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY INVESTIGATION ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/188
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY SCIENCE ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/189
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY THEATER
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/190
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY TURBO ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/191
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY WORLD ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/192
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DW
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/379
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Science
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/950
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Theater HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/941
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery World HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/944
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",History
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/942
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",National Geographic SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/948
 #EXTINF:-1 tvg-name="Latino  2mb - A&E" tvg-logo="http://miarea.vip:8080/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="➤ ZONA LOW",Latino  2mb - A&E
 http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/80277
 #EXTINF:-1 tvg-name="Latino  2mb - Las Estrellas" tvg-logo="http://miarea.vip:8080/images/0ed9404d458cfd868328bc7a08eb4e5f.png" group-title="➤ ZONA LOW",Latino  2mb - Las Estrellas
@@ -3631,6 +4063,90 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185876
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Telemundo hd
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185877
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ImagenTV SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/904
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Lifetime
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/949
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Multimedios SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/911
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NickMusic
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/933
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Syfy SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/924
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/979
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden Edge
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/980
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden SD Plus
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/970
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Sony SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/914
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Space SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/974
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/978
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT Series SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/926
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TruTV SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/920
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",UNIVERSAL CRIME SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/965
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: B31N La Liga HD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/459
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: B31N Sp0rts SPAIN HD  MOVISTAR DEPORTES AHORA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/460
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: CRIMEN INVESTIGACION
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/468
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: DISCOVERY CHANNEL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/467
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: ENERGY
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/473
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: FOX
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/475
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: FOX LIFE
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/476
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: HISTORIA
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/478
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: NAT GEO WILD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/499
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/498
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: PARAMOUNT
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/505
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: SYFY
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/507
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",UNIVISION NOVELAS IN 5 MINUTES
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/742
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",PARAMOUNT NETWORK  ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/215
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",FOX LIFE ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/209
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HISTORY 2 ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/193
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HISTORY ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/194
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HOLA TV ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/214
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NATGEO ESP
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/196
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Channel
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/945
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Home & Health SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/947
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Investigation SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/925
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Distrito Comedia SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/928
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",E entertainment SD
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/923
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",CINE - Panico MEX (TV)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/119335
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-Love Nature (X)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1385
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-Nat Geo Mundo (M)(SD)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/34599
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-NatGeo Wild Ñ (e)(720)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1077
 #EXTINF:-1 group-title="➤ TV COLOMBIA",CO | ATN Televisión (Cúcuta | Norte de Santander) HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/103867
 #EXTINF:-1 group-title="➤ TV COLOMBIA",CO | Cable Noticias HD
@@ -3687,10 +4203,36 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/462
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20427
 #EXTINF:-1 group-title="➤ TV COLOMBIA",CO | Win Sports HD 2
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/464
+#EXTINF:-1 group-title="➤ TV COLOMBIA",CARACOL
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/377
 #EXTINF:-1 group-title="➤ TV  PERU",LATINO : PERU MAGICO
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/8f988a40-3a4f-4a96-a152-96d88aff8ff9.m3u
 #EXTINF:-1 group-title="➤ TV  PERU",LATINO : SUR PERU
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d6f09119-1f98-4c5f-8672-e5f856e367a2.m3u
+#EXTINF:-1 group-title="➤ TV  PERU",America Peru
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/719
+#EXTINF:-1 group-title="➤ TV  PERU",ATV
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/720
+#EXTINF:-1 group-title="➤ TV  PERU",Frecuencia Latina
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/721
+#EXTINF:-1 group-title="➤ TV  PERU",Next TV
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/722
+#EXTINF:-1 group-title="➤ TV  PERU",Panamericana
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/723
+#EXTINF:-1 group-title="➤ TV  PERU",TV Peru
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/724
+#EXTINF:-1 group-title="➤ TV  PERU",Peru Magico
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/725
+#EXTINF:-1 group-title="➤ TV  PERU",GOL PERU
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/726
+#EXTINF:-1 group-title="➤ TV  PERU",CAPITAL TV
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/727
+#EXTINF:-1 group-title="➤ TV  PERU",BH TV
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/734
+#EXTINF:-1 group-title="➤ TV  PERU",Willax
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/785
+#EXTINF:-1 group-title="➤ TV  PERU",Canal N
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/789
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: CUATRO FHD
 http://ugeen.live:8080/ispoki/mrspoki223/3058
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: Cuatro hd
@@ -3921,3 +4463,7 @@ http://playhispano.org:8080/Casjahj/Jhajsac/204967
 http://ugeen.live:8080/ispoki/mrspoki223/3470
 #EXTINF:-1 group-title="➤ La Liga Movistar",ES: DAZN 2
 http://ugeen.live:8080/ispoki/mrspoki223/3471
+#EXTINF:-1 group-title="➤ TV  PERU",RAI
+http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/638
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",CINE - Lifetime (M)(1080)
+http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26914
