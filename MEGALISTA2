@@ -363,10 +363,26 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78392.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78393.ts
 #EXTINF:-1 group-title="➤ ZONA NOTICIAS",|.LATIN.| CNN EN ESPA FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78390.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86844
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/689
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",ANIMAL PLANET LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/686
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY ID LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/691
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY TEATHER LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/692
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY TLC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/693
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY TURBO LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/694
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",H2 LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/683
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATIONAL GEOGRAPHIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/682
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86845
+#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86844
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/86846
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",HISTORIA HD
@@ -1713,6 +1729,16 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/136180.ts
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/166505.ts
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO: PASIONES HD
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/329747.ts
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT SERIES LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/678
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",BOOMERANG LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/687
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",CARTOON NETWORK LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/688
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DISNEY CHANNEL LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/684
+#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NICK MUSIC LT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-7R4PaUGAOl/m5SEkzZUd9/680
 #EXTINF:-1 group-title="➤ ZONA LOW",Latino  2mb - A&E
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87429
 #EXTINF:-1 group-title="➤ ZONA LOW",Latino  2mb - Boomerang
