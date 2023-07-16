@@ -13,10 +13,6 @@ http://playhispano.org:8080/Casjahj/Jhajsac/129488
 http://playhispano.org:8080/Casjahj/Jhajsac/140676
 #EXTINF:-1 tvg-name="ECUA| GOLTV HD*" tvg-logo="http://playhispano.org:25461/images/d83efbc5a641efaf1e2c665df5664dfc.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| GOLTV HD*
 http://playhispano.org:8080/Casjahj/Jhajsac/140677
-#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",DIRECTO : ECDF ECUADOR HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/186039.ts
-#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",DIRECTO : ECDF ECUADOR SD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/185820.ts
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-PPV 1 (PM)(1080) 
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/66867
 #EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Gol TV (PM)(1080)
@@ -43,10 +39,6 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/30462
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV HD (E)
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",DIRECTO : GOL TV  HD (ESP)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/82239.ts
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",DIRECTO : GOL TV (ECU)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66618.ts
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",LATINO : GOL TV
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/f2fa9db9-f9f8-42ec-9d59-88d44077e71c.m3u
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECUADOR | Oromar HD
@@ -103,156 +95,6 @@ http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22151
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22155
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-Teleamazona Costa (X)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/22156
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| TELEAMAZONAS HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| ECUADOR TV INTERNACIONAL HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| ECUAVISA INTERNACIONAL HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86543
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86549
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : GAMAVISION
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66627.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : OROMAR TV
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66625.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : OROMAR TV HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/167565.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : TELEAMAZONAS
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66626.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 7",EC : TVC TELEVICENTRO
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66621.ts
-#EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR 6",EC | ECUAVISA FHD (GYE)
-http://playhispano.org:8080/Casjahj/Jhajsac/129475
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Canela Tv
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/348.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuador TV (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65097.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuador TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/350.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuador TV HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/349.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuador TV Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24146.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65098.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/353.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24652.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa Quito HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/352.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa Quito Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/351.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecuavisa Internacional
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/316756.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Gama (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65726.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Gama HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/354.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Gama
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15242.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Oromar (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65778.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Oromar SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15241.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Oromar HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115733.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tc Television (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65777.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tc Television HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24149.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tc Television Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/360.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65781.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas HD (Quito)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/361.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas Full HD (Quito)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/362.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas SD (Guayaquil)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24643.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas HD (Guayaquil)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24644.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Teleamazonas FHD (Guayaquil)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24645.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tvc (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65782.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tvc
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24648.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tvc HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24647.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Tvc FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24646.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Televicentro
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/363.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Rts (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65779.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Rts HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/357.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Rts Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/358.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Rtu (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65780.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Rtu
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24642.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Multicanal
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24640.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Ecotel TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308124.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: HECHOS ECUADOR
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308125.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: Telerama
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308126.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",EC: SonoOnda TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308127.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Directv Ecuador
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26941.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Directv Ecuador HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24650.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Gol TV (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65820.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Gol TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/355.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Gol TV HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15127.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: Gol TV FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115764.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: El Canal del Futbol SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94453.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: El Canal del Futbol HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32837.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 6",SP: EC: El Canal del Futbol FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94454.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 5",ECUA| GOLTV HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/140677
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 5",ECUADOR| GOL TV
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/140676
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 5",EC | ECUAVISA FHD (GYE)
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/129475
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 5",ECUA| ECUADOR TV INTERNACIONAL HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 5",ECUA| TELEAMAZONAS HD*
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Teleamazonas UHD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2444
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Teleamazonas HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2445
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | TC Television
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2449
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | DirecTV Sports
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2452
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Oromar HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2458
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Ecuador TV HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2465
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Ecuavisa Costa HD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2471
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Ecuavisa Internacional
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2474
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Gol TV  SD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/30462
-#EXTINF:-1 group-title="🇪🇨 ECUADOR 4",ECUADOR | Gol TV HD (E)
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2462
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 3",Hechos
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR: TC TELEVISI
@@ -265,6 +107,44 @@ http://tvstar.icu:8080/37931569/37931569/164909
 http://tvstar.icu:8080/37931569/37931569/164913
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR: CANAL UNO HD
 http://tvstar.icu:8080/37931569/37931569/164914
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| TELEAMAZONAS HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| ECUAVISA INTERNACIONAL HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86543
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86549
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| GOLTV HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140677
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR| GOL TV
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/140676
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",EC | ECUAVISA FHD (GYE)
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/129475
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| ECUADOR TV INTERNACIONAL HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86538
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUA| TELEAMAZONAS HD*
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86531
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Teleamazonas UHD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2444
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Teleamazonas HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2445
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | TC Television
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2449
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | DirecTV Sports
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2452
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Oromar HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2458
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Ecuador TV HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2465
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Ecuavisa Costa HD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2471
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Ecuavisa Internacional
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2474
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Gol TV  SD
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/30462
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 3",ECUADOR | Gol TV HD (E)
+http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2462
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC | ECUAVISA FHD (GYE)
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/129475
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC | TELEAMAZONAS FHD (GYE)
@@ -301,6 +181,102 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2448
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2445
 #EXTINF:-1 group-title="🇪🇨 ECUADOR 2",ECUADOR | Teleamazonas UHD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
+#EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR 2",EC | ECUAVISA FHD (GYE)
+http://playhispano.org:8080/Casjahj/Jhajsac/129475
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Canela Tv
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/348.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuador TV (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65097.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuador TV
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/350.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuador TV HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/349.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuador TV Full HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24146.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuavisa (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65098.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuavisa HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24652.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuavisa Quito HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/352.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecuavisa Quito Full HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/351.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Gama (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65726.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Gama HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/354.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Oromar (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65778.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Oromar SD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15241.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Oromar HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115733.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tc Television (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65777.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tc Television HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24149.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tc Television Full HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/360.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65781.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas HD (Quito)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/361.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas Full HD (Quito)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/362.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas SD (Guayaquil)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24643.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas HD (Guayaquil)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24644.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Teleamazonas FHD (Guayaquil)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24645.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tvc (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65782.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tvc
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24648.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tvc HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24647.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Tvc FHD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24646.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Televicentro
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/363.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Rts (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65779.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Rts HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/357.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Rts Full HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/358.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Rtu (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65780.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Rtu
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24642.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Multicanal
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24640.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Ecotel TV
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308124.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: HECHOS ECUADOR
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308125.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: Telerama
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308126.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",EC: SonoOnda TV
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/308127.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Directv Ecuador
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26941.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Directv Ecuador HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24650.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Gol TV (MOVIL)
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65820.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Gol TV
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/355.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Gol TV HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15127.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: Gol TV FHD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115764.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: El Canal del Futbol SD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94453.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: El Canal del Futbol HD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32837.ts
+#EXTINF:-1 group-title="🇪🇨 ECUADOR 2",SP: EC: El Canal del Futbol FHD
+http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94454.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Gamavision 2mb
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87682
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - Ecuavisa [Quito] 2mb
@@ -311,38 +287,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87687
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87688
 #EXTINF:-1 group-title="🇪🇨 ECUADOR LQ",Ecuador - TVC 2mb
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87690
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 1 SUR
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/113714.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 2 (COL)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/88002.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 2 SUR
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48967.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 3 (COL)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/102612.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 3 SUR
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/49007.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 4
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/137845.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN 4 opcion 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/49000.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN DEPORTES 
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/78749.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN DEPORTES HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/94154.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN EXTRA FHD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48990.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : ESPN PREMIUM
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/165275.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : FOX DEPORTES
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/92437.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : FOX SPORTS 1  (SUR)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85775.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : FOX SPORTS 1 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48959.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : FOX SPORTS 2 (SUR)
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/82237.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DIRECTO : FOX SPORTS PREMIUM
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/164581.ts
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",SP: Copa Libertadores: Fox Sports 1 Sur
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/232227.ts
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",SP: Copa Libertadores: Fox Sports 2 Sur
@@ -361,8 +305,6 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309468.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309470.ts
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",SP: Conmebol TV Sudamericana 4:
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309479.ts
-#EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",SP: Conmebol TV Sudamericana 5:
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309480.ts
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn 2 MEX (PM)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1899
 #EXTINF:-1 group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",DEPORTES - Espn 4 (PM)(1080)
@@ -407,60 +349,6 @@ http://playhispano.org:8080/Legazy/t4IEVqKjvr/87006
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87013
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",WARNER CHANNEL HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87014
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",AMC ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/199
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",ANIMAL PLANET ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/184
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINECANAL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/260
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINELATINO
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/261
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",CINEMAX ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/263
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/266
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA CLASICO
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/572
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",DE PELICULA PLUS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/571
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",FX ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/211
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/277
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK DRAMA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/278
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HALLMARK MOVIES & MYSTERIES
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/279
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO 2 ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/290
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO FAMILY ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/283
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO LATINOAMERICA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/284
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",HBO PLUS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/285
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",LIFETIME MOVIES
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/61
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",MULTIPREMIER
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/292
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SONY ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/217
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SONY MOVIE CHANNEL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/300
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SPACE
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/301
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SPORTSMAN CHANNEL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/113
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",STAR FOX CHANNEL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/201
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Starz Latino
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/309
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",STUDIO UNIVERSAL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/302
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",SYFY ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/218
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",A&E ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/198
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Claro Sports HD
@@ -539,8 +427,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1870
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1871
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES | ESPN U Mexico
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1874
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES | Fox Sports 2 Mexico
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1877
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES | FOX SPORTS 2 Sur
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/1878
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES | Fox sports 3 Mexico
@@ -611,62 +497,6 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185887
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Claro Sports 2 HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185888
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN 1 ENG
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/86
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/161
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO ESPN 2
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/89
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 1
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/90
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 2
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/91
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",CO FOX SPORTS 3
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/92
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN DEPORTES
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/96
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN PLUS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/99
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS 1 ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/107
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS 2
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/105
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/133
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports + FHD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/738
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports 2 FHD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/737
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Directv Sports FHD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/736
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",TUDN LATINO MX
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/744
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",WIN SPORTS PLUS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/739
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ZONAFUTBOL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/983
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Bein LaLiga
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/982
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",BEIN-XTRA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1032
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/959
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 3 SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/952
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/958
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN PLUS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/951
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Claro Sports 3 HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1116
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Fox Sports 2 HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/954
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS PREMIUM ARG.
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1122
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",FOX SPORTS PREMIUM MEXICO
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/1141
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",UFC  FIGHT PASS
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/130
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 ARG (e)(1080)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/166827
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn 1 ARG (e)(720)
@@ -713,8 +543,6 @@ http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/974
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/69719
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra ARG (M)(1080)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1543
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra MEX (M)(SD)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1539
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Extra MEX (X)(1080)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/26810
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Espn Premium ARG (X)(1080)
@@ -733,16 +561,10 @@ http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/956
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/4668
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (L)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154271
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (D)(SD)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154273
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (e)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/121703
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports 2 (TV)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/4672
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (D)(720)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154276
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (D)(SD)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/154275
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports + (e)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/963
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - Directv Sports Fight (X)(720)
@@ -821,10 +643,6 @@ http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/177324
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1549
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX) (X)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153613
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX)(TV)(1080)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/66005
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TUDN (MEX)(TV)(SD)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/117291
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TVC Deportes (M)(SD)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1547
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - TyC Sports INT (M)(720)
@@ -835,234 +653,14 @@ http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/27530
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/8918
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - UFC Fight PASS (M)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/5699
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - WWE (X)(720)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153466
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - WWE Op 2 (X)(720)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/153467
 #EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Casjahj/Jhajsac/86846
 #EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://www.vippng.com/png/detail/495-4956688_discovery-channel-logo-white-investigation-discovery.png" group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY INVESTIGACION PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:8080/Casjahj/Jhajsac/86847
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65793.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2027.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32255.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4578.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7087.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7088.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery (PY)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40834.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Investigation Discovery HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40833.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2028.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4579.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7369.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7091.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History 2 (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65792.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History 2 SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/233954.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History 2 HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7092.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: History 2 FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15183.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65790.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2013.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel HD (CO)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32256.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4568.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7090.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7089.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel (PY)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40836.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Channel HD (PY) (h265)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40835.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Familia HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27243.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H SD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2014.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32257.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4569.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127266.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7094.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery H&H HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40837.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Science (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65791.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Science
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2015.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Theater (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2016.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Theater FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4571.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Theater (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7105.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Theater FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7104.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Theater HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40841.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Turbo (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65089.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Turbo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2017.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Turbo FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15100.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery Turbo HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40843.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery World
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2018.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery World FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4572.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Discovery World HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40845.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: AFV en Español SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228839.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: AFV en Español HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228840.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65789.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet SD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/233951.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/233952.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/233953.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet SD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24087.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/112991.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24088.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Animal Planet (PY)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40832.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65795.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2023.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32265.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4575.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo SD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2024.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127267.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7093.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40838.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NatGeo Mundo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/105941.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65081.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2011.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40847.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4582.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7107.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Comedy Central HD (PY) (h265)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40848.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: TLC (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2010.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: TLC HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4573.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: TLC SD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7103.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: TLC FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7102.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Tru TV HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26548.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Tru TV SD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26549.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: E! Entertainment
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2020.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: E! Entertaiment FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26937.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: El Gourmet SD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2019.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: El Gourmet HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40849.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: El Gourmet FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4570.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Estrella TV East SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228851.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Estrella TV East HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228852.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Estrella TV East FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228853.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Estrella TV HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27240.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Estrella TV News
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/178027.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Food Network (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24629.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Food Network HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27203.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: HGTV en Español SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132185.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: HGTV en Español SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115651.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Hola TV FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2029.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Kanal D en Español
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/162328.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65737.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas SD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4641.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/176534.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/16827.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas SD (EU)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/176537.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas FHD (EU)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/16826.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas SD -2hr (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/176539.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Las Estrellas FHD -2hr (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/176538.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Lifetime (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/2025.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Lifetime (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40850.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Love Nature HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/11132.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Mega TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32093.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NBC Universo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/73922.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: NBC Universo HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/31133.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Tastemade en Español SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228606.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Tastemade en Español HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228607.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: Tastemade en Español FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/228608.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LAT: TBS (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65812.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO : HITN
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/8d107ef4-0ada-4ed3-8151-0896fc494896.m3u
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",LATINO : NAT GEO MUNDO
@@ -1109,36 +707,6 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/a76fb40e-9e6e-44ce-a867
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141393
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Channel HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185889
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",NATGEO MUNDO HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/195
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/185
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY FAMILIA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/33
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY HOME & HEALTH
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/187
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY INVESTIGATION ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/188
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY SCIENCE ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/189
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY THEATER
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/190
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY TURBO ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/191
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY WORLD ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/192
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",DW
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/379
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Science
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/950
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Theater HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/941
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery World HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/944
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",History
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/942
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",National Geographic SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/948
 #EXTINF:-1 group-title="➤ ZONA LOW",AXN SD*
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/150107
 #EXTINF:-1 group-title="➤ ZONA LOW",C9N SD*
@@ -1507,18 +1075,10 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/998.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65052.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Baby TV SD
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1793.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Boomerang (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7353.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Boomerang Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7352.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Chu Chu TV
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/126042.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Cartoon Network (MOVIL)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65067.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Cartoon Network (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1789.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Cartoon Network HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1783.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Cartoon Network SD (MX)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/994.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Cartoon Network HD (MX)
@@ -1559,12 +1119,8 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65799.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115726.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Nick Jr HD (ARG)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115727.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Nick Jr FHD (ARG)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115728.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: TeenNick
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1786.ts
-#EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: TeenNick Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1777.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Nick Toons (MX)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7360.ts
 #EXTINF:-1 group-title="➤ ZONA INFANTIL",Infantil: Tooncast
@@ -1623,44 +1179,6 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132183.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36571.ts
 #EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: Concert Channel HD (CO)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36573.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: HTV (ARG)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36574.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: 90's
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1952.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Dance HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1948.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Hip Hop & RnB HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1949.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Hit List
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1954.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Indie
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1950.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Metal
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1960.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Mexicana
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1953.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Musica Urbana HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1951.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Pop Hits
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1959.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Pop Latino
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/14734.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: R&B/Soul HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1958.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Rap
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1963.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Rock
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1955.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Teen Beats
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1957.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Todays Country
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1962.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Toddler Tunes
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1964.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Tropicales
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/14733.ts
-#EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MC: Y2K
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/14735.ts
 #EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MTV (CO)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36565.ts
 #EXTINF:-1 group-title="➤ ZONA MUSICAL",Music: MTV (MX)
@@ -1731,8 +1249,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3390
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/73512
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | TNT HD (MX)
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3393
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | TNT Series HD (Lat)
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/73511
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | SONY HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3395
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | AZ Cinema
@@ -1763,8 +1279,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3413
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3414
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | Paramount Channel HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3417
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | SyFy FHD
-http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3415
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | Cine Latino HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/92220
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine  | A&E
@@ -1779,634 +1293,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3247
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3238
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine | AXN HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/119233
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Batallas Mitologicas HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313525.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Extraterrestres HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/69261.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Marvel Studios HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/70964.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Marvel Studios Animado HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/71722.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine LEGO HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/71735.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Gigantes HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/71750.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Momias HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/73495.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Brujas HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/73527.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Vampiros HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/74124.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Robots HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/75315.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine DC Film HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/77337.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Dioses HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/77653.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine 60fps Acción HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/85598.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Navidad "Familiar" HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102269.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Navidad "Caricaturas" HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102307.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Studio Ghibli HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/113808.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Películas Cristianas HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160622.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sr Cine Zombies HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/69259.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A Estrenar Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36596.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AMC (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/64722.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AMC HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32180.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AMC Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1835.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AMC (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24090.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AMC Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24091.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/64720.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1813.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32179.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1834.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24094.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: A&E Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24095.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AXN (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1814.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AXN HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32181.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AXN Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1836.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AXN (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24092.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: AXN Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24093.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinecanal (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1816.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinecanal HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32214.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinecanal Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1837.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinecanal (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32216.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinecanal Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32215.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema Dinamita
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1818.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinemax (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4615.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinemax (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1037.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",CIne TV: Cinemax Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15128.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cine Latino
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1817.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Claro Cinema
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26934.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: De Pelicula
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24123.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: De Pelicula HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/281186.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: De Pelicula Plus HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/281185.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: DHE
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/9738.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: DHE Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1838.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Europa Europa
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1002.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Filmo Clint Eastwood HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127540.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Filmo Adam Sandler HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127541.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Film & Arts SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24140.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Film & Arts HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26935.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Film & Arts FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26389.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: FX (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65725.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: FX (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102712.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: FX HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102711.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: FX (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102710.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: FX HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102713.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65728.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1797.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1867.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Edge (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65729.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Edge (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24126.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Premier
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1798.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Premier Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1859.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Plus (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24127.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Golden Plus Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24128.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65730.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1799.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/9753.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1856.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Subtitulado Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1853.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO 2 (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65735.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO 2
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1800.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO 2 HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/10120.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO 2 Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1858.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Family (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65731.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Family
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1801.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Family HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/9752.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Family Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1857.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Plus (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65732.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Plus HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/9754.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Plus FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1855.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Xtreme
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/31811.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Xtreme Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40829.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine Tv: HBO Xtreme (Dual Audio)(MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/103081.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Pop (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65733.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Pop
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1808.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Pop Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1860.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Signature
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1803.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Signature Full HD (MX Dual)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1854.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: HBO Mundi (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1807.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: I.Sat
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24135.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Multicinema
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26936.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Panico HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34573.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Paramount Channel (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1806.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Paramount Channel FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1852.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Paramount Channel (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24129.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Paramount Channel FHD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24130.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TCM (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65806.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TCM
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1832.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65810.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1810.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1864.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT (MX) (DUAL AUDIO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24131.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32320.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24132.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65811.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1811.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32321.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1865.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24133.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: TNT Series Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24134.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Showtime Extreme HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27247.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sony (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65804.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sony SD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1809.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sony FHD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1863.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sony (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24138.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Sony Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24139.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Space (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65805.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Space (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/4004.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Space Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15129.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65062.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1819.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32316.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1841.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24124.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Star Channel Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24125.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Studio Universal Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24122.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: SyFy (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26622.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: SyFy Full HD (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26623.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Channel (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65803.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Channel (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/1812.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Channel (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24119.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Cinema SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313692.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Cinema HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/239632.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Cinema HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313693.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Crime SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313690.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Crime HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/239633.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Crime FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313691.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Reality SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313687.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Reality HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313689.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Reality FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/239634.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Premiere SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313683.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Premiere HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/239635.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Universal Premiere FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313685.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Warner Channel (MOVIL)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/65809.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Warner Channel (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26410.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Warner Channel HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/103098.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Warner Channel Full HD (CO)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119658.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Warner Channel (MX)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24635.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Encore Western Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7065.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Encore Suspense Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7066.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Encore Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7067.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Encore Classic Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7069.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Encore Action
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7071.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz East Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7073.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Starz Cinema Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7075.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Showtime Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7078.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Showtime East Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7079.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Showtime Beyond Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7080.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Outermax Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7081.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Moviemax Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7083.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Indieplex Full HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/7085.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 01
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24944.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 02
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24945.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 03
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24946.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 04
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24947.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 06
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24949.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 07
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24950.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 08
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24951.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 09
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24952.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 10
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24953.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 11
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24954.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 12
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24955.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 13
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24956.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 14
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24957.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 15
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24958.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 16
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24959.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 17
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24960.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 18
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24961.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 19
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24962.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 20
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24963.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 21
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24964.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 22
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24965.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 23
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24966.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 24
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24967.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 25
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24968.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 26
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24969.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 27
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24970.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 28
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24971.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 29
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24972.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 30
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24973.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 31
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24974.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 33
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24976.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 34
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24977.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Cine TV: Cinema 35
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24978.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINECANAL FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78388.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D CINEMAX FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78389.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D 52
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78330.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D 52 MX HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78331.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D A PLUS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78332.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| A&E FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| A3 SERIES HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78334.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AMC FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AXN FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78343.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AZ CINEMA FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78345.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| DE PELICULA FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78400.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| EUROPA EUROPA FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78428.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FILM & ARTS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78430.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FILM AND ARTS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78431.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FOX CLASSICS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78439.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FOX LIFE FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78440.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX MOVIES HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78441.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FOX NEWS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78442.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX PREMIUM ACTION FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78443.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX PREMIUM CINEMA FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78444.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX PREMIUM CLASSICS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78445.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX PREMIUM MOVIES FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78446.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D FOX PREMIUM SERIES FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78447.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FX HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FX FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78456.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FXM FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78457.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| GOLDEN EDGE FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78461.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D GOLDEN FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78462.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D GOLDEN PLUS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78463.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| LIFETIME FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78483.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| PARAMOUNT CHANNEL FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78506.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D PELICULA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78507.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D PELICULA PLUS HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78508.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SONY CHANNEL FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78518.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SPACE FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STAR TVE FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78520.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STUDIO UNIVERSAL HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78521.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STUDIO UNIVERSAL HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D SUNDANCE TV FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78523.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D SUNDNCE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78524.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SYFY FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78525.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TBS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78526.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TCM FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78527.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TDN FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78528.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AXN
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78588.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINECANAL
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78601.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINEMAX
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78603.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CITY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78604.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| HBO + HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78636.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| HBO 2
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78637.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| HBO FAMILY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78638.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| HBO+
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78639.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SONY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78657.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SPACE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78658.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TCS PLUS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78754.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AMC FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78761.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AXN FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78763.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINEMA DINAMITA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78792.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CITY TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78793.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO MUNDI
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99024.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO POP
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99025.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99026.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| PARAMOUNT
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99027.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| STARZ  FAMILY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99028.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AMC FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/101357.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| A&E
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67306.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| AMC
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67310.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| AXN
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67313.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| AXN WHITE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67314.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| CINECANAL
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67330.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| CINELATINO
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67331.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| CINEMAX
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67332.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| DE PELICULA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67335.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67363.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX ACTION
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67364.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX CINEMA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67365.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX CLASSICS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67366.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX FAMILY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67367.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX LIFE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67368.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX MOVIES
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67369.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FOX SERIES
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67370.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FX
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67374.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| FXM
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67375.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| GOLDEN EDGE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67379.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| GOLDEN PLUS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| GOLDEN PREMIER
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67381.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67383.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO 2
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67384.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO FAMILY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67385.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO PLUS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67386.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| HBO SIGNATURE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67387.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| SONY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67410.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| SPACE 
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67411.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| STARZ
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67412.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| STARZ ENCORE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67413.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| STUDIO UNIVERSAL
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67414.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| SUNDANCE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67415.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA CINE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67431.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA CLASICO
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67432.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA FAMILIA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67434.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA FIESTA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67435.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA FILM
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67436.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA MACHO
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67437.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA MEX
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67438.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| ULTRA TAINMENT
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67439.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| CINE SONY HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67491.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| CINEMAX HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67496.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| UNIVERSAL CHANNEL
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78560.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| WARNER BROS HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78566.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| WARNER BROS  FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78567.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| TCM
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67418.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| TNT
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67423.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATINO.| TNT SERIES
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67424.ts
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO : UNIVERSAL
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d6debe1e-34e5-44a9-aea1-cfc92fc28d7d.m3u
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",LATINO : GOLDEN
@@ -2661,14 +1547,6 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/342490.ts
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/342704.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 : GRAVITY FALLS
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/344954.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Alerta Aeropuerto SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/323271.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Alerta Aeropuerto HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327729.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Humor es... los Comediantes SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327731.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 1000 Maneras de Morir
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24658.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mayday Catastrofes Aereas
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25178.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Mundo De Beakman SD
@@ -2775,560 +1653,14 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25138.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25140.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Tom Y Jerry Kids
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25141.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Pato Aventura
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25142.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sailor Moon (001-046)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25143.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Tortugas Ninja
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25147.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Angry Birds Toons
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25148.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Aladino
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25149.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Birdman
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25157.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gargolas Heroes Goticos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25158.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Spiderman
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25159.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Super Mario Bross 3
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25160.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Super Campeones (Captain Tsubasa)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25161.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Castores Cascarrabias
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25169.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Saint Seiya Torneo Galactico (1-40)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25170.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Saint Seiya Las 12 Casas (41-73)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25171.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Saint Seiya Asgard (74-99)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25172.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Saint Seiya Poseidon (100-114)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25173.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Saint Seiya Hades (115-145)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25174.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gi Joe
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25177.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 He-Man y los Masters del Universo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25219.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Jhonny Bravo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25220.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Rugrats Aventura en Pañales
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25221.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Z Freezer
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25222.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Chicas Superpoderosas
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25223.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Guerreras Magicas
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25224.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Z Cell
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25225.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Vaca y el Pollito
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25230.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 South Park Temp 1-5
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26155.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Padre de Familia Temp 1-5
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26178.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Scooby Doo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26412.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Don Gato y su Pandilla
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26432.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gasparin y sus Amigos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26435.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Aventuras de Tin Tin
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26582.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Supersonicos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26583.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Inspector Gadget
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26584.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Candy Candy
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26588.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia Meñique
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26589.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Gravity Falls
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26590.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hannah Montana Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26592.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Pequeña Lulu
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26593.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Vengadores (Unidos)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26594.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Brickleberry +15
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26596.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Reto de los Super Amigos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26598.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Oso Yogui
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26600.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Muppet Babys
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26601.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Beast Wars
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26602.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Beast Wars Machines
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26603.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mr Pickles
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26619.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los 7 Pecados Capitales
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27256.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Pinguinos de Madagascar
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27258.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Fenomenoide
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27259.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Pais de Donkey Kong
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27260.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Hormiga y el Oso Hormiguero
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27261.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Timon & Pumbaa
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27330.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Casa de los Dibujos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32259.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Gallo Claudio
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32260.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Halcones Galacticos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32264.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Rapido y Furioso (Espias a todo gas)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32268.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Pinky y Cerebro
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32270.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dora la Exploradora
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32319.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Heathcliff
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34128.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cantinflas (Animada)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34129.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Jackie Chan (Animada)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34130.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Tonta Bruja
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34131.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Beetlejuice
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34216.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Street Sharks
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34217.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Samurai Jack
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34218.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sonic X
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34220.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Generador Rex
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34236.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragones de Berck
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34255.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Picapiedras (Pequeños)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34278.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Gatos Samurai
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34295.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sakura Card Captor
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34297.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Osos Gummi
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34298.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Liga del Dragon VHSRip
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34299.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Megaman NT Warrior
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34300.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Paradise PD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34301.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Padrinos Magicos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36593.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Casa de Mickey Mouse FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36617.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ThunderCats
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40795.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Tarzan Animado
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40796.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Samurai X
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40797.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mighty Ducks
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40798.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cuentos de la Cripta Animada
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40816.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 101 Dalmatas Animada
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40817.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Guardianes de la Galaxia (Animado)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40854.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Backyardigans
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40856.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Robotech
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40857.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Simpsons HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40858.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Futurama HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40859.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Pocoyo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40940.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Clasicos de Disney (Latino)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/41425.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Simpsons Noche de Brujas HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/86123.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Simpsons Noche de Brujas FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/86124.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Super Mario World
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93723.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Transformers Armada
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93724.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Transformers Cybertron
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93725.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Transformers Energon
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93726.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Transformers G1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93727.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Transformers Headmasters
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93728.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Digimon Adventure 2
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93729.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Inspector
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93730.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Inspector Ardilla
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93731.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Show del Pajaro Loco
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93732.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 En el Valle de los Dinosaurios
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93733.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sailor Moon R (047-089)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93740.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sailor Moon S (090-127)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93741.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sailor Moon SuperS (128-166)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93742.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sailor Moon Sailor Stars (167-200)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93743.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Ghostbuster Filmation
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94437.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Jumanji Serie Animada
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94447.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Justicia Joven
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94448.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Leyenda de Zelda
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94450.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Mascara Animado SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94451.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Aventuras de Fly
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101925.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Nuevas Aventuras de Batman
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101926.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Cazafantasmas (1986)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101930.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Naruto
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101939.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Grandes Héroes y Leyendas de la Biblia
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101942.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Rick Y Morty
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101944.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Bob Zoom
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101946.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Spiderwoman
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101947.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 X-Men (Animada)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101958.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Digimon Adventure 1 FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102084.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Ben 10
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102316.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Ben 10 FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102330.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Samurai Jack FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102334.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Simpsons Temp 6-10
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102338.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Simpsons Temp 11-15
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102703.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Ataque a los Titanes SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102865.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia del Barrio
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119698.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ThunderCats (2011)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119707.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 PJ Masks: Heroes en pijamas SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40853.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 PJ Masks: Heroes en pijamas HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101954.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Reyes de la Colina SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119699.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Reyes de la Colina HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125337.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Bobs Burgers SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125338.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Bobs Burgers HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125339.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Remi el niño de nadie (1977)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125340.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Casa de los Dibujos HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125341.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Gladiador (1976)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/125342.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hercules (1998)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160619.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mi Pequeño Pony
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160621.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Super Libro 3D
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160623.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dinosaurios
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/211240.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mágicas aventuras de Quasimodo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/212947.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Mascara Animado HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/227925.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/246324.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Z Los Saiyajin
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25175.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Super HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/246322.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball Z Majin Boo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26152.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Dragon Ball GT
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25176.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Brujilda
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250545.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Avatar
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250546.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Nuevo Show de Popeye (1978) SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250547.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Nuevo Show de Popeye (1978) HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250548.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ¿Qué hay de nuevo Scooby-Doo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250549.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los 3 de abajo: Relatos de Arcadia
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250550.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Patoaventuras (2007)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250557.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Intrepidos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250558.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ThunderCats Roar
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250559.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Alien TV
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250839.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Almendrita (1992)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250840.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Aquaman (1968)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250841.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Astro Boy (1980)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250842.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Batman Serie Animada (1992)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/250844.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Doramen
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/272415.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Stanger Things
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/272416.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Aventuras Del Gato Con Botas
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/272423.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Bob Esponja
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/302769.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 The Looney Tunes
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/302770.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Beta X
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306606.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Beware the Batman (2013)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306607.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Bayblade
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306608.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Birdman y el Trío Galaxia
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306609.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Black Clover
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306610.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Capitan Sentella
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306611.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Blaze y los Monster Machine SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313519.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Blaze y los Monster Machine HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313520.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Go Diego Go
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313521.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Las Aventuras de Paddington SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313522.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Auto Fantastico Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24660.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Auto Fantastico (2008)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26595.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Magnificos Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26597.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 MacGiver (2016) Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26620.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Baywatch
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40812.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Zorro SD (1956)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40813.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Movies Jackie Chan
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/272419.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia Peluche
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24657.ts
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia Peluche HD
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327730.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Una Familia de Diez
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25119.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Una Familia de Diez HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327732.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Hora Pico
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26536.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vecinos Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25120.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vecinos Temp 2
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25179.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vecinos Temp 3
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26181.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vecinos Temp 4
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26433.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vecinos Temp 5
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26434.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Paso A Paso Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24675.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cantinflas Parte 1 (18 Peliculas)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24889.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cantinflas Parte 2 (19 Peliculas)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25122.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La India Maria
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40929.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mr Bean
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24679.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Pedro Infante
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25126.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Porcel Y Olmedo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27254.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los 3 Chiflados
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27255.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Friends SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34132.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Full House SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34277.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hannah Montana
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/94438.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hechizada SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26437.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Mi Bella Genio Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/32275.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Niñera Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26604.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Lo Mejor de Videomatch
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101927.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Malcolm el de en medio SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25124.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Sabrina la bruja adolescente Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101945.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1970)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102078.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1980)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102079.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1981)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102157.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 The Big Bang Theory
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127230.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Tres Chiflados
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/272418.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Chavo del 8
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24888.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Chapulin Colorado
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25121.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ALF SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26587.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1982)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102219.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1984)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102220.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1985)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102221.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1986)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102229.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1987)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102230.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1988)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102231.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1989)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102310.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1991)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102311.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1992)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102312.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1993)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102313.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1994)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102314.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Chespirito (1995)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102315.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Principe del Rap SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/24659.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Principe del Rap HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93744.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Principe del Rap FHD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/93745.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los locos Addams (1964)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306612.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 ER Sala de Urgencias SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25125.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Los Años Maravillosos SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26411.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia Ingalls
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40814.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Familia Ingalls HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/40815.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cobra Kai SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102076.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Buen Doctor SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102077.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cobra Kai HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102082.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Buen Doctor HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102083.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Entre Fantasmas Temp 1
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102202.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Stranger Things
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/309938.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Narrador de Cuentos
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25133.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Xena La Princesa Guerrera SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25135.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hercules Los Viajes Legendarios SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25136.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Automan
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25156.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Isla Misteriosa
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25229.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Liveman
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26586.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Expedientes X SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102228.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Expedientes X HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102234.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Narrador de Cuentos HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/113786.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Highlander SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119692.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Tierra de Gigantes
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160624.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Túnel del Tiempo
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/160625.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Historias de Fantasmas SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313524.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Oxlack Investigador Paranormal
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/25129.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Contacto Extranormal
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34237.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Historias de Ultratumba
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/34254.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Lo que la gente cuenta SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306615.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Lo que la gente cuenta HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/306616.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Super Libro
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/27257.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Historias de la Biblia
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101943.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Biblia Serie
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102191.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Alienigenas Ancestrales
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/26585.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Grandes Batallas de la Historia SD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/313523.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 La Gallina Pintadita
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/86126.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Cantando Aprendo a hablar
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/102333.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Hej Kids
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/119691.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Luisito Comunica (Mexico) HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/127543.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Malcolm el de en medio HD
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/327728.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vulgarcito +18
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101948.ts
-#EXTINF:-1 group-title="➤ ZONA 24/7",24/7 El Mono Mario +18
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/101955.ts
 #EXTINF:-1 group-title="➤ ZONA  24/7 PELICULAS",24/7 Los Magnificos (e)(720)
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/91989
 #EXTINF:-1 group-title="➤ ZONA  24/7 PELICULAS",24/7 El Auto Fantastico (e)(SD)
@@ -3363,12 +1695,8 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1281
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141401
 #EXTINF:-1 group-title="➤ ZONA ESPN",ESPN 2 HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141402
-#EXTINF:-1 group-title="➤ ZONA ESPN",ESPN HD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141405
 #EXTINF:-1 group-title="➤ ZONA ESPN",CL |  ESPN 1 HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144628
-#EXTINF:-1 group-title="➤ ZONA ESPN",CL | ESPN 2 HD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144629
 #EXTINF:-1 group-title="➤ ZONA ESPN",CL | ESPN 3 HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/144630
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",BEIN SPORTS CONNECT Ñ US
@@ -3399,12 +1727,6 @@ http://op.web24.live:8080/Mr.E2021/Florida/59153
 http://op.web24.live:8080/Mr.E2021/Florida/46525
 #EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",LA | BEIN SPORTS N
 http://op.web24.live:8080/Mr.E2021/Florida/46524
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",DIRECTO : BEIN SPORTS ES
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/94112.ts
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",DIRECTO : BEIN SPORTS N
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48958.ts
-#EXTINF:-1 group-title="➤ ZONA BEIN SPORTS",DIRECTO : BEIN SPORTS N opcion 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/91803.ts
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Premium | Animal Planet HD
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/2475
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Premium | Animal Planet (MX) HD
@@ -3475,172 +1797,6 @@ http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3173
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3182
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Premium | Much Music
 http://veotv.net:25461/LALINEADELPUTOAMO6969/9hurgw89h43f2t09u234fcSGFA/3189
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY SCIENCE HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/87101.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY SCIENCE opcion 2
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166511.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY THEATER
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/133289.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY THEATER HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323859.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY TLC
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129169.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY WORLD HD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323861.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DISCOVERY WORLD SD
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/169819.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : DW ESPAÑOL
-http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/139412.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY H&H FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78404.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY KIDS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78405.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.|D DISCOVERY SCI-FI
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78406.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY CHANNEL FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78413.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY JR FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78414.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISTRITO COMEDIA FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DW FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78417.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| E! FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78418.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| EL FINANCIERO BLOOMBERG
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78419.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| EL GOURMET FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78420.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| FOOD NETWORK FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78432.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| HLN FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78472.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| HOLA TV FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78473.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.|D I CLASSIC
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78474.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| IMAGEN TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78475.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| INGENIO TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78476.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.|D KCHF TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78480.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.|D MAR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78484.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| MAS CHIC FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78485.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICK 2 FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78501.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICK JUNIOR FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78502.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICKELODEON FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78503.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICKTOONS FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78504.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| VH1 CLASSIC FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78562.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| VH1 FHD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78563.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| VH1 P
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78564.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| VTV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78565.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY CHANNEL
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78614.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY JR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78615.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICK JUNIOR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78647.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| NICKLODEON
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78648.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY KIDS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78810.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY CHANNEL SD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78813.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY JUNIOR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78814.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISNEY CHANNEL HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78815.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| BOOMERANG
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67324.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| CANAL DE LAS ESTRELLAS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| CARTOON NETWORK
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67329.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| DISNEY JR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67349.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| DISNEY XD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67350.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| E!
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67352.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| EL GARAGE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67353.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| EL GOURMET
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67354.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| FOOD NETWORK
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67361.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| GALA TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67376.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| GLITZ
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67377.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| HOLA TV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67390.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| IMAGEN
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67391.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| LIFETIME
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67392.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| MASCHIC
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67393.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| MAX PRIME
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67394.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| MAX UP
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67395.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| MTV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67397.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| MULTIMEDIOS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67398.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| NICK
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67403.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| NICK JR
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67404.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| NICKTOONS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67405.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| PASIONES
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67406.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| SHOWTIME
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67409.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| SYFY
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67416.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| TBS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67417.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| TLNOVELAS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67422.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| TOONCAST
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67425.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| TRUTV
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67426.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| DISCOVERY FAMILIA SD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67481.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| BABY TV SD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67494.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY H&H
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78611.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY KIDS
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78612.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| DISCOVERY TURBO
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78613.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| EUROPA EUROPA
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78623.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| FOX LIFE
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78625.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| BLOOMBERG
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78767.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATIN.| MUNDO + HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/78826.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| DISCOVERY H&H HD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/99016.ts
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",|.LATINO.| FOX LIFE SD
-http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/67480.ts
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO : ESTRELLA TV
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/6be46a92-e910-41e1-9966-10651c400754.m3u
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",LATINO : VME
@@ -3691,14 +1847,8 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141412
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HOLA! TV HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141414
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Home & Health HD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141416
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",E! Entertairment HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141429
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Comedy Central HD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141411
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NICK HD
-http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185873
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT Series HD
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/141438
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",La tele
@@ -3707,88 +1857,10 @@ http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185876
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Telemundo hd
 http://daleplay.club:8080/listatbsdaleplay22/listatbsdaleplaypararepetircanales/185877
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ImagenTV SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/904
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Lifetime
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/949
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Multimedios SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/911
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NickMusic
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/933
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Syfy SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/924
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/979
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden Edge
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/980
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Golden SD Plus
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/970
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Sony SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/914
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Space SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/974
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/978
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TNT Series SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/926
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",TruTV SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/920
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",UNIVERSAL CRIME SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/965
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: B31N La Liga HD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/459
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: B31N Sp0rts SPAIN HD  MOVISTAR DEPORTES AHORA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/460
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: CRIMEN INVESTIGACION
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/468
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: DISCOVERY CHANNEL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/467
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: ENERGY
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/473
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: FOX
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/475
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: FOX LIFE
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/476
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: HISTORIA
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/478
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: NAT GEO WILD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/499
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/498
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: PARAMOUNT
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/505
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",ES: SYFY
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/507
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",UNIVISION NOVELAS IN 5 MINUTES
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/742
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",PARAMOUNT NETWORK  ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/215
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",FOX LIFE ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/209
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HISTORY 2 ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/193
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HISTORY ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/194
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",HOLA TV ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/214
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",NATGEO ESP
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/196
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Channel
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/945
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Home & Health SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/947
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Discovery Investigation SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/925
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",Distrito Comedia SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/928
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",E entertainment SD
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/923
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",CINE - Panico MEX (TV)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/119335
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-Love Nature (X)(1080)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1385
-#EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-Nat Geo Mundo (M)(SD)
-http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/34599
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DOC-NatGeo Wild Ñ (e)(720)
 http://tv.kis2.xyz:43201/oiheoijh5o23ih54o2398cbakjdsbcioq2/3L8Qzfc4tP/1077
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",CINE - Lifetime (M)(1080)
@@ -3849,38 +1921,10 @@ http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/462
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/20427
 #EXTINF:-1 group-title="➤ TV COLOMBIA",CO | Win Sports HD 2
 http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/464
-#EXTINF:-1 group-title="➤ TV COLOMBIA",CARACOL
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/377
 #EXTINF:-1 group-title="➤ TV  PERU",LATINO : PERU MAGICO
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/8f988a40-3a4f-4a96-a152-96d88aff8ff9.m3u
 #EXTINF:-1 group-title="➤ TV  PERU",LATINO : SUR PERU
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/d6f09119-1f98-4c5f-8672-e5f856e367a2.m3u
-#EXTINF:-1 group-title="➤ TV  PERU",America Peru
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/719
-#EXTINF:-1 group-title="➤ TV  PERU",ATV
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/720
-#EXTINF:-1 group-title="➤ TV  PERU",Frecuencia Latina
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/721
-#EXTINF:-1 group-title="➤ TV  PERU",Next TV
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/722
-#EXTINF:-1 group-title="➤ TV  PERU",Panamericana
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/723
-#EXTINF:-1 group-title="➤ TV  PERU",TV Peru
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/724
-#EXTINF:-1 group-title="➤ TV  PERU",Peru Magico
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/725
-#EXTINF:-1 group-title="➤ TV  PERU",GOL PERU
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/726
-#EXTINF:-1 group-title="➤ TV  PERU",CAPITAL TV
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/727
-#EXTINF:-1 group-title="➤ TV  PERU",BH TV
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/734
-#EXTINF:-1 group-title="➤ TV  PERU",Willax
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/785
-#EXTINF:-1 group-title="➤ TV  PERU",Canal N
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/789
-#EXTINF:-1 group-title="➤ TV  PERU",RAI
-http://xtreamui.ddns.net:8000/k0kal3kan3ws3rv3r/16yUAQJN5A/638
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: CUATRO FHD
 http://ugeen.live:8080/ispoki/mrspoki223/3058
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: Cuatro hd
@@ -3927,8 +1971,6 @@ http://ugeen.live:8080/ispoki/mrspoki223/359
 http://ugeen.live:8080/ispoki/mrspoki223/360
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: C  GOLF
 http://ugeen.live:8080/ispoki/mrspoki223/361
-#EXTINF:-1 group-title="➤ TV ESPAÑA",ES: CAZAYPESCA
-http://ugeen.live:8080/ispoki/mrspoki223/362
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: Cosmo HD Dual II
 http://ugeen.live:8080/ispoki/mrspoki223/364
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: 101TV Malaga
@@ -4049,26 +2091,8 @@ http://ugeen.live:8080/ispoki/mrspoki223/3827
 http://ugeen.live:8080/ispoki/mrspoki223/3830
 #EXTINF:-1 group-title="➤ TV ESPAÑA",ES: Odisea
 http://ugeen.live:8080/ispoki/mrspoki223/3829
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="ESP| LA 1 HD" tvg-logo="http://miarea.vip:8080/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="➤ TV ESPAÑA",ESP| LA 1 HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/345
-#EXTINF:-1 tvg-id="I2.91206.schedulesdirect.org" tvg-name="ESP| LA 2 HD" tvg-logo="http://miarea.vip:8080/images/1d92d98b45f0c68b1edf048c6dfee1aa.png" group-title="➤ TV ESPAÑA",ESP| LA 2 HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/346
-#EXTINF:-1 tvg-name="ESP| FOX CHANNEL HD" tvg-logo="http://miarea.vip:8080/images/33120bd8d6e4d68e15e4ec54b106be4e.png" group-title="➤ TV ESPAÑA",ESP| FOX CHANNEL HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/76005
-#EXTINF:-1 tvg-id="88039" tvg-name="ESP| DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="➤ TV ESPAÑA",ESP| DMAX HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/408
-#EXTINF:-1 tvg-id="I96.87058.schedulesdirect.org" tvg-name="ESP| HISTORIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="➤ TV ESPAÑA",ESP| HISTORIA HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/359
-#EXTINF:-1 tvg-name="ESP| NATIONAL GEOGRAFHY WILD FHD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="➤ TV ESPAÑA",ESP| NATIONAL GEOGRAFHY WILD FHD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/31847
-#EXTINF:-1 tvg-name="ESP| NATGEO WILD HD" tvg-logo="http://miarea.vip:8080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="➤ TV ESPAÑA",ESP| NATGEO WILD HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/389
-#EXTINF:-1 tvg-id="I20.91201.schedulesdirect.org" tvg-name="ESP| FOX LIFE HD" tvg-logo="http://miarea.vip:8080/images/dca6e4a9ca65871f95e1c6de576cce1e.PNG" group-title="➤ TV ESPAÑA",ESP| FOX LIFE HD
-http://miarea.vip:8080/XiptvDiscordNewLine/MwxzQa67JLmde/503
 #EXTINF:-1 tvg-name="M LaLiga 1 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="➤ La Liga Movistar",M LaLiga 1 HD (VIP)
 http://playhispano.org:8080/Casjahj/Jhajsac/211504
-#EXTINF:-1 tvg-name="M Liga de Campeones 1 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="➤ La Liga Movistar",M Liga de Campeones 1 HD (VIP)
-http://playhispano.org:8080/Casjahj/Jhajsac/211507
 #EXTINF:-1 tvg-name="M Liga de Campeones 2 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="➤ La Liga Movistar",M Liga de Campeones 2 HD (VIP)
 http://playhispano.org:8080/Casjahj/Jhajsac/211508
 #EXTINF:-1 tvg-name="M Liga de Campeones 6 HD (SOLO EVENTOS)" tvg-logo="http://127.0.0.1/" group-title="➤ La Liga Movistar",M Liga de Campeones 6 HD (SOLO EVENTOS)
@@ -4077,24 +2101,12 @@ http://playhispano.org:8080/Casjahj/Jhajsac/211512
 http://playhispano.org:8080/Casjahj/Jhajsac/211516
 #EXTINF:-1 tvg-name="DEPORTES| LA LIGA TV BAR FHD" tvg-logo="http://iptvglobal.site:25461/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="➤ La Liga Movistar",DEPORTES| LA LIGA TV BAR FHD
 http://playhispano.org:8080/Casjahj/Jhajsac/70743
-#EXTINF:-1 tvg-name="MOVISTAR PLUS SD | PE" tvg-logo="http://playhispano.org:25461/images/83841d3ba986f51f654a5ce21f1b216b.png" group-title="➤ La Liga Movistar",MOVISTAR PLUS SD | PE
-http://playhispano.org:8080/Casjahj/Jhajsac/105212
 #EXTINF:-1 tvg-name="|ES| Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/1280px-Eurosport_2_HD_Logo.svg.png" group-title="➤ La Liga Movistar",|ES| Eurosport 2
 http://playhispano.org:8080/Casjahj/Jhajsac/107130
 #EXTINF:-1 tvg-name="eurosport 1" tvg-logo="http://iptvglobal.site:25461/images/f04450994df11988cf2da4b77d33dd0a.png" group-title="➤ La Liga Movistar",eurosport 1
 http://playhispano.org:8080/Casjahj/Jhajsac/107136
-#EXTINF:-1 tvg-name="EUROSPORT 1 FHD" tvg-logo="http://playhispano.org:25461/images/c8c334d77d19406110b87722ffc402cf.png" group-title="➤ La Liga Movistar",EUROSPORT 1 FHD
-http://playhispano.org:8080/Casjahj/Jhajsac/179324
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://playhispano.org:25461/images/c8c334d77d19406110b87722ffc402cf.png" group-title="➤ La Liga Movistar",EUROSPORT 1 HD
 http://playhispano.org:8080/Casjahj/Jhajsac/179325
-#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="http://playhispano.org:25461/images/9295814d84d30ca0c7bb6c3981a34556.png" group-title="➤ La Liga Movistar",EUROSPORT 2 HD
-http://playhispano.org:8080/Casjahj/Jhajsac/179326
-#EXTINF:-1 tvg-name="GOL TV FHD" tvg-logo="http://playhispano.org:25461/images/29501e66c58f28988ae87da9b68ea71a.png" group-title="➤ La Liga Movistar",GOL TV FHD
-http://playhispano.org:8080/Casjahj/Jhajsac/179329
-#EXTINF:-1 tvg-name="GOLF FHD" tvg-logo="http://playhispano.org:25461/images/5381c995f7067ed5e3fda1d0b54fd8f5.png" group-title="➤ La Liga Movistar",GOLF FHD
-http://playhispano.org:8080/Casjahj/Jhajsac/179330
-#EXTINF:-1 tvg-name="GOLF HD" tvg-logo="http://playhispano.org:25461/images/5381c995f7067ed5e3fda1d0b54fd8f5.png" group-title="➤ La Liga Movistar",GOLF HD
-http://playhispano.org:8080/Casjahj/Jhajsac/179331
 #EXTINF:-1 tvg-name="ESP| TOROS HD" tvg-logo="http://playhispano.org:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="➤ La Liga Movistar",ESP| TOROS HD
 http://playhispano.org:8080/Casjahj/Jhajsac/204939
 #EXTINF:-1 tvg-name="ESP| M+ GOLF HD" tvg-logo="http://miarea.vip:8080/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="➤ La Liga Movistar",ESP| M+ GOLF HD
@@ -4103,10 +2115,6 @@ http://playhispano.org:8080/Casjahj/Jhajsac/204945
 http://playhispano.org:8080/Casjahj/Jhajsac/204943
 #EXTINF:-1 tvg-name="ESP| EUROSPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/0b29e5bfc58b925a22de70afd7154732.png" group-title="➤ La Liga Movistar",ESP| EUROSPORTS 2 HD
 http://playhispano.org:8080/Casjahj/Jhajsac/204952
-#EXTINF:-1 tvg-name="M Dazn F1 FHD" tvg-logo="http://boxdigital.xyz:8080/images/666ab05f3ae687687c929f8ddd2f5eb1.png" group-title="➤ La Liga Movistar",M Dazn F1 FHD
-http://playhispano.org:8080/Casjahj/Jhajsac/204966
-#EXTINF:-1 tvg-name="M Dazn F1 HD" tvg-logo="http://boxdigital.xyz:8080/images/666ab05f3ae687687c929f8ddd2f5eb1.png" group-title="➤ La Liga Movistar",M Dazn F1 HD
-http://playhispano.org:8080/Casjahj/Jhajsac/204967
 #EXTINF:-1 group-title="➤ La Liga Movistar",ES: DAZN 1
 http://ugeen.live:8080/ispoki/mrspoki223/3470
 #EXTINF:-1 group-title="➤ La Liga Movistar",ES: DAZN 2
