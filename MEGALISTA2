@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",EC: ECDF El canal del futbol
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298698
+#EXTINF:-1 tvg-name="EC | ECUAVISA GQUIL HD." tvg-logo="http://daleplaypro.com:8080/images/51ce801ff6aa5cadc1b4a5b51d949243.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA GQUIL HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140745
+#EXTINF:-1 tvg-name="EC | ECUAVISA GUAYAQUIL SD." tvg-logo="http://daleplaypro.com:8080/images/51ce801ff6aa5cadc1b4a5b51d949243.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA GUAYAQUIL SD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140746
+#EXTINF:-1 tvg-name="EC | Ecuavisa Internacional" tvg-logo="http://daleplay.club:8080/images/51ce801ff6aa5cadc1b4a5b51d949243.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | Ecuavisa Internacional
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140747
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL  HD." tvg-logo="http://daleplaypro.com:8080/images/0902c1ad27651ff19e226104caccef83.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS GQUIL  HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140748
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS GQUIL SD." tvg-logo="http://daleplay.club:8080/images/0902c1ad27651ff19e226104caccef83.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS GQUIL SD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140749
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS Q SIERRA HD." tvg-logo="http://daleplaypro.com:8080/images/0902c1ad27651ff19e226104caccef83.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS Q SIERRA HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140750
+#EXTINF:-1 tvg-name="EC | RTS HD." tvg-logo="http://daleplaypro.com:8080/images/d1a023149b3f102246e02617082d2047.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTS HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140752
+#EXTINF:-1 tvg-name="EC | RTS SD.." tvg-logo="http://daleplaypro.com:8080/images/d1a023149b3f102246e02617082d2047.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTS SD..
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140753
+#EXTINF:-1 tvg-name="EC | OROMAR TV HD." tvg-logo="http://daleplay.club:8080/images/f5c5ca7b21ef441aa170307745cb8217.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | OROMAR TV HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140754
+#EXTINF:-1 tvg-name="EC | OROMAR SD.." tvg-logo="http://daleplay.club:8080/images/f5c5ca7b21ef441aa170307745cb8217.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | OROMAR SD..
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140755
+#EXTINF:-1 tvg-name="EC | Ecuador TV HD." tvg-logo="http://daleplay.club:8080/images/882a81e820e300b16eceac381ae1f1f6.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | Ecuador TV HD.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140759
+#EXTINF:-1 tvg-name="EC | GAMAVISION." tvg-logo="http://daleplay.club:8080/images/f4660c95fac4acda37c20519b5e63347.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | GAMAVISION.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140760
+#EXTINF:-1 tvg-name="EC | HECHOS ECUADOR." tvg-logo="http://daleplay.club:8080/images/da559a38b0af16577e07fb7bfc89331a.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | HECHOS ECUADOR.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140761
+#EXTINF:-1 tvg-name="EC | GAMAVISION SD.." tvg-logo="http://daleplaypro.com:8080/images/4c64dc4f3ed71760f4667a34b5246ee1.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | GAMAVISION SD..
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140763
+#EXTINF:-1 tvg-name="EC | Zaracay TV." tvg-logo="http://daleplay.club:8080/images/a876e43ff0baa1c90a2f9e67ee3f86e5.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | Zaracay TV.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140764
+#EXTINF:-1 tvg-name="Multicanal." tvg-logo="http://daleplay.club:8080/images/07b2698f6c1b21cb0c2d46ce4189f93a.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",Multicanal.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140765
+#EXTINF:-1 tvg-name="EC | TELERAMA." tvg-logo="http://daleplay.club:8080/images/7f9dfda62ca4b338a6b1db65656ce894.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELERAMA.
+http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/140766
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",DIRECTO : ECDF ECUADOR HD
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/186039.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",DIRECTO : ECDF ECUADOR SD
@@ -2713,6 +2747,384 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1675
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/100815
 #EXTINF:-1 group-title="➤ ZONA PPV",PPV-NFL Now (M)(720)
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/100816
+#EXTINF:-1 tvg-name="|XX| BRAZZERS TV" group-title="➤ ZONA ADULTOS 🔞",|XX| BRAZZERS TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16073
+#EXTINF:-1 tvg-name="|XX| Dorcel HD+" group-title="➤ ZONA ADULTOS 🔞",|XX| Dorcel HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16076
+#EXTINF:-1 tvg-name="|XX| Evil Angel TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Evil Angel TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16083
+#EXTINF:-1 tvg-name="|XX| Private HD+" group-title="➤ ZONA ADULTOS 🔞",|XX| Private HD+
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16091
+#EXTINF:-1 tvg-name="|XX| Pink Erotic 1" group-title="➤ ZONA ADULTOS 🔞",|XX| Pink Erotic 1
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16094
+#EXTINF:-1 tvg-name="|XX| Pink Erotic 2" group-title="➤ ZONA ADULTOS 🔞",|XX| Pink Erotic 2
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16096
+#EXTINF:-1 tvg-name="|XX| Pink Erotic 3" group-title="➤ ZONA ADULTOS 🔞",|XX| Pink Erotic 3
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16097
+#EXTINF:-1 tvg-name="|XX| Lesbian Affair" group-title="➤ ZONA ADULTOS 🔞",|XX| Lesbian Affair
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16098
+#EXTINF:-1 tvg-name="|XX| Meiden Van Holland" group-title="➤ ZONA ADULTOS 🔞",|XX| Meiden Van Holland
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16099
+#EXTINF:-1 tvg-name="|XX| PassieXXX" group-title="➤ ZONA ADULTOS 🔞",|XX| PassieXXX
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16102
+#EXTINF:-1 tvg-name="|XX| Adult Passie" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Passie
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16105
+#EXTINF:-1 tvg-name="|XX| Hot Mix 1" group-title="➤ ZONA ADULTOS 🔞",|XX| Hot Mix 1
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16128
+#EXTINF:-1 tvg-name="|XX| Hot Mix 2" group-title="➤ ZONA ADULTOS 🔞",|XX| Hot Mix 2
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16129
+#EXTINF:-1 tvg-name="|XX| XY Max" group-title="➤ ZONA ADULTOS 🔞",|XX| XY Max
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16131
+#EXTINF:-1 tvg-name="|XX| Zest TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Zest TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16132
+#EXTINF:-1 tvg-name="|XX| Venus TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Venus TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16134
+#EXTINF:-1 tvg-name="|XX| Hot Mix 7" group-title="➤ ZONA ADULTOS 🔞",|XX| Hot Mix 7
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16137
+#EXTINF:-1 tvg-name="|XX| Secret Circle TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Secret Circle TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16138
+#EXTINF:-1 tvg-name="|XX| Premium Porn" group-title="➤ ZONA ADULTOS 🔞",|XX| Premium Porn
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16141
+#EXTINF:-1 tvg-name="|XX| Hot Mix 11" group-title="➤ ZONA ADULTOS 🔞",|XX| Hot Mix 11
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16143
+#EXTINF:-1 tvg-name="|XX| Hot Mix 12" group-title="➤ ZONA ADULTOS 🔞",|XX| Hot Mix 12
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16144
+#EXTINF:-1 tvg-name="|XX| X-Mo" group-title="➤ ZONA ADULTOS 🔞",|XX| X-Mo
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/16145
+#EXTINF:-1 tvg-name="|XX| Redlight HD" group-title="➤ ZONA ADULTOS 🔞",|XX| Redlight HD
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/18370
+#EXTINF:-1 tvg-name="|XX| Penthouse Gold" group-title="➤ ZONA ADULTOS 🔞",|XX| Penthouse Gold
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21194
+#EXTINF:-1 tvg-name="|XX| 24/7 Adult BDSM" group-title="➤ ZONA ADULTOS 🔞",|XX| 24/7 Adult BDSM
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21195
+#EXTINF:-1 tvg-name="|XX| German Amateur" group-title="➤ ZONA ADULTOS 🔞",|XX| German Amateur
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21197
+#EXTINF:-1 tvg-name="|XX| 24/7 Adult Blonde" group-title="➤ ZONA ADULTOS 🔞",|XX| 24/7 Adult Blonde
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21198
+#EXTINF:-1 tvg-name="|XX| Adult AX OX TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult AX OX TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21199
+#EXTINF:-1 tvg-name="|XX| 24/7 Adult Mofos" group-title="➤ ZONA ADULTOS 🔞",|XX| 24/7 Adult Mofos
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21200
+#EXTINF:-1 tvg-name="|XX| 24/7 Adult Young Girls 18" group-title="➤ ZONA ADULTOS 🔞",|XX| 24/7 Adult Young Girls 18
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21201
+#EXTINF:-1 tvg-name="|XX| Adult Anal Sex" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Anal Sex
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21203
+#EXTINF:-1 tvg-name="|XX| Adult Asian Sex" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Asian Sex
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21205
+#EXTINF:-1 tvg-name="|XX| Adult O La La" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult O La La
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21206
+#EXTINF:-1 tvg-name="|XX| Adult Net XX" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Net XX
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21207
+#EXTINF:-1 tvg-name="|XX| Adult Nuart" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Nuart
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21210
+#EXTINF:-1 tvg-name="|XX| Adult Teens" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Teens
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21211
+#EXTINF:-1 tvg-name="|XX| Adult Hot XXL" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Hot XXL
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21215
+#EXTINF:-1 tvg-name="|XX| Adult XY Mix" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult XY Mix
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21224
+#EXTINF:-1 tvg-name="|XX| Adult Vivid TV Europa" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Vivid TV Europa
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21227
+#EXTINF:-1 tvg-name="|XX| Adult Sextreme" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Sextreme
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21229
+#EXTINF:-1 tvg-name="|XX| Adult Shalun TV" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Shalun TV
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21230
+#EXTINF:-1 tvg-name="|XX|  EXTASY 4K " group-title="➤ ZONA ADULTOS 🔞",|XX|  EXTASY 4K
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21235
+#EXTINF:-1 tvg-name="|XX| Adult Super One" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Super One
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21241
+#EXTINF:-1 tvg-name="|XX| Adult Russian Night" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Russian Night
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21254
+#EXTINF:-1 tvg-name="|XX| Adult Redlight" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Redlight
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21255
+#EXTINF:-1 tvg-name="|XX| Adult HotClub Blowjob Extreme" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult HotClub Blowjob Extreme
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21263
+#EXTINF:-1 tvg-name="|XX| Adult Big Dick" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Big Dick
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21264
+#EXTINF:-1 tvg-name="|XX| Adult Big Ass" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Big Ass
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21265
+#EXTINF:-1 tvg-name="|XX| Adult German Amateur 1" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult German Amateur 1
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21266
+#EXTINF:-1 tvg-name="|XX| Adult Balkan Hot" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult Balkan Hot
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21283
+#EXTINF:-1 tvg-name="|XX| Adult HotClub Milf" group-title="➤ ZONA ADULTOS 🔞",|XX| Adult HotClub Milf
+http://62.182.83.91:80/Localhdhd01/33sY9sjbJT/21258
+#EXTINF:-1 tvg-name="XXX: XY plus" group-title="➤ ZONA ADULTOS 🔞",XXX: XY plus
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/59.ts
+#EXTINF:-1 tvg-name="XXX: CENTOXCENTO TV" group-title="➤ ZONA ADULTOS 🔞",XXX: CENTOXCENTO TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/60.ts
+#EXTINF:-1 tvg-name="XXX: DORCEL" group-title="➤ ZONA ADULTOS 🔞",XXX: DORCEL
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/61.ts
+#EXTINF:-1 tvg-name="XXX: Blue Hustler" group-title="➤ ZONA ADULTOS 🔞",XXX: Blue Hustler
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/62.ts
+#EXTINF:-1 tvg-name="XXX: BRAZZERS TV EUROPE" group-title="➤ ZONA ADULTOS 🔞",XXX: BRAZZERS TV EUROPE
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/63.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 3" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/64.ts
+#EXTINF:-1 tvg-name="XXX: Fake Taxi FHD 1080p" group-title="➤ ZONA ADULTOS 🔞",XXX: Fake Taxi FHD 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/65.ts
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 1 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: ALBA XXX 1 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/66.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 1" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 1
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/67.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 3" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/68.ts
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 2 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: ALBA XXX 2 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/69.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 5" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 5
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/70.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 6" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 6
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/71.ts
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 3" group-title="➤ ZONA ADULTOS 🔞",XXX: ALBA XXX 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/72.ts
+#EXTINF:-1 tvg-name="XXX: EROTIC 8" group-title="➤ ZONA ADULTOS 🔞",XXX: EROTIC 8
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/73.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 1" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 1
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/74.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 2" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/75.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 3" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/76.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 4" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/77.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 5" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 5
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/78.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 6" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 6
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/79.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 7" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 7
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/80.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 8" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 8
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/81.ts
+#EXTINF:-1 tvg-name="XXX: Hot Club 9" group-title="➤ ZONA ADULTOS 🔞",XXX: Hot Club 9
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/82.ts
+#EXTINF:-1 tvg-name="XXX:  ALBA XXX 4" group-title="➤ ZONA ADULTOS 🔞",XXX:  ALBA XXX 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/585.ts
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 5" group-title="➤ ZONA ADULTOS 🔞",XXX: ALBA XXX 5
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/586.ts
+#EXTINF:-1 tvg-name="XXX: ALBA XXX 6" group-title="➤ ZONA ADULTOS 🔞",XXX: ALBA XXX 6
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/587.ts
+#EXTINF:-1 tvg-name="XXX: HOT MiX 22" group-title="➤ ZONA ADULTOS 🔞",XXX: HOT MiX 22
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/588.ts
+#EXTINF:-1 tvg-name="XXX: HOT" group-title="➤ ZONA ADULTOS 🔞",XXX: HOT
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/589.ts
+#EXTINF:-1 tvg-name="XXX: HOT CLUB 1" group-title="➤ ZONA ADULTOS 🔞",XXX: HOT CLUB 1
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/590.ts
+#EXTINF:-1 tvg-name="XXX: BLACKED FHD 1080p" group-title="➤ ZONA ADULTOS 🔞",XXX: BLACKED FHD 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/591.ts
+#EXTINF:-1 tvg-name="XXX: CZECH STREETS FHD 1080p" group-title="➤ ZONA ADULTOS 🔞",XXX: CZECH STREETS FHD 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/592.ts
+#EXTINF:-1 tvg-name="XXX : VENUS TV" group-title="➤ ZONA ADULTOS 🔞",XXX : VENUS TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/593.ts
+#EXTINF:-1 tvg-name="XXX: Babes TV HD" group-title="➤ ZONA ADULTOS 🔞",XXX: Babes TV HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/594.ts
+#EXTINF:-1 tvg-name="XXX: FAKE HOSPITAL" group-title="➤ ZONA ADULTOS 🔞",XXX: FAKE HOSPITAL
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/595.ts
+#EXTINF:-1 tvg-name="XXX: FTV Midnight Secrets HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FTV Midnight Secrets HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/596.ts
+#EXTINF:-1 tvg-name="XXX: Juice" group-title="➤ ZONA ADULTOS 🔞",XXX: Juice
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/597.ts
+#EXTINF:-1 tvg-name="XXX: PenthouseX" group-title="➤ ZONA ADULTOS 🔞",XXX: PenthouseX
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/598.ts
+#EXTINF:-1 tvg-name="XXX : PlayBoy TV" group-title="➤ ZONA ADULTOS 🔞",XXX : PlayBoy TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1258.ts
+#EXTINF:-1 tvg-name="XXX: JASMIN.TV HD" group-title="➤ ZONA ADULTOS 🔞",XXX: JASMIN.TV HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1259.ts
+#EXTINF:-1 tvg-name="VIP-XXX: Adult TINY4K 2 1080p" group-title="➤ ZONA ADULTOS 🔞",VIP-XXX: Adult TINY4K 2 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1261.ts
+#EXTINF:-1 tvg-name="VIP-XXX: Adult TINY4K 4 1080p" group-title="➤ ZONA ADULTOS 🔞",VIP-XXX: Adult TINY4K 4 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1263.ts
+#EXTINF:-1 tvg-name="VIP-XXX: Adult TINY4K 5 1080p" group-title="➤ ZONA ADULTOS 🔞",VIP-XXX: Adult TINY4K 5 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1264.ts
+#EXTINF:-1 tvg-name="VIP-XXX: Adult TINY4K 6 1080p" group-title="➤ ZONA ADULTOS 🔞",VIP-XXX: Adult TINY4K 6 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1265.ts
+#EXTINF:-1 tvg-name="VIP-XXX: Adult TINY4K 7 1080p" group-title="➤ ZONA ADULTOS 🔞",VIP-XXX: Adult TINY4K 7 1080p
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1266.ts
+#EXTINF:-1 tvg-name="XXX: SEXT6SENSO" group-title="➤ ZONA ADULTOS 🔞",XXX: SEXT6SENSO
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1267.ts
+#EXTINF:-1 tvg-name="XXX: PRIVATE" group-title="➤ ZONA ADULTOS 🔞",XXX: PRIVATE
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1268.ts
+#EXTINF:-1 tvg-name="XXX: EROXXX" group-title="➤ ZONA ADULTOS 🔞",XXX: EROXXX
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1269.ts
+#EXTINF:-1 tvg-name="XXX: PINK O" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK O
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1270.ts
+#EXTINF:-1 tvg-name="XXX: XXL TV" group-title="➤ ZONA ADULTOS 🔞",XXX: XXL TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1272.ts
+#EXTINF:-1 tvg-name="XXX: SCT" group-title="➤ ZONA ADULTOS 🔞",XXX: SCT
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1273.ts
+#EXTINF:-1 tvg-name="XXX: PENTHOUSE GOLD HD" group-title="➤ ZONA ADULTOS 🔞",XXX: PENTHOUSE GOLD HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1274.ts
+#EXTINF:-1 tvg-name="XXX: RUSSKAYA NOCH" group-title="➤ ZONA ADULTOS 🔞",XXX: RUSSKAYA NOCH
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/1275.ts
+#EXTINF:-1 tvg-name="XXX: MAX PORN 1" group-title="➤ ZONA ADULTOS 🔞",XXX: MAX PORN 1
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6116.ts
+#EXTINF:-1 tvg-name="XXX: MAX PORN 2" group-title="➤ ZONA ADULTOS 🔞",XXX: MAX PORN 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6117.ts
+#EXTINF:-1 tvg-name="XXX: Alba 2" group-title="➤ ZONA ADULTOS 🔞",XXX: Alba 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6118.ts
+#EXTINF:-1 tvg-name="XXX: Alba 3" group-title="➤ ZONA ADULTOS 🔞",XXX: Alba 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6119.ts
+#EXTINF:-1 tvg-name="XXX: Alba 4" group-title="➤ ZONA ADULTOS 🔞",XXX: Alba 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6120.ts
+#EXTINF:-1 tvg-name="XXX: OLDTIMER" group-title="➤ ZONA ADULTOS 🔞",XXX: OLDTIMER
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6122.ts
+#EXTINF:-1 tvg-name="XXX: TABOO" group-title="➤ ZONA ADULTOS 🔞",XXX: TABOO
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6123.ts
+#EXTINF:-1 tvg-name="XXX: Super ONE HD" group-title="➤ ZONA ADULTOS 🔞",XXX: Super ONE HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6124.ts
+#EXTINF:-1 tvg-name="XXX: French Lover" group-title="➤ ZONA ADULTOS 🔞",XXX: French Lover
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6125.ts
+#EXTINF:-1 tvg-name="XXX: SHALUN TV" group-title="➤ ZONA ADULTOS 🔞",XXX: SHALUN TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6126.ts
+#EXTINF:-1 tvg-name="XXX: HOTWIFE PREMIUM" group-title="➤ ZONA ADULTOS 🔞",XXX: HOTWIFE PREMIUM
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6128.ts
+#EXTINF:-1 tvg-name="XXX: PORNHUB PREMIUM" group-title="➤ ZONA ADULTOS 🔞",XXX: PORNHUB PREMIUM
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6129.ts
+#EXTINF:-1 tvg-name="XXX: Vixen TV ELITE" group-title="➤ ZONA ADULTOS 🔞",XXX: Vixen TV ELITE
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6130.ts
+#EXTINF:-1 tvg-name="XXX: TUSHY TV" group-title="➤ ZONA ADULTOS 🔞",XXX: TUSHY TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6131.ts
+#EXTINF:-1 tvg-name="XXX: DIGITAL PLAYGROUND" group-title="➤ ZONA ADULTOS 🔞",XXX: DIGITAL PLAYGROUND
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6132.ts
+#EXTINF:-1 tvg-name="XXX: ROCCO TV PREMIUM" group-title="➤ ZONA ADULTOS 🔞",XXX: ROCCO TV PREMIUM
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6133.ts
+#EXTINF:-1 tvg-name="XXX: ROCCO TV 7/24" group-title="➤ ZONA ADULTOS 🔞",XXX: ROCCO TV 7/24
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6134.ts
+#EXTINF:-1 tvg-name="XXX: BLACKED TV PREMIUM" group-title="➤ ZONA ADULTOS 🔞",XXX: BLACKED TV PREMIUM
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6135.ts
+#EXTINF:-1 tvg-name="XXX: BLACKED RAW" group-title="➤ ZONA ADULTOS 🔞",XXX: BLACKED RAW
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6136.ts
+#EXTINF:-1 tvg-name="XXX: TRANS Premium" group-title="➤ ZONA ADULTOS 🔞",XXX: TRANS Premium
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6137.ts
+#EXTINF:-1 tvg-name="XXX: Turkce Altyazili YENI" group-title="➤ ZONA ADULTOS 🔞",XXX: Turkce Altyazili YENI
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6138.ts
+#EXTINF:-1 tvg-name="XXX: Turkce Altyazili 1" group-title="➤ ZONA ADULTOS 🔞",XXX: Turkce Altyazili 1
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6139.ts
+#EXTINF:-1 tvg-name="XXX: Turkce Altyazili 2" group-title="➤ ZONA ADULTOS 🔞",XXX: Turkce Altyazili 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6140.ts
+#EXTINF:-1 tvg-name="XXX: Turkce Altyazili 3" group-title="➤ ZONA ADULTOS 🔞",XXX: Turkce Altyazili 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6141.ts
+#EXTINF:-1 tvg-name="XXX: Turkce Altyazili 4" group-title="➤ ZONA ADULTOS 🔞",XXX: Turkce Altyazili 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6142.ts
+#EXTINF:-1 tvg-name="XXX: TÜRK AMATÖRLER" group-title="➤ ZONA ADULTOS 🔞",XXX: TÜRK AMATÖRLER
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6143.ts
+#EXTINF:-1 tvg-name="XXX: YESILCAM" group-title="➤ ZONA ADULTOS 🔞",XXX: YESILCAM
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6144.ts
+#EXTINF:-1 tvg-name="XXX: HENTAI" group-title="➤ ZONA ADULTOS 🔞",XXX: HENTAI
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6145.ts
+#EXTINF:-1 tvg-name="XXX: PURE BABES" group-title="➤ ZONA ADULTOS 🔞",XXX: PURE BABES
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6146.ts
+#EXTINF:-1 tvg-name="XXX: OX-AX TV" group-title="➤ ZONA ADULTOS 🔞",XXX: OX-AX TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6147.ts
+#EXTINF:-1 tvg-name="XXX: Mad Sex Party" group-title="➤ ZONA ADULTOS 🔞",XXX: Mad Sex Party
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6148.ts
+#EXTINF:-1 tvg-name="XXX: Beate UHSE TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Beate UHSE TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6149.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 1 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 1 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6151.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 2 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 2 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6152.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 3 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 3 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6153.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 5 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 5 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6154.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 6 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 6 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6155.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 7 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 7 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6156.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 8 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 8 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6157.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 9 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 9 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6158.ts
+#EXTINF:-1 tvg-name="XXX: FILMAX Adult 10 HD" group-title="➤ ZONA ADULTOS 🔞",XXX: FILMAX Adult 10 HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6159.ts
+#EXTINF:-1 tvg-name="XXX: BALKAN EROTIC" group-title="➤ ZONA ADULTOS 🔞",XXX: BALKAN EROTIC
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6160.ts
+#EXTINF:-1 tvg-name="XXX: Deeper FHD" group-title="➤ ZONA ADULTOS 🔞",XXX: Deeper FHD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6161.ts
+#EXTINF:-1 tvg-name="XXX: HUSTLER HD" group-title="➤ ZONA ADULTOS 🔞",XXX: HUSTLER HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6162.ts
+#EXTINF:-1 tvg-name="XXX: REDLIGHT HD" group-title="➤ ZONA ADULTOS 🔞",XXX: REDLIGHT HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6163.ts
+#EXTINF:-1 tvg-name="XXX: DORCEL XXX TV" group-title="➤ ZONA ADULTOS 🔞",XXX: DORCEL XXX TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6164.ts
+#EXTINF:-1 tvg-name="XXX: SCT" group-title="➤ ZONA ADULTOS 🔞",XXX: SCT
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6165.ts
+#EXTINF:-1 tvg-name="XXX: Prive TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Prive TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6166.ts
+#EXTINF:-1 tvg-name="XXX: NUART TV" group-title="➤ ZONA ADULTOS 🔞",XXX: NUART TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6167.ts
+#EXTINF:-1 tvg-name="XXX: CANDY" group-title="➤ ZONA ADULTOS 🔞",XXX: CANDY
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6168.ts
+#EXTINF:-1 tvg-name="XXX: Gay TV HD" group-title="➤ ZONA ADULTOS 🔞",XXX: Gay TV HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6169.ts
+#EXTINF:-1 tvg-name="XXX: Passie TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Passie TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6170.ts
+#EXTINF:-1 tvg-name="XXX: ОХ-АХ HD" group-title="➤ ZONA ADULTOS 🔞",XXX: ОХ-АХ HD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6171.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV 2" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6172.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV 3" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV 3
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6173.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV 4" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6174.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV ANAL" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV ANAL
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6175.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV PARODY" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV PARODY
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6176.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV TEENS" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV TEENS
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6177.ts
+#EXTINF:-1 tvg-name="XXX: FAP TV COMPILATION" group-title="➤ ZONA ADULTOS 🔞",XXX: FAP TV COMPILATION
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6178.ts
+#EXTINF:-1 tvg-name="XXX: PINK EROTICA 2" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK EROTICA 2
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6179.ts
+#EXTINF:-1 tvg-name="XXX: PINK EROTICA 4" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK EROTICA 4
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6180.ts
+#EXTINF:-1 tvg-name="XXX: PINK EROTICA 6" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK EROTICA 6
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6181.ts
+#EXTINF:-1 tvg-name="XXX: PINK EROTICA 7" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK EROTICA 7
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6182.ts
+#EXTINF:-1 tvg-name="XXX: PINK EROTICA 8" group-title="➤ ZONA ADULTOS 🔞",XXX: PINK EROTICA 8
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6183.ts
+#EXTINF:-1 tvg-name="XXX: Anal TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Anal TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6184.ts
+#EXTINF:-1 tvg-name="XXX: Big Ass TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Big Ass TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6185.ts
+#EXTINF:-1 tvg-name="XXX: Big Dick TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Big Dick TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6186.ts
+#EXTINF:-1 tvg-name="XXX: Big Tits TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Big Tits TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6187.ts
+#EXTINF:-1 tvg-name="XXX: Blonde TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Blonde TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6188.ts
+#EXTINF:-1 tvg-name="XXX: Blowjob TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Blowjob TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6189.ts
+#EXTINF:-1 tvg-name="XXX: Brunette TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Brunette TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6190.ts
+#EXTINF:-1 tvg-name="XXX: Cosmid FHD" group-title="➤ ZONA ADULTOS 🔞",XXX: Cosmid FHD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6191.ts
+#EXTINF:-1 tvg-name="XXX: Day With A Pornstar FHD" group-title="➤ ZONA ADULTOS 🔞",XXX: Day With A Pornstar FHD
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6192.ts
+#EXTINF:-1 tvg-name="XXX: Hardcore TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Hardcore TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6193.ts
+#EXTINF:-1 tvg-name="XXX: Interracial TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Interracial TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6194.ts
+#EXTINF:-1 tvg-name="XXX: Latina TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Latina TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6195.ts
+#EXTINF:-1 tvg-name="XXX: Lesbian TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Lesbian TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6196.ts
+#EXTINF:-1 tvg-name="XXX: MILF TV" group-title="➤ ZONA ADULTOS 🔞",XXX: MILF TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6197.ts
+#EXTINF:-1 tvg-name="XXX: Pornstar TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Pornstar TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6198.ts
+#EXTINF:-1 tvg-name="XXX: POV TV" group-title="➤ ZONA ADULTOS 🔞",XXX: POV TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6199.ts
+#EXTINF:-1 tvg-name="XXX: Rough TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Rough TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6200.ts
+#EXTINF:-1 tvg-name="XXX: Russian TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Russian TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6201.ts
+#EXTINF:-1 tvg-name="XXX: Teen TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Teen TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6202.ts
+#EXTINF:-1 tvg-name="XXX: Threesome TV" group-title="➤ ZONA ADULTOS 🔞",XXX: Threesome TV
+http://starshare.live:8080/live/Lorenzo/Lorenzo123/6203.ts
 #EXTINF:-1 group-title="➤ ZONA ADULTOS 🔞",XXX: ADULTIP 2
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="➤ ZONA ADULTOS 🔞",XXX: ADULTIP 3
