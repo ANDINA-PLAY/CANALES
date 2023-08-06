@@ -1,60 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ecuador - Primera A" tvg-logo="http://miarea.vip:8080/images/c5fd71774fdd9cc16b2a8ffa391d55b9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Ecuador - Primera A
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itMgfN1HJi4ur8v-dMYspQjU/ts
-#EXTINF:-1 tvg-name="13:00 | Universidad Católica vs Técnico Universitario" tvg-logo="http://miarea.vip:8080/images/c5fd71774fdd9cc16b2a8ffa391d55b9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",13:00 | Universidad Católica vs Técnico Universitario
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itNAtwdvuw11CUPcsbreaa5o/ts
-#EXTINF:-1 tvg-name="15:30 | Orense vs Delfin" tvg-logo="http://miarea.vip:8080/images/c5fd71774fdd9cc16b2a8ffa391d55b9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",15:30 | Orense vs Delfin
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itFBvYqWjY3Sa-kxtRi1kfbg/ts
-#EXTINF:-1 tvg-name="18:00 | El Nacional vs Aucas" tvg-logo="http://miarea.vip:8080/images/c5fd71774fdd9cc16b2a8ffa391d55b9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",18:00 | El Nacional vs Aucas
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itG0-E6xVTNlGAV_NI8AuPls/ts
-#EXTINF:-1 tvg-name="Colombia - Primera A" tvg-logo="https://1.bp.blogspot.com/--Rhlz92Or5E/X2P5ydGx6iI/AAAAAAABgLo/eAFUsxe_ggorjC0h7W7IC3RcM6-PT3iTgCLcBGAsYHQ/s16000/Liga+BetPlay.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Colombia - Primera A
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itBoHds5Sp6Sg2L8QGhDJhk4/ts
-#EXTINF:-1 tvg-name="16:00 | Unión Magdalena vs Junior" tvg-logo="https://1.bp.blogspot.com/--Rhlz92Or5E/X2P5ydGx6iI/AAAAAAABgLo/eAFUsxe_ggorjC0h7W7IC3RcM6-PT3iTgCLcBGAsYHQ/s16000/Liga+BetPlay.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",16:00 | Unión Magdalena vs Junior
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itGuTRbkTAZXQNZHcnSSwcBs/ts
-#EXTINF:-1 tvg-name="18:10 | Deportivo Pereira vs Boyacá Chicó" tvg-logo="https://1.bp.blogspot.com/--Rhlz92Or5E/X2P5ydGx6iI/AAAAAAABgLo/eAFUsxe_ggorjC0h7W7IC3RcM6-PT3iTgCLcBGAsYHQ/s16000/Liga+BetPlay.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",18:10 | Deportivo Pereira vs Boyacá Chicó
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itAKfdwF-q8t5wq95mjWUrFg/ts
-#EXTINF:-1 tvg-name="20:20 | Medellín vs Envigado" tvg-logo="https://1.bp.blogspot.com/--Rhlz92Or5E/X2P5ydGx6iI/AAAAAAABgLo/eAFUsxe_ggorjC0h7W7IC3RcM6-PT3iTgCLcBGAsYHQ/s16000/Liga+BetPlay.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",20:20 | Medellín vs Envigado
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itLMPfl4EpcYZeHdHZqb-Js0/ts
-#EXTINF:-1 tvg-name="Perú - Primera Division" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVhpgIDsjSA6IExc5A0HLX1SS9idzb5FEog&usqp=CAU" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Perú - Primera Division
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itDZ9SgRlC49-2VL-b6KS_Qw/ts
-#EXTINF:-1 tvg-name="15:15 | Binacional vs Sport Boys" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVhpgIDsjSA6IExc5A0HLX1SS9idzb5FEog&usqp=CAU" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",15:15 | Binacional vs Sport Boys
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itCZAR5PXPaEvLHYhJD3yuPY/ts
-#EXTINF:-1 tvg-name="20:00 | Alianza Lima vs UTC Cajamarca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVhpgIDsjSA6IExc5A0HLX1SS9idzb5FEog&usqp=CAU" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",20:00 | Alianza Lima vs UTC Cajamarca
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itE-cJIwanUzUCu3PLTa-3Us/ts
-#EXTINF:-1 tvg-name="Bolivia - Liga de Futbol" tvg-logo="https://historiadelfutbolboliviano.files.wordpress.com/2013/01/lfpb-logo013.jpg?w=640" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Bolivia - Liga de Futbol
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itB4SfeL_XrgBE0Pl-Mwj0wg/ts
-#EXTINF:-1 tvg-name="14:00 | Nacional Potosí vs Vaca Díez" tvg-logo="https://historiadelfutbolboliviano.files.wordpress.com/2013/01/lfpb-logo013.jpg?w=640" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",14:00 | Nacional Potosí vs Vaca Díez
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itGU33rpWzx8rF2gEv8VaqgU/ts
-#EXTINF:-1 tvg-name="16:30 | Independiente Petrolero vs Aurora" tvg-logo="https://historiadelfutbolboliviano.files.wordpress.com/2013/01/lfpb-logo013.jpg?w=640" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",16:30 | Independiente Petrolero vs Aurora
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itPTAhNyWv2KBuxuFVNf5NkE/ts
-#EXTINF:-1 tvg-name="19:00 | Atlético Palmaflor vs Oriente" tvg-logo="https://historiadelfutbolboliviano.files.wordpress.com/2013/01/lfpb-logo013.jpg?w=640" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",19:00 | Atlético Palmaflor vs Oriente
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itMYyYWzG9YKeYJvOzyzxP-0/ts
-#EXTINF:-1 tvg-name="Chile - Primera División" tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Chile - Primera División
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itD9Ms4GrTHtrtXy_619xyCk/ts
-#EXTINF:-1 tvg-name="13:30 | Magallanes vs Unión Española" tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",13:30 | Magallanes vs Unión Española
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itEAfo_ELezjuzttUXYJDUm4/ts
-#EXTINF:-1 tvg-name="16:00 | Huachipato vs Coquimbo Unido" tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",16:00 | Huachipato vs Coquimbo Unido
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itEq2kSNARD00Omryp99AevI/ts
-#EXTINF:-1 tvg-name="18:30 | Universidad Católica vs Audax Italiano" tvg-logo="http://castlempire.site:8080/images/1fb4ec3882ec6141b71ed3fa80377af9.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",18:30 | Universidad Católica vs Audax Italiano
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itJc6KdZ3vRlbXrCDZcZRIF0/ts
-#EXTINF:-1 tvg-name="Brasil - Brasileirão" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Brasil - Brasileirão
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itGeatch_LAWuEJgmjiG7OcA/ts
-#EXTINF:-1 tvg-name="14:00 | Santos vs Athletico-PR" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",14:00 | Santos vs Athletico-PR
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itBtFmWqFgj3qpLzppq424a8/ts
-#EXTINF:-1 tvg-name="16:30 | Internacional vs Corinthians" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",16:30 | Internacional vs Corinthians
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itJtO_t6omTD25SZWzulVgIw/ts
-#EXTINF:-1 tvg-name="16:30 | Goiás vs Fortaleza" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",16:30 | Goiás vs Fortaleza
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itFYtk_9r4wfqkPWYUSI_wBo/ts
-#EXTINF:-1 tvg-name="19:00 | Fluminense vs Palmeiras" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/85.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",19:00 | Fluminense vs Palmeiras
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itIpSYhSaIOeSz71Rd6v8CRg/ts
-#EXTINF:-1 tvg-name="Guatemala - Liga Nacional" tvg-logo="https://e7.pngegg.com/pngimages/69/427/png-clipart-liga-nacional-de-futbol-de-guatemala-football-la-liga-sports-league-escudo-de-guatemala-text-label-thumbnail.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",Guatemala - Liga Nacional
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itBPhWH0NGscgmQSRn_eDmgk/ts
-#EXTINF:-1 tvg-name="15:00 | Cobán Imperial vs Malacateco" tvg-logo="https://e7.pngegg.com/pngimages/69/427/png-clipart-liga-nacional-de-futbol-de-guatemala-football-la-liga-sports-league-escudo-de-guatemala-text-label-thumbnail.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",15:00 | Cobán Imperial vs Malacateco
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itMHcybV5AMfkRI9PpufyIcs/ts
-#EXTINF:-1 tvg-name="17:00 | Mixco vs Antigua GFC" tvg-logo="https://e7.pngegg.com/pngimages/69/427/png-clipart-liga-nacional-de-futbol-de-guatemala-football-la-liga-sports-league-escudo-de-guatemala-text-label-thumbnail.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",17:00 | Mixco vs Antigua GFC
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itDngSRA3N4N0At96N0ggF08/ts
-#EXTINF:-1 tvg-name="21:00 | Xelajú vs Comunicaciones" tvg-logo="https://e7.pngegg.com/pngimages/69/427/png-clipart-liga-nacional-de-futbol-de-guatemala-football-la-liga-sports-league-escudo-de-guatemala-text-label-thumbnail.png" group-title="⭐EVENTOS FUTBOL DEL DIA⭐",21:00 | Xelajú vs Comunicaciones
-http://zonamovie.live:80/play/j9rYSiKS-l3aC0Re8W9itEfQsBGyMkaM3P0E6jEDHNo/ts
+#EXTINF:-1 tvg-name="EC | Ecuavisa COSTA FHD" tvg-logo="http://i.imgur.com/OhONBpA.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | Ecuavisa COSTA FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uay-AOEdD1QWAQ-m2ACOSl/ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA COSTA HD" tvg-logo="http://i.imgur.com/OhONBpA.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA COSTA HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tTTp8q6NFzyEKz7Isd_CaL/ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA COSTA 720" tvg-logo="http://i.imgur.com/OhONBpA.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA COSTA 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sOJe2421UJSrMpdIMb2or_/ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA SIERRA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_hDm1-hr3mlcnvANR_-CSyROmBHayIOMr1Gd87w-SwwOtv2lR_6AuJNk-E0JO9hp9Rg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA SIERRA FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6s3QEQptHFpBCGSDl1mzVkV/ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA SIERRA 720" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_hDm1-hr3mlcnvANR_-CSyROmBHayIOMr1Gd87w-SwwOtv2lR_6AuJNk-E0JO9hp9Rg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA SIERRA 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tz4OKTqMzWtqSczNBUuX6R/ts
+#EXTINF:-1 tvg-name="EC | ECUAVISA INTERNACIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_hDm1-hr3mlcnvANR_-CSyROmBHayIOMr1Gd87w-SwwOtv2lR_6AuJNk-E0JO9hp9Rg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUAVISA INTERNACIONAL
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vCi9EzelGMM6h6Rq401TuK/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS COSTA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBil_DiFoMJRu2fT0BFBX9alDhfBPBvIoWQddIe0jan7aPRhRImD6Q1RBnXP_7uEUJXBg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS COSTA FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tPTsob4H7r52ljag1QyIvJ/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS COSTA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBil_DiFoMJRu2fT0BFBX9alDhfBPBvIoWQddIe0jan7aPRhRImD6Q1RBnXP_7uEUJXBg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS COSTA HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vaceMNeuT5OhEU8Gzhoqi8/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS COSTA 720" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBil_DiFoMJRu2fT0BFBX9alDhfBPBvIoWQddIe0jan7aPRhRImD6Q1RBnXP_7uEUJXBg&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS COSTA 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tNFTdQYTNiR7NHBENeAqFu/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS SIERRA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp3YNOktvpW5JaMqt5GRakV265-VI-sw34Mpy6Eb2ZkCX2qvYHA_Tw0CGdaXEkbc7f5I&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS SIERRA FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6v9eoUKTrhGL2CF8RB3b5HK/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS SIERRA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp3YNOktvpW5JaMqt5GRakV265-VI-sw34Mpy6Eb2ZkCX2qvYHA_Tw0CGdaXEkbc7f5I&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS SIERRA HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6v2UnBZU1F7oZyoNjc0nmeM/ts
+#EXTINF:-1 tvg-name="EC | TELEAMAZONAS SIERRA 720" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp3YNOktvpW5JaMqt5GRakV265-VI-sw34Mpy6Eb2ZkCX2qvYHA_Tw0CGdaXEkbc7f5I&usqp=CAU" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELEAMAZONAS SIERRA 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uXxhOwJRVZPhOz02On0LFD/ts
+#EXTINF:-1 tvg-name="EC | TC TELEVISION HD" tvg-logo="http://fanc.tmsimg.com/assets/s46324_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TC TELEVISION HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uEx2a9O-kQo-BG3Mbjy5Ls/ts
+#EXTINF:-1 tvg-name="EC | TC TELEVISION 720" tvg-logo="http://fanc.tmsimg.com/assets/s46324_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TC TELEVISION 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vjKWXgGHcSfQJxNLq3E8p6/ts
+#EXTINF:-1 tvg-name="EC | TC TELEVISION INTERNACIONAL" tvg-logo="http://fanc.tmsimg.com/assets/s46324_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TC TELEVISION INTERNACIONAL
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6t8Kg2-bEstWDoJl19B5TN7/ts
+#EXTINF:-1 tvg-name="EC | GAMAVISION FHD" tvg-logo="http://fanc.tmsimg.com/assets/s46318_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | GAMAVISION FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6trkLxmGD06X82Zmv20Dpst/ts
+#EXTINF:-1 tvg-name="EC | GAMAVISON HD" tvg-logo="http://fanc.tmsimg.com/assets/s46318_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | GAMAVISON HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sWLbkYQ-FHnQbt1gTIHsG3/ts
+#EXTINF:-1 tvg-name="EC | GAMAVISION 720" tvg-logo="http://fanc.tmsimg.com/assets/s46318_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | GAMAVISION 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sfYivH71xqdVlokL8SE6Oj/ts
+#EXTINF:-1 tvg-name="EC | RTS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s60367_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTS FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vGu16X5VklKVvk_ZrV0PAT/ts
+#EXTINF:-1 tvg-name="EC | RTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s60367_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTS HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vMJjfx8Yi2VouYQ3Jyq95k/ts
+#EXTINF:-1 tvg-name="EC | RTS 720" tvg-logo="http://fanc.tmsimg.com/assets/s60367_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTS 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vYIlKpKTYJG6ERJltupdVj/ts
+#EXTINF:-1 tvg-name="EC | ECUADOR TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s60346_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUADOR TV FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sUgvpx8cdtmxFNEtKo7CNi/ts
+#EXTINF:-1 tvg-name="EC | ECUADOR TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s60346_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUADOR TV HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6u2NB69xYiLY1xVCxJUB_R7/ts
+#EXTINF:-1 tvg-name="EC | ECUADOR TV 720" tvg-logo="http://fanc.tmsimg.com/assets/s60346_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECUADOR TV 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6ueLdsoNBQJrhJfCM_f6PrU/ts
+#EXTINF:-1 tvg-name="EC | TVC FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102007_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TVC FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sxz-Ul6XPVhU1i5Lt7uOiw/ts
+#EXTINF:-1 tvg-name="EC | TVC HD" tvg-logo="http://fanc.tmsimg.com/assets/s102007_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TVC HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6s96fdoqmJj5xnsOGxLs1oM/ts
+#EXTINF:-1 tvg-name="EC | TVC 720" tvg-logo="http://fanc.tmsimg.com/assets/s102007_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TVC 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vYMq4xjpXSkc69yzxmfixr/ts
+#EXTINF:-1 tvg-name="EC | OROMAR FHD" tvg-logo="http://fanc.tmsimg.com/assets/s80837_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | OROMAR FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sAkhw-rRXKdZhDpxSxY-Gu/ts
+#EXTINF:-1 tvg-name="EC | OROMAR HD" tvg-logo="http://fanc.tmsimg.com/assets/s80837_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | OROMAR HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6ufpFbzVnb3V5ii3vT6WQoW/ts
+#EXTINF:-1 tvg-name="EC | RTU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTU HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6shzLda7QG9La9YB4jLJk_U/ts
+#EXTINF:-1 tvg-name="EC | RTU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | RTU SD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6teq8V1v-A4wx1-3tt5mIgk/ts
+#EXTINF:-1 tvg-name="EC | TELERAMA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s46323_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELERAMA FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sb41wehmYDZ7wsTXpV7-vg/ts
+#EXTINF:-1 tvg-name="EC | TELERAMA HD" tvg-logo="http://fanc.tmsimg.com/assets/s46323_ll_h3_aa.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | TELERAMA HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6szBx0z6tu9vakJEN18AeFE/ts
+#EXTINF:-1 tvg-name="EC | WUAN+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan+_logo.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | WUAN+ FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sbaQ75p3j2PQ9g68_aBx1v/ts
+#EXTINF:-1 tvg-name="EC | WUAN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan+_logo.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | WUAN+ HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6urOgXVbc5_BJ2w7YvjvLZF/ts
+#EXTINF:-1 tvg-name="EC | ZARACAY TV" tvg-logo="https://i.ibb.co/XJ6GbrR/unnamed.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ZARACAY TV
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vqSjuL7ehDv_n9H7r8NUk0/ts
+#EXTINF:-1 tvg-name="EC | ASOMAVISION" tvg-logo="https://www.m3u.cl/logo/176_Asomavision.png" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ASOMAVISION
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vPuWYBV5QsyEllUc8Isv0V/ts
+#EXTINF:-1 tvg-name="EC | ECOTEL TV" tvg-logo="https://www.m3u.cl/logo/99_Ecotel_TV.jpg" group-title="🇪🇨 ECUADOR  ★ V I P ★",EC | ECOTEL TV
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vyfYlRzFr_zAT3oRsBgbtK/ts
+#EXTINF:-1 tvg-name="|ECUADOR| CANAL UNO" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| CANAL UNO
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191092
+#EXTINF:-1 tvg-name="|ECUADOR| ECUADOR TV" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| ECUADOR TV
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191093
+#EXTINF:-1 tvg-name="|ECUADOR| ECUAVISA" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| ECUAVISA
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191094
+#EXTINF:-1 tvg-name="|ECUADOR| RTS" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| RTS
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191095
+#EXTINF:-1 tvg-name="|ECUADOR| TC ECUADOR" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| TC ECUADOR
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191096
+#EXTINF:-1 tvg-name="|ECUADOR| TELE AMAZONAS" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| TELE AMAZONAS
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191097
+#EXTINF:-1 tvg-name="|ECUADOR| GOL TV" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| GOL TV
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191098
+#EXTINF:-1 tvg-name="|ECUADOR| CANAL DEL FUTBOL" group-title="🇪🇨 ECUADOR  ★ V I P ★",|ECUADOR| CANAL DEL FUTBOL
+http://esuniptvstream.com:25461/MK000300/SQSDLOZMQH/191099
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",EC: ECDF El canal del futbol
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298698
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",DIRECTO : ECDF ECUADOR HD
@@ -153,6 +189,34 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1101
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/22150
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★ V I P ★",ECU-RTU (M)(SD)
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/22151
+#EXTINF:-1 tvg-name="ECUADOR - ECUADOR TV" tvg-logo="http://www.iptbest.xyz/logo/Ecuador-TV.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - ECUADOR TV
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22445
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECUADOR - ECUAVISA" tvg-logo="http://www.iptbest.xyz/logo/Ecuavisa.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - ECUAVISA
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22442
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECUADOR - ECUAVISA HD" tvg-logo="http://www.iptbest.xyz/logo/Ecuavisa-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - ECUAVISA HD
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/30946
+#EXTINF:-1 tvg-name="ECUADOR - EL CANAL DEL FÚTBOL HD" tvg-logo="http://iptbest.xyz/logo/ECDF.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - EL CANAL DEL FÚTBOL HD
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/331
+#EXTINF:-1 tvg-name="ECUADOR - GAMAVISION" tvg-logo="http://www.iptbest.xyz/logo/Gamavision-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - GAMAVISION
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/7750
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECUADOR - GAMAVISION HD" tvg-logo="http://www.iptbest.xyz/logo/Gamavision-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - GAMAVISION HD
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/30949
+#EXTINF:-1 tvg-name="ECUADOR - OROMAR HD" tvg-logo="http://iptbest.xyz/logo/OromarTV.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - OROMAR HD
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/88923
+#EXTINF:-1 tvg-name="ECUADOR - RTS" tvg-logo="http://iptbest.xyz/logo/RTS-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - RTS
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/726
+#EXTINF:-1 tvg-name="ECUADOR - TC TELEVISION" tvg-logo="http://iptbest.xyz/logo/TC.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - TC TELEVISION
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/61586
+#EXTINF:-1 tvg-name="ECUADOR - TELEAMAZONAS " tvg-logo="http://www.iptbest.xyz/logo/Teleamazonas-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - TELEAMAZONAS
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/600
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="ECUADOR - TELEAMAZONAS HD" tvg-logo="http://www.iptbest.xyz/logo/Teleamazonas-HD.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - TELEAMAZONAS HD
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/35240
+#EXTINF:-1 tvg-name="ECUADOR - TVC" tvg-logo="http://www.iptbest.xyz/logo/TVC-Ecuador.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - TVC
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/31319
+#EXTINF:-1 tvg-name="ECUADOR - OROMAR" tvg-logo="http://iptbest.xyz/logo/OromarTV.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - OROMAR
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/92851
+#EXTINF:-1 tvg-name="ECUADOR - RTU" tvg-logo="http://www.iptbest.xyz/logo/RTU.png" group-title="🇪🇨 ECUADOR ★★★",ECUADOR - RTU
+http://iptbest.xyz:8000/humbertoibanez/ibanez2021/22451
 #EXTINF:-1 tvg-id="EC | CANELA TV *HQ" tvg-name="EC | CANELA TV *HQ" tvg-logo="http://xdplayer.tv:8080/images/d6b63e7504b635189dfae02532bb2a9e.png" group-title="🇪🇨 ECUADOR ★★★",EC | CANELA TV *HQ
 http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqeiDOCIsu1HL7wTkjiZKqG/ts
 #EXTINF:-1 tvg-id="EC | ECUADOR TV *HQ" tvg-name="EC | ECUADOR TV *HQ" tvg-logo="http://xdplayer.tv:8080/images/5ebd53410a024e0083f33e1b7ddc1c1c.png" group-title="🇪🇨 ECUADOR ★★★",EC | ECUADOR TV *HQ
@@ -441,6 +505,58 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/505
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/508
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",EC | TELEAMAZONAS GUAYAQUIL HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/516
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Gol TV (EC) (SOLO EVENTOS)" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="🇪🇨 ECUADOR ★",Gol TV (EC) (SOLO EVENTOS)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/3745
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa Gquil HD (EC) " tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png" group-title="🇪🇨 ECUADOR ★",Ecuavisa Gquil HD (EC)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/3746
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas HD (EC)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleamazonas-ec.png" group-title="🇪🇨 ECUADOR ★",Teleamazonas HD (EC)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/3747
+#EXTINF:-1 tvg-name="Oromar TV (EC)" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oromar_tv.png" group-title="🇪🇨 ECUADOR ★",Oromar TV (EC)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/3748
+#EXTINF:-1 tvg-name="RTS HD (EC)" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_tele_sistema.png" group-title="🇪🇨 ECUADOR ★",RTS HD (EC)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/3749
+#EXTINF:-1 tvg-name="Canal del Futbol HD ( Solo Eventos )" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-canal-del-futbol-ec.png" group-title="🇪🇨 ECUADOR ★",Canal del Futbol HD ( Solo Eventos )
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/32932
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="TC Television HD (EC)" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tc-tv-ec.png" group-title="🇪🇨 ECUADOR ★",TC Television HD (EC)
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/32933
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="ECUADOR TVC HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨 ECUADOR ★",ECUADOR TVC HD
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79611
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gamavision-ec.png" group-title="🇪🇨 ECUADOR ★",Gamavision HD
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79612
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas HD Sierra" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleamazonas-ec.png" group-title="🇪🇨 ECUADOR ★",Teleamazonas HD Sierra
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79614
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DIRECTV SPORTS 2 EC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="🇪🇨 ECUADOR ★",DIRECTV SPORTS 2 EC
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79615
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="DirecTV Sports + EC" tvg-logo="https://www.lyngsat.com/logo/tv/dd/directv-sports-us.png" group-title="🇪🇨 ECUADOR ★",DirecTV Sports + EC
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79616
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="Fox Sports 3 EC" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="🇪🇨 ECUADOR ★",Fox Sports 3 EC
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79618
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png" group-title="🇪🇨 ECUADOR ★",Ecuador TV SD
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79619
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas FHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleamazonas-ec.png" group-title="🇪🇨 ECUADOR ★",Teleamazonas FHD
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79620
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="Telemundo International EC" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_este.png" group-title="🇪🇨 ECUADOR ★",Telemundo International EC
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/79621
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Canal Uno HD" group-title="🇪🇨 ECUADOR ★",EC: Canal Uno HD
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1575.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Canal Uno HD *" group-title="🇪🇨 ECUADOR ★",EC: Canal Uno HD *
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/13733.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Ecuador TV" group-title="🇪🇨 ECUADOR ★",EC: Ecuador TV
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1573.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Ecuador TV *" group-title="🇪🇨 ECUADOR ★",EC: Ecuador TV *
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/13732.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Ecuavisa" group-title="🇪🇨 ECUADOR ★",EC: Ecuavisa
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1577.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Gamavision" group-title="🇪🇨 ECUADOR ★",EC: Gamavision
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1579.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Gol TV" group-title="🇪🇨 ECUADOR ★",EC: Gol TV
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1580.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: Oromar" group-title="🇪🇨 ECUADOR ★",EC: Oromar
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1581.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: TC Television" group-title="🇪🇨 ECUADOR ★",EC: TC Television
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/1583.ts
+#EXTINF:-1 tvg-id="NODATA" tvg-name="EC: TC Televisión HD" group-title="🇪🇨 ECUADOR ★",EC: TC Televisión HD
+http://live.iptv.wtf:80/live/epqeavsm/bZkG453h4e/13731.ts
 #EXTINF:-1 tvg-name="|EC| TELEVICENTRO TVC HD" tvg-logo="http://unlock-pro.biz:80/images/ff5911dec548243b4df2a6f299d45939.png" group-title="🇪🇨 ECUADOR ★",|EC| TELEVICENTRO TVC HD
 http://myott.co:80/ottexchamger/GEOIPTVRestream/24376
 #EXTINF:-1 tvg-name="|EC| GOL TV HD" tvg-logo="http://unlock-pro.biz:80/images/b6ab66c58253a0f21931c1def7898859.png" group-title="🇪🇨 ECUADOR ★",|EC| GOL TV HD
@@ -559,6 +675,90 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78392.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78393.ts
 #EXTINF:-1 group-title="➤ ZONA NOTICIAS",|.LATIN.| CNN EN ESPA FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78390.ts
+#EXTINF:-1 tvg-name="02 | DSPORTS + ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/1488b670730b32bae4449e4e195ac2ae.png" group-title="➤ ZONA 4k",02 | DSPORTS + ECUADOR HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6s3JUAPSoz-gY99e6Q-YPht/ts
+#EXTINF:-1 tvg-name="02 | DSPORTS 2 ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png" group-title="➤ ZONA 4k",02 | DSPORTS 2 ECUADOR HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tdJYoau15m3mSAoOCOF45F/ts
+#EXTINF:-1 tvg-name="02 | DSPORTS ECUADOR 1" tvg-logo="http://zonamovie.live:8008/images/714d32d45f6cb3bc336a765119cb3c4c.png" group-title="➤ ZONA 4k",02 | DSPORTS ECUADOR 1
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tyMF-GEHYivEZLWiR3bHq5/ts
+#EXTINF:-1 tvg-name="01 | PPV  # 1  (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA 4k",01 | PPV  # 1  (A LA HORA DEL EVENTO)
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uTa71CadXqZCyUWkCO0XtJ/ts
+#EXTINF:-1 tvg-name="01 | PPV # 2  (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA 4k",01 | PPV # 2  (A LA HORA DEL EVENTO)
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sdk15zHIfUguS6-aA44T2Y/ts
+#EXTINF:-1 tvg-name="01 | PPV # 3 (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA 4k",01 | PPV # 3 (A LA HORA DEL EVENTO)
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tUxkxndpTDIduXSyJlC11k/ts
+#EXTINF:-1 tvg-name="02 | G-TV |  SEÑAL ADAPTIVA" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA 4k",02 | G-TV |  SEÑAL ADAPTIVA
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uXdjBps3v-AXf2K_mnjvzn/ts
+#EXTINF:-1 tvg-name="02 | G-TV | 4K" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA 4k",02 | G-TV | 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vFC_ShqZhM8kRoaN1g0wbp/ts
+#EXTINF:-1 tvg-name="02 | G-TV | 720 ▶️" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA 4k",02 | G-TV | 720 ▶️
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sUTXO63I1-UIxC6u5JKOCB/ts
+#EXTINF:-1 tvg-name="02 | G-TV | HD" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA 4k",02 | G-TV | HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sg5R2_59MPDdiZo3FKimlu/ts
+#EXTINF:-1 tvg-name="02 | G-TV | HD 2" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA 4k",02 | G-TV | HD 2
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6s-55NKscIhO6hbn-fGAQ4d/ts
+#EXTINF:-1 tvg-name="GOLTV ECUADOR HD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA 4k",GOLTV ECUADOR HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vZER71FrQwsU2rSmPCwlXE/ts
+#EXTINF:-1 tvg-name="GOLTV ECUADOR SD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA 4k",GOLTV ECUADOR SD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tjzfDJ2UoA8PiBEv3AIreh/ts
+#EXTINF:-1 tvg-name="GOLTV ECUADOR FHD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA 4k",GOLTV ECUADOR FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tlZna31JfcieM56BGRrnCV/ts
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL 720" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA 4k",04 | EL CANAL DEL FUTBOL 720
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vzJL8h14WtaKG1OixlYlZQ/ts
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA 4k",04 | EL CANAL DEL FUTBOL FHD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uYoe6KghnESOAO44jxTwFB/ts
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA 4k",04 | EL CANAL DEL FUTBOL HD
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vHpU4yecuCk91sOcBljgPw/ts
+#EXTINF:-1 tvg-name="4K | ESPN -" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="➤ ZONA 4k",4K | ESPN -
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vWrtkOUV2WT8u8SdjNJAsd/ts
+#EXTINF:-1 tvg-name="4K | ESPN 2" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="➤ ZONA 4k",4K | ESPN 2
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sSmFYsOLAWqkkVGoxdhanS/ts
+#EXTINF:-1 tvg-name="4K | ESPN 2 -" tvg-logo="http://127.0.0.1/" group-title="➤ ZONA 4k",4K | ESPN 2 -
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uq69uQSwbhPjLUzzvxWele/ts
+#EXTINF:-1 tvg-name="4K | ESPN 2 ®" tvg-logo="http://127.0.0.1/" group-title="➤ ZONA 4k",4K | ESPN 2 ®
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uSTRSEuZ4kcFVsONeTuh9o/ts
+#EXTINF:-1 tvg-name="4K | ESPN 3" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="➤ ZONA 4k",4K | ESPN 3
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uLQf1fsq-Hj58MqrZaTp8K/ts
+#EXTINF:-1 tvg-name="4K | ESPN 4" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="➤ ZONA 4k",4K | ESPN 4
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tRknNTHdPLVaxkJkkZ_y8d/ts
+#EXTINF:-1 tvg-name="4K | ESPN EXTRA" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="➤ ZONA 4k",4K | ESPN EXTRA
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6txNZH0utSA_ID26iUu8KsY/ts
+#EXTINF:-1 tvg-name="4K | ESPN ®️" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="➤ ZONA 4k",4K | ESPN ®️
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vVcTsMP4tmSEvJaZLs9CYN/ts
+#EXTINF:-1 tvg-name="4K | FOX SPORTS 1" tvg-logo="http://zonamovie.live:8008/images/0dd02d91bac39ed836a5debc4d741419.png" group-title="➤ ZONA 4k",4K | FOX SPORTS 1
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6snwYFM8wTK2eY86UjOPwBR/ts
+#EXTINF:-1 tvg-name="4K | FOX SPORTS 2" tvg-logo="http://zonamovie.live:8008/images/790a6f29979e96aff1e39ae27db0965a.png" group-title="➤ ZONA 4k",4K | FOX SPORTS 2
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6sMzjZklS03vNSp-VaC6ooM/ts
+#EXTINF:-1 tvg-name="4K | FOX SPORTS 3" tvg-logo="http://zonamovie.live:8008/images/e9c0003665966b3795a1f2feb44c4103.png" group-title="➤ ZONA 4k",4K | FOX SPORTS 3
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tlKzkZELcJ2dn38e9e4M78/ts
+#EXTINF:-1 tvg-name="4K | GOL TV" tvg-logo="http://zonamovie.live:8008/images/3dfae62f52e3d5df95f02b7200dd1871.png" group-title="➤ ZONA 4k",4K | GOL TV
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6v3spViEDJ43yyuUdBHGaAT/ts
+#EXTINF:-1 tvg-name="4K | GOLPERU" tvg-logo="http://zonamovie.live:8008/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="➤ ZONA 4k",4K | GOLPERU
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6umCSV37KaRuGMl4lRxcpBD/ts
+#EXTINF:-1 tvg-name="4K | MOVISTAR DEPORTES" tvg-logo="http://zonamovie.live:8008/images/2f6503a90a37563bde0004f15329aea6.png" group-title="➤ ZONA 4k",4K | MOVISTAR DEPORTES
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tMhuRrLw9tb_wK0S76bVXp/ts
+#EXTINF:-1 tvg-name="4K | TYC SPORTS" tvg-logo="http://zonamovie.live:8008/images/3c867ef21c97a15497fec8cde8febeb9.png" group-title="➤ ZONA 4k",4K | TYC SPORTS
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6th7gSTGJMCfvw3FnLoPouJ/ts
+#EXTINF:-1 tvg-name="01 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",01 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tY3dPjQoYIURQE2L7bnj8f/ts
+#EXTINF:-1 tvg-name="02 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",02 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uAo9p0xObr88qB05B-xaNt/ts
+#EXTINF:-1 tvg-name="03 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",03 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uU01nQrWMl-t2P2kBm4VKt/ts
+#EXTINF:-1 tvg-name="04 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",04 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6tyA9-TzfZMCdrQT0I9TbzJ/ts
+#EXTINF:-1 tvg-name="05 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",05 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6uMQGOWtTLbUHWD0ycjye-Z/ts
+#EXTINF:-1 tvg-name="06 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",06 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6teABlZ4LLu-MB9fxYcAbUI/ts
+#EXTINF:-1 tvg-name="07 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",07 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6t8QM7L416LJ2OrDMISjmth/ts
+#EXTINF:-1 tvg-name="08 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",08 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vrquQyqHvAGjR5MAQMsTRE/ts
+#EXTINF:-1 tvg-name="09 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",09 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6vd2xrZuHPo393VwMp1-VEu/ts
+#EXTINF:-1 tvg-name="10 | CINEMA 4K" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="➤ CINEMA 4K",10 | CINEMA 4K
+http://zonamovie.live:80/play/Lo8H_iLTzrtoxXDdq-_RYwZ2LTwurJdumwt5EQ8su6saRmB5FbeXRp8gQvjPV67k/ts
 #EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="➤ ZONA CULTURA ★ V I P ★",ANIMAL PLANET
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/17
 #EXTINF:-1 tvg-id="I177.96307.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="➤ ZONA CULTURA ★ V I P ★",DISCOVERY CHANNEL
@@ -1263,6 +1463,20 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/5699
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/153466
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DEPORTES - WWE Op 2 (X)(720)
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/153467
+#EXTINF:-1 tvg-id="panico.mx" tvg-name="PANICO FHD Mexico" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvc_panico.png" group-title="➤ ZONA CINE  ★ V I P ★",PANICO FHD Mexico
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/37346
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="Cinemax Encoder" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png" group-title="➤ ZONA CINE  ★ V I P ★",Cinemax Encoder
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/76845
+#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="Cinecanal Encoder Mx" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="➤ ZONA CINE  ★ V I P ★",Cinecanal Encoder Mx
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/76846
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier HD MX" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-premier-mx.png" group-title="➤ ZONA CINE  ★ V I P ★",Golden Premier HD MX
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/76873
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GOLDEN + MX" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-plus-mx.png" group-title="➤ ZONA CINE  ★ V I P ★",GOLDEN + MX
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/76874
+#EXTINF:-1 tvg-name="TNT Series HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-series-us.png" group-title="➤ ZONA CINE  ★ V I P ★",TNT Series HD
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/83141
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="STAR Channel +" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="➤ ZONA CINE  ★ V I P ★",STAR Channel +
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/85815
 #EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="➤ ZONA CINE  ★ V I P ★",AZ CINEMA
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/22
 #EXTINF:-1 tvg-id="I884.44479.schedulesdirect.org" tvg-name="CGTN ESPANOL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Mhwckj1mL.jpg" group-title="➤ ZONA CINE  ★ V I P ★",CGTN ESPANOL
@@ -1335,62 +1549,6 @@ http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/240
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/238
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| A&E FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| A3 SERIES HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78334.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AMC FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AXN FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78343.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINECANAL FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78388.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D CINEMAX FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78389.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AZ CINEMA FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78345.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| DE PELICULA FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78400.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FX HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FXM FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78457.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| GOLDEN EDGE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78461.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| PARAMOUNT CHANNEL FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78506.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| RMS FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78513.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SPACE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STAR TVE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78520.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STUDIO UNIVERSAL HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78521.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| STUDIO UNIVERSAL HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| SYFY FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78525.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TBS FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78526.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TCM FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78527.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TDN FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78528.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| TNT SERIES FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78544.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| ULTRA MEX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.|D WOBI FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78568.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| AXN
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78588.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINECANAL
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78601.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| CINEMAX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78603.ts
-#EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",|.LATIN.| FX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78633.ts
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",DIRECTO : CINE LATINO
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/276217.ts
 #EXTINF:-1 group-title="➤ ZONA CINE  ★ V I P ★",DIRECTO : CINECANAL (COL)
@@ -2973,6 +3131,62 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/63382
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/63763
 #EXTINF:-1 group-title="➤ ZONA 24/7",24/7 Vikingos (PM)(4K)
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/63771
+#EXTINF:-1 tvg-name="DISH CINEMA | Alien ES" group-title="➤ ZONA PPV",DISH CINEMA | Alien ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74963
+#EXTINF:-1 tvg-name="DISH CINEMA | Regreso al futuro ES" group-title="➤ ZONA PPV",DISH CINEMA | Regreso al futuro ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74965
+#EXTINF:-1 tvg-name="DISH CINEMA | Iron Man ES" group-title="➤ ZONA PPV",DISH CINEMA | Iron Man ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74967
+#EXTINF:-1 tvg-name="DISH CINEMA | Duende 4 en el Espacio ES" group-title="➤ ZONA PPV",DISH CINEMA | Duende 4 en el Espacio ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74969
+#EXTINF:-1 tvg-name="DISH CINEMA | Halloween Mata" group-title="➤ ZONA PPV",DISH CINEMA | Halloween Mata
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74971
+#EXTINF:-1 tvg-name="DISH CINEMA | Camino de furia Maxima Loca ES" group-title="➤ ZONA PPV",DISH CINEMA | Camino de furia Maxima Loca ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74997
+#EXTINF:-1 tvg-name="DISH CINEMA | Mision de la Academia de Policia a moscu" group-title="➤ ZONA PPV",DISH CINEMA | Mision de la Academia de Policia a moscu
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/74999
+#EXTINF:-1 tvg-name="DISH CINEMA | Prey ES" group-title="➤ ZONA PPV",DISH CINEMA | Prey ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75001
+#EXTINF:-1 tvg-name="DISH CINEMA | Predator ES" group-title="➤ ZONA PPV",DISH CINEMA | Predator ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75003
+#EXTINF:-1 tvg-name="DISH CINEMA | Mortal Kombat ES" group-title="➤ ZONA PPV",DISH CINEMA | Mortal Kombat ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75005
+#EXTINF:-1 tvg-name="DISH CINEMA | Men in Black International ES" group-title="➤ ZONA PPV",DISH CINEMA | Men in Black International ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75007
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the sorcerers stone ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the sorcerers stone ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75009
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the chamber of secrets ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the chamber of secrets ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75011
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the prisoner of azkaban ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the prisoner of azkaban ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75013
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the goblet of fire ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the goblet of fire ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75015
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the order of the phoenix ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the order of the phoenix ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75017
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the half blood prince ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the half blood prince ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75019
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the deathly hallows part I ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the deathly hallows part I ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75021
+#EXTINF:-1 tvg-name="DISH CINEMA | Harry Potter and the deathly hallows part II ES" group-title="➤ ZONA PPV",DISH CINEMA | Harry Potter and the deathly hallows part II ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75023
+#EXTINF:-1 tvg-name="DISH CINEMA | Rambo First blood ES" group-title="➤ ZONA PPV",DISH CINEMA | Rambo First blood ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75025
+#EXTINF:-1 tvg-name="DISH CINEMA | Rambo First blood Part II ES" group-title="➤ ZONA PPV",DISH CINEMA | Rambo First blood Part II ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75027
+#EXTINF:-1 tvg-name="DISH CINEMA | Rambo First blood Part III ES" group-title="➤ ZONA PPV",DISH CINEMA | Rambo First blood Part III ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75029
+#EXTINF:-1 tvg-name="DISH CINEMA | Rambo Last blood Part III ES" group-title="➤ ZONA PPV",DISH CINEMA | Rambo Last blood Part III ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75031
+#EXTINF:-1 tvg-name="DISH CINEMA | Rspider Man no way home ES" group-title="➤ ZONA PPV",DISH CINEMA | Rspider Man no way home ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75033
+#EXTINF:-1 tvg-name="DISH CINEMA | Star Trek Nemesis ES" group-title="➤ ZONA PPV",DISH CINEMA | Star Trek Nemesis ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75035
+#EXTINF:-1 tvg-name="DISH CINEMA | Star Wars the Rise of skywalker ES" group-title="➤ ZONA PPV",DISH CINEMA | Star Wars the Rise of skywalker ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75037
+#EXTINF:-1 tvg-name="DISH CINEMA | The Fast And The furious ES" group-title="➤ ZONA PPV",DISH CINEMA | The Fast And The furious ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75039
+#EXTINF:-1 tvg-name="DISH CINEMA | X-Men Dark Phoenix ES" group-title="➤ ZONA PPV",DISH CINEMA | X-Men Dark Phoenix ES
+http://skycastersupports.mine.nu:25461/NELSONEXCHANGE@NOW/MKWL6jwE2J/75041
 #EXTINF:-1 tvg-name="Cinema VIP 01 HD" group-title="➤ ZONA PPV",Cinema VIP 01 HD
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/36737
 #EXTINF:-1 tvg-name="Cinema VIP 02 HD" group-title="➤ ZONA PPV",Cinema VIP 02 HD
@@ -3113,6 +3327,28 @@ http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/1675
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/100815
 #EXTINF:-1 group-title="➤ ZONA PPV",PPV-NFL Now (M)(720)
 http://zeuspro.xyz:43201/JayHarris2021/97VKTeNGhH/100816
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 1" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 1
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96652
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 2" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 2
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96653
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 3" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 3
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96654
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 4" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 4
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96655
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 5" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 5
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96659
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 6" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 6
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96658
+#EXTINF:-1 tvg-name="ADULT 24/7 EROTIC 1" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 EROTIC 1
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96544
+#EXTINF:-1 tvg-name="ADULT 24/7 EROTIC 2" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 EROTIC 2
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96545
+#EXTINF:-1 tvg-name="ADULT 24/7 EROTIC 3" tvg-logo="https://i.imgur.com/1ZugelY.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 EROTIC 3
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96546
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN [TR_ALTYAZILI]" tvg-logo="https://i.imgur.com/8VVeLY1.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN [TR_ALTYAZILI]
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96548
+#EXTINF:-1 tvg-name="ADULT 24/7 PORN 2 [TR_ALTYAZILI]" tvg-logo="https://i.imgur.com/8VVeLY1.png" group-title="➤ ZONA ADULTOS 🔞",ADULT 24/7 PORN 2 [TR_ALTYAZILI]
+http://boxserver.live:8080/XxxxDiamondxxxx/kNQpuxEkEB3V/96549
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41GJN0p32yL._AC_.jpg" group-title="➤ ZONA ADULTOS 🔞",Brazzers
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/181
 #EXTINF:-1 tvg-name="Hustler" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684465672_hustler_hd.jpg" group-title="➤ ZONA ADULTOS 🔞",Hustler
@@ -5693,733 +5929,3 @@ http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF8ARbUegRG
 http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF9YacOokHzZs-9229MRstHB
 #EXTINF:-1 tvg-name="Time's Up!" tvg-logo="http://xdplayer.tv:8080/images/2e8eabef9b829c3061395e237c77fc16.jpg" group-title="➤ VOD ESTRENOS",Time's Up!
 http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF-_bsEJfs0YApm3iO4KPMfM
-#EXTINF:-1 tvg-name="Skandal!: La Caída de Wirecard" tvg-logo="http://xdplayer.tv:8080/images/f2f05127ad4739768a722a5d45e4f20a.jpg" group-title="➤ VOD DOCUMENTALES",Skandal!: La Caída de Wirecard
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiitlRNtyX_Da3OMHMiuanYyft3YqpTpLv13hFGjOcJnF
-#EXTINF:-1 tvg-name="13:14: El Reto de Ayudar" tvg-logo="http://xdplayer.tv:8080/images/b21f16d9e4b92965c7f6bdf08ad95a7c.jpg" group-title="➤ VOD DOCUMENTALES",13:14: El Reto de Ayudar
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiitlRNtyX_Da3OMHMiuanYxCv4n9v0pkA8T3hr6_1kFv
-#EXTINF:-1 tvg-name="The Anthrax Attacks: In the Shadow of 9/11" tvg-logo="http://xdplayer.tv:8080/images/1ef93074568c4403e8a7d3bc0b646e5e.jpg" group-title="➤ VOD DOCUMENTALES",The Anthrax Attacks: In the Shadow of 9/11
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiucTeZRWTTOIypGu5_zY4IhtW6gLcX9oyNTeou3Lc9c4
-#EXTINF:-1 tvg-name="Flight/Risk" tvg-logo="http://xdplayer.tv:8080/images/639886bc6897226b64d5bf323a4577f9.jpg" group-title="➤ VOD DOCUMENTALES",Flight/Risk
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilLJou7mlyCRru09v07iwjUKkJzIxuOD6oPtQcVyinCj
-#EXTINF:-1 tvg-name="Get Smart With Money" tvg-logo="http://xdplayer.tv:8080/images/f17218369c0076de0e1d30c075560333.jpg" group-title="➤ VOD DOCUMENTALES",Get Smart With Money
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilLJou7mlyCRru09v07iwjU_f4mLMY-ywFESqyhFEk-4
-#EXTINF:-1 tvg-name="El caso Figo: El fichaje del siglo" tvg-logo="http://xdplayer.tv:8080/images/8b64fd2640d463bbc93f570ea893e743.jpg" group-title="➤ VOD DOCUMENTALES",El caso Figo: El fichaje del siglo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckipni0HEjMS--QU53WM4qwSQH3jrZipyJkPr7xjH_jno6
-#EXTINF:-1 tvg-name="Untold: Operation Flagrant Foul" tvg-logo="http://xdplayer.tv:8080/images/6440112a8f7cdcb7f9c6f413b2d6b7a4.jpg" group-title="➤ VOD DOCUMENTALES",Untold: Operation Flagrant Foul
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckih-Ffq97SpaiXFG9WVz_w788g301m5WKoCYKcIJdwj59
-#EXTINF:-1 tvg-name="Vivir sin freno: El turbulento mundo de John McAfee" tvg-logo="http://xdplayer.tv:8080/images/3169bad1ccd3f4d0d7c0111e0f9c7945.jpg" group-title="➤ VOD DOCUMENTALES",Vivir sin freno: El turbulento mundo de John McAfee
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckipni0HEjMS--QU53WM4qwSRhnbPQ5pD93twNjrhXb-KM
-#EXTINF:-1 tvg-name="Los Ladrones: La verdadera historia del robo del siglo" tvg-logo="http://xdplayer.tv:8080/images/1c667bf4e72712f15dae6ef6a15b0f58.jpg" group-title="➤ VOD DOCUMENTALES",Los Ladrones: La verdadera historia del robo del siglo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckij7pscq80K5vwLjoL1FlXG4fBGYAvn1l3S9dWzgGU88-
-#EXTINF:-1 tvg-name="Mi tabla de salvación: La historia de Leo Baker" tvg-logo="http://xdplayer.tv:8080/images/e400898eef3828a8d2b2eb25db200c77.jpg" group-title="➤ VOD DOCUMENTALES",Mi tabla de salvación: La historia de Leo Baker
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikRV6laE6gw97o0czXVrARexiTvPGjJkwPLFKo1yfx_E
-#EXTINF:-1 tvg-name="Nos conocimos en realidad virtual" tvg-logo="http://xdplayer.tv:8080/images/9d32b17e11e233477642323eb4b673fc.jpg" group-title="➤ VOD DOCUMENTALES",Nos conocimos en realidad virtual
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilYyy4VUyNAHfvcybdWA5-5znX_rKCW8T3SkN9iEHARp
-#EXTINF:-1 tvg-name="Paul McCartney at Glastonbury 2022" tvg-logo="http://xdplayer.tv:8080/images/067f60a3dd2441ed17e97dcc8b21b681.jpg" group-title="➤ VOD DOCUMENTALES",Paul McCartney at Glastonbury 2022
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiig-S8OBb7JIQV0IUKuoyEqSfBE4FZqjeLeQ3K_S4lDT
-#EXTINF:-1 tvg-name="Billie Eilish at Glastonbury 2022" tvg-logo="http://xdplayer.tv:8080/images/b4628d332fced94737d2e873512b47cd.jpg" group-title="➤ VOD DOCUMENTALES",Billie Eilish at Glastonbury 2022
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckipLq1b9PMaRWm-BR4EPqX2C54xaqZxS8cokOfhxKRPJd
-#EXTINF:-1 tvg-name="El asesino de mi hija" tvg-logo="http://xdplayer.tv:8080/images/819cc895e7d98db5f62b3542819ead96.jpg" group-title="➤ VOD DOCUMENTALES",El asesino de mi hija
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckipLq1b9PMaRWm-BR4EPqX2BdLYB_R4gpxQVo85jS1neN
-#EXTINF:-1 tvg-name="La chica de la foto" tvg-logo="http://xdplayer.tv:8080/images/7324f61591c45be5c54efd0214ae204e.jpg" group-title="➤ VOD DOCUMENTALES",La chica de la foto
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikY6wbhQlznj0TCL6u3uMCpHqrQF9jN01Ha01q_lRMSJ
-#EXTINF:-1 tvg-name="En Peligro (Endangered)" tvg-logo="http://xdplayer.tv:8080/images/4fad4dc0636e68471c885afb690c9ed1.jpg" group-title="➤ VOD DOCUMENTALES",En Peligro (Endangered)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikY6wbhQlznj0TCL6u3uMCqho33c1TBbIJzzPbVZpIp9
-#EXTINF:-1 tvg-name="Ben Crump: El abogado de los afroamericanos" tvg-logo="http://xdplayer.tv:8080/images/cae7d07345792e4d9fa3d04285c5e51a.jpg" group-title="➤ VOD DOCUMENTALES",Ben Crump: El abogado de los afroamericanos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijEXMw2ilzPUDYeD17H4RUslij9ViE4k6fqPkobbr5mT
-#EXTINF:-1 tvg-name="Jennifer Lopez:  Halftime" tvg-logo="http://xdplayer.tv:8080/images/27ca972b0334ad74fd245fe67b90cd20.jpg" group-title="➤ VOD DOCUMENTALES",Jennifer Lopez:  Halftime
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiSXYaJrfXIGsqOWmjxcW-ynaImOdnrrNAjXVHlm9KSp
-#EXTINF:-1 tvg-name="Los Tigres del Norte: Historias que contar" tvg-logo="http://xdplayer.tv:8080/images/564ea479303a5abe72d4164aede0ef58.jpg" group-title="➤ VOD DOCUMENTALES",Los Tigres del Norte: Historias que contar
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirrBOSrObQYA4jZ7TaGVMXEbnOPdLPbBBZ1emZ2E0wgG
-#EXTINF:-1 tvg-name="Las Janes: Mujeres anónimas" tvg-logo="http://xdplayer.tv:8080/images/c673d00b421f3b93dfb2143182476892.jpg" group-title="➤ VOD DOCUMENTALES",Las Janes: Mujeres anónimas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilSlP9TvVP9KaXlQ14h01j0i5E8lJqo6sDJc0IVvP7Oz
-#EXTINF:-1 tvg-name="Alimentando al mundo" tvg-logo="http://xdplayer.tv:8080/images/53e57b41be4d0329086b7020ec3b25cb.jpg" group-title="➤ VOD DOCUMENTALES",Alimentando al mundo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiVZ30EMpzExrBH01WzdLsKpVZk1Zw_F8z7lxU3_5gSR
-#EXTINF:-1 tvg-name="El fotógrafo y el cartero: El crimen de Cabezas" tvg-logo="http://xdplayer.tv:8080/images/ebabb9d818f3cc4259fc9d906ae0239c.jpg" group-title="➤ VOD DOCUMENTALES",El fotógrafo y el cartero: El crimen de Cabezas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilgaGOYfeIThycwgulqv5fkm1TLncozlBiOXWQwfwcdl
-#EXTINF:-1 tvg-name="Ciberinfierno: La investigación que destapó el horror" tvg-logo="http://xdplayer.tv:8080/images/988a55cb015d6abca952a56642c5fd4c.jpg" group-title="➤ VOD DOCUMENTALES",Ciberinfierno: La investigación que destapó el horror
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilgaGOYfeIThycwgulqv5flP3cXcPNuWl3aKdm8266Vx
-#EXTINF:-1 tvg-name="Our Father (2022)" tvg-logo="http://xdplayer.tv:8080/images/27526d5f2178f5dca135dfb346c0b36c.jpg" group-title="➤ VOD DOCUMENTALES",Our Father (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitzoFEalA2QwjOt7LJGP7Bmkgy2j1LzrQS8cTELAoys8
-#EXTINF:-1 tvg-name="Aguanta la respiración: Inmersión bajo el hielo (2022)" tvg-logo="http://xdplayer.tv:8080/images/7392cd71aa103ad650ea85c1b599554d.jpg" group-title="➤ VOD DOCUMENTALES",Aguanta la respiración: Inmersión bajo el hielo (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihf0H7SOqhgwfXOhXCnapUQTV_snjGGPLQZZtzfJ_sbZ
-#EXTINF:-1 tvg-name="El misterio de Marilyn Monroe: Las cintas inéditas (2022)" tvg-logo="http://xdplayer.tv:8080/images/0f7d8fb1070abd660fab47a2c7947d9e.jpg" group-title="➤ VOD DOCUMENTALES",El misterio de Marilyn Monroe: Las cintas inéditas (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinYJB28Q05sNGaDl-q2uLPSKBRpaJGakqUcqpC7JQ9qK
-#EXTINF:-1 tvg-name="Explorer: The Last Tepui (2022)" tvg-logo="http://xdplayer.tv:8080/images/5a64dbe0e8e9f4e644a5c514d20199d3.jpg" group-title="➤ VOD DOCUMENTALES",Explorer: The Last Tepui (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckil2lmYscFU4YAnrmN5D8icfvMJbgJISMMKUBog_1lVDk
-#EXTINF:-1 tvg-name="The Biggest Little Farm: The Return (2022)" tvg-logo="http://xdplayer.tv:8080/images/17d62f0da6c02ef0aa23afab31305515.jpg" group-title="➤ VOD DOCUMENTALES",The Biggest Little Farm: The Return (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinYJB28Q05sNGaDl-q2uLPQfqqWoyfX94InBr6sVZN-H
-#EXTINF:-1 tvg-name="Furia (2021)" tvg-logo="http://xdplayer.tv:8080/images/0ec267f854470d6f92620eea72a2c5ec.jpg" group-title="➤ VOD DOCUMENTALES",Furia (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqfG9RVH6ZECV1rkIn900N1xkwGt3crYMb83N_YxFXD1
-#EXTINF:-1 tvg-name="Premios Oscar 2022" tvg-logo="http://xdplayer.tv:8080/images/8c87fd08120c9f9661b4b22f48293615.jpg" group-title="➤ VOD DOCUMENTALES",Premios Oscar 2022
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqfG9RVH6ZECV1rkIn900N3L5mfz2RndxT9-5NZRZ0cs
-#EXTINF:-1 tvg-name="11M (2022)" tvg-logo="http://xdplayer.tv:8080/images/83d53c4edda5ddbd0c99af25efa119ba.jpg" group-title="➤ VOD DOCUMENTALES",11M (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiozQ_SeqiVCsticX3RhZRY469lasFJNg1xY857NRuWMM
-#EXTINF:-1 tvg-name="Lucy and Desi (2022)" tvg-logo="http://xdplayer.tv:8080/images/e46f46a6b9d2eb17fe8459ce3e36eeb8.jpg" group-title="➤ VOD DOCUMENTALES",Lucy and Desi (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihwzFxqUcqm1OYG9fIARTEK_E6T5WahXvFL2Dp5pd-4i
-#EXTINF:-1 tvg-name="Icahn: El millonario incansable (2022)" tvg-logo="http://xdplayer.tv:8080/images/508d3c390613b6dda043f54f97646e0e.jpg" group-title="➤ VOD DOCUMENTALES",Icahn: El millonario incansable (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihwzFxqUcqm1OYG9fIARTEKuNVEFl19DKYrigIaCop57
-#EXTINF:-1 tvg-name="El paraíso que sobrevive: Un legado familiar (2022)" tvg-logo="http://xdplayer.tv:8080/images/196c9ce4a96ad95496c8d677782d4f25.jpg" group-title="➤ VOD DOCUMENTALES",El paraíso que sobrevive: Un legado familiar (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihwzFxqUcqm1OYG9fIARTEJ8FRXkCoHnpotrW4lyjMbO
-#EXTINF:-1 tvg-name="The First Wave (2021)" tvg-logo="http://xdplayer.tv:8080/images/1369cd59b7d684339808a2d7666b250d.jpg" group-title="➤ VOD DOCUMENTALES",The First Wave (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisxBlVklgnPBEUinuhPYdbOEiZYhOSRDQ4K9GMED22WH
-#EXTINF:-1 tvg-name="El Asesino de Tinder (2022)" tvg-logo="http://xdplayer.tv:8080/images/dbe0a1020f01d6bad1fe94cdfedc9f5b.jpg" group-title="➤ VOD DOCUMENTALES",El Asesino de Tinder (2022)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisxBlVklgnPBEUinuhPYdbOuTG9HU58_tWPIrb-sdCIB
-#EXTINF:-1 tvg-name="A Choice of Weapons: Inspired by Gordon Parks (2021)" tvg-logo="http://xdplayer.tv:8080/images/6705940c23f2bfaf2bd82ad1230f4ace.jpg" group-title="➤ VOD DOCUMENTALES",A Choice of Weapons: Inspired by Gordon Parks (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckim1jIezqTGOp9pHEod0HvHklDHhwB0hj6ujSvT907Soy
-#EXTINF:-1 tvg-name="Globo y las maravillas del arrecife (2021)" tvg-logo="http://xdplayer.tv:8080/images/2c3393084cb344ad56c309e1943ebf8a.jpg" group-title="➤ VOD DOCUMENTALES",Globo y las maravillas del arrecife (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigFV882cpLxjZFbIXfOiQJBhFv1yAgne8zarfVVfqy5l
-#EXTINF:-1 tvg-name="Mr. Saturday Night (2021)" tvg-logo="http://xdplayer.tv:8080/images/f8e67c3f19ce04dba40593afd86963c4.jpg" group-title="➤ VOD DOCUMENTALES",Mr. Saturday Night (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigFV882cpLxjZFbIXfOiQJB1W7a7TI3ZP5u9Q9dXOR-u
-#EXTINF:-1 tvg-name="Lead Me Home (2021)" tvg-logo="http://xdplayer.tv:8080/images/a2a1a697ae30dfd98b92e739e15099d6.jpg" group-title="➤ VOD DOCUMENTALES",Lead Me Home (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijaXYjjn4gEH_U0KXo4ZWYPhFzWtXhsWe98VxKq836MP
-#EXTINF:-1 tvg-name="Diego, El último adiós (2021)" tvg-logo="http://xdplayer.tv:8080/images/551f81ad808e16f3eca990e5e3c0d146.jpg" group-title="➤ VOD DOCUMENTALES", El último adiós (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioCAQkNJID8mapz6xAl4e_-t89j0MkWe1w1_2nT-XToI
-#EXTINF:-1 tvg-name="Procession (2021)" tvg-logo="http://xdplayer.tv:8080/images/59b0cdf86d39ce0c96962c837bd3bc42.jpg" group-title="➤ VOD DOCUMENTALES",Procession (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivwtzOvGDpLALXItqlV2t_S_gWUyIRjv0fA4yczHqDa4
-#EXTINF:-1 tvg-name="Los reyes de la estafa (2021)" tvg-logo="http://xdplayer.tv:8080/images/7c26769a038a01fcc68f5dd6749acde5.jpg" group-title="➤ VOD DOCUMENTALES",Los reyes de la estafa (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihLGxyf5V0nuylX0Yp8jhUm96nxu8ITuPX2KPbrbcRwz
-#EXTINF:-1 tvg-name="Una película de policías (2021)" tvg-logo="http://xdplayer.tv:8080/images/202e76ac7ff110403786108a01251eed.jpg" group-title="➤ VOD DOCUMENTALES",Una película de policías (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinbY2t_qXAIpPCEx-vaIGxTPZ1wp3woYkM1n_ajqzJsP
-#EXTINF:-1 tvg-name="Campo secreto: Nazis en EE. UU. (2021)" tvg-logo="http://xdplayer.tv:8080/images/a469ddfe565e26232c6f8823664a16ed.jpg" group-title="➤ VOD DOCUMENTALES",Campo secreto: Nazis en EE. UU. (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihLGxyf5V0nuylX0Yp8jhUmiJfYRAtpfSQHTNzt8G2g3
-#EXTINF:-1 tvg-name="Found (2021)" tvg-logo="http://xdplayer.tv:8080/images/b5fa3eb568ad61dfef13362752832a98.jpg" group-title="➤ VOD DOCUMENTALES",Found (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinCGaZCTycmwsteWXym7lMrLG4pryQQgBoIjTg3xV0YA
-#EXTINF:-1 tvg-name="El viaje (2021)" tvg-logo="http://xdplayer.tv:8080/images/49706423948bcd297410ae1548c63057.jpg" group-title="➤ VOD DOCUMENTALES",El viaje (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikZTTeF190lbBb2ymC7pShU159PrzQXrfKXjXd8L-cBk
-#EXTINF:-1 tvg-name="Being James Bond (2021)" tvg-logo="http://xdplayer.tv:8080/images/f1fe2e31de884b18245c95e8dc39a3b8.jpg" group-title="➤ VOD DOCUMENTALES",Being James Bond (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckik_Ob3qb3nJgcBY49PAa5KaXWgD6fW-HqgUpE6Jqatf1
-#EXTINF:-1 tvg-name="Schumacher (2021)" tvg-logo="http://xdplayer.tv:8080/images/d5e25395e32775de0e78d866979dfb39.jpg" group-title="➤ VOD DOCUMENTALES",Schumacher (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilds-L7VFxlBleo0EatyFJ29yU0M-qDyZMRpC5PxcktB
-#EXTINF:-1 tvg-name="Becoming (2020)" tvg-logo="http://xdplayer.tv:8080/images/31d6187d752fca32b53526628b31a3c7.jpg" group-title="➤ VOD DOCUMENTALES",Becoming (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckik_Ob3qb3nJgcBY49PAa5KapG6eju36CmLEGQ_Odh6Of
-#EXTINF:-1 tvg-name="Revealed: The Hunt for Bin Laden (2021)" tvg-logo="http://xdplayer.tv:8080/images/09d4f6d78e1878418cb981818598ca07.jpg" group-title="➤ VOD DOCUMENTALES",Revealed: The Hunt for Bin Laden (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihdHjWJa83k73nWaGAD99uBBolgDqNm8DVUfso4rCZG1
-#EXTINF:-1 tvg-name="Hermanos de sangre: Malcolm X y Muhammad Ali (2021)" tvg-logo="http://xdplayer.tv:8080/images/fc696694b4b57b8f17fe2f1d562d453d.jpg" group-title="➤ VOD DOCUMENTALES",Hermanos de sangre: Malcolm X y Muhammad Ali (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijlbs5-F7719E77LtBLWsbPqnMb4bQsPpE0L1Ar9v0qD
-#EXTINF:-1 tvg-name="Chris Hemsworth: La playa de los tiburones (2021)" tvg-logo="http://xdplayer.tv:8080/images/eb661e1b36237719a0c2878641b00a2a.jpg" group-title="➤ VOD DOCUMENTALES",Chris Hemsworth: La playa de los tiburones (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiri95MySNgke8qJ7SaXS0Rg59wb_xmu58kFYUI_Ya_0O
-#EXTINF:-1 tvg-name="In the Same Breath (2021)" tvg-logo="http://xdplayer.tv:8080/images/352660d28bf3bc84c95c97b1b83bcdc8.jpg" group-title="➤ VOD DOCUMENTALES",In the Same Breath (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikiHdzkJFJTtyZxXPs_1Hx3uPlUEnMA-aFDUD5QaYddH
-#EXTINF:-1 tvg-name="Memories of a Murderer: The Nilsen Tapes (2021)" tvg-logo="http://xdplayer.tv:8080/images/4542becf055acfd21009b895d81f64f8.jpg" group-title="➤ VOD DOCUMENTALES",Memories of a Murderer: The Nilsen Tapes (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckij6Ku9Ds4WjX-R1iPCtAqKAUOdPJ33SFDgAZd1fUegQL
-#EXTINF:-1 tvg-name="Untold: Deal with the Devil (2021)" tvg-logo="http://xdplayer.tv:8080/images/1afa91bc8d16d602c096146aa2d161b1.jpg" group-title="➤ VOD DOCUMENTALES",Untold: Deal with the Devil (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiwAOBk3WBWlw9K62808yCyT2PJOob6KUW-Y-ViLyXA6
-#EXTINF:-1 tvg-name="Secretos del deporte: La bronca entre los Detroit Pistons y los Indiana Pacers (2021)" tvg-logo="http://xdplayer.tv:8080/images/c3707c3cdbcbc75709b959d45e4bce4c.jpg" group-title="➤ VOD DOCUMENTALES",Secretos del deporte: La bronca entre los Detroit Pistons y los Indiana Pacers (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiwAOBk3WBWlw9K62808yCyrErfBg9ZsChlEAoeXwhs4
-#EXTINF:-1 tvg-name="Misha and the Wolves (2021)" tvg-logo="http://xdplayer.tv:8080/images/0786334cd2260e5cb0212f7ebc96695c.jpg" group-title="➤ VOD DOCUMENTALES",Misha and the Wolves (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirIYWkCzuuBRGlhJTUAf0N4wWHOkHr9VG3RYODBfa8ZT
-#EXTINF:-1 tvg-name="Val (2021)" tvg-logo="http://xdplayer.tv:8080/images/3142d9dd748b96b428c7de2e410737c6.jpg" group-title="➤ VOD DOCUMENTALES",Val (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuXXYtXrgn6K9YTbx7yURB4ML22ggAAr2KoyVhbMcKD8
-#EXTINF:-1 tvg-name="Nose (2021)" tvg-logo="http://xdgo.live:8080/images/5e2a386aa55ea53fbc3ffc3f569a474d.jpg" group-title="➤ VOD DOCUMENTALES",Nose (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihe_l-X1p73S7wPpP7mT7VpzI2ES7Dv7Ol94vru0eODS
-#EXTINF:-1 tvg-name="Pray Away: Reza y dejarás de ser gay (2021)" tvg-logo="http://xdgo.live:8080/images/90a2ae9a85fa03e463eafd48c4b28aa9.jpg" group-title="➤ VOD DOCUMENTALES",Pray Away: Reza y dejarás de ser gay (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioeb2JTBt0p465FJjKQzhCTyRQGl0kCx45wGJsC_tXl4
-#EXTINF:-1 tvg-name="Shiny_Flakes - El Cibernarco Adolescente (2021)" tvg-logo="http://xdgo.live:8080/images/c0d75b0d5a680e4922c13bc3f99442c8.jpg" group-title="➤ VOD DOCUMENTALES",Shiny_Flakes - El Cibernarco Adolescente (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioeb2JTBt0p465FJjKQzhCQi108if2nr1epIFm1Mrylu
-#EXTINF:-1 tvg-name="Woodstock 99: Peace Love and Rage (2021)" tvg-logo="http://xdgo.live:8080/images/2f73c6e562bd0964e140b4660a7c0c8b.jpg" group-title="➤ VOD DOCUMENTALES",Woodstock 99: Peace Love and Rage (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioeb2JTBt0p465FJjKQzhCSWmskhmm4OIZWWFTq9_RZI
-#EXTINF:-1 tvg-name="Playing with Sharks (2021)" tvg-logo="http://xdgo.live:8080/images/4f08dcfbafe852957025cc93464cd5c9.jpg" group-title="➤ VOD DOCUMENTALES",Playing with Sharks (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiv9y2CuyDXhezWezvzZ8Q9jtq-5BUiF-N28ZtgstXMv
-#EXTINF:-1 tvg-name="Red privada: ¿Quién mató a Manuel Buendía? (2021)" tvg-logo="http://xdgo.live:8080/images/2db435cc31619d17c8b628c34bfd4024.jpg" group-title="➤ VOD DOCUMENTALES",Red privada: ¿Quién mató a Manuel Buendía? (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioYddcD_gcj_MfZNZ_tCiJMJoEGGMxk51ZnezkF4qMhH
-#EXTINF:-1 tvg-name="Audible (2021)" tvg-logo="http://xdgo.live:8080/images/ecf37c3e6b7aab837bd3203a49d0f932.jpg" group-title="➤ VOD DOCUMENTALES",Audible (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinxgD3Vc8xr81qUAsjO8o17eYILwoYN7Mn1w2rfTj0SR
-#EXTINF:-1 tvg-name="Legend of the Underground (2021)" tvg-logo="http://xdgo.live:8080/images/75bf9577381fc9e62453b345c6f53b71.jpg" group-title="➤ VOD DOCUMENTALES",Legend of the Underground (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckipIG__UrYFq-J98mDILzG74U2oFZGt5nuTdoVD3vwMCD
-#EXTINF:-1 tvg-name="¿Quién es Carlitos? (2021)" tvg-logo="http://xdgo.live:8080/images/0225a7e3195e9e8e8fa8b4813c46e81d.jpg" group-title="➤ VOD DOCUMENTALES",¿Quién es Carlitos? (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijW_RVAY0KP03RwIL38YcSydYNFrJcORx8xo7ftvV2J8
-#EXTINF:-1 tvg-name="Wolfgang, un chef legendario (2021)" tvg-logo="http://xdgo.live:8080/images/d4de6ea2acbf853f71f0be80461cb7f7.jpg" group-title="➤ VOD DOCUMENTALES", un chef legendario (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijW_RVAY0KP03RwIL38YcSwaPObsAyvgW0oVlUfbRso_
-#EXTINF:-1 tvg-name="El caso Wanninkhof-Carabantes (2021)" tvg-logo="http://xdgo.live:8080/images/b9cfa073c7e2bfe80abd8ff238bc5c8b.jpg" group-title="➤ VOD DOCUMENTALES",El caso Wanninkhof-Carabantes (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiv1XNEB2k5yTSzELYAjGcVsLYilSfGLKqDF1bbfRjLJ8
-#EXTINF:-1 tvg-name="Headspace: Relaja tu mente (2021)" tvg-logo="http://xdgo.live:8080/images/88ced56d57719982d25e96fc31ab56af.jpg" group-title="➤ VOD DOCUMENTALES",Headspace: Relaja tu mente (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiv1XNEB2k5yTSzELYAjGcVvXdgrLTb5cqCLzWJ6WHsX-
-#EXTINF:-1 tvg-name="Hermanas en la pista (2021)" tvg-logo="http://xdgo.live:8080/images/6d072f8cc1e48a5658a3f62e7f294e33.jpg" group-title="➤ VOD DOCUMENTALES",Hermanas en la pista (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirTu5F0PVcbjKmavQdtU5WiX1D4cmn7N1x4hlQxTc_U5
-#EXTINF:-1 tvg-name="Juanes: Origen (2021)" tvg-logo="http://xdgo.live:8080/images/f9d1b1e17dff0d95cc67f5de2b0a57d3.jpg" group-title="➤ VOD DOCUMENTALES",Juanes: Origen (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigWLIDV0YJOowZqKlPgUosZUOsanoxA7CfV6D3iCGrJz
-#EXTINF:-1 tvg-name="Los límites de nuestro planeta: Una mirada científica (2021)" tvg-logo="http://xdgo.live:8080/images/6c680049c94d4034525d3ca67d719854.jpg" group-title="➤ VOD DOCUMENTALES",Los límites de nuestro planeta: Una mirada científica (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip7eICatX9qsyoYJZeDoI6mOzqkSHuF9zRRJtDkcbnEG
-#EXTINF:-1 tvg-name="David Copeland: El hombre que aterrorizó Londres (2021)" tvg-logo="http://xdgo.live:8080/images/1286a31e35b748ac3e62923218c81436.jpg" group-title="➤ VOD DOCUMENTALES",David Copeland: El hombre que aterrorizó Londres (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiorWWckvnx8db2jbv95Q_cg8FVhRldFENmna3g7CSA7m
-#EXTINF:-1 tvg-name="El niño de Medellín (2020)" tvg-logo="http://xdgo.live:8080/images/fb8e58ef030bb5960dbac8ce83417527.jpg" group-title="➤ VOD DOCUMENTALES",El niño de Medellín (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiscjcG8f5s_iCm3DgXpIOjeMNm40GhQ2KAUTPgRlwIxv
-#EXTINF:-1 tvg-name="Héroes: silencio y rock & roll (2021)" tvg-logo="http://xdgo.live:8080/images/f9c178b7ce337db926573ee86596bce5.jpg" group-title="➤ VOD DOCUMENTALES",Héroes: silencio y rock & roll (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin7JV53zkJpBO9BP4bdFXx_TNhg8qvCvELlqVWnO7ss_
-#EXTINF:-1 tvg-name="¿Por qué me mataron? (2021)" tvg-logo="http://xdgo.live:8080/images/f227f03605b16ac225002c04d5b48a6b.jpg" group-title="➤ VOD DOCUMENTALES",¿Por qué me mataron? (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioQcBWgGKAWqanNEEebCwZZ8W-qmPce9_84ce9u8aJ4T
-#EXTINF:-1 tvg-name="El dilema de las redes sociales (2020)" tvg-logo="http://xdgo.live:8080/images/46522f065236061c045d8c222be6aee7.jpg" group-title="➤ VOD DOCUMENTALES",El dilema de las redes sociales (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioQcBWgGKAWqanNEEebCwZZawjc2HK1O707LT6ubYCoE
-#EXTINF:-1 tvg-name="El último crucero (2021)" tvg-logo="http://xdgo.live:8080/images/2b67c161540c59a9e9a715b8e765f25e.jpg" group-title="➤ VOD DOCUMENTALES",El último crucero (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckio5IObcL0Y8dSId7gOq0de37YvvgKUWmSuF-3lqlxHXd
-#EXTINF:-1 tvg-name="Covid Diaries NYC (2021)" tvg-logo="http://xdgo.live:8080/images/cda1d8e285a8d176c021bd0596a2105a.jpg" group-title="➤ VOD DOCUMENTALES",Covid Diaries NYC (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiloDweBB2irAFxyRw8QX-zXw5WWtxzKZZ_r11wEVsuiW
-#EXTINF:-1 tvg-name="Operación Varsity Blues: Fraude universitario en EE.UU. (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZJuctnatinO0OpnruGOWaT4Bga.jpg" group-title="➤ VOD DOCUMENTALES",Operación Varsity Blues: Fraude universitario en EE.UU. (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckincUbdqSBzB9sGoz_DZdtNM0SJQxt0NZh4VfW4WwLdrv
-#EXTINF:-1 tvg-name="Pelé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg" group-title="➤ VOD DOCUMENTALES",Pelé (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis-SZ5wWyDjGs7MX3pnkf6pZfeuuH3_plrwmBsZFgnkF
-#EXTINF:-1 tvg-name="Marvel detrás de la máscara (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0U9S7zKfWIHUWBtvUGRFCFDhz9.jpg" group-title="➤ VOD DOCUMENTALES",Marvel detrás de la máscara (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijoFQ_K8sQbCd-Ss-ejDc9MTqIqniny7nqVnSSK2Bq_p
-#EXTINF:-1 tvg-name="Strip Down Rise Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" group-title="➤ VOD DOCUMENTALES",Strip Down Rise Up (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihc2KsX2W33W4puRdgv5Dzq0owpFvtgTpiTZJaSnXlAu
-#EXTINF:-1 tvg-name="Fake Famous (2021)" tvg-logo="http://xdgo.live:8080/images/7567b5eb1a431bf1e1de84c72df548b8.jpg" group-title="➤ VOD DOCUMENTALES",Fake Famous (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirOrUbEYaEivq3JqVwXs8kMU6AblC9ltl_EBz_2DsIVS
-#EXTINF:-1 tvg-name="Crack: Cocaine, Corruption & Conspiracy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7x1RoKXEkYtw175m7sN4emUrXl.jpg" group-title="➤ VOD DOCUMENTALES", Corruption & Conspiracy (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuX76WJTN5Yn89w3nWaMRp0rqraedsUWPbXdTqcz1EPx
-#EXTINF:-1 tvg-name="Tony Parker: La última canasta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZgw36jwqby3sxT7jU8to8Sq9Di.jpg" group-title="➤ VOD DOCUMENTALES",Tony Parker: La última canasta (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigNOHYo4G6mr6VT_0BTaZJ2CBXTyO-EqooNNYqt3NhPt
-#EXTINF:-1 tvg-name="Excuse me, I love you (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg" group-title="➤ VOD DOCUMENTALES", I love you (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigqAXCFBWdVKppD-aI8Ij0FQ4XUsaWjSkwf81covvpDG
-#EXTINF:-1 tvg-name="Los secretos de la tumba de Saqqara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaaET8EGa6mkBmCfA6yZ2xEmR2A.jpg" group-title="➤ VOD DOCUMENTALES",Los secretos de la tumba de Saqqara (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijLy23fV5Tcain5x3Ki2IizDvtBZ1tdM-RreaX2_6UNU
-#EXTINF:-1 tvg-name="Las tres muertes de Marisela Escobedo (2020)" tvg-logo="http://xdgo.live:8080/images/faf1643932420fec1a7011693a89fbbc.jpg" group-title="➤ VOD DOCUMENTALES",Las tres muertes de Marisela Escobedo (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirQ19kQ2T9Z0TQk6PCE3C7EATkdXKRMpLYcbHaNRgCjX
-#EXTINF:-1 tvg-name="Todos con Roona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gx6DUx7EugLPM3NuY8PSJMuHR7J.jpg" group-title="➤ VOD DOCUMENTALES",Todos con Roona (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirQ19kQ2T9Z0TQk6PCE3C7GDTJZvQeJJe23D_SI-fRa5
-#EXTINF:-1 tvg-name="Descansa En Paz Dick Johnson (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg" group-title="➤ VOD DOCUMENTALES",Descansa En Paz Dick Johnson (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckingZBIgc7LgK7aQ1sAkfzUiYsTyqBDGwz8Avag_2FMgK
-#EXTINF:-1 tvg-name="Fernando Torres: El Último Símbolo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkHLcvaBScIAQzr797s4ay1d5bw.jpg" group-title="➤ VOD DOCUMENTALES",Fernando Torres: El Último Símbolo (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinJP9Zysb0AIcmnZIjZlUxMxTl3A0AYy0IJoTZXE1LdW
-#EXTINF:-1 tvg-name="Ride Your Dream (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7s6fEIZQmgszoiOnHP1YTOyhqc.jpg" group-title="➤ VOD DOCUMENTALES",Ride Your Dream (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckihSDc-z-dCm9cZxXHSNUC2DdQFS1Fm79P6dHZ7gLrlw4
-#EXTINF:-1 tvg-name="El dilema de las redes sociales (2020)" tvg-logo="http://xdgo.live:8080/images/46522f065236061c045d8c222be6aee7.jpg" group-title="➤ VOD DOCUMENTALES",El dilema de las redes sociales (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimld24Co3KmIN3BqTn41CvNr5fAYow2dQAfJVod9fw8g
-#EXTINF:-1 tvg-name="¿Qué pasó el 11 de Septiembre? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXe07NFdgvJ9vLV91oAPrqDBoqU.jpg" group-title="➤ VOD DOCUMENTALES",¿Qué pasó el 11 de Septiembre? (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimld24Co3KmIN3BqTn41CvOoiOO4doDtBLbjgoYUGHxN
-#EXTINF:-1 tvg-name="Lo que el pulpo me enseñó (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg" group-title="➤ VOD DOCUMENTALES",Lo que el pulpo me enseñó (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimld24Co3KmIN3BqTn41CvNHmAfAd83Zi8j_dtARNAtf
-#EXTINF:-1 tvg-name="The Swamp (2020)" tvg-logo="http://xdgo.live:8080/images/a55e40f849c7be66cb022420c3fb69bb.jpg" group-title="➤ VOD DOCUMENTALES",The Swamp (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinyIv5YQkOOMTrYoWrtzCkfOvyoEcwYXfryfaPrZQLGN
-#EXTINF:-1 tvg-name="Rising Phoenix: Historia de los Juegos Paralímpicos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg" group-title="➤ VOD DOCUMENTALES",Rising Phoenix: Historia de los Juegos Paralímpicos (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitez2mk5otCK8RTM00-Cz-a4Ev7N9KtwRjcUC-4TGHxp
-#EXTINF:-1 tvg-name="Anelka : El incomprendido (2020)" tvg-logo="http://xdgo.live:8080/images/2f5767b4f6898d473cca9e287ffae97e.jpg" group-title="➤ VOD DOCUMENTALES",Anelka : El incomprendido (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimwSBGBhavs28kUdI1T3CyCDODmAdmmCnkL6fNDTDrJk
-#EXTINF:-1 tvg-name="S W E A T (2020)" tvg-logo="http://xdgo.live:8080/images/166df4a4e745f95bf7b51fcb9feb2ede.jpg" group-title="➤ VOD DOCUMENTALES",S W E A T (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckilPvXlQDGQCVJxHy-2ovn_rqZ4gOqmBoVrKy77oH54IF
-#EXTINF:-1 tvg-name="Gimnasta A: El médico depredador (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RIaBYc52ERizzRcYaTgkBVNmUo.jpg" group-title="➤ VOD DOCUMENTALES",Gimnasta A: El médico depredador (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirtbJerMatlsXAZmQCwRzBk87ruVjECKPBqTX7A1v8hJ
-#EXTINF:-1 tvg-name="Mucho mucho amor: La leyenda de Walter Mercado (2020)" tvg-logo="http://xdgo.live:8080/images/7c72feaab14b72fa0b908d73c7177b83.jpg" group-title="➤ VOD DOCUMENTALES",Mucho mucho amor: La leyenda de Walter Mercado (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinoc_rJws71tpspxV802cgtalplNuW2vyUsCb24Jj1S5
-#EXTINF:-1 tvg-name="Bully. Coward. Victim. The Story of Roy Cohn (2019)" tvg-logo="http://xdgo.live:8080/images/628617b871afd8ea47d59e50f4682681.jpg" group-title="➤ VOD DOCUMENTALES",Bully. Coward. Victim. The Story of Roy Cohn (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinoc_rJws71tpspxV802cgvaPKOcyWDhvxM9ru2OvvR-
-#EXTINF:-1 tvg-name="The Suicide Tourist (2010)" tvg-logo="http://xdgo.live:8080/images/e3eaa432d40afea9c78ebd302562fb76.jpg" group-title="➤ VOD DOCUMENTALES",The Suicide Tourist (2010)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinoc_rJws71tpspxV802cgsZ9dcY6VtpS-VJMaE5MULw
-#EXTINF:-1 tvg-name="Bulletproof (2020)" tvg-logo="http://xdgo.live:8080/images/4e04a999e1e6621f5fc9ef9462e05757.jpg" group-title="➤ VOD DOCUMENTALES",Bulletproof (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckir6-FTF21gDfrKVj_HMAdTGEViFqBy7ucpgpFigbfsmM
-#EXTINF:-1 tvg-name="Familia de medianoche (2019)" tvg-logo="http://xdgo.live:8080/images/fc9fe56afceb00164cf048dec65a055a.jpg" group-title="➤ VOD DOCUMENTALES",Familia de medianoche (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckir6-FTF21gDfrKVj_HMAdTFbhWCHqNU1EId9A4EBlog4
-#EXTINF:-1 tvg-name="D-Day: El rey que engañó a Hitler (2019)" tvg-logo="http://xdgo.live:8080/images/8f5f357d7a803a4500ef646850a64859.jpg" group-title="➤ VOD DOCUMENTALES",D-Day: El rey que engañó a Hitler (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckik1-h882eDs0C987QkA8g1jnEN8ZEYIg4ULavQ5t0iU0
-#EXTINF:-1 tvg-name="Sea of Shadows (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oONUAloKVryxa3XZje6LLIscWC8.jpg" group-title="➤ VOD DOCUMENTALES",Sea of Shadows (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckik1-h882eDs0C987QkA8g1iCGJN_EuRgZWtQD9FW9i-_
-#EXTINF:-1 tvg-name="Becoming (2020)" tvg-logo="http://xdgo.live:8080/images/12343964c850be6439e87adb2d7fd136.jpg" group-title="➤ VOD DOCUMENTALES",Becoming (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitQ5GjDAeZk99jlTbTvTStCn9pBX7_cdgOKz81cbknSC
-#EXTINF:-1 tvg-name="Murder to Mercy: The Cyntoia Brown Story (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFYIBtlpOGEfLN0tnm9AckpcV8Q.jpg" group-title="➤ VOD DOCUMENTALES",Murder to Mercy: The Cyntoia Brown Story (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiv8yh61zjDovUgKyz3wDmC6Sq-Bw1sggVVJYTTj7vEDH
-#EXTINF:-1 tvg-name="Andrés Iniesta: el héroe inesperado (2020)" tvg-logo="http://xdgo.live:8080/images/7700e16cf0eaf2c65f10277679db641c.jpg" group-title="➤ VOD DOCUMENTALES",Andrés Iniesta: el héroe inesperado (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiu3TLrDvxVD1MiwklbhAsGEuDXI3Acu0JoTDh3hUTzuD
-#EXTINF:-1 tvg-name="Los elefantes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO6SPxlzfRBMp8qJ51dQrSBgEcg.jpg" group-title="➤ VOD DOCUMENTALES",Los elefantes (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuKHJC1Tjv60OOYFoknBdde2XS_5S4eLn5eFj87cWkmq
-#EXTINF:-1 tvg-name="La casa de papel: El fenómeno (2020)" tvg-logo="http://xdgo.live:8080/images/4801736f7d22fdbc4dfe9d0008664760.jpg" group-title="➤ VOD DOCUMENTALES",La casa de papel: El fenómeno (2020)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuKHJC1Tjv60OOYFoknBddc_3TM5vjnafGr7ZYCU9PsB
-#EXTINF:-1 tvg-name="Own the Room (2021)" tvg-logo="http://xdgo.live:8080/images/15121b4cba7bcfc6a6b76e41d1f6ac21.jpg" group-title="➤ VOD DOCUMENTALES",Own the Room (2021)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitVal1XpBFODI4gh5IjQE9Lf10FTvgEkr8TS3-4RjduP
-#EXTINF:-1 tvg-name="Discovery - El Origen del Coronavirus" tvg-logo="https://i.ytimg.com/vi/N-p9Fedremw/maxresdefault.jpg" group-title="➤ VOD DOCUMENTALES",Discovery - El Origen del Coronavirus
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiu0Na3QdYvPJ60_z1V5UFUPOTpBCDZsjOAVHzzrq_wSB
-#EXTINF:-1 tvg-name="History - Pandemia Alerta Mundial" tvg-logo="https://i.ytimg.com/vi/tU7b2O8MFm4/maxresdefault.jpg" group-title="➤ VOD DOCUMENTALES",History - Pandemia Alerta Mundial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiu0Na3QdYvPJ60_z1V5UFUNYe9sHdf5OlAMpx-pCuOZJ
-#EXTINF:-1 tvg-name="Zona Oculta - Coronavirus Conspiracion Mundial" tvg-logo="https://i.ytimg.com/vi/XMADBa1jyJw/maxresdefault.jpg" group-title="➤ VOD DOCUMENTALES",Zona Oculta - Coronavirus Conspiracion Mundial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiu0Na3QdYvPJ60_z1V5UFUM2tvMJQ46MO5c2YymuSA69
-#EXTINF:-1 tvg-name="DW - El Coronavirus en China" tvg-logo="https://i.ytimg.com/vi/Re7XOFerw3U/maxresdefault.jpg" group-title="➤ VOD DOCUMENTALES",DW - El Coronavirus en China
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiu0Na3QdYvPJ60_z1V5UFUM8rqdYc2pcOrUT7RwpQ26K
-#EXTINF:-1 tvg-name="Ultras (2018)" tvg-logo="http://xdgo.live:8080/images/b0af00f8dcdcbe647ee0f5ec53caac4d.jpg" group-title="➤ VOD DOCUMENTALES",Ultras (2018)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigqwjefudyI_2ubRBi_QLVTuoYn-gmDGfhITSKXje_Ki
-#EXTINF:-1 tvg-name="Los Cleptócratas (2018)" tvg-logo="http://xdgo.live:8080/images/5b8194ed081920ea2622a8cf936217d6.jpg" group-title="➤ VOD DOCUMENTALES",Los Cleptócratas (2018)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisz1FCNiaaYpQEGF6VFoU1Ro5OUVNolo24U7xH99gy-4
-#EXTINF:-1 tvg-name="Apolo 11 (2019)" tvg-logo="http://xdgo.live:8080/images/72e77c6c2ecd8dafa2eadab8e0c49e56.jpg" group-title="➤ VOD DOCUMENTALES",Apolo 11 (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigrLEJpeJakVBaLY13GFY2sQBLMcUXJ3da6vml9A902e
-#EXTINF:-1 tvg-name="Fire in Paradise (2019)" tvg-logo="http://xdgo.live:8080/images/cab7da2bc7784a192f8581641851da2b.jpg" group-title="➤ VOD DOCUMENTALES",Fire in Paradise (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiui-q_3WaEj_hw-QHbYEShclIYxxYwR_9RVlsU7ZQMgn
-#EXTINF:-1 tvg-name="Hermano de sangre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pvEFIUGyKPpfKSXzmpETxZ2oWj.jpg" group-title="➤ VOD DOCUMENTALES",Hermano de sangre (2013)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigxJJTvVaH0eLn1nhgSdY1P-NArDin8eiJNTV1QG1AhD
-#EXTINF:-1 tvg-name="The Legend of Cocaine Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pFL9lzMMPHfxYeQNyxRPBZmtEe.jpg" group-title="➤ VOD DOCUMENTALES",The Legend of Cocaine Island
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiOPGbMnI8lkT1GE24jAGGwp183PD4708b039Z-HPZ5N
-#EXTINF:-1 tvg-name="La Nación Del Rey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Tgv0kLi8obD2bfiGyErp4BJMeH.jpg" group-title="➤ VOD DOCUMENTALES",La Nación Del Rey
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiq436ODFxF_AF5Uvk97y0481fyHDxOOr-YEz3jMd2cI6
-#EXTINF:-1 tvg-name="Mercury 13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIH8lHaNRGjSLXlkOzyp1MkE0yk.jpg" group-title="➤ VOD DOCUMENTALES",Mercury 13
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitf00AnDHmVDSkTouGwkg-Gs_-WpsrJOt11O_gj7ls2y
-#EXTINF:-1 tvg-name="American Factory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg" group-title="➤ VOD DOCUMENTALES",American Factory
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiiy27uZSIgj__u91-YIqg-EytaIGCk8Fi5jcPq39ybYB
-#EXTINF:-1 tvg-name="Breakthrough (2019)" tvg-logo="http://xdgo.live:8080/images/963f56f630d9c075d5544d8643436808.jpg" group-title="➤ VOD DOCUMENTALES",Breakthrough (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckij3R5MF5nJe6PZMo3bz0veqtQOLcr7c7LdKYcETcWHS6
-#EXTINF:-1 tvg-name="El testigo: Caín y Abel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gmVCt99mrIbX7Q89LjhlpglGvW.jpg" group-title="➤ VOD DOCUMENTALES",El testigo: Caín y Abel
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckij0W5dEXF0kvR4Sea7vumsd1eGirWY_idU7WX7iUyx8m
-#EXTINF:-1 tvg-name="Juego de Tronos: La última guardia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg" group-title="➤ VOD DOCUMENTALES",Juego de Tronos: La última guardia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckig0M0TkIAT52Awie68D13_pDaHnfV8WCxFEf_GFKESEP
-#EXTINF:-1 tvg-name="I Am Durán" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8p3pV0yWVxAR0GTm38LbV7pH8.jpg" group-title="➤ VOD DOCUMENTALES",I Am Durán
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckigweDnF_YmYUk8KEbYc00KwtkW-DW2GeIBXBLPiw_T9r
-#EXTINF:-1 tvg-name="La vida me supera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHO4wOw7u6B9yIzLuKf0UBO7GmO.jpg" group-title="➤ VOD DOCUMENTALES",La vida me supera
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinqb1gm5KXgQuuWzbrpLji0Ju1MezftVSNbNK2S1cU6m
-#EXTINF:-1 tvg-name="El gran hackeo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIrGgUzasEUA7v8uChRhUUFzLwE.jpg" group-title="➤ VOD DOCUMENTALES",El gran hackeo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqkjtipjKuCfrk11I-pmJLsl0x-SFEJheq6KmKCzRdN7
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 01 el Origen Del Rock" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 01 el Origen Del Rock
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuB_C61FXP_82q2XRZJ-PasIFUMzeQ0skYHOqXnKIfwQ
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 02 rock Art Rock" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 02 rock Art Rock
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuB_C61FXP_82q2XRZJ-PatHpi8ZHq_UACNiUPXhreDG
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 03 punk Rock" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 03 punk Rock
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3IF5KAje2VEfEfJOCjB5diX
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 04 heavy Metal En Conquista Del Mundo" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 04 heavy Metal En Conquista Del Mundo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3JuRvu94lAC4wgguKSQiWXA
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 05 el Auge Del Rock De Estadio" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 05 el Auge Del Rock De Estadio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3Ja01x94U_RHnPEPun2PFjf
-#EXTINF:-1 tvg-name="7 Edades Del Rock  Cap 06 rock Alternativo A La Izquierda Del Dial" tvg-logo="http://xdgo.live:8080/images/90d042d527ea5e5708a3fbc6dbb00683.jpg" group-title="➤ VOD DOCUMENTALES",7 Edades Del Rock  Cap 06 rock Alternativo A La Izquierda Del Dial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3KwACUtdEVPy2xR5xA31E4z
-#EXTINF:-1 tvg-name="12 años de esclavitud (2013)" tvg-logo="http://xdgo.live:8080/images/46cd259db4d18e51bc6812e467d424ca.jpg" group-title="➤ VOD DOCUMENTALES",12 años de esclavitud (2013)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3LelN8QakYUyZgmtYMroNev
-#EXTINF:-1 tvg-name="102 Minutes That Changed America - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXiT9ERqPovth1Siqai0B105rZa.jpg" group-title="➤ VOD DOCUMENTALES",102 Minutes That Changed America - 2008
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3K5VmI0Rh8yzekj9Aa0tlAn
-#EXTINF:-1 tvg-name="Albert Einsten" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXiT9ERqPovth1Siqai0B105rZa.jpg" group-title="➤ VOD DOCUMENTALES",Albert Einsten
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3IIUWkDewCxhL3Vkmh2u7Xy
-#EXTINF:-1 tvg-name="Alerta tiburones - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",Alerta tiburones - 2008
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3LBP-w5hWQrnwye_cZi-FzE
-#EXTINF:-1 tvg-name="Amazonas  La Ruta Indomable Cap 01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",Amazonas  La Ruta Indomable Cap 01
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3Iov9iHNmCfFIMP4ST8HObp
-#EXTINF:-1 tvg-name="Amazonas  La Ruta Indomable Cap 02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",Amazonas  La Ruta Indomable Cap 02
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckin4qfMo_V1p86jQ4o2qAM3JNYFL4wGJuIlcaJ77c7U6_
-#EXTINF:-1 tvg-name="Amenaza Cibernetica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",Amenaza Cibernetica
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZRx63xAdTOngerSk30n_k08
-#EXTINF:-1 tvg-name="America Salvaje  Bosques" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",America Salvaje  Bosques
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZTIsyLaGIkKFLCZeQ-Vs3rB
-#EXTINF:-1 tvg-name="America Salvaje  Costas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",America Salvaje  Costas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZT4M4iwQRzZS9x-mtyDlV5V
-#EXTINF:-1 tvg-name="America Salvaje  Desiertos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",America Salvaje  Desiertos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZQO1PjFL4CAH1TGZCXcRFOF
-#EXTINF:-1 tvg-name="America Salvaje  Montanas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",America Salvaje  Montanas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZSu1pCo5W_9nN5EjN6S5-aW
-#EXTINF:-1 tvg-name="Anaconda  La Gran Serpiente Del Amazonas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQMliv6SOiXThDYWutkZxU7PH8Q.jpg" group-title="➤ VOD DOCUMENTALES",Anaconda  La Gran Serpiente Del Amazonas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZQm4WuFrXlO1rPV6uwxSW_-
-#EXTINF:-1 tvg-name="Antes que sea tarde - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Antes que sea tarde - 2016
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZQvWRaUO46gLNWKg-Xlr0jp
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-el Fin De La Pesadilla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-el Fin De La Pesadilla
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZSc7cTOsnbsaYRL1RjrSvNh
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-el Fuhrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-el Fuhrer
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZT0EuDVUnnrLCDN367oVXY2
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-grandes Momentos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-grandes Momentos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckinnnCiTw_9JGurlYhaNeIZR6nZH8e8kdufsxYdA-EBvu
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-guerra Total" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-guerra Total
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-RVoHA1sGzhNLbmShPHB2Ah
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-la Agresion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-la Agresion
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-Q0QNNKvDUoi5AMINnwZEu-
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-la Amenaza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-la Amenaza
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-S14HZZUA2jAzebs1W2-Ojl
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-locura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-locura
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-TTRsjeRMMjSxCbMDN8K7-2
-#EXTINF:-1 tvg-name="Apocalipsis  2da Guerra Mundial-momentos Descisivos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apocalipsis  2da Guerra Mundial-momentos Descisivos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-R15ZoSiO9qjYKoHMLShHrZ
-#EXTINF:-1 tvg-name="Apollo Soyuz  Aventura En El Espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Apollo Soyuz  Aventura En El Espacio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-TSV3gdUCHeHqm7etYNlhq3
-#EXTINF:-1 tvg-name="Archipielago Helado De Rusia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Archipielago Helado De Rusia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-SbcHR-9BJvpXWMXbwbI_mq
-#EXTINF:-1 tvg-name="Asesinos Brutales  Vida Salvaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEZt3AmPUeGLTMO9ZBirlzinYW1.jpg" group-title="➤ VOD DOCUMENTALES",Asesinos Brutales  Vida Salvaje
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-SO30i0SNgkPf2bOWc4M920
-#EXTINF:-1 tvg-name="Astronautas Vivir En El Espacio" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Astronautas Vivir En El Espacio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-Rc9twJS_-XmnABjKagSD8z
-#EXTINF:-1 tvg-name="Aviacion Secreta Rusa En La 2da Guerra Mundial" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Aviacion Secreta Rusa En La 2da Guerra Mundial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckirNY1R_j9XS5W0-1aoZMg-RggEjVx_bxY8s-YH3QTJKg
-#EXTINF:-1 tvg-name="Bajo La Superficie Drenar Del Oceano" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bajo La Superficie Drenar Del Oceano
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy7a9iPIpkDOt5aVxvOqaZ6G
-#EXTINF:-1 tvg-name="Barcos Y Buques De Guerra" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Barcos Y Buques De Guerra
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy5yQQpPE2N7mGum7ah4LEf6
-#EXTINF:-1 tvg-name="Bestias Increibles   Animales Gigantes" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bestias Increibles   Animales Gigantes
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy568uYVpl9-5Lyzn3NNvIfd
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy4UpGXWsvVnD5JvX9GjTyvL
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Egipto ciudad De Luxor" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Egipto ciudad De Luxor
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy7IxMVaWMxiWc050QLTR4vY
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Egipto la Puerta De Entrada De Africa" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Egipto la Puerta De Entrada De Africa
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy4325WLTqN_ydCm0jCEfIZD
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Etiopia hienas De Harar Jugol" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Etiopia hienas De Harar Jugol
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy7YoNR6OiSMOaue8RJbY-ss
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Etiopia los Secretos Ocultos" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Etiopia los Secretos Ocultos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy4FfvVR_icg_aPFe0V_tSHr
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Etiopia uganda Extremo" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Etiopia uganda Extremo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy6LIFzfSgCzfKx41Yr34QnN
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Kenia la Reserva Natural De Masai Mara" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Kenia la Reserva Natural De Masai Mara
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckis4ivokBp5oz9va8pQ3KEy6sxqm2iuGoRLjVLYTD7QP3
-#EXTINF:-1 tvg-name="Bicitantes  Africa Al Limite  Los Leones De Sambulu" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Africa Al Limite  Los Leones De Sambulu
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG7bfhGM5BN8iBwZOovT-gra
-#EXTINF:-1 tvg-name="Bicitantes  Asia  En Busca Del Dragon De Komodo" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  En Busca Del Dragon De Komodo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG6JRorwZmDalauLivE6FeV3
-#EXTINF:-1 tvg-name="Bicitantes  Asia  La Increible Ciudad De Chiang Mai" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  La Increible Ciudad De Chiang Mai
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG6TCBryN388UbsmJGJmF-JN
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Las Maravillas De Camboya" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Las Maravillas De Camboya
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG63f2FzIASJNQXogOaFeOHj
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Los Encantos De Tailandia" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Los Encantos De Tailandia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG58yAHw47ski0joRqyAVZuz
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Los Increibles Paisajes De Tailandia" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Los Increibles Paisajes De Tailandia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG5MqSego6mgcJ-I7z90HVrh
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Los Lugares Mas Increible De Indonesia" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Los Lugares Mas Increible De Indonesia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG5Qmo1-mQNq-d_hKoqeXEON
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Maravillas De Bangkok" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Maravillas De Bangkok
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG4JEgQ36I2dpRryA14w-8fL
-#EXTINF:-1 tvg-name="Bicitantes  Asia  Un Inigualable Recorrido Por Malasia" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Asia  Un Inigualable Recorrido Por Malasia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG6-kNkJ1NBDmutNE4BdJcrh
-#EXTINF:-1 tvg-name="Bicitantes  Aventura En Panama Tierra De Contraste" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Aventura En Panama Tierra De Contraste
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqBEXABM4caaocz-4CTMOG5TuG2VUBbBpZoS7HZRpCgK
-#EXTINF:-1 tvg-name="Bicitantes  El Corazon De America" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  El Corazon De America
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn1YJ30nACDiXbhExx9s_gLS
-#EXTINF:-1 tvg-name="Bicitantes  Guatemala  La Travesia Por Guatemala" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Guatemala  La Travesia Por Guatemala
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn3KLqjOvucfyZsArw6mgPB8
-#EXTINF:-1 tvg-name="Bicitantes  Las Aventuras De Luis Andaur En Laos" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Las Aventuras De Luis Andaur En Laos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn0VQG4SFW4rvXpYSVuniEEn
-#EXTINF:-1 tvg-name="Bicitantes  Las Costas De Belice" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Las Costas De Belice
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn1J90_0zxdwnEZC1FMQOz__
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  Ciudad De Mexico En 2 Ruedas" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  Ciudad De Mexico En 2 Ruedas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn2HS2W96HCLJ6UW2pRpwlun
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  Distrito Federal De Mexico" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  Distrito Federal De Mexico
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn3BWSzMJtvRA1fQ9TWyjFMw
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  El Sur De Mexico" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  El Sur De Mexico
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn0_npjIEkSQhfGaIkyY-23F
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  Los Monumentos Mayas" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  Los Monumentos Mayas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn3_7Tue-PjBtwt9h2dMFajr
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  Playa Del Carmen Y Cancun" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  Playa Del Carmen Y Cancun
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn3bahM2T-f-bcTQtfcjaksk
-#EXTINF:-1 tvg-name="Bicitantes  Mexico  Travesia Por Mexico Y Belice" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Bicitantes  Mexico  Travesia Por Mexico Y Belice
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuQidzOa1RHWckbAanaGXn2c2-nGb9f2Zi_Ey_dkMT76
-#EXTINF:-1 tvg-name="Caballos Blancos De Leyenda" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Caballos Blancos De Leyenda
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10bUR1OfcEKCCaopjVTZvNJR
-#EXTINF:-1 tvg-name="cdf vod pruebas" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",cdf vod pruebas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10a8JHzxs0rgcCrMya1qqNFn
-#EXTINF:-1 tvg-name="Chernobyl (2015)" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Chernobyl (2015)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10YB3AaXBnlXe38umT3YmSRx
-#EXTINF:-1 tvg-name="Chile Salvaje y Extremo  Cap.01" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Chile Salvaje y Extremo  Cap.01
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10aGP5oNK74eVJXAP4HTask0
-#EXTINF:-1 tvg-name="Chile Salvaje y Extremo  Cap.02" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Chile Salvaje y Extremo  Cap.02
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10ZM9Ho5CgpfMZCiw_UGOVXV
-#EXTINF:-1 tvg-name="Chile Salvaje y Extremo  Cap.03" tvg-logo="http://xdgo.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="➤ VOD DOCUMENTALES",Chile Salvaje y Extremo  Cap.03
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10Z1bN1YcGat5IKUABXwRoBl
-#EXTINF:-1 tvg-name="Colombia: Magia Salvaje - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Colombia: Magia Salvaje - 2015
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10bhoDeBXlFnw91A0w6qbMFA
-#EXTINF:-1 tvg-name="Combate A Las Drogas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Combate A Las Drogas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10ZKIpBnhXaenBDv_7BDHm9c
-#EXTINF:-1 tvg-name="Contacto Extraterrestre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Contacto Extraterrestre
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10ZdHM1_azZ-IfWIZNGacwgl
-#EXTINF:-1 tvg-name="Desde La Celda  Calle 18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Desde La Celda  Calle 18
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqiHjeuIZAzfadmiT8kS10ZiB38obvBYs0OhriVbhIOo
-#EXTINF:-1 tvg-name="Desde La Celda  La Camorra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Desde La Celda  La Camorra
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17E3p7QJ1M_BQcIqyHmiDTSC
-#EXTINF:-1 tvg-name="Desde La Celda  Los Burquenos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Desde La Celda  Los Burquenos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17Hhzbrn9nQ30RmlxJiF2nmU
-#EXTINF:-1 tvg-name="Desde La Celda  Los Comandos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Desde La Celda  Los Comandos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17E9wgSjPvf-NX9fTHbFRR6R
-#EXTINF:-1 tvg-name="Desde La Celda  Los Grypser" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Desde La Celda  Los Grypser
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17F8_7w6azjlrjjr8Bc1mtKH
-#EXTINF:-1 tvg-name="Despues De La Muerte Cielo O Infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Despues De La Muerte Cielo O Infierno
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17H-uTN9u1WFO07ycfKyX-2o
-#EXTINF:-1 tvg-name="Dingo Australiano Un Asesino Silencioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Dingo Australiano Un Asesino Silencioso
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17ErTrhalxiFUzCz8dKOwgCx
-#EXTINF:-1 tvg-name="Dinosaurios Mas Grande Que El Tiranosaurio Rex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Dinosaurios Mas Grande Que El Tiranosaurio Rex
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17G0s3mc6Ih5fXjJ0VwfMihH
-#EXTINF:-1 tvg-name="Dinotrampa Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Dinotrampa Mortal
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17Fh8Gd30kBBOYyx5f5uRjbn
-#EXTINF:-1 tvg-name="Drenar El Oceano  2da Guerra Mundial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Drenar El Oceano  2da Guerra Mundial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17H748f6-70CqdHcyPE5O9pu
-#EXTINF:-1 tvg-name="Egipto Salvaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",Egipto Salvaje
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckikYxRb5NwNXPyOKfo5qU17G2iOmvSrAQEEAOwl7BpzQD
-#EXTINF:-1 tvg-name="El Arma Secreta De Los Nazis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",El Arma Secreta De Los Nazis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudKj9V0eEd2lcmVOGuf81OJj
-#EXTINF:-1 tvg-name="El Diablo La Posesion Del Maligno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",El Diablo La Posesion Del Maligno
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudJULATOQDiB6VJhnavjjc4v
-#EXTINF:-1 tvg-name="El Dia Que Murio Hitler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",El Dia Que Murio Hitler
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudKUVUmBu1L3ohzjDVskH6Bi
-#EXTINF:-1 tvg-name="El Estado Islamico O Isis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwWuTrt6auC2Om5k6SFhrcoaob9.jpg" group-title="➤ VOD DOCUMENTALES",El Estado Islamico O Isis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudJQA79uS0jRzMzLJv-HsUDM
-#EXTINF:-1 tvg-name="El Evangelio Prohibido de Judas - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YfxJM825PgAWS1RaIxmMaJePpk.jpg" group-title="➤ VOD DOCUMENTALES",El Evangelio Prohibido de Judas - 2006
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudJEQ5h1R6h3mQ5DX4RtqRsy
-#EXTINF:-1 tvg-name="El Fin Del Mundo Se Acerca Segun La Ciencia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YfxJM825PgAWS1RaIxmMaJePpk.jpg" group-title="➤ VOD DOCUMENTALES",El Fin Del Mundo Se Acerca Segun La Ciencia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudI9ueuZb6IpheTPX3uocx8L
-#EXTINF:-1 tvg-name="El Gran Tiburon Blanco  Australia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YfxJM825PgAWS1RaIxmMaJePpk.jpg" group-title="➤ VOD DOCUMENTALES",El Gran Tiburon Blanco  Australia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudJr1PjOM4ilqp-Fhhv-iD82
-#EXTINF:-1 tvg-name="El jardín del Edén - 1994" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El jardín del Edén - 1994
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudIYzm-v7V3OFGCiRrVgWNiX
-#EXTINF:-1 tvg-name="El Juicio De Cristo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Juicio De Cristo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudK9QqiLtKHxFXHETXXjUn3r
-#EXTINF:-1 tvg-name="El Lado Salvaje De Los Gatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Lado Salvaje De Los Gatos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiklavYvJ4OVA58N33DFgudIye_1Nd8bFcUoLpdnquBWs
-#EXTINF:-1 tvg-name="El Libro Egipcio De Los Muertos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Libro Egipcio De Los Muertos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMu-q-mRwJO5tO9x2W6qJTSC
-#EXTINF:-1 tvg-name="El Lince Iberico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Lince Iberico
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMtjH4KjleaZrZsHgtqh3f0y
-#EXTINF:-1 tvg-name="El Origen De Los Continentes  Africa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Origen De Los Continentes  Africa
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMsp0PEUQORQh7zK-C3blu30
-#EXTINF:-1 tvg-name="El Origen De Los Continentes  America" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Origen De Los Continentes  America
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMtjfT1xzA-pHiPYsaNC3uXK
-#EXTINF:-1 tvg-name="El Origen De Los Continentes  Eurasia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Origen De Los Continentes  Eurasia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMtido4p9uZYdaBKMhqUIbfV
-#EXTINF:-1 tvg-name="El Origen De Los Continentes  Oceania" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Origen De Los Continentes  Oceania
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMtO-QMSzqXRwDOBfQ6nqPjr
-#EXTINF:-1 tvg-name="El Presidente Donald Trump" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv2hx7NDD8HFeGUrEZdpYxDoNCU.jpg" group-title="➤ VOD DOCUMENTALES",El Presidente Donald Trump
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMuQVl_jyFRQNcoYRltXnrED
-#EXTINF:-1 tvg-name="El Sol pasado presente y futuro - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Sol pasado presente y futuro - 2012
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMtmfV_YnWkJFzieZHohvbF9
-#EXTINF:-1 tvg-name="El Universo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMvFdWEkf9n6tm-C5qu6E-WP
-#EXTINF:-1 tvg-name="El Universo  Agujeros Del Espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Agujeros Del Espacio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckive0EIYY979eyEwZlNCDqMvbgIfYE6of5QDh7Juqg1Pn
-#EXTINF:-1 tvg-name="El Universo Alienigena De Stephen Hawking" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo Alienigena De Stephen Hawking
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy69TjdVGv4F_Ohx1_VvhB99G
-#EXTINF:-1 tvg-name="El Universo  Astrobiologia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Astrobiologia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy6_L6JO87QqXCBhh5NJsi1GT
-#EXTINF:-1 tvg-name="El Universo  Catastrofes Que Cambiaron Los Planetas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Catastrofes Que Cambiaron Los Planetas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy68y6XFChZ9nSqPugeMWzuqN
-#EXTINF:-1 tvg-name="El Universo  Colonizando El Espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Colonizando El Espacio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy681tsDdvU7plg4owmIsWq3Q
-#EXTINF:-1 tvg-name="El Universo  Fenomenos Cosmicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Fenomenos Cosmicos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy69dR9l4tJE2WMyexfvVXaii
-#EXTINF:-1 tvg-name="El Universo  Galaxias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Galaxias
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy6-mvHJDf2ZXKHniWdwQYm2r
-#EXTINF:-1 tvg-name="El Universo  La Gravedad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  La Gravedad
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy691t3PC68mqUy7ruTxaBt83
-#EXTINF:-1 tvg-name="El Universo  Las Constelaciones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Las Constelaciones
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy690FdWRXLRCHA4-PJ3A8U43
-#EXTINF:-1 tvg-name="El Universo  La Velocidad De La Luz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  La Velocidad De La Luz
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy6_V_rWTHkcObU6kqkvQoWD5
-#EXTINF:-1 tvg-name="El Universo  Limite Del Espacio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Limite Del Espacio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckijRYO2od3y0yc0xaNW9Sy69_EBSwv4YJ1WR0gYUL_o80
-#EXTINF:-1 tvg-name="El Universo Microscopico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo Microscopico
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmF4CYtnjnO5uZOfcY443j3m
-#EXTINF:-1 tvg-name="El Universo  Planetas Extraterrestres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Planetas Extraterrestres
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmG0t0Jh7io36nQ_X1I_ao6Q
-#EXTINF:-1 tvg-name="El Universo  Supernovas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Supernovas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmGlPjTwEHH4YSn3cCajg63v
-#EXTINF:-1 tvg-name="El Universo  Viaje Espacial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpNDCEPwLQ82MxyFgzm267BXdXe.jpg" group-title="➤ VOD DOCUMENTALES",El Universo  Viaje Espacial
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmF8LkIQvJBBmQ4hkHf2gw-f
-#EXTINF:-1 tvg-name="Iraq, el valle de los lobos - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1q1Q1R2Bf21NlfzTJiP7Su127X.jpg" group-title="➤ VOD DOCUMENTALES", el valle de los lobos - 2006
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmGncv3VtwqV8D_qHiGCLX1b
-#EXTINF:-1 tvg-name="El verdadero Tutankamon - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7Z4ASOLdTvjPuHVJWXl6D4mhS5.jpg" group-title="➤ VOD DOCUMENTALES",El verdadero Tutankamon - 2013
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmEZ8Ebu1TZSJMgBjs9iuIoq
-#EXTINF:-1 tvg-name="En Busca En Busca De La Ultima Ciudad Maya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7Z4ASOLdTvjPuHVJWXl6D4mhS5.jpg" group-title="➤ VOD DOCUMENTALES",En Busca En Busca De La Ultima Ciudad Maya
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmFuf7zD1tMrubdbn-17mnWt
-#EXTINF:-1 tvg-name="Existen Las Sirenas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7Z4ASOLdTvjPuHVJWXl6D4mhS5.jpg" group-title="➤ VOD DOCUMENTALES",Existen Las Sirenas
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmEwU1MUyaAy3-vQG-YIUtEH
-#EXTINF:-1 tvg-name="Expedientes X rusos - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQYFW8XQRSkEydPmESFjwhC99gS.jpg" group-title="➤ VOD DOCUMENTALES",Expedientes X rusos - 2014
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmHvL3cKwWF9u4lMsuoHZuR9
-#EXTINF:-1 tvg-name="Fidel Castro: las grabaciones perdidas - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMwhNz46UqzzB9VXB10cBUwmkPQ.jpg" group-title="➤ VOD DOCUMENTALES",Fidel Castro: las grabaciones perdidas - 2014
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivlj1iisK1pzqp8EDTP9hmEO3jdomzPpaFPhs2JELzvX
-#EXTINF:-1 tvg-name="Fidel Castro  Su Historia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMwhNz46UqzzB9VXB10cBUwmkPQ.jpg" group-title="➤ VOD DOCUMENTALES",Fidel Castro  Su Historia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-riOicgA8ffFlFWcmmmq7ys0
-#EXTINF:-1 tvg-name="Galapagos Genesis Punto Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMwhNz46UqzzB9VXB10cBUwmkPQ.jpg" group-title="➤ VOD DOCUMENTALES",Galapagos Genesis Punto Final
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rhm9L1B8Eo-oTY6pcPcHhi7
-#EXTINF:-1 tvg-name="Grandes Misterios Ocultos Del Vaticano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMwhNz46UqzzB9VXB10cBUwmkPQ.jpg" group-title="➤ VOD DOCUMENTALES",Grandes Misterios Ocultos Del Vaticano
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rhdlk1--j5jb6iUUnc9XeCh
-#EXTINF:-1 tvg-name="Hiroshima tras la bomba - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDiXqUU2J59fZP7XKUJchqn74yz.jpg" group-title="➤ VOD DOCUMENTALES",Hiroshima tras la bomba - 2011
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-riuvo3g3AxcGKLijqK5Vjy1
-#EXTINF:-1 tvg-name="Infierno En Gudalajara" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDiXqUU2J59fZP7XKUJchqn74yz.jpg" group-title="➤ VOD DOCUMENTALES",Infierno En Gudalajara
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-ricykqrjNS5tb058sGlOHNR
-#EXTINF:-1 tvg-name="Insectos En Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDiXqUU2J59fZP7XKUJchqn74yz.jpg" group-title="➤ VOD DOCUMENTALES",Insectos En Guerra
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rgn4EqwswsHEtu_5Zea_SHp
-#EXTINF:-1 tvg-name="Isla Foca, la isla de los secretos - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES", la isla de los secretos - 2013
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rjSSAWPMIr9__O9_Sg3gYmb
-#EXTINF:-1 tvg-name="Japon Catastrofe Imprevista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",Japon Catastrofe Imprevista
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rhGP5hWSYFkN8sgT-GhfCm5
-#EXTINF:-1 tvg-name="Jesus  Los 40 Dias Perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",Jesus  Los 40 Dias Perdidos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rg2hOwv4phaAo22dbY2sqM5
-#EXTINF:-1 tvg-name="Juego De Leones   Game Of Lion (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",Juego De Leones   Game Of Lion (2014)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckisOi_GUk5O9srPw1U7Ii-rjPHpmCLXpkVB-CMnMVzYaJ
-#EXTINF:-1 tvg-name="Komodo Tierra De Dragones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",Komodo Tierra De Dragones
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138Ic4B5VDEn3G0RfaoJnjxMbE
-#EXTINF:-1 tvg-name="La 4 compania 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La 4 compania 2016
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138Ienn9wiw8g5BkCsv1lyboK4
-#EXTINF:-1 tvg-name="La Batalla De Chile  Cap 01 la Insurreccion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Batalla De Chile  Cap 01 la Insurreccion
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138IeI4nHPpWm6FqKL8g0tTn6T
-#EXTINF:-1 tvg-name="La Batalla De Chile  Cap 02 el Golpe De Estado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Batalla De Chile  Cap 02 el Golpe De Estado
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138IfpE7EvnWEpFlJ1-5mN5mA-
-#EXTINF:-1 tvg-name="La Batalla De Chile  Cap 03 el Poder Popular" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Batalla De Chile  Cap 03 el Poder Popular
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138Iekepu0n-VXYCzMH3U_LV-A
-#EXTINF:-1 tvg-name="La Batalla De Gaugamela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Batalla De Gaugamela
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138IeW6svoc017twWncfS2t7TC
-#EXTINF:-1 tvg-name="La Bomba Atomica  70 Anos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Bomba Atomica  70 Anos
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138Id6KVgK0G5aIvsqKTCkPlId
-#EXTINF:-1 tvg-name="La Decada De Alemania Nazi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Decada De Alemania Nazi
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138Ic8KHcpww11ErSXHKHlSdkX
-#EXTINF:-1 tvg-name="La Extrordinaria Historia De Un Perro Salvaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muLWFQ50zvRORdKxw2mYZ5ezCdm.jpg" group-title="➤ VOD DOCUMENTALES",La Extrordinaria Historia De Un Perro Salvaje
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138IfxAPhlpGXxR2gewfTO9XjO
-#EXTINF:-1 tvg-name="La formación de la Tierra - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La formación de la Tierra - 2010
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiuIYFSLs28y0BB0epp138IdMbuuSEmvBy8cQkDocZI79
-#EXTINF:-1 tvg-name="La Guerra Del Tigre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Guerra Del Tigre
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gd3j1lczknP8aXmCXc4mnFR
-#EXTINF:-1 tvg-name="La Historia De Dios  Cielo E Infierno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Historia De Dios  Cielo E Infierno
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gdlf8MxMsKx1sJjm28AQhww
-#EXTINF:-1 tvg-name="La Historia De Dios  Mas Alla De La Muerte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Historia De Dios  Mas Alla De La Muerte
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gduGAeW-8QU3iyGfyhsq7WJ
-#EXTINF:-1 tvg-name="La Historia No Contada De Jesucristo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Historia No Contada De Jesucristo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gc_SPXZQS8owEYel66tAWii
-#EXTINF:-1 tvg-name="La Hormiga De Fuego" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Hormiga De Fuego
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gf6MEfFEvEYt-Gy1RdJIpnt
-#EXTINF:-1 tvg-name="La Leyenda Del Chapo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Leyenda Del Chapo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1ge7T9sqsOstOQ0GKK7ckkgD
-#EXTINF:-1 tvg-name="La Llegada Del Lobo Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Llegada Del Lobo Negro
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gfJfOck6jen8W3vX6BXTulr
-#EXTINF:-1 tvg-name="La Loba De Yellowstone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Loba De Yellowstone
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gf6vPtvSnKXPa5dsG2w7QE_
-#EXTINF:-1 tvg-name="La Manada De Perros Salvajes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Manada De Perros Salvajes
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gfVrzcuKRT2srCVohMzvDJy
-#EXTINF:-1 tvg-name="La Montana Del Misterio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Montana Del Misterio
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiinkS7ISLdpB7WnZybJG1gdLNn5-wv-GB3LJHx20MFVx
-#EXTINF:-1 tvg-name="La Peligrosa Migrasion Animal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Peligrosa Migrasion Animal
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWcdwrzmfYw2pEFhyD2HRzl5
-#EXTINF:-1 tvg-name="La Pesadilla De Hitler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjK6Mwe8ZE22bEE1kHNnh6FIklD.jpg" group-title="➤ VOD DOCUMENTALES",La Pesadilla De Hitler
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWfeVJ9Xy2Fpsn50GwSll4Cv
-#EXTINF:-1 tvg-name="La revelación de las pirámides - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",La revelación de las pirámides - 2010
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWdlZtPe7E2Lsgch4aSSwrzH
-#EXTINF:-1 tvg-name="La Revolucion Francesa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",La Revolucion Francesa
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWfTgwVlhr7sA2b5P-VlzkyD
-#EXTINF:-1 tvg-name="Las Cinco Fases Del Cambio Climatico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",Las Cinco Fases Del Cambio Climatico
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWf0CPlleLmxLh-4gx4JF_FS
-#EXTINF:-1 tvg-name="Las Mas Peligrosas Batallas Animales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",Las Mas Peligrosas Batallas Animales
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWe1yGwHTy83UNE7wS1_8vFx
-#EXTINF:-1 tvg-name="La Tentacion De Jesus De Nazaret" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",La Tentacion De Jesus De Nazaret
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWesWq3kkWcq3nvfF8C55v8c
-#EXTINF:-1 tvg-name="La Teoria Fantastica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",La Teoria Fantastica
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWfl0HtNlQbUD99ziaPwaHy2
-#EXTINF:-1 tvg-name="Latinoamerica Salvaje  Amazonia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",Latinoamerica Salvaje  Amazonia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWdUa_AWFsvCitLemrmE54hM
-#EXTINF:-1 tvg-name="Latinoamerica Salvaje  Venezuela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",Latinoamerica Salvaje  Venezuela
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckip6Yy3RGYVUA78Cv8JntTWczD8-ju3Xy7kOI0uIG5chV
-#EXTINF:-1 tvg-name="La Ultima Ofensiva De Los Nazis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQDPoJAYOF1PPdVYhS89EWJNR6u.jpg" group-title="➤ VOD DOCUMENTALES",La Ultima Ofensiva De Los Nazis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz9u0uUt3DkwmH2QW6gfsx1p
-#EXTINF:-1 tvg-name="La venganza del tigre - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqz0TbWctcqnW40rg4V4cp514wY.jpg" group-title="➤ VOD DOCUMENTALES",La venganza del tigre - 2015
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz-IwMKgd9piQ-dPhkVDMtwI
-#EXTINF:-1 tvg-name="La Verdad Sobre Adolf Hitler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqz0TbWctcqnW40rg4V4cp514wY.jpg" group-title="➤ VOD DOCUMENTALES",La Verdad Sobre Adolf Hitler
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz_zkJU2fC5kjKHECuAEsubi
-#EXTINF:-1 tvg-name="La Vida De Un Pinguino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqz0TbWctcqnW40rg4V4cp514wY.jpg" group-title="➤ VOD DOCUMENTALES",La Vida De Un Pinguino
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz-9BUBdMAWmrXbsBnSyK5t_
-#EXTINF:-1 tvg-name="La vida en juego - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL2Zu78RmTV25BNxzbQANSWNbrm.jpg" group-title="➤ VOD DOCUMENTALES",La vida en juego - 2006
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz8KZxxOkaSE-fEupGOi0cv1
-#EXTINF:-1 tvg-name="La vida secreta de Cleopatra - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",La vida secreta de Cleopatra - 2016
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz-k6b1_e89IDdNO4ZzWsijM
-#EXTINF:-1 tvg-name="Leaving Neverland (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Leaving Neverland (2019)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz96Br3TjwQUgzeCVd3rxyIW
-#EXTINF:-1 tvg-name="Lo Que El Ojo No Ve" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Lo Que El Ojo No Ve
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz_S2ti6emAk-EaP6sMilEjd
-#EXTINF:-1 tvg-name="Los Animales Mas Peligrosos Del Planeta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Los Animales Mas Peligrosos Del Planeta
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz_alNdksQBG3NP11-3V0EXV
-#EXTINF:-1 tvg-name="Los Animales Mas Raros Del Planeta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Los Animales Mas Raros Del Planeta
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimS6ejk-eYzsWIb_RFRoQz_SvHMCylyacSIXIaWSoHlS
-#EXTINF:-1 tvg-name="Los Clavos De La Cruz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Los Clavos De La Cruz
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwr-JnFD_NTPc0iksr8huLO9
-#EXTINF:-1 tvg-name="Los Cuadernos Secretos De Nuremberg" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HE2UnWwf4yXXjVYBaCGSbpR9GC.jpg" group-title="➤ VOD DOCUMENTALES",Los Cuadernos Secretos De Nuremberg
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwoPcZiFp4rHl4LL2Y-Z2ZWl
-#EXTINF:-1 tvg-name="Los misterios de Jesús - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccFBmgIizoIadrVVLicFFSkPljl.jpg" group-title="➤ VOD DOCUMENTALES",Los misterios de Jesús - 2014
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwrl_C8wIhD1gs3gP5cmunjJ
-#EXTINF:-1 tvg-name="Los Misterios De Las Catedrales Medievales" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccFBmgIizoIadrVVLicFFSkPljl.jpg" group-title="➤ VOD DOCUMENTALES",Los Misterios De Las Catedrales Medievales
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwrXjaU3TgGOsARBJejFCuPy
-#EXTINF:-1 tvg-name="Los monstruos jurásicos de Hitler - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los monstruos jurásicos de Hitler - 2014
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwpyXWtnDmQgA9ebTrUs_cVS
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  Censurado Enigmas Del Antiguo Testamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  Censurado Enigmas Del Antiguo Testamento
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwoiTgDQB1qQ6mMNsHShm05h
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  El Gran Misterio Del Diluvio Universal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  El Gran Misterio Del Diluvio Universal
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwpqGDnnkmNVubfwLp2LSuem
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  El Juicio De Jesucristo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  El Juicio De Jesucristo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwpKpvHvmFMtqJ0YE0KZQj2_
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  En Busca De Dios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  En Busca De Dios
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwrp61AL7JOBoagVgcIhoPsT
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  La Inquisicion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  La Inquisicion
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckioSLnX-UaaMDLrT8yFKrcwoMF1jVYPPcqaOlx8Gqw52G
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  La Leyenda De La Lanza Sagrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  La Leyenda De La Lanza Sagrada
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic3iYaWycyr2P-26SFKpayjh
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  La Revelacion Del Exodo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  La Revelacion Del Exodo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic0Hm_Uf69EXhXouXeBB8vZR
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  Las Profecias De La Apocalipsis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  Las Profecias De La Apocalipsis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic19VnRfcI6GKVUd62TU_0eD
-#EXTINF:-1 tvg-name="Los Secretos De La Biblia  Que Ocurrio En Sodoma Y Gomorra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Biblia  Que Ocurrio En Sodoma Y Gomorra
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic2a-KqNWzFlBWqY2rVj0Do2
-#EXTINF:-1 tvg-name="Los Secretos De La Cruz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Secretos De La Cruz
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic207WwrjWJB-I7uMaUC4LiL
-#EXTINF:-1 tvg-name="Los Verdaderos Constructores De Las Piramides" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Los Verdaderos Constructores De Las Piramides
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic0vju4q-N_3Nkd4DwP9fA33
-#EXTINF:-1 tvg-name="Machu Picchu  La Joya Del Emperador Cap 01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Machu Picchu  La Joya Del Emperador Cap 01
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic2vGDgp2c4UeKKL17u_UqCY
-#EXTINF:-1 tvg-name="Machu Picchu  La Joya Del Emperador Cap 02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Machu Picchu  La Joya Del Emperador Cap 02
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic03vGG9rPBkjpChEZkoEZH0
-#EXTINF:-1 tvg-name="Maldivas El Paraiso Del Buceo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Maldivas El Paraiso Del Buceo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic0y26VnGQOxO3_uoEssrZrH
-#EXTINF:-1 tvg-name="Mamuts Gigantes De La Edad De Hielo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i59pPCIW0V9PU65m2b8215N7czB.jpg" group-title="➤ VOD DOCUMENTALES",Mamuts Gigantes De La Edad De Hielo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivM-o3HfYn8lmQ9KpcWdic2hiO-jj28EPnkhL_fsh7s6
-#EXTINF:-1 tvg-name="Mediterráneo - 1991" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Mediterráneo - 1991
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGgbQflIaQqeNmauhrHdaVlS
-#EXTINF:-1 tvg-name="Megaestructuras Nazis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Megaestructuras Nazis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGi2wEsA8GFQhtn-K66czdBZ
-#EXTINF:-1 tvg-name="Megaterremotos  Chile (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Megaterremotos  Chile (2010)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGirTH8cXY-aE_oqIiyg7p6v
-#EXTINF:-1 tvg-name="Megaterremotos  Japon (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Megaterremotos  Japon (2011)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGigLZXwPuIIt9Y-aT3JVlkP
-#EXTINF:-1 tvg-name="Megaterremotos  Mexico (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Megaterremotos  Mexico (1985)
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGg0TG9CK7ZzEK5lSRXjk-9l
-#EXTINF:-1 tvg-name="Mercado Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Mercado Negro
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGh4-yhbjO4op9WdpXo-ANlV
-#EXTINF:-1 tvg-name="Misisipi Salvaje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMMTd4x0kfuEmA97LpHTkqUNhyt.jpg" group-title="➤ VOD DOCUMENTALES",Misisipi Salvaje
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGhoJbqlRrD-R-PWXygp6imr
-#EXTINF:-1 tvg-name="Mi vida entre las hormigas - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Mi vida entre las hormigas - 2017
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGjwm3zhxckjSXInHopibyaN
-#EXTINF:-1 tvg-name="Mujeres Que Hicieron Historia catalina La Grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Mujeres Que Hicieron Historia catalina La Grande
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGjtLNiZjkKFcKt4YaK_SOML
-#EXTINF:-1 tvg-name="Mujeres Que Hicieron Historia cleopatra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Mujeres Que Hicieron Historia cleopatra
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckimcGaKypOsc-Siq2CvWjrGi5yOanBF7xOJy5Hh2Kqkj3
-#EXTINF:-1 tvg-name="Mujeres Que Hicieron Historia isabel I" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Mujeres Que Hicieron Historia isabel I
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrVcPVe0iKel4CSsYNsVKjoh
-#EXTINF:-1 tvg-name="Mujeres Que Hicieron Historia juana De Arco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Mujeres Que Hicieron Historia juana De Arco
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrVwahbUmiC57MDAx-sm6yTv
-#EXTINF:-1 tvg-name="Nazis La Red Del Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Nazis La Red Del Mal
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrWjuwguf5YB1jjwEDLJepYa
-#EXTINF:-1 tvg-name="Osos Polares perros Y Mantis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Osos Polares perros Y Mantis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrW938KZl5FYynuwWrzRLxbD
-#EXTINF:-1 tvg-name="Pablo Escobar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9y4NKCJEjZB8lWS6tpfIRkbzeW.jpg" group-title="➤ VOD DOCUMENTALES",Pablo Escobar
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrWk8roziXaAZ1vqLga2RvMp
-#EXTINF:-1 tvg-name="Pecados de mi padre - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPcy3bINUEAlaNoEH15EyN0nAQp.jpg" group-title="➤ VOD DOCUMENTALES",Pecados de mi padre - 2009
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrVh3K9ry3TICow2kbUBBbnF
-#EXTINF:-1 tvg-name="Perro, el mejor amigo del hombre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u93aq1oRyWYrb9D43gDB6LroxR.jpg" group-title="➤ VOD DOCUMENTALES", el mejor amigo del hombre
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrWQrY9I95DL6kCH_vGmSXRM
-#EXTINF:-1 tvg-name="Pie Grande  El Analisis Definitivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u93aq1oRyWYrb9D43gDB6LroxR.jpg" group-title="➤ VOD DOCUMENTALES",Pie Grande  El Analisis Definitivo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrXSrxmDrYLZDnjBlyqVGsJ2
-#EXTINF:-1 tvg-name="¿Quién hundió al Bismarck? - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",¿Quién hundió al Bismarck? - 2010
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrUfMLMDkOiDz733bCqO1ZmS
-#EXTINF:-1 tvg-name="Rendicion  La Ultima Ofensiva De Los Nazis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Rendicion  La Ultima Ofensiva De Los Nazis
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckitw3X8kaOCI74IZduytYIrX_FgNtQrigWVR9qntQsmB4
-#EXTINF:-1 tvg-name="Rescate Extremo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Rescate Extremo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2JVw3959JkirIVb8WEORKaf
-#EXTINF:-1 tvg-name="Rosetta Aterriza Sobre Un Planeta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Rosetta Aterriza Sobre Un Planeta
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2IKRXWZ7LCXmVi0dOXigRPA
-#EXTINF:-1 tvg-name="Rumbo A Marte  Viaje Al Planeta Rojo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Rumbo A Marte  Viaje Al Planeta Rojo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2IdiIYsotF2iESPRYSl44g3
-#EXTINF:-1 tvg-name="Selva Profunda  Monstruos De La Selva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Selva Profunda  Monstruos De La Selva
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2KuQj7jpsQSGBkNZJ9l69kQ
-#EXTINF:-1 tvg-name="Selva Profunda  Nuestra Naturaleza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Selva Profunda  Nuestra Naturaleza
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2LyYT2Xcuyy2s5hoyIQsA7e
-#EXTINF:-1 tvg-name="Selva Profunda  Nuevas Fronteras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Selva Profunda  Nuevas Fronteras
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2Lweyb-0mwwIsVbhleC3u8X
-#EXTINF:-1 tvg-name="Situacion Critica Operacion Entebbe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Situacion Critica Operacion Entebbe
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2KugLnq6cMzFuNQ6WyHcPQ5
-#EXTINF:-1 tvg-name="Superdefensa Animal  Dientes Y Garras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Superdefensa Animal  Dientes Y Garras
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2J1yCP1LJtQVmU-9TuwFmBn
-#EXTINF:-1 tvg-name="Terremotos En Nepal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Terremotos En Nepal
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2Lrdm1LgkvljgaLcbSSQod4
-#EXTINF:-1 tvg-name="Tiburones Blancos Mas Peligrosos Del Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Tiburones Blancos Mas Peligrosos Del Mundo
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckiqgB4xRTo3rE2uUIErTLY2LcaNphqnRyG29T7D3lguJH
-#EXTINF:-1 tvg-name="Tragedia En El Everest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Tragedia En El Everest
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9Dss72bnQgEz4EpTA39ovbxT
-#EXTINF:-1 tvg-name="Tras El Telon De Hielo De Rusia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Tras El Telon De Hielo De Rusia
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9Ds-fq5eAw0D5PHq47wnpc73
-#EXTINF:-1 tvg-name="Turismo Vs Extinsion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cj5jsc5JAvfBeumVjVyW8x1Gmrt.jpg" group-title="➤ VOD DOCUMENTALES",Turismo Vs Extinsion
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9Dt98iW5ZTnqnEVxNgR29vpT
-#EXTINF:-1 tvg-name="Velocidad Asesina" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/da/595418.png" group-title="➤ VOD DOCUMENTALES",Velocidad Asesina
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9DshAD8XbSxoTxyMjsQkrVKC
-#EXTINF:-1 tvg-name="Viaje al interior del Holocausto - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEOclpo0e60SaovnrGGsqUhJBx9.jpg" group-title="➤ VOD DOCUMENTALES",Viaje al interior del Holocausto - 2011
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9DsvktSp1f4Xaokx8FG4f-R0
-#EXTINF:-1 tvg-name="Viaje a los limites del Universo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cX5hn0jZfamOeJuxKaXySL4XSV.jpg" group-title="➤ VOD DOCUMENTALES",Viaje a los limites del Universo - 2008
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9DsX4GPDlFAwj9neZ-jRQnZk
-#EXTINF:-1 tvg-name="Viaje a Marte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGDUTh1NUZx8pTrJ38C_1oXtYAnjA7kJ2ct67AMICVKpGBnzwM" group-title="➤ VOD DOCUMENTALES",Viaje a Marte
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9DvCwJImGdPobx1KEuQ2OwaE
-#EXTINF:-1 tvg-name="Vladimir Putin" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41wjkPokjRL._AC_SY400_.jpg" group-title="➤ VOD DOCUMENTALES",Vladimir Putin
-http://xdplayer.tv:8080/play/Vdoay4AScYfXUuhIVTckivq4LOgFvpX3cRGyJuny9DsSQZgPMFTbjIPGcGx0rL-V
