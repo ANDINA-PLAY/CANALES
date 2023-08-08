@@ -667,6 +667,12 @@ http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/226350
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304389
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★",Telerama. SD (EC)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304401
+#EXTINF:-1 tvg-name="EC | DIRECTV SPORTS SD" tvg-logo="http://line.rocket-tv.org:25461/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",EC | DIRECTV SPORTS SD
+http://i-go.tv:25461/69RocketTVesmejor666/6QVMNdJcRA/1101
+#EXTINF:-1 tvg-name="EC | DIRECTV SPORTS HD" tvg-logo="http://51.161.115.134:25461/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",EC | DIRECTV SPORTS HD
+http://i-go.tv:25461/69RocketTVesmejor666/6QVMNdJcRA/1102
+#EXTINF:-1 tvg-name="EC | DIRECTV SPORTS FHD" tvg-logo="http://51.161.115.134:25461/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",EC | DIRECTV SPORTS FHD
+http://i-go.tv:25461/69RocketTVesmejor666/6QVMNdJcRA/1103
 #EXTINF:-1 tvg-name="BEIN SPORTS ESPANOL HD" tvg-logo="https://i.picasion.com/pic92/588dca1fb4f032f6bcf4cde359f4adc5.gif" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",BEIN SPORTS ESPANOL HD
 http://playhispano.org:8080/FRANKTV/tZRPR2js4F/106373
 #EXTINF:-1 tvg-name="PERU| DIRECTV SPORT 2 HD" tvg-logo="http://playhispano.org:8080/images/90774583ba793531640321a5514beb55.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",PERU| DIRECTV SPORT 2 HD
@@ -4847,5 +4853,11 @@ http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF91d4HarWg
 http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF8ARbUegRGLjH35CasvsmKl
 #EXTINF:-1 tvg-name="Emily the Criminal" tvg-logo="http://xdplayer.tv:8080/images/6c19ed0ec6167d1c6f04bdecfc1d850f.jpg" group-title="➤ VOD ESTRENOS",Emily the Criminal
 http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF9YacOokHzZs-9229MRstHB
+#EXTINF:-1 tvg-name="Confidential Informant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCyAyqF6TKylJFuddaHtqq20b62.jpg" group-title="➤ VOD ESTRENOS",Confidential Informant (2023)
+http://gotv.vip:8880/movie/victor/mejia/160680.mkv
+#EXTINF:-1 tvg-name="Eldorado: Everything the Nazis Hate (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRxLEqRj1qEqxvfpQLtZKANmqDU.jpg" group-title="➤ VOD ESTRENOS",Eldorado: Everything the Nazis Hate (2023)
+http://gotv.vip:8880/movie/victor/mejia/160083.mp4
+#EXTINF:-1 tvg-name="Juntos pero no revueltos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg" group-title="➤ VOD ESTRENOS",Juntos pero no revueltos (2023)
+http://gotv.vip:8880/movie/victor/mejia/102084.mkv
 #EXTINF:-1 tvg-name="Time's Up!" tvg-logo="http://xdplayer.tv:8080/images/2e8eabef9b829c3061395e237c77fc16.jpg" group-title="➤ VOD ESTRENOS",Time's Up!
 http://xdplayer.tv:8080/play/oT7nkD5-0fKNeodwWLd7j7xHuUrUVxeaEvxT5BuNEF-_bsEJfs0YApm3iO4KPMfM
