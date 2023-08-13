@@ -1,36 +1,104 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Liga EA Sports Athletic Club vs Real Madrid 13:30 OPC 2" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga EA Sports Athletic Club vs Real Madrid 13:30 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133583
-#EXTINF:-1 tvg-name="Brasileirao Botafogo vs Internacional 18:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Botafogo vs Internacional 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133603
-#EXTINF:-1 tvg-name="Liga Canada Forge vs York Utd 17:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Canada Forge vs York Utd 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133605
-#EXTINF:-1 tvg-name="Liga Chile O´Higgins vs Copiapo 15:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Chile O´Higgins vs Copiapo 15:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133607
-#EXTINF:-1 tvg-name="Liga Chile U Española vs Huachipato 18:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Chile U Española vs Huachipato 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133608
-#EXTINF:-1 tvg-name="Liga Colombia Ind Santa Fe vs La Equidad 15:10" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Colombia Ind Santa Fe vs La Equidad 15:10
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133609
-#EXTINF:-1 tvg-name="Liga Colombia Junior vs Dep Pasto 17:20" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Colombia Junior vs Dep Pasto 17:20
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133610
-#EXTINF:-1 tvg-name="Liga Tica Grecia vs Sporting San Jose 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Tica Grecia vs Sporting San Jose 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133612
-#EXTINF:-1 tvg-name="Liga Tica Santos vs Liberia 18:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Tica Santos vs Liberia 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133613
-#EXTINF:-1 tvg-name="Liga Ecuador Tecnico vs El Nacional 14:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Ecuador Tecnico vs El Nacional 14:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133616
-#EXTINF:-1 tvg-name="Liga Ecuador Delfin vs Barcelona 17:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Ecuador Delfin vs Barcelona 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133617
-#EXTINF:-1 tvg-name="Liga Guatemala Municipal vs Antigua 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Guatemala Municipal vs Antigua 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133618
-#EXTINF:-1 tvg-name="Liga Panama Arabe Unido vs Tauro 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Panama Arabe Unido vs Tauro 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133620
-#EXTINF:-1 tvg-name="Liga Panama UMECIT vs Herrera 17:15" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Panama UMECIT vs Herrera 17:15
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133621
-#EXTINF:-1 tvg-name="Liga Peru Cienciano vs AD Cantolao 14:15" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Peru Cienciano vs AD Cantolao 14:15
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133624
-#EXTINF:-1 tvg-name="Liga Peru Universitario vs Binacional 18:00 " group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Peru Universitario vs Binacional 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133625
+#EXTINF:-1 tvg-name="Expansion MX Morelia vs Correcaminos 17:05" group-title="➤ EVENTOS FUTBOL HOY ⚽",Expansion MX Morelia vs Correcaminos 17:05
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133760
+#EXTINF:-1 tvg-name="Expansion MX Cimarrones vs Atlante 21:05" group-title="➤ EVENTOS FUTBOL HOY ⚽",Expansion MX Cimarrones vs Atlante 21:05
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133761
+#EXTINF:-1 tvg-name="Liga MX Fem Puebla vs Pumas 12:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga MX Fem Puebla vs Pumas 12:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133762
+#EXTINF:-1 tvg-name="Liga MX Fem Toluca vs Juarez 12:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga MX Fem Toluca vs Juarez 12:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133763
+#EXTINF:-1 tvg-name="Liga MX Fem San Luis vs Mazatlan 17:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga MX Fem San Luis vs Mazatlan 17:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133764
+#EXTINF:-1 tvg-name="Liga EA Sports Celta de Vigo vs Osasuna 09:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga EA Sports Celta de Vigo vs Osasuna 09:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133765
+#EXTINF:-1 tvg-name="Liga EA Sports Villareal vs Real Betis 11:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga EA Sports Villareal vs Real Betis 11:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133766
+#EXTINF:-1 tvg-name="Liga EA Sports Getafe vs Barcelona 13:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga EA Sports Getafe vs Barcelona 13:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133767
+#EXTINF:-1 tvg-name="Liga EA Sports Getafe vs Barcelona 13:30 OPC 2" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga EA Sports Getafe vs Barcelona 13:30 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133768
+#EXTINF:-1 tvg-name="Ligue 1 Brest vs Lens 05:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Ligue 1 Brest vs Lens 05:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133769
+#EXTINF:-1 tvg-name="Ligue 1 Clermont vs Monaco 07:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Ligue 1 Clermont vs Monaco 07:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133770
+#EXTINF:-1 tvg-name="Ligue 1 Stade Rennais vs Metz 09:05" group-title="➤ EVENTOS FUTBOL HOY ⚽",Ligue 1 Stade Rennais vs Metz 09:05
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133771
+#EXTINF:-1 tvg-name="Ligue 1 Estrasburgo vs Lyon 12:45" group-title="➤ EVENTOS FUTBOL HOY ⚽",Ligue 1 Estrasburgo vs Lyon 12:45
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133772
+#EXTINF:-1 tvg-name="Premier League Brentford vs Tottenham 07:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Premier League Brentford vs Tottenham 07:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133773
+#EXTINF:-1 tvg-name="Premier League Chelsea vs Liverpool 09:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Premier League Chelsea vs Liverpool 09:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133774
+#EXTINF:-1 tvg-name="Premier League Chelsea vs Liverpool 09:30 OPC 2" group-title="➤ EVENTOS FUTBOL HOY ⚽",Premier League Chelsea vs Liverpool 09:30 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133775
+#EXTINF:-1 tvg-name="DFB Pokal Lokomotive Leipzig vs Eintracht Frankfurt 07:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",DFB Pokal Lokomotive Leipzig vs Eintracht Frankfurt 07:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133776
+#EXTINF:-1 tvg-name="DFB Pokal Oberachern vs Friburgo 07:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",DFB Pokal Oberachern vs Friburgo 07:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133777
+#EXTINF:-1 tvg-name="DFB Pokal TuS Makkabi Berlin vs Wolfsburgo 07:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",DFB Pokal TuS Makkabi Berlin vs Wolfsburgo 07:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133778
+#EXTINF:-1 tvg-name="DFB Pokal Walldorf vs Union Berlin 10:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",DFB Pokal Walldorf vs Union Berlin 10:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133779
+#EXTINF:-1 tvg-name="Jupiler League St Truiden vs Anderlecht 05:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Jupiler League St Truiden vs Anderlecht 05:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133780
+#EXTINF:-1 tvg-name="Jupiler League Charleroi vs St Lieja 10:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Jupiler League Charleroi vs St Lieja 10:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133781
+#EXTINF:-1 tvg-name="Copa Italia Salernitana vs Ternana 09:45" group-title="➤ EVENTOS FUTBOL HOY ⚽",Copa Italia Salernitana vs Ternana 09:45
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133782
+#EXTINF:-1 tvg-name="Eredivisie Feyenoord vs Sittard 06:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Eredivisie Feyenoord vs Sittard 06:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133783
+#EXTINF:-1 tvg-name="Liga Portugal Rio Ave vs Chaves 08:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Portugal Rio Ave vs Chaves 08:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133784
+#EXTINF:-1 tvg-name="Brasileirao Atletico MG vs Bahia 08:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Atletico MG vs Bahia 08:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133785
+#EXTINF:-1 tvg-name="Brasileirao America MG vs Goias 13:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao America MG vs Goias 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133786
+#EXTINF:-1 tvg-name="Brasileirao Corinthians vs Coritiba 13:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Corinthians vs Coritiba 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133787
+#EXTINF:-1 tvg-name="Brasileirao Gremio vs Fluminense 13:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Gremio vs Fluminense 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133788
+#EXTINF:-1 tvg-name="Brasileirao Flamengo vs Sao Paulo 15:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Flamengo vs Sao Paulo 15:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133789
+#EXTINF:-1 tvg-name="Brasileirao Fortaleza vs Santos 15:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Brasileirao Fortaleza vs Santos 15:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133790
+#EXTINF:-1 tvg-name="Liga Canada Pacific vs Atl Ottawa 14:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Canada Pacific vs Atl Ottawa 14:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133791
+#EXTINF:-1 tvg-name="Liga Chile Palestino vs U Catolica 13:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Chile Palestino vs U Catolica 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133792
+#EXTINF:-1 tvg-name="Liga Chile Audax vs Everton 16:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Chile Audax vs Everton 16:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133793
+#EXTINF:-1 tvg-name="Liga Colombia America de Cali vs Ind Medellin 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Colombia America de Cali vs Ind Medellin 15:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133794
+#EXTINF:-1 tvg-name="Liga Colombia Jaguares vs Millonarios 17:10" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Colombia Jaguares vs Millonarios 17:10
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133795
+#EXTINF:-1 tvg-name="Liga Colombia Atl Nacional vs Atl Bucaramanga 19:20" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Colombia Atl Nacional vs Atl Bucaramanga 19:20
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133796
+#EXTINF:-1 tvg-name="Liga Tica Perez Zeledon vs Alajuelense 16:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Tica Perez Zeledon vs Alajuelense 16:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133797
+#EXTINF:-1 tvg-name="Liga Tica Puntarenas vs Saprissa 18:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Tica Puntarenas vs Saprissa 18:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133798
+#EXTINF:-1 tvg-name="Liga Ecuador Ind del Valle vs Cumbaya 12:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Ecuador Ind del Valle vs Cumbaya 12:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133799
+#EXTINF:-1 tvg-name="Liga Ecuador Emelec vs Orense 14:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Ecuador Emelec vs Orense 14:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133800
+#EXTINF:-1 tvg-name="Liga Ecuador Aucas vs LDU Quito 17:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Ecuador Aucas vs LDU Quito 17:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133801
+#EXTINF:-1 tvg-name="Liga El Salvador Dragon vs Municipal Limeño 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga El Salvador Dragon vs Municipal Limeño 15:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133802
+#EXTINF:-1 tvg-name="Liga Guatemala Comunicaciones vs Coban Imperial 18:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Guatemala Comunicaciones vs Coban Imperial 18:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133803
+#EXTINF:-1 tvg-name="Liga Honduras Motagua vs Marathon 17:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Honduras Motagua vs Marathon 17:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133804
+#EXTINF:-1 tvg-name="Liga Panama Plaza Amador vs Sporting SM 15:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Panama Plaza Amador vs Sporting SM 15:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133805
+#EXTINF:-1 tvg-name="Liga Panama San Francisco vs Chiriqui 17:15" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Panama San Francisco vs Chiriqui 17:15
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133806
+#EXTINF:-1 tvg-name="Liga Peru Sporting Cristal vs Dep Garcilaso 12:00" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Peru Sporting Cristal vs Dep Garcilaso 12:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133807
+#EXTINF:-1 tvg-name="Liga Peru Cusco vs Alianza Lima 14:15" group-title="➤ EVENTOS FUTBOL HOY ⚽",Liga Peru Cusco vs Alianza Lima 14:15
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133808
+#EXTINF:-1 tvg-name="2da España Albacete vs Espanyol 11:30" group-title="➤ EVENTOS FUTBOL HOY ⚽",2da España Albacete vs Espanyol 11:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/133813
 #EXTINF:-1 tvg-name="GOLTV ECU FHD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",GOLTV ECU FHD
 http://quebuscasaqui.xyz:8080/Leafar/CfQE5BM66H/3049
 #EXTINF:-1 tvg-name="GOLTV ECU HD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",GOLTV ECU HD
