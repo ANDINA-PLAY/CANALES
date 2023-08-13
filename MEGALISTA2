@@ -1585,414 +1585,188 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/166505.ts
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/329747.ts
 #EXTINF:-1 group-title="➤ ZONA ENTRETENIMIENTO",DIRECTO : ESTRELLA TV
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/K56Rfmq88/92436.ts
-#EXTINF:-1 tvg-id="A&E *FHD" tvg-name="A&E *LQ" tvg-logo="http://xdplayer.tv:8080/images/7887eeac012ecf9e1668e4b92047bd1f.png" group-title="➤ ZONA Lite",A&E *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoJwiKk0_5zJ4pKQA3qUJKM/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="A3 SERIES *LQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/438913b0e48890c0453bee096516bb50" group-title="➤ ZONA Lite",A3 SERIES *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWohsTv3eaSHSc6tGLMVLBTN/ts
-#EXTINF:-1 tvg-id="AMC *HQ" tvg-name="AMC *LQ" tvg-logo="http://xdplayer.tv:8080/images/838bbda54f145e4dc114bb4d2275854a.png" group-title="➤ ZONA Lite",AMC *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpmDCcLbwLY-fXN0DH0hk_4/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="ANIMAL PLANET *LQ" tvg-logo="http://xdplayer.tv:8080/images/4ec374beecaa379e7422f06e578ab8ab.png" group-title="➤ ZONA Lite",ANIMAL PLANET *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoU5QC2bmLa_tDRd81E7nzY/ts
-#EXTINF:-1 tvg-id="AXN *HD" tvg-name="AXN *LQ" tvg-logo="http://xdplayer.tv:8080/images/355e47e0ea6d752353ee7604c39edbb1.png" group-title="➤ ZONA Lite",AXN *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoGvxSJWWgl3KvuO83X7FCh/ts
-#EXTINF:-1 tvg-id="BABY TV *HD" tvg-name="BABY TV *LQ" tvg-logo="http://xdplayer.tv:8080/images/e0ab1ac4333a7732e2b442a9c2e7045f.png" group-title="➤ ZONA Lite",BABY TV *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpnUjSBO12cuae_fB2cLpFd/ts
-#EXTINF:-1 tvg-id="BOOMERANG *HD" tvg-name="CARTOONITO *LQ" tvg-logo="http://xdplayer.tv:8080/images/a72b7c8672b555d84b9c20e04ff5e410.png" group-title="➤ ZONA Lite",CARTOONITO *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrkFl231F7ldqHMdTLDyBgB/ts
-#EXTINF:-1 tvg-id="CARTOON NETWORK *FHD" tvg-name="CARTOON NETWORK *LQ" tvg-logo="http://xdplayer.tv:8080/images/a8c4d83290a13476b6eff35ebfc1f408.jpg" group-title="➤ ZONA Lite",CARTOON NETWORK *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqsaXeSQEjN91O0Zy2kMDpL/ts
-#EXTINF:-1 tvg-id="CINECANAL *HQ" tvg-name="CINECANAL *LQ" tvg-logo="http://xdplayer.tv:8080/images/ad18cf13ec8a5fd3a25e6733b3bc27aa.png" group-title="➤ ZONA Lite",CINECANAL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpR6MgAfW2aRzP9ybrfxup-/ts
-#EXTINF:-1 tvg-id="CINEMAX *HD" tvg-name="CINEMAX *LQ" tvg-logo="http://xdplayer.tv:8080/images/9fc95116294080eea56e73c430893410.png" group-title="➤ ZONA Lite",CINEMAX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrO6MiSZNPtpI-MWxXChvxu/ts
-#EXTINF:-1 tvg-id="NT | CNN ESPANOL *HQ" tvg-name="CNN EN ESPAÑOL *LQ" tvg-logo="http://xdplayer.tv:8080/images/276d2795bb8e31d28e56c7419f5c451c.png" group-title="➤ ZONA Lite",CNN EN ESPAÑOL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoRQCCbOIKpvGs2l_H-Q1C5/ts
-#EXTINF:-1 tvg-id="NT | CNN INTERNACIONAL *HD" tvg-name="CNN INTERNACIONAL *LQ" tvg-logo="http://xdplayer.tv:8080/images/276d2795bb8e31d28e56c7419f5c451c.png" group-title="➤ ZONA Lite",CNN INTERNACIONAL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpAZX3ii-56a6JPqvfhyQHN/ts
-#EXTINF:-1 tvg-id="COMEDY CENTRAL *HQ" tvg-name="COMEDY CENTRAL *LQ" tvg-logo="http://xdplayer.tv:8080/images/2d1ed8d497cee1fba0b92ed6841617a0.jpg" group-title="➤ ZONA Lite",COMEDY CENTRAL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqmGAja1FzuIa5FgENVLlk0/ts
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL *HD" tvg-name="DISCOVERY CHANNEL *LQ" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="➤ ZONA Lite",DISCOVERY CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrl3-33uyqm21Pe98ftcuNX/ts
-#EXTINF:-1 tvg-id="DISCOVERY H&H *FHD" tvg-name="DISCOVERY H&H *LQ" tvg-logo="http://xdplayer.tv:8080/images/00853c475eb7e0aab2cde4abf7ad0b5a.jpg" group-title="➤ ZONA Lite",DISCOVERY H&H *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqKsIsZ7skgWxdf1EDDbCuS/ts
-#EXTINF:-1 tvg-id="DISCOVERY ID *FHD" tvg-name="DISCOVERY ID *LQ" tvg-logo="http://xdplayer.tv:8080/images/fb326a33d85996dee8b844eb70c9b91c.jpg" group-title="➤ ZONA Lite",DISCOVERY ID *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqr-0lQxf0Q2_PJiXOP84jz/ts
-#EXTINF:-1 tvg-id="DISCOVERY KIDS *FHD" tvg-name="DISCOVERY KIDS *LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSP1gFlhafzwSNhBkAtfX_ZOSG3YxfFuFePgX7PKLjgp3Nn9wCU&usqp=CAU" group-title="➤ ZONA Lite",DISCOVERY KIDS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWosICkjzgsPhN6JceF8_mlY/ts
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE *HD" tvg-name="DISCOVERY SCIENCE *LQ" tvg-logo="http://xdplayer.tv:8080/images/e744773f73a273e4506b0c5c0867b44a.jpg" group-title="➤ ZONA Lite",DISCOVERY SCIENCE *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqa6vwJBoe8GZ9QdVZn-dlI/ts
-#EXTINF:-1 tvg-id="DISCOVERY THEATER *FHD" tvg-name="DISCOVERY THEATER *LQ" tvg-logo="http://xdplayer.tv:8080/images/7db7a771e188a9f2c05dc91f288d2446.png" group-title="➤ ZONA Lite",DISCOVERY THEATER *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWo2bdnV3Jelz01_Yi8ciTn7/ts
-#EXTINF:-1 tvg-id="DISCOVERY TURBO *HD" tvg-name="DISCOVERY TURBO *LQ" tvg-logo="http://xdplayer.tv:8080/images/d1090190651d19b191d6138625f260be.jpg" group-title="➤ ZONA Lite",DISCOVERY TURBO *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr9mO8fjLU32hVgQ5M0U-KS/ts
-#EXTINF:-1 tvg-id="DISCOVERY WORLD *FHD" tvg-name="DISCOVERY WORLD *LQ" tvg-logo="http://xdplayer.tv:8080/images/c63e9d143c223108eee290ebe335a9a3.png" group-title="➤ ZONA Lite",DISCOVERY WORLD *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpxLI1pIrjlqnOLx0Xl3Ak2/ts
-#EXTINF:-1 tvg-id="DISNEY CHANNEL *HQ" tvg-name="DISNEY CHANNEL *LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="➤ ZONA Lite",DISNEY CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpUjGBoggfXHSBGHX7_U2H-/ts
-#EXTINF:-1 tvg-id="DISNEY JR *HD" tvg-name="DISNEY JR *LQ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="➤ ZONA Lite",DISNEY JR *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpJ1ul5pwjRV8N24u_8SKzM/ts
-#EXTINF:-1 tvg-id="DW *FHD" tvg-name="DW *LQ" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="➤ ZONA Lite",DW *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpnH-0oC8ZlseXgUl5GkeJn/ts
-#EXTINF:-1 tvg-id="E! ENTERTAIMENT *HD" tvg-name="E! ENTERTAINMENT *LQ" tvg-logo="http://xdplayer.tv:8080/images/d76f6ae7ced0b9fd7e6804c076181e61.png" group-title="➤ ZONA Lite",E! ENTERTAINMENT *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrEBeNT99Tpa4vIfTWJgNIE/ts
-#EXTINF:-1 tvg-id="ESPN + MX *HQ" tvg-name="ESPN + *LQ" tvg-logo="http://xdplayer.tv:8080/images/1888c2779686964add19abb957efd321.png" group-title="➤ ZONA Lite",ESPN + *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpcrfps0NW5plpVAdEW7Ja0/ts
-#EXTINF:-1 tvg-id="ESPN MX *HQ" tvg-name="ESPN MX *LQ" tvg-logo="http://xdplayer.tv:8080/images/872b313f249158777177f4312a986987.png" group-title="➤ ZONA Lite",ESPN MX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrB4EW-162B_1M4AFIz5HMW/ts
-#EXTINF:-1 tvg-id="ESPN 2 MX *FHD" tvg-name="ESPN 2 MX *LQ" tvg-logo="http://xdplayer.tv:8080/images/9c81dab2a11b8890fccb55ef39dfc0d9.png" group-title="➤ ZONA Lite",ESPN 2 MX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrKv2rcLwNkAI80mBjru_B0/ts
-#EXTINF:-1 tvg-id="ESPN 2 SUR *HD" tvg-name="ESPN 2 SUR *LQ" tvg-logo="http://xdplayer.tv:8080/images/9c81dab2a11b8890fccb55ef39dfc0d9.png" group-title="➤ ZONA Lite",ESPN 2 SUR *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrSqCbTYdVA0IXpm725fp_-/ts
-#EXTINF:-1 tvg-id="ESPN 3 MX *FHD" tvg-name="ESPN 3 MX *LQ" tvg-logo="http://xdplayer.tv:8080/images/7c96c28e882fe7b9b9bcae37261d4af0.png" group-title="➤ ZONA Lite",ESPN 3 MX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr7MH-bwObT0zcUfeCXc02x/ts
-#EXTINF:-1 tvg-id="EUROPA EUROPA *HD" tvg-name="EUROPA EUROPA *LQ" tvg-logo="http://xdplayer.tv:8080/images/9d8ddd888776270aa170abaac9ccceec.png" group-title="➤ ZONA Lite",EUROPA EUROPA *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrGnMAQTr_UeB7aCdKao6nU/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="FILM ARTS *LQ" tvg-logo="http://xdplayer.tv:8080/images/3f55e57d335abc21f1424d9f251b1104.png" group-title="➤ ZONA Lite",FILM ARTS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrdmTCTJLfHgUx8ItChBmNc/ts
-#EXTINF:-1 tvg-id="FOOD NETWORK *HD" tvg-name="FOOD NETWORK *LQ" tvg-logo="http://xdplayer.tv:8080/images/84cace47944e78bd36be9e971ed440cc.png" group-title="➤ ZONA Lite",FOOD NETWORK *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqR4AY6rZuIeOxWvkjUZdtp/ts
-#EXTINF:-1 tvg-id="STAR CHANNEL *HQ" tvg-name="STAR CHANNEL *LQ" tvg-logo="http://xdplayer.tv:8080/images/e7ab538744da7c04bd2af6a8f257f0ba.png" group-title="➤ ZONA Lite",STAR CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoz6tR21C1tR-XFGb8Ay7u_/ts
-#EXTINF:-1 tvg-id="NT | FOX NEWS *HD" tvg-name="FOX NEWS *LQ" tvg-logo="http://xdplayer.tv:8080/images/a1c7be470e57bf9851a3ca4177cb0c5c.png" group-title="➤ ZONA Lite",FOX NEWS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr39FXJSVBtEck32NkJ4SPZ/ts
-#EXTINF:-1 tvg-id="UNIVERSAL CRIME *HD | op2" tvg-name="UNIVERSAL CRIME *LQ" tvg-logo="http://xdplayer.tv:8080/images/8274c6f4d40364d4627b6858de163ba1.png" group-title="➤ ZONA Lite",UNIVERSAL CRIME *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqSnUIZRfNhhX0haeE3IzxO/ts
-#EXTINF:-1 tvg-id="UNIVERSAL CINEMA *HQ" tvg-name="UNIVERSAL CINEMA *LQ" tvg-logo="http://xdplayer.tv:8080/images/c1d397ac80b264ca1e7dd1182a125282.png" group-title="➤ ZONA Lite",UNIVERSAL CINEMA *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqHkIoz37614HBZXIfoCH4k/ts
-#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE *FHD" tvg-name="UNIVERSAL PREMIERE *LQ" tvg-logo="http://xdplayer.tv:8080/images/0387789fda401c7f28a7217f34f6ad7f.png" group-title="➤ ZONA Lite",UNIVERSAL PREMIERE *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWo5tyiJ0u9lRyKv92SXybqV/ts
-#EXTINF:-1 tvg-id="FOX SPORTS 1 MX *FHD" tvg-name="FOX SPORTS 1 MX *LQ" tvg-logo="http://xdplayer.tv:8080/images/e171d72380b8c432416153fda91d4893.jpg" group-title="➤ ZONA Lite",FOX SPORTS 1 MX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpDZdG12U0Nc563_qBD7oVE/ts
-#EXTINF:-1 tvg-id="FOX SPORTS 2 AR *FHD" tvg-name="FOX SPORTS 2 AR *LQ" tvg-logo="http://xdplayer.tv:8080/images/c424571af2cf420f4331c6ac81394bb4.png" group-title="➤ ZONA Lite",FOX SPORTS 2 AR *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrV-0-JnHrVB5150T-KoGcK/ts
-#EXTINF:-1 tvg-id="FOX SPORTS 2 MX *HD" tvg-name="FOX SPORTS 2 MX *LQ" tvg-logo="http://xdplayer.tv:8080/images/c424571af2cf420f4331c6ac81394bb4.png" group-title="➤ ZONA Lite",FOX SPORTS 2 MX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqo2-IbptL2FJ8KihP_Tcza/ts
-#EXTINF:-1 tvg-id="FOX SPORTS 3 AR *FHD" tvg-name="FOX SPORTS 3 AR *LQ" tvg-logo="http://xdplayer.tv:8080/images/e171d72380b8c432416153fda91d4893.jpg" group-title="➤ ZONA Lite",FOX SPORTS 3 AR *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWo9dzqRl0uYE4DbOB69vlQh/ts
-#EXTINF:-1 tvg-id="FX *HD" tvg-name="FX *LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlmmXnsW5hqqhPFniYa3xcR8HeQtNjjkSjL5ji_TG5i8jSrXq&s" group-title="➤ ZONA Lite",FX *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpTQ7w9ra3rCm4djI2jCsAC/ts
-#EXTINF:-1 tvg-id="EL GOURMET *FHD" tvg-name="GOURMET *LQ" tvg-logo="http://xdplayer.tv:8080/images/6b2e66cfda53181b82d0008f60882d1e.png" group-title="➤ ZONA Lite",GOURMET *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpkQj083gNC3wXcSCqee5dv/ts
-#EXTINF:-1 tvg-id="H2 *HD" tvg-name="H2 *LQ" tvg-logo="http://xdplayer.tv:8080/images/07ed1efcf78160f62ba3bee8605c127c.png" group-title="➤ ZONA Lite",H2 *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoIdxEVuVY_17NsFWKFf2fm/ts
-#EXTINF:-1 tvg-id="HBO *HQ" tvg-name="HBO *LQ" tvg-logo="http://xdplayer.tv:8080/images/8d2e452d05564910a008b7fd7edff240.png" group-title="➤ ZONA Lite",HBO *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoWfyEbdNFPsdwJJDPhQ6V7/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="HBO + *LQ" tvg-logo="http://xdplayer.tv:8080/images/7bcda577a7e696b923437195afb56d77.png" group-title="➤ ZONA Lite",HBO + *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoUrw3Ck36ytC-_P73UK_YV/ts
-#EXTINF:-1 tvg-id="HBO 2 *HD" tvg-name="HBO 2 *LQ" tvg-logo="http://xdplayer.tv:8080/images/faa7e961d242f50455ada329016e53b1.png" group-title="➤ ZONA Lite",HBO 2 *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqt1f7xXqo4ZqggcsvB_AJM/ts
-#EXTINF:-1 tvg-id="HBO FAMILY *HQ" tvg-name="HBO FAMILY *LQ" tvg-logo="http://xdplayer.tv:8080/images/41af9d0a2c972e8199dda68ab49a9626.png" group-title="➤ ZONA Lite",HBO FAMILY *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpeD5zfX43o3pb6qaT-h3Tg/ts
-#EXTINF:-1 tvg-id="HBO MUNDI *HD" tvg-name="HBO MUNDI *LQ" tvg-logo="http://xdplayer.tv:8080/images/629ddeb0d7cd5fce4e788eaaa8de56a9.png" group-title="➤ ZONA Lite",HBO MUNDI *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWppaiUK4K9MtG-gH2c8FXge/ts
-#EXTINF:-1 tvg-id="HBO POP *HD" tvg-name="HBO POP *LQ" tvg-logo="http://xdplayer.tv:8080/images/181337454454399575b3af099ec02801.png" group-title="➤ ZONA Lite",HBO POP *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoPDzy-Kz939E764c-LOt4N/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="HBO SIGNATURE *LQ" tvg-logo="http://xdplayer.tv:8080/images/cafc7d0f8a734ae8897b427d7f399992.png" group-title="➤ ZONA Lite",HBO SIGNATURE *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWojMTTtCffmStny6lz9TGaK/ts
-#EXTINF:-1 tvg-id="HBO XTREME *LQ" tvg-name="HBO XTREME *LQ" tvg-logo="http://xdplayer.tv:8080/images/3f18946e2bb0342fdcbbeea5767668e6.png" group-title="➤ ZONA Lite",HBO XTREME *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrjrQMb7ToYyI5WA4_mlJjH/ts
-#EXTINF:-1 tvg-id="HISTORY *HQ" tvg-name="HISTORY *LQ" tvg-logo="http://xdplayer.tv:8080/images/0348d8fdb3b2bc9015dda6659bd9e354.jpg" group-title="➤ ZONA Lite",HISTORY *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr-WZ5VKsv-vNp9BnSDYRQ5/ts
-#EXTINF:-1 tvg-id="HOLA TV *HQ" tvg-name="HOLA TV *LQ" tvg-logo="https://yt3.ggpht.com/a/AATXAJze-5NY0fYd6Kbh1_HPeYEy5_RwPiHoH538_w=s900-c-k-c0xffffffff-no-rj-mo" group-title="➤ ZONA Lite",HOLA TV *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrlvtz5oyW02AP5OrghlotB/ts
-#EXTINF:-1 tvg-id="ISAT *FHD" tvg-name="ISAT *LQ" tvg-logo="http://xdplayer.tv:8080/images/d8d521df06002cf4a3789cea4d13abe0.jpg" group-title="➤ ZONA Lite",ISAT *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqiJnYps6fqeyUQ-RNEHtvt/ts
-#EXTINF:-1 tvg-id="LIFETIME *HQ" tvg-name="LIFETIME *LQ" tvg-logo="http://xdplayer.tv:8080/images/b93a41f9f1dd5ee503c60f32ce0ccc58.png" group-title="➤ ZONA Lite",LIFETIME *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqCpgXMx49rgc9sJdtwLxVf/ts
-#EXTINF:-1 tvg-id="MAS CHIC *HD" tvg-name="MAS CHIC *LQ" tvg-logo="http://xdplayer.tv:8080/images/5118bcfb6836c79c5e238dfacd45c2e6.jpg" group-title="➤ ZONA Lite",MAS CHIC *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpzQiDEHtkd8aQutscomKIQ/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="MTV *LQ" tvg-logo="http://xdplayer.tv:8080/images/90176b6b09a3da152eaa9e141b6e28c2.jpg" group-title="➤ ZONA Lite",MTV *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWogu3M9OVUsSYNWLBO5ngbd/ts
-#EXTINF:-1 tvg-id="MU | MTV HITS *HD" tvg-name="MTV HITS *LQ" tvg-logo="http://xdplayer.tv:8080/images/e9eda3235bd73552d435181b654ab4c7.jpg" group-title="➤ ZONA Lite",MTV HITS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqJ2ZWuQ014h9e432VlTjSv/ts
-#EXTINF:-1 tvg-id="NAT GEO *HQ" tvg-name="NAT GEO *LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6sKoM7tnvf5f_c1C5gh3BUf9AgjPyEBAYY7SxznSK12qRq1K4&usqp=CAU" group-title="➤ ZONA Lite",NAT GEO *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoirgCz8HdnDJqfyD6nZyk1/ts
-#EXTINF:-1 tvg-id="NICKELODEON *HD" tvg-name="NICK *LQ" tvg-logo="http://xdplayer.tv:8080/images/30c423752a2a1150ce24e5f68432936b.jpg" group-title="➤ ZONA Lite",NICK *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpmSZvzDhugfeThCer161vf/ts
-#EXTINF:-1 tvg-id="NICK JR *HQ" tvg-name="NICK JR *LQ" tvg-logo="http://xdplayer.tv:8080/images/8dbda79cae2a7db2225f4a44ef0d6fb3.jpg" group-title="➤ ZONA Lite",NICK JR *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrwxko0Zv8vU06RDy5OqGa4/ts
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL *HD" tvg-name="PARAMOUNT CHANNEL *LQ" tvg-logo="https://images.istreamplanet.net/w_222.22222222222223,c_limit/dtv-latam-prod/f30511e4-0495-4bf3-aaf4-d1188c9b615b.png" group-title="➤ ZONA Lite",PARAMOUNT CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWr7kRvdog21yYVFVle3Re_G/ts
-#EXTINF:-1 tvg-id="SONY *FHD" tvg-name="SONY CHANNEL *LQ" tvg-logo="http://xdplayer.tv:8080/images/ac8fd7ea0deebaf2b5437dd858c1f4d7.png" group-title="➤ ZONA Lite",SONY CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqNUm-Y1eXYyTw3SXRzMFyk/ts
-#EXTINF:-1 tvg-id="SPACE *HD" tvg-name="SPACE *LQ" tvg-logo="http://xdplayer.tv:8080/images/911bb9e65ee933b9a1f0d5df349bee17.png" group-title="➤ ZONA Lite",SPACE *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqjeIKGELkjgYN_yiKzX3Ln/ts
-#EXTINF:-1 tvg-id="UR | TV CIUDAD  *HD" tvg-name="STUDIO UNIVERSAL *LQ" tvg-logo="http://xdplayer.tv:8080/images/1c9dbf2b2b17a1badbac7be4a425033d.jpg" group-title="➤ ZONA Lite",STUDIO UNIVERSAL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWo187b1abyZ6JUFy2tR4rRd/ts
-#EXTINF:-1 tvg-id="SYFY *FHD" tvg-name="SYFY *LQ" tvg-logo="http://xdplayer.tv:8080/images/852320e936187b782c86c793ecfb8e7a.png" group-title="➤ ZONA Lite",SYFY *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpuBd74NXyfEEgNvSNo9J05/ts
-#EXTINF:-1 tvg-id="TBS *HD" tvg-name="TNT NOVELAS *LQ" tvg-logo="http://xdplayer.tv:8080/images/13c42a7b1a92a8757d8df59da8ba88a7.png" group-title="➤ ZONA Lite",TNT NOVELAS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqiDgegGqut9Ut7B9gtRtMJ/ts
-#EXTINF:-1 tvg-id="TCM *HD" tvg-name="TCM *LQ" tvg-logo="http://xdplayer.tv:8080/images/7ce0bcf52242e7a1a23522dbd6b97de8.png" group-title="➤ ZONA Lite",TCM *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoSqwqL0VRMOAbtIOQnqcrV/ts
-#EXTINF:-1 tvg-id="Telemundo *HD" tvg-name="TELEMUNDO *LQ" tvg-logo="http://xdplayer.tv:8080/images/0577a5173f276bd84f70635cfb330d14.png" group-title="➤ ZONA Lite",TELEMUNDO *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWo4rTXjpmiLortLlCAKxz1B/ts
-#EXTINF:-1 tvg-id="TLC *HD" tvg-name="TLC *LQ" tvg-logo="http://xdplayer.tv:8080/images/fad88763da8caecf19613cb6ebdd2141.jpg" group-title="➤ ZONA Lite",TLC *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoL0hBM0_YpdQ36q3EfvBoe/ts
-#EXTINF:-1 tvg-id="TNT *HD" tvg-name="TNT *LQ" tvg-logo="http://xdplayer.tv:8080/images/f0c24b631d3dc2a2c67037afa479dfa7.png" group-title="➤ ZONA Lite",TNT *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoG-snA_V5FIlXv7VaM4rfx/ts
-#EXTINF:-1 tvg-id="TNT SERIES *HD" tvg-name="TNT SERIES *LQ" tvg-logo="http://xdplayer.tv:8080/images/d53fbdc8e277e5f522b62a12dc3b48f5.png" group-title="➤ ZONA Lite",TNT SERIES *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrCxJ8IZVTtozWskUDZdbEm/ts
-#EXTINF:-1 tvg-id="TOONCAST *HQ" tvg-name="TOONCAST *LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5hGtT9wHnbokr81Euv4xeyJG44Npg8Ewr9t6B5UCnfSn2zGQx&usqp=CAU" group-title="➤ ZONA Lite",TOONCAST *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqeOOw-C2JgNC-soYAXwDtr/ts
-#EXTINF:-1 tvg-id="TRU TV *HQ" tvg-name="TRUTV *LQ" tvg-logo="https://pbs.twimg.com/profile_images/783396433022058496/Du8u4Xxe_400x400.jpg" group-title="➤ ZONA Lite",TRUTV *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWpeiUa6aO3WZxDvqDuDYpvD/ts
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL *HD" tvg-name="UNIVERSAL CHANNEL *LQ" tvg-logo="http://xdplayer.tv:8080/images/615d4938c46e7b96e0cadfa8d5ad8868.png" group-title="➤ ZONA Lite",UNIVERSAL CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrzFTHjCyH21Q0cmoCOwDav/ts
-#EXTINF:-1 tvg-id="MU | VH1 *HD" tvg-name="VH1 *LQ" tvg-logo="http://xdplayer.tv:8080/images/bf9653e3f7462d8893bdc82b455db56d.png" group-title="➤ ZONA Lite",VH1 *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWoEXXIgu266zefTpFagPOvG/ts
-#EXTINF:-1 tvg-id="MU | VH1 MEGAHITS *HD" tvg-name="VH1 MEGAHITS *LQ" tvg-logo="http://xdplayer.tv:8080/images/15142038613b92983f5e0a5545ebcfcd.png" group-title="➤ ZONA Lite",VH1 MEGAHITS *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWqLzrmeNcAVR6ouHoltvhVy/ts
-#EXTINF:-1 tvg-id="WARNER CHANNEL *HD" tvg-name="WARNER CHANNEL *LQ" tvg-logo="http://xdplayer.tv:8080/images/a51dd99a4bce9b47015e4c4bc80a93cb.png" group-title="➤ ZONA Lite",WARNER CHANNEL *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrav9uVHVb2JOLt82GubLxl/ts
-#EXTINF:-1 tvg-id="ANTENA 3 *FHD" tvg-name="ANTENA 3 *LQ" tvg-logo="http://xdplayer.tv:8080/images/69789821fb7ef3b27d4a633ae7900463.png" group-title="➤ ZONA Lite",ANTENA 3 *LQ
-http://xdplayer.tv:8080/play/7dpfDAnk01sthlWWYxK-V3Wpf29aiJwZMLQGdP5FvWrwVF0fEf380Bi1fjv23bti/ts
-#EXTINF:-1 tvg-name="Latino | A&E" tvg-logo="https://i.imgur.com/FSnjXBZ.png" group-title="➤ ZONA Lite",Latino | A&E
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372607
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="Latino | A3S" tvg-logo="http://lonewolftvpr.com/logos/a3s.png" group-title="➤ ZONA Lite",Latino | A3S
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372608
-#EXTINF:-1 tvg-name="Latino | ADN40" tvg-logo="http://lonewolftvpr.com/logos/adn40.png" group-title="➤ ZONA Lite",Latino | ADN40
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372609
-#EXTINF:-1 tvg-name="Latino | Adrenalina Sports Network" tvg-logo="https://i.ibb.co/ph8HBMh/adre.png" group-title="➤ ZONA Lite",Latino | Adrenalina Sports Network
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372610
-#EXTINF:-1 tvg-name="Latino | AMC" tvg-logo="https://i.imgur.com/dcOciyn.png" group-title="➤ ZONA Lite",Latino | AMC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372611
-#EXTINF:-1 tvg-name="Latino | America TV" tvg-logo="https://i.imgur.com/KZUpi3m.png" group-title="➤ ZONA Lite",Latino | America TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372612
-#EXTINF:-1 tvg-name="Latino | Animal Planet" tvg-logo="https://i.imgur.com/93dLXAf.png" group-title="➤ ZONA Lite",Latino | Animal Planet
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372613
-#EXTINF:-1 tvg-name="Latino | Antena 3" tvg-logo="http://lonewolftvpr.com/logos/antena.png" group-title="➤ ZONA Lite",Latino | Antena 3
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372614
-#EXTINF:-1 tvg-name="Latino | AXN" tvg-logo="http://lonewolftvpr.com/logos/axn.png" group-title="➤ ZONA Lite",Latino | AXN
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372615
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="Latino | AXN White" tvg-logo="http://lonewolftvpr.com/logos/axnw.png" group-title="➤ ZONA Lite",Latino | AXN White
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372616
-#EXTINF:-1 tvg-name="Latino | AZ Cinema" tvg-logo="http://lonewolftvpr.com/logos/Azcinema.png" group-title="➤ ZONA Lite",Latino | AZ Cinema
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372617
-#EXTINF:-1 tvg-name="Latino | AZ Corazon" tvg-logo="http://lonewolftvpr.com/logos/azcorazon.png" group-title="➤ ZONA Lite",Latino | AZ Corazon
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372618
-#EXTINF:-1 tvg-name="Latino | AZ Mundo" tvg-logo="http://lonewolftvpr.com/logos/azmundo.png" group-title="➤ ZONA Lite",Latino | AZ Mundo
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372619
-#EXTINF:-1 tvg-name="Latino | Azteca 1" tvg-logo="http://lonewolftvpr.com/logos/azteca1.png" group-title="➤ ZONA Lite",Latino | Azteca 1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372620
-#EXTINF:-1 tvg-name="Latino | Azteca 7" tvg-logo="http://lonewolftvpr.com/logos/azteca7.png" group-title="➤ ZONA Lite",Latino | Azteca 7
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372621
-#EXTINF:-1 tvg-name="Latino | beIN Sports" tvg-logo="http://lonewolftvpr.com/logos/beinsports.png" group-title="➤ ZONA Lite",Latino | beIN Sports
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372622
-#EXTINF:-1 tvg-name="Latino | beIN Sports La Liga" tvg-logo="http://lonewolftvpr.com/logos/beinlaliga.png" group-title="➤ ZONA Lite",Latino | beIN Sports La Liga
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372623
-#EXTINF:-1 tvg-name="Latino | Cartoonito" tvg-logo="https://i.imgur.com/VhrakNv.png" group-title="➤ ZONA Lite",Latino | Cartoonito
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372624
-#EXTINF:-1 tvg-name="Latino | Canal 11" tvg-logo="http://lonewolftvpr.com/logos/canal11.png" group-title="➤ ZONA Lite",Latino | Canal 11
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372625
-#EXTINF:-1 tvg-name="Latino | Canal 5" tvg-logo="https://i.ibb.co/smd2pzG/5.png" group-title="➤ ZONA Lite",Latino | Canal 5
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372626
-#EXTINF:-1 tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://lonewolftvpr.com/logos/canaldelasestrellas.png" group-title="➤ ZONA Lite",Latino | Canal De Las Estrellas
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372627
-#EXTINF:-1 tvg-name="Latino | Caracol" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" group-title="➤ ZONA Lite",Latino | Caracol
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372628
-#EXTINF:-1 tvg-name="Latino | Caracol Int" tvg-logo="http://lonewolftvpr.com/logos/caracol.png" group-title="➤ ZONA Lite",Latino | Caracol Int
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372629
-#EXTINF:-1 tvg-name="Latino | Cartoon Network" tvg-logo="https://i.imgur.com/ry0rCq5.png" group-title="➤ ZONA Lite",Latino | Cartoon Network
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372630
-#EXTINF:-1 tvg-name="Latino | Caza y Pezca" tvg-logo="https://i.imgur.com/7zrGmp7.png" group-title="➤ ZONA Lite",Latino | Caza y Pezca
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372631
-#EXTINF:-1 tvg-name="Latino | Cinecanal" tvg-logo="http://lonewolftvpr.com/logos/cinecanal.png" group-title="➤ ZONA Lite",Latino | Cinecanal
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372632
-#EXTINF:-1 tvg-name="Latino | CineLatino" tvg-logo="http://lonewolftvpr.com/logos/cinelatino.png" group-title="➤ ZONA Lite",Latino | CineLatino
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372633
-#EXTINF:-1 tvg-name="Latino | Cinemax" tvg-logo="http://lonewolftvpr.com/logos/cinemax.png" group-title="➤ ZONA Lite",Latino | Cinemax
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372634
-#EXTINF:-1 tvg-name="Latino | CNN en Espanol" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="➤ ZONA Lite",Latino | CNN en Espanol
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372635
-#EXTINF:-1 tvg-name="Latino | Comedy Central" tvg-logo="http://lonewolftvpr.com/logos/comedycentral.png" group-title="➤ ZONA Lite",Latino | Comedy Central
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372636
-#EXTINF:-1 tvg-name="Latino | De Pelicula" tvg-logo="http://lonewolftvpr.com/logos/depelicula.png" group-title="➤ ZONA Lite",Latino | De Pelicula
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372637
-#EXTINF:-1 tvg-name="Latino | Discovery Channel" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png" group-title="➤ ZONA Lite",Latino | Discovery Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372638
-#EXTINF:-1 tvg-name="Latino | Discovery en Espanol" tvg-logo="http://lonewolftvpr.com/logos/discoveryenespanol.png" group-title="➤ ZONA Lite",Latino | Discovery en Espanol
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372639
-#EXTINF:-1 tvg-name="Latino | Discovery Civilization" tvg-logo="http://lonewolftvpr.com/logos/discoverycivi.png" group-title="➤ ZONA Lite",Latino | Discovery Civilization
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372640
-#EXTINF:-1 tvg-name="Latino | Discovery Familia" tvg-logo="http://lonewolftvpr.com/logos/discoveryfamilia.png" group-title="➤ ZONA Lite",Latino | Discovery Familia
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372641
-#EXTINF:-1 tvg-name="Latino | Discovery H&H" tvg-logo="https://i.imgur.com/bGUkGsP.png" group-title="➤ ZONA Lite",Latino | Discovery H&H
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372642
-#EXTINF:-1 tvg-name="Latino | Discovery ID" tvg-logo="http://lonewolftvpr.com/logos/id.png" group-title="➤ ZONA Lite",Latino | Discovery ID
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372643
-#EXTINF:-1 tvg-name="Latino | Discovery Kids" tvg-logo="http://lonewolftvpr.com/logos/discoverykids.png" group-title="➤ ZONA Lite",Latino | Discovery Kids
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372644
-#EXTINF:-1 tvg-name="Latino | Discovery Science" tvg-logo="http://lonewolftvpr.com/logos/science.png" group-title="➤ ZONA Lite",Latino | Discovery Science
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372645
-#EXTINF:-1 tvg-name="Latino | Discovery Theater" tvg-logo="https://i.imgur.com/Uj24BwH.png" group-title="➤ ZONA Lite",Latino | Discovery Theater
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372646
-#EXTINF:-1 tvg-name="Latino | Discovery TLC" tvg-logo="http://lonewolftvpr.com/logos/tlc.png" group-title="➤ ZONA Lite",Latino | Discovery TLC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372647
-#EXTINF:-1 tvg-name="Latino | Discovery Turbo" tvg-logo="http://lonewolftvpr.com/logos/discoveryturbo.png" group-title="➤ ZONA Lite",Latino | Discovery Turbo
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372648
-#EXTINF:-1 tvg-name="Latino | Discovery World" tvg-logo="http://lonewolftvpr.com/logos/discoveryworld.png" group-title="➤ ZONA Lite",Latino | Discovery World
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372649
-#EXTINF:-1 tvg-name="Latino | Disney Channel" tvg-logo="http://lonewolftvpr.com/logos/disney.png" group-title="➤ ZONA Lite",Latino | Disney Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372650
-#EXTINF:-1 tvg-name="Latino | Disney JR" tvg-logo="http://lonewolftvpr.com/logos/disneyjr.png" group-title="➤ ZONA Lite",Latino | Disney JR
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372651
-#EXTINF:-1 tvg-name="Latino | Distrito Comedia" tvg-logo="http://lonewolftvpr.com/logos/distritocomedia.png" group-title="➤ ZONA Lite",Latino | Distrito Comedia
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372652
-#EXTINF:-1 tvg-name="Latino | E!" tvg-logo="https://i.imgur.com/zpUTHQM.png" group-title="➤ ZONA Lite",Latino | E!
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372653
-#EXTINF:-1 tvg-name="Latino | El Garage" tvg-logo="http://lonewolftvpr.com/logos/garage.png" group-title="➤ ZONA Lite",Latino | El Garage
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372654
-#EXTINF:-1 tvg-name="Latino | El Gourmet" tvg-logo="http://lonewolftvpr.com/logos/gourmet.png" group-title="➤ ZONA Lite",Latino | El Gourmet
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372655
-#EXTINF:-1 tvg-name="Latino | ESPN" tvg-logo="https://i.imgur.com/Cnlilpc.png" group-title="➤ ZONA Lite",Latino | ESPN
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372656
-#EXTINF:-1 tvg-name="Latino | ESPN 2" tvg-logo="http://lonewolftvpr.com/logos/espn2.png" group-title="➤ ZONA Lite",Latino | ESPN 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372657
-#EXTINF:-1 tvg-name="Latino | ESPN 3" tvg-logo="https://i.imgur.com/4sKgcKa.png" group-title="➤ ZONA Lite",Latino | ESPN 3
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372658
-#EXTINF:-1 tvg-name="Latino | ESPN Deportes" tvg-logo="http://lonewolftvpr.com/logos/espndeportes.png" group-title="➤ ZONA Lite",Latino | ESPN Deportes
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372659
-#EXTINF:-1 tvg-name="Latino | ESPN Plus" tvg-logo="https://i.imgur.com/JUou0fZ.png" group-title="➤ ZONA Lite",Latino | ESPN Plus
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372660
-#EXTINF:-1 tvg-name="Latino | Estrella TV" tvg-logo="http://lonewolftvpr.com/logos/estrellatv.png" group-title="➤ ZONA Lite",Latino | Estrella TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372661
-#EXTINF:-1 tvg-name="Latino | Food Network" tvg-logo="https://i.imgur.com/yUuQA4e.png" group-title="➤ ZONA Lite",Latino | Food Network
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372662
-#EXTINF:-1 tvg-name="Latino | Fox Sports" tvg-logo="https://i.imgur.com/oLsqZ7o.png" group-title="➤ ZONA Lite",Latino | Fox Sports
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372663
-#EXTINF:-1 tvg-name="Latino | Fox Sports 2" tvg-logo="https://i.imgur.com/xoyWbuL.png" group-title="➤ ZONA Lite",Latino | Fox Sports 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372664
-#EXTINF:-1 tvg-name="Latino | Fox Sports 3" tvg-logo="https://i.imgur.com/WlvxyIB.png" group-title="➤ ZONA Lite",Latino | Fox Sports 3
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372665
-#EXTINF:-1 tvg-name="Latino | Fox Sports Premium" tvg-logo="http://lonewolftvpr.com/logos/foxsportspremium.png" group-title="➤ ZONA Lite",Latino | Fox Sports Premium
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372666
-#EXTINF:-1 tvg-name="Latino | FX" tvg-logo="https://i.imgur.com/MYDl0Ux.png" group-title="➤ ZONA Lite",Latino | FX
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372667
-#EXTINF:-1 tvg-name="Latino | Gala TV" tvg-logo="http://lonewolftvpr.com/logos/galatv.png" group-title="➤ ZONA Lite",Latino | Gala TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372668
-#EXTINF:-1 tvg-name="Latino | Glitz" tvg-logo="http://lonewolftvpr.com/logos/glitz.png" group-title="➤ ZONA Lite",Latino | Glitz
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372669
-#EXTINF:-1 tvg-name="Latino | Gol TV" tvg-logo="http://lonewolftvpr.com/logos/goltv.png" group-title="➤ ZONA Lite",Latino | Gol TV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372670
-#EXTINF:-1 tvg-name="Latino | Golden Edge" tvg-logo="http://lonewolftvpr.com/logos/goldenedge.png" group-title="➤ ZONA Lite",Latino | Golden Edge
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372671
-#EXTINF:-1 tvg-name="Latino | Golden Plus" tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png" group-title="➤ ZONA Lite",Latino | Golden Plus
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372672
-#EXTINF:-1 tvg-name="Latino | Golden Premier" tvg-logo="http://lonewolftvpr.com/logos/goldenpremier.png" group-title="➤ ZONA Lite",Latino | Golden Premier
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372673
-#EXTINF:-1 tvg-name="Latino | Golf Channel" tvg-logo="http://lonewolftvpr.com/logos/golf.png" group-title="➤ ZONA Lite",Latino | Golf Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372674
-#EXTINF:-1 tvg-name="Latino | HBO" tvg-logo="http://lonewolftvpr.com/logos/hbo.png" group-title="➤ ZONA Lite",Latino | HBO
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372675
-#EXTINF:-1 tvg-name="Latino | HBO 2" tvg-logo="http://lonewolftvpr.com/logos/hbo2.png" group-title="➤ ZONA Lite",Latino | HBO 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372676
-#EXTINF:-1 tvg-name="Latino | HBO Family" tvg-logo="http://lonewolftvpr.com/logos/hbofamily.png" group-title="➤ ZONA Lite",Latino | HBO Family
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372677
-#EXTINF:-1 tvg-name="Latino | HBO Plus" tvg-logo="http://lonewolftvpr.com/logos/hboplus.png" group-title="➤ ZONA Lite",Latino | HBO Plus
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372678
-#EXTINF:-1 tvg-name="Latino | HBO PoP" tvg-logo="http://lonewolftvpr.com/logos/hbopop.png" group-title="➤ ZONA Lite",Latino | HBO PoP
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372679
-#EXTINF:-1 tvg-name="Latino | HBO Signature" tvg-logo="http://lonewolftvpr.com/logos/hbosignature.png" group-title="➤ ZONA Lite",Latino | HBO Signature
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372680
-#EXTINF:-1 tvg-name="Latino | HBO Xtreme" tvg-logo="http://lonewolftvpr.com/logos/hboxtreme.png" group-title="➤ ZONA Lite",Latino | HBO Xtreme
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372681
-#EXTINF:-1 tvg-name="Latino | HGTV" tvg-logo="http://lonewolftvpr.com/logos/hgtv.png" group-title="➤ ZONA Lite",Latino | HGTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372682
-#EXTINF:-1 tvg-name="Latino | History 2" tvg-logo="http://lonewolftvpr.com/logos/h2.png" group-title="➤ ZONA Lite",Latino | History 2
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372683
-#EXTINF:-1 tvg-name="Latino | History Channel" tvg-logo="http://lonewolftvpr.com/logos/history.png" group-title="➤ ZONA Lite",Latino | History Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372684
-#EXTINF:-1 tvg-name="Latino | Lifetime" tvg-logo="http://lonewolftvpr.com/logos/lifetime.png" group-title="➤ ZONA Lite",Latino | Lifetime
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372685
-#EXTINF:-1 tvg-name="Latino | MTV" tvg-logo="http://lonewolftvpr.com/logos/mtv.png" group-title="➤ ZONA Lite",Latino | MTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372686
-#EXTINF:-1 tvg-name="Latino | Multimedios" tvg-logo="http://lonewolftvpr.com/logos/multimedios.png" group-title="➤ ZONA Lite",Latino | Multimedios
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372687
-#EXTINF:-1 tvg-name="Latino | Nat Geo" tvg-logo="https://i.imgur.com/GdVaAWe.png" group-title="➤ ZONA Lite",Latino | Nat Geo
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372688
-#EXTINF:-1 tvg-name="Latino | Nick" tvg-logo="http://lonewolftvpr.com/logos/nick.png" group-title="➤ ZONA Lite",Latino | Nick
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372689
-#EXTINF:-1 tvg-name="Latino | Nick Jr" tvg-logo="http://lonewolftvpr.com/logos/nickjr.png" group-title="➤ ZONA Lite",Latino | Nick Jr
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372690
-#EXTINF:-1 tvg-name="Latino | Nicktoons" tvg-logo="http://lonewolftvpr.com/logos/Nicktoons.png" group-title="➤ ZONA Lite",Latino | Nicktoons
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372691
-#EXTINF:-1 tvg-name="Latino | Paramount" tvg-logo="http://lonewolftvpr.com/logos/paramount.png" group-title="➤ ZONA Lite",Latino | Paramount
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372692
-#EXTINF:-1 tvg-name="Latino | Pasiones" tvg-logo="http://lonewolftvpr.com/logos/pasiones.png" group-title="➤ ZONA Lite",Latino | Pasiones
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372693
-#EXTINF:-1 tvg-name="Latino | RCN" tvg-logo="http://lonewolftvpr.com/logos/rcn.png" group-title="➤ ZONA Lite",Latino | RCN
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372694
-#EXTINF:-1 tvg-name="Latino | Sony" tvg-logo="http://lonewolftvpr.com/logos/sony.png" group-title="➤ ZONA Lite",Latino | Sony
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372695
-#EXTINF:-1 tvg-name="Latino | Space" tvg-logo="http://lonewolftvpr.com/logos/space.png" group-title="➤ ZONA Lite",Latino | Space
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372696
-#EXTINF:-1 tvg-name="Latino | Star Channel" tvg-logo="https://i.ibb.co/svdbxBP/star.png" group-title="➤ ZONA Lite",Latino | Star Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372697
-#EXTINF:-1 tvg-name="Latino | Starz Encore" tvg-logo="http://lonewolftvpr.com/logos/starzencore.png" group-title="➤ ZONA Lite",Latino | Starz Encore
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372698
-#EXTINF:-1 tvg-name="Latino | Starz Kids & Family" tvg-logo="https://i.imgur.com/to0Ybdc.png" group-title="➤ ZONA Lite",Latino | Starz Kids & Family
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372699
-#EXTINF:-1 tvg-name="Latino | Studio Universal" tvg-logo="http://lonewolftvpr.com/logos/studiouniversal.png" group-title="➤ ZONA Lite",Latino | Studio Universal
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372700
-#EXTINF:-1 tvg-name="Latino | SyFy" tvg-logo="https://i.imgur.com/K2gIKj1.png" group-title="➤ ZONA Lite",Latino | SyFy
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372701
-#EXTINF:-1 tvg-name="Latino | TBS" tvg-logo="https://i.imgur.com/0aWyqZb.png" group-title="➤ ZONA Lite",Latino | TBS
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372702
-#EXTINF:-1 tvg-name="Latino | TCM" tvg-logo="http://lonewolftvpr.com/logos/tcm.png" group-title="➤ ZONA Lite",Latino | TCM
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372703
-#EXTINF:-1 tvg-name="Latino | Telehit" tvg-logo="http://lonewolftvpr.com/logos/telehit.png" group-title="➤ ZONA Lite",Latino | Telehit
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372704
-#EXTINF:-1 tvg-name="Latino | Telemundo Int" tvg-logo="http://lonewolftvpr.com/logos/telemundo.png" group-title="➤ ZONA Lite",Latino | Telemundo Int
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372705
-#EXTINF:-1 tvg-name="Latino | TLnovelas" tvg-logo="http://lonewolftvpr.com/logos/tlnovelas.png" group-title="➤ ZONA Lite",Latino | TLnovelas
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372706
-#EXTINF:-1 tvg-name="Latino | TNT" tvg-logo="http://lonewolftvpr.com/logos/tnt.png" group-title="➤ ZONA Lite",Latino | TNT
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372707
-#EXTINF:-1 tvg-name="Latino | TNT Series" tvg-logo="http://lonewolftvpr.com/logos/tntseries.png" group-title="➤ ZONA Lite",Latino | TNT Series
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372708
-#EXTINF:-1 tvg-name="Latino | Tooncast" tvg-logo="http://lonewolftvpr.com/logos/tooncast.png" group-title="➤ ZONA Lite",Latino | Tooncast
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372709
-#EXTINF:-1 tvg-name="Latino | TruTV" tvg-logo="http://lonewolftvpr.com/logos/trutv.png" group-title="➤ ZONA Lite",Latino | TruTV
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372710
-#EXTINF:-1 tvg-name="Latino | TVC" tvg-logo="http://lonewolftvpr.com/logos/tvc.png" group-title="➤ ZONA Lite",Latino | TVC
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372711
-#EXTINF:-1 tvg-name="Latino | TVC Deportes" tvg-logo="http://lonewolftvpr.com/logos/tvcd.png" group-title="➤ ZONA Lite",Latino | TVC Deportes
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372712
-#EXTINF:-1 tvg-name="Latino | TyC Sports" tvg-logo="http://lonewolftvpr.com/logos/tyc.png" group-title="➤ ZONA Lite",Latino | TyC Sports
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372713
-#EXTINF:-1 tvg-name="Latino | Unicable" tvg-logo="http://lonewolftvpr.com/logos/unicable.png" group-title="➤ ZONA Lite",Latino | Unicable
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372714
-#EXTINF:-1 tvg-name="Latino | Unimas" tvg-logo="http://lonewolftvpr.com/logos/unimas.png" group-title="➤ ZONA Lite",Latino | Unimas
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372715
-#EXTINF:-1 tvg-name="Latino | Universal Channel" tvg-logo="http://lonewolftvpr.com/logos/universal.png" group-title="➤ ZONA Lite",Latino | Universal Channel
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372716
-#EXTINF:-1 tvg-name="Latino | VH1" tvg-logo="http://lonewolftvpr.com/logos/vh1.png" group-title="➤ ZONA Lite",Latino | VH1
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372717
-#EXTINF:-1 tvg-name="Latino | VH1 Classics" tvg-logo="http://lonewolftvpr.com/logos/vh1classic.png" group-title="➤ ZONA Lite",Latino | VH1 Classics
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372718
-#EXTINF:-1 tvg-name="Latino | Warner" tvg-logo="http://lonewolftvpr.com/logos/warner.png" group-title="➤ ZONA Lite",Latino | Warner
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372719
-#EXTINF:-1 tvg-name="Latino | Win Sports" tvg-logo="http://lonewolftvpr.com/logos/winsports.png" group-title="➤ ZONA Lite",Latino | Win Sports
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372720
-#EXTINF:-1 tvg-name="Latino | Win Sports +" tvg-logo="https://i.ibb.co/ccw87mx/winp.png" group-title="➤ ZONA Lite",Latino | Win Sports +
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372721
-#EXTINF:-1 tvg-name="Latino | Canal 44" group-title="➤ ZONA Lite",Latino | Canal 44
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372722
-#EXTINF:-1 tvg-name="Latino | Televisa MTY" group-title="➤ ZONA Lite",Latino | Televisa MTY
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372723
-#EXTINF:-1 tvg-name="Latino | ESPN 4" group-title="➤ ZONA Lite",Latino | ESPN 4
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372724
-#EXTINF:-1 tvg-name="Latino | WAPA America" tvg-logo="http://lonewolftvpr.com/logos/wapa.png" group-title="➤ ZONA Lite",Latino | WAPA America
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372725
-#EXTINF:-1 tvg-name="Latino | Golden" group-title="➤ ZONA Lite",Latino | Golden
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372726
-#EXTINF:-1 tvg-name="Latino | HBO Mundi" group-title="➤ ZONA Lite",Latino | HBO Mundi
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372727
-#EXTINF:-1 tvg-name="Latino | Bandamax" group-title="➤ ZONA Lite",Latino | Bandamax
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372728
-#EXTINF:-1 tvg-name="Latino | Starz Edge" group-title="➤ ZONA Lite",Latino | Starz Edge
-http://bokiraja.online:2082/hamza/bdMBfBYCDcdQ/372729
+#EXTINF:-1 tvg-name="2 MB | COMEDY CENTRAL LQ" tvg-logo="http://playhispano.org:8080/images/41d286e97dc9db89167fd2f6fa3ebef4.png" group-title="➤ ZONA Lite",2 MB | COMEDY CENTRAL LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262282
+#EXTINF:-1 tvg-name="2MB | Discovery Channel" tvg-logo="http://playhispano.org:8080/images/6107ded0e5cbf7ae943ebb2b59b65321.png" group-title="➤ ZONA Lite",2MB | Discovery Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262283
+#EXTINF:-1 tvg-name="2 MB | DISCOVERY KIDS LQ" tvg-logo="http://playhispano.org:8080/images/53bf7058ae1da62ffd1bbe979482ca4e.png" group-title="➤ ZONA Lite",2 MB | DISCOVERY KIDS LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262284
+#EXTINF:-1 tvg-name="2 MB | Disney Jr" tvg-logo="http://playhispano.org:8080/images/7ee19a1c004c589243abd9ee56085c82.png" group-title="➤ ZONA Lite",2 MB | Disney Jr
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262285
+#EXTINF:-1 tvg-name="2MB | E!" tvg-logo="http://playhispano.org:8080/images/a66ffbc0f6500b3127ac72b1079b213e.png" group-title="➤ ZONA Lite",2MB | E!
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262286
+#EXTINF:-1 tvg-name="2MB | Fox Sports" tvg-logo="http://playhispano.org:8080/images/7c6f1afe3dafe91c938aa86fd9d769e0.png" group-title="➤ ZONA Lite",2MB | Fox Sports
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262287
+#EXTINF:-1 tvg-name="2MB | Unicable" tvg-logo="http://playhispano.org:8080/images/1ad025782e54753578684d56248de464.png" group-title="➤ ZONA Lite",2MB | Unicable
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262289
+#EXTINF:-1 tvg-name="2MB | Universal Channel" tvg-logo="http://playhispano.org:8080/images/e8d045834db22b85aec374f7d23dcd6f.png" group-title="➤ ZONA Lite",2MB | Universal Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262290
+#EXTINF:-1 tvg-name="2 MB| Fox Sports 3 LQ" tvg-logo="http://playhispano.org:8080/images/f5622cd440310d9886e7b58cdd9b3cbb.png" group-title="➤ ZONA Lite",2 MB| Fox Sports 3 LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262291
+#EXTINF:-1 tvg-name="2MB |  HBO Pop LQ" tvg-logo="http://playhispano.org:8080/images/ef90f928bd0052af038137850498d327.png" group-title="➤ ZONA Lite",2MB |  HBO Pop LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262292
+#EXTINF:-1 tvg-name="2MB |  RCN LQ" tvg-logo="http://playhispano.org:8080/images/a7167b7df29f8dfac622373d0a462d3c.png" group-title="➤ ZONA Lite",2MB |  RCN LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262293
+#EXTINF:-1 tvg-name="2MB | A&E LQ" tvg-logo="http://playhispano.org:8080/images/2c1e41de11d4e98f9cdbb3089c1d0a52.png" group-title="➤ ZONA Lite",2MB | A&E LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262294
+#EXTINF:-1 tvg-name="2MB | ADN 40 LQ" tvg-logo="http://playhispano.org:8080/images/6303a20d5f2c6ad69c142d42e18be2df.png" group-title="➤ ZONA Lite",2MB | ADN 40 LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262295
+#EXTINF:-1 tvg-name="2MB | AMC LQ" tvg-logo="http://playhispano.org:8080/images/ee6a7689eac6b0fbebf663c9d5ef5928.png" group-title="➤ ZONA Lite",2MB | AMC LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262296
+#EXTINF:-1 tvg-name="2MB | America TV LQ" tvg-logo="http://playhispano.org:8080/images/43e78747805b3bbc6634c6d42cf99cbe.png" group-title="➤ ZONA Lite",2MB | America TV LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262297
+#EXTINF:-1 tvg-name="2MB | Animal Planet" tvg-logo="http://playhispano.org:8080/images/40fb74fa1bfe9cf5dbded355d21c87e9.png" group-title="➤ ZONA Lite",2MB | Animal Planet
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262298
+#EXTINF:-1 tvg-name="2MB | AXN" tvg-logo="http://playhispano.org:8080/images/66d2d8c4a71b80219cf908c41a44e19d.png" group-title="➤ ZONA Lite",2MB | AXN
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262299
+#EXTINF:-1 tvg-name="2MB | AXN" tvg-logo="http://playhispano.org:8080/images/66d2d8c4a71b80219cf908c41a44e19d.png" group-title="➤ ZONA Lite",2MB | AXN
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262300
+#EXTINF:-1 tvg-name="2MB | Azteca 7" tvg-logo="http://playhispano.org:8080/images/c921daf2e12d776a61b959b517768051.png" group-title="➤ ZONA Lite",2MB | Azteca 7
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262301
+#EXTINF:-1 tvg-name="2MB | Azteca Clic LQ" tvg-logo="http://playhispano.org:8080/images/9186faf1416790d7779a23bd0bd3a048.png" group-title="➤ ZONA Lite",2MB | Azteca Clic LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262302
+#EXTINF:-1 tvg-name="2MB | Azteca corazón LQ" tvg-logo="http://playhispano.org:8080/images/20fabf8c72e34e764cf85ad9ec62bfae.png" group-title="➤ ZONA Lite",2MB | Azteca corazón LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262303
+#EXTINF:-1 tvg-name="2MB | Azteca Uno" tvg-logo="http://playhispano.org:8080/images/4f181e22ad0d9240a0cc0508cce31b17.png" group-title="➤ ZONA Lite",2MB | Azteca Uno
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262304
+#EXTINF:-1 tvg-name="2MB | BABY TV LQ" tvg-logo="http://playhispano.org:8080/images/2a52deb141384ed17b244cb38a03cd11.png" group-title="➤ ZONA Lite",2MB | BABY TV LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262305
+#EXTINF:-1 tvg-name="2MB | BEIN SPORTS ESPAÑOL LQ" tvg-logo="http://playhispano.org:8080/images/e92f3cc1a596244918385bad94d6f5d1.png" group-title="➤ ZONA Lite",2MB | BEIN SPORTS ESPAÑOL LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262306
+#EXTINF:-1 tvg-name="2MB | BITME LQ" tvg-logo="http://playhispano.org:8080/images/725a3c3f37f2c3333dd35dfcb26d3809.png" group-title="➤ ZONA Lite",2MB | BITME LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262307
+#EXTINF:-1 tvg-name="2MB | Canal 5" tvg-logo="http://playhispano.org:8080/images/098e87e98bb70184a3bc9635065d4f42.png" group-title="➤ ZONA Lite",2MB | Canal 5
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262308
+#EXTINF:-1 tvg-name="2MB | Caracol LQ" tvg-logo="http://playhispano.org:8080/images/d3972044c9947a063f4a38290c3546f6.png" group-title="➤ ZONA Lite",2MB | Caracol LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262309
+#EXTINF:-1 tvg-name="2MB | CARTOON NETWORK LQ" tvg-logo="http://playhispano.org:8080/images/99c015b002d784cffbddbac9bd8fd537.png" group-title="➤ ZONA Lite",2MB | CARTOON NETWORK LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262310
+#EXTINF:-1 tvg-name="2MB | Cinecanal" tvg-logo="http://playhispano.org:8080/images/2fb1ae781631523150ac3168fbc111fb.png" group-title="➤ ZONA Lite",2MB | Cinecanal
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262311
+#EXTINF:-1 tvg-name="2MB | Cinema Dinamita LQ" tvg-logo="http://playhispano.org:8080/images/b54ee78af8286e74777a6b05586dfc0a.png" group-title="➤ ZONA Lite",2MB | Cinema Dinamita LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262312
+#EXTINF:-1 tvg-name="2MB | CINEMAX LQ" tvg-logo="http://playhispano.org:8080/images/6277170409f6d8f0fae4514b8bbc3447.png" group-title="➤ ZONA Lite",2MB | CINEMAX LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262313
+#EXTINF:-1 tvg-name="2MB | De Pelicula +" tvg-logo="http://playhispano.org:8080/images/f2e1f7038e22660fe848b4c17d26f97b.png" group-title="➤ ZONA Lite",2MB | De Pelicula +
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262314
+#EXTINF:-1 tvg-name="2MB | DISCOVERY HOME & HEALTH LQ" tvg-logo="http://playhispano.org:8080/images/ed574bf8e48b7c6ae9baecc8731a4691.png" group-title="➤ ZONA Lite",2MB | DISCOVERY HOME & HEALTH LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262315
+#EXTINF:-1 tvg-name="2MB | Discovery ID" tvg-logo="http://playhispano.org:8080/images/c38e72ce12b77bdd7d284bfc500c8d8d.png" group-title="➤ ZONA Lite",2MB | Discovery ID
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262316
+#EXTINF:-1 tvg-name="2MB | Discovery Science LQ" tvg-logo="http://playhispano.org:8080/images/20f17e98ee584fba1b119641d3286322.png" group-title="➤ ZONA Lite",2MB | Discovery Science LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262317
+#EXTINF:-1 tvg-name="2MB | Discovery Theater LQ" tvg-logo="http://playhispano.org:8080/images/efdcf94d48215f199243834f9ddad807.png" group-title="➤ ZONA Lite",2MB | Discovery Theater LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262318
+#EXTINF:-1 tvg-name="2MB | Discovery Turbo" tvg-logo="http://playhispano.org:8080/images/9ae5a9682cb001071ecc2b70b2774537.png" group-title="➤ ZONA Lite",2MB | Discovery Turbo
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262319
+#EXTINF:-1 tvg-name="2MB | Discovery world LQ" tvg-logo="http://playhispano.org:8080/images/fd3c85555e3270561739800920c9373c.png" group-title="➤ ZONA Lite",2MB | Discovery world LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262320
+#EXTINF:-1 tvg-name="2MB | Distrito Comedia" tvg-logo="http://playhispano.org:8080/images/4b7090902618544e7bdf505654f51367.png" group-title="➤ ZONA Lite",2MB | Distrito Comedia
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262321
+#EXTINF:-1 tvg-name="2MB | Espn 2 LQ" tvg-logo="http://playhispano.org:8080/images/1a7c9297ee39f8dce1b19168626d41e1.png" group-title="➤ ZONA Lite",2MB | Espn 2 LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262322
+#EXTINF:-1 tvg-name="2MB | ESPN MX" tvg-logo="http://playhispano.org:8080/images/5f3579bd305fde37335a624cf614f46c.png" group-title="➤ ZONA Lite",2MB | ESPN MX
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262323
+#EXTINF:-1 tvg-name="2MB | FOX SPORTS 2 LQ" tvg-logo="http://playhispano.org:8080/images/f5622cd440310d9886e7b58cdd9b3cbb.png" group-title="➤ ZONA Lite",2MB | FOX SPORTS 2 LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262324
+#EXTINF:-1 tvg-name="2MB | FX LQ" tvg-logo="http://playhispano.org:8080/images/e866c2280fcf86a7d40ef03a23ec7bc0.png" group-title="➤ ZONA Lite",2MB | FX LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262325
+#EXTINF:-1 tvg-name="2MB | Golden Edge" tvg-logo="http://playhispano.org:8080/images/61290dca2826ec9d5f39b90dd1295d68.png" group-title="➤ ZONA Lite",2MB | Golden Edge
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262326
+#EXTINF:-1 tvg-name="2MB | HBO + LQ" tvg-logo="http://playhispano.org:8080/images/c3fe1ed2ddb1cc2ab50addc39773a55b.png" group-title="➤ ZONA Lite",2MB | HBO + LQ
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262327
+#EXTINF:-1 tvg-name="2MB | HBO 2" tvg-logo="http://playhispano.org:8080/images/9592b5711c953b83135487357956673e.png" group-title="➤ ZONA Lite",2MB | HBO 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262328
+#EXTINF:-1 tvg-name="2MB | HBO" tvg-logo="http://playhispano.org:8080/images/4965825145dc0ab1a4818afd7a5f218d.png" group-title="➤ ZONA Lite",2MB | HBO
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262329
+#EXTINF:-1 tvg-name="2MB | History" tvg-logo="http://playhispano.org:8080/images/3509b0bad7444ee5668625f36a428861.png" group-title="➤ ZONA Lite",2MB | History
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/262330
+#EXTINF:-1 tvg-name="Latino  2mb - A&E" tvg-logo="https://i.picasion.com/pic92/6d236270adafad7c4a3343819e6f279d.gif" group-title="➤ ZONA Lite",Latino  2mb - A&E
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87429
+#EXTINF:-1 tvg-name="Latino  2mb - Antena 3" tvg-logo="https://i.picasion.com/pic92/29fbecf9d29cf98464c4c6955dc6d979.gif" group-title="➤ ZONA Lite",Latino  2mb - Antena 3
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87430
+#EXTINF:-1 tvg-name="Latino 2mb - AMC" tvg-logo="https://i.picasion.com/pic92/1a9e2244d60e2df63667c62c8f33da29.gif" group-title="➤ ZONA Lite",Latino 2mb - AMC
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87431
+#EXTINF:-1 tvg-name="Latino  2mb - Boomerang" tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif" group-title="➤ ZONA Lite",Latino  2mb - Boomerang
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87434
+#EXTINF:-1 tvg-name="Latino  2mb - Cartoon Network" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="➤ ZONA Lite",Latino  2mb - Cartoon Network
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87435
+#EXTINF:-1 tvg-name="Latino  2mb - Cinecanal" tvg-logo="https://i.picasion.com/pic92/ee6531277e68167d2660e5f870202c9f.gif" group-title="➤ ZONA Lite",Latino  2mb - Cinecanal
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87436
+#EXTINF:-1 tvg-name="Latino  2mb - Cinemax" tvg-logo="https://i.picasion.com/pic92/11f3ea49958c10318513030f69fa2bee.gif" group-title="➤ ZONA Lite",Latino  2mb - Cinemax
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87437
+#EXTINF:-1 tvg-name="Latino  2mb - Comedy Central" tvg-logo="https://i.picasion.com/pic92/30d2e21e2b372eab1b794b1f801b91be.gif" group-title="➤ ZONA Lite",Latino  2mb - Comedy Central
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87438
+#EXTINF:-1 tvg-name="Latino 2mb - De Pelicula" tvg-logo="https://i.picasion.com/pic92/a9d7877b938c57016e1b804d14f0c607.gif" group-title="➤ ZONA Lite",Latino 2mb - De Pelicula
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87439
+#EXTINF:-1 tvg-name="Latino 2mb - DHE" tvg-logo="https://i.picasion.com/pic92/9318c2f94f171dd1f99a9308771ebeef.gif" group-title="➤ ZONA Lite",Latino 2mb - DHE
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87440
+#EXTINF:-1 tvg-name="Latino 2mb - Discovery Channel" tvg-logo="https://i.picasion.com/pic92/3c7bc98108d7b928092a5f425eb60641.gif" group-title="➤ ZONA Lite",Latino 2mb - Discovery Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87441
+#EXTINF:-1 tvg-name="Latino  2mb - Discovery Home & Healt" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="➤ ZONA Lite",Latino  2mb - Discovery Home & Healt
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87442
+#EXTINF:-1 tvg-name="Latino  2mb - Discovery Turbo" tvg-logo="http://iptvglobal.site:25461/images/306bb49a5594573218e8770f24e166c7.png" group-title="➤ ZONA Lite",Latino  2mb - Discovery Turbo
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87443
+#EXTINF:-1 tvg-name="Latino  2mb - Disney Junior" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif" group-title="➤ ZONA Lite",Latino  2mb - Disney Junior
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87444
+#EXTINF:-1 tvg-name="Latino  2mb - Disney XD" tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif" group-title="➤ ZONA Lite",Latino  2mb - Disney XD
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87445
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN" tvg-logo="https://i.picasion.com/pic92/a54fa2287cc6aab5fb0dc354085681f2.gif" group-title="➤ ZONA Lite",Latino  2mb - ESPN
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87446
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN 2" tvg-logo="https://i.picasion.com/pic92/5b7d8751bfe99d859c5c315e4b813487.gif" group-title="➤ ZONA Lite",Latino  2mb - ESPN 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87447
+#EXTINF:-1 tvg-name="Latino  2mb - ESPN 3" tvg-logo="https://i.picasion.com/pic92/936f2bce8492686106780789df10f31e.gif" group-title="➤ ZONA Lite",Latino  2mb - ESPN 3
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87448
+#EXTINF:-1 tvg-name="Latino  2mb - Fox Channel" tvg-logo="https://i.picasion.com/pic92/dc53e6bb4b2b012abcbb2e5129b8fc51.gif" group-title="➤ ZONA Lite",Latino  2mb - Fox Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87449
+#EXTINF:-1 tvg-name="Latino  2mb - Fox Life" tvg-logo="https://i.picasion.com/pic92/16cb4bfcdf541ef83cb9d0d224eff485.gif" group-title="➤ ZONA Lite",Latino  2mb - Fox Life
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87453
+#EXTINF:-1 tvg-name="Latino 2mb - Fox Sports 2" tvg-logo="https://i.picasion.com/pic92/a4002824560f0758832bf017e306de3c.gif" group-title="➤ ZONA Lite",Latino 2mb - Fox Sports 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87456
+#EXTINF:-1 tvg-name="Latino 2mb - Fox Sports 3" tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="➤ ZONA Lite",Latino 2mb - Fox Sports 3
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87457
+#EXTINF:-1 tvg-name="Latino  2mb - FX" tvg-logo="https://i.picasion.com/pic92/ef55c54c735ce4a2999475b46446ddc8.gif" group-title="➤ ZONA Lite",Latino  2mb - FX
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87458
+#EXTINF:-1 tvg-name="Latino 2mb - Golden Edge" tvg-logo="https://i.picasion.com/pic92/5f09b99c9da386bf38734fb7b73abc6e.gif" group-title="➤ ZONA Lite",Latino 2mb - Golden Edge
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87459
+#EXTINF:-1 tvg-name="Latino 2mb - Golden Premier" tvg-logo="https://i.picasion.com/pic92/db3c9ce4ecae857cb6575b4db00c26fb.gif" group-title="➤ ZONA Lite",Latino 2mb - Golden Premier
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87460
+#EXTINF:-1 tvg-name="Latino  2mb - H2" tvg-logo="https://i.picasion.com/pic92/922153f65537df6fe62f9e56fb591f4b.gif" group-title="➤ ZONA Lite",Latino  2mb - H2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87461
+#EXTINF:-1 tvg-name="Latino  2mb - HBO" tvg-logo="https://i.picasion.com/pic92/4015d23b84af662c80b672a90d7ea5cb.gif" group-title="➤ ZONA Lite",Latino  2mb - HBO
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87462
+#EXTINF:-1 tvg-name="Latino 2mb - HBO Plus" tvg-logo="https://i.picasion.com/pic92/1436d7cdb3ddce083d72548e774c2c32.gif" group-title="➤ ZONA Lite",Latino 2mb - HBO Plus
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87463
+#EXTINF:-1 tvg-name="Latino 2mb - HBO Signature" tvg-logo="https://i.picasion.com/pic92/6c519615d610fb60cabc7b69db5cf0ae.gif" group-title="➤ ZONA Lite",Latino 2mb - HBO Signature
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87464
+#EXTINF:-1 tvg-name="Latino  2mb - Investigation Discovery" tvg-logo="https://i.picasion.com/pic92/bd05a3cb969581faac6121dea1dabb95.gif" group-title="➤ ZONA Lite",Latino  2mb - Investigation Discovery
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87465
+#EXTINF:-1 tvg-name="Latino 2mb - ISAT" tvg-logo="https://i.picasion.com/pic92/74f80ed7a976d91513b8a09675528702.gif" group-title="➤ ZONA Lite",Latino 2mb - ISAT
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87466
+#EXTINF:-1 tvg-name="Latino  2mb - Las Estrellas" tvg-logo="https://i.picasion.com/pic92/d91b680174c4506fefaf31eea90df548.gif" group-title="➤ ZONA Lite",Latino  2mb - Las Estrellas
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87467
+#EXTINF:-1 tvg-name="Latino 2mb - Nickelodeon" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="➤ ZONA Lite",Latino 2mb - Nickelodeon
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87468
+#EXTINF:-1 tvg-name="Latino  2mb - Space" tvg-logo="https://i.picasion.com/pic92/aadf9024bd5c5072014c38c6bef2ae71.gif" group-title="➤ ZONA Lite",Latino  2mb - Space
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87469
+#EXTINF:-1 tvg-name="Latino  2mb - SyFy" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="➤ ZONA Lite",Latino  2mb - SyFy
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87470
+#EXTINF:-1 tvg-name="Latino  2mb - TNT" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="➤ ZONA Lite",Latino  2mb - TNT
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87471
+#EXTINF:-1 tvg-name="Latino  2mb - TNT Series" tvg-logo="https://i.picasion.com/pic92/c4b662c0b6f09e50fecd8392bd6f3721.gif" group-title="➤ ZONA Lite",Latino  2mb - TNT Series
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87472
+#EXTINF:-1 tvg-name="Latino 2mb - Sony" tvg-logo="http://iptvglobal.site:25461/images/9ae2767f15b15da469c307585dd350c0.png" group-title="➤ ZONA Lite",Latino 2mb - Sony
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87473
+#EXTINF:-1 tvg-name="Latino 2mb - Universal Channel" tvg-logo="https://i.picasion.com/pic92/f1d9c5b6d8027c635781884ee02a71bb.gif" group-title="➤ ZONA Lite",Latino 2mb - Universal Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87474
+#EXTINF:-1 tvg-name="Latino 2mb - Warner Channel" tvg-logo="https://i.picasion.com/pic92/538eab0aa4a1fcc9978674b4c8ef6ab5.gif" group-title="➤ ZONA Lite",Latino 2mb - Warner Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87475
+#EXTINF:-1 tvg-name="Latino 2mb - Baby First" tvg-logo="https://i.picasion.com/pic92/e34baca0a3491678de4f79772c46ab32.gif" group-title="➤ ZONA Lite",Latino 2mb - Baby First
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87476
+#EXTINF:-1 tvg-name="Latino 2mb - Disney Channel" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="➤ ZONA Lite",Latino 2mb - Disney Channel
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87477
+#EXTINF:-1 tvg-name="Latino 2mb - Food Network" tvg-logo="http://iptvglobal.site:25461/images/f1f3d8f737ed0f285c636273d5b52f17.png" group-title="➤ ZONA Lite",Latino 2mb - Food Network
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/87478
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="➤ ZONA MUSICAL",BANDAMAX
 http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/27
 #EXTINF:-1 tvg-name="TELEHIT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png" group-title="➤ ZONA MUSICAL",TELEHIT
