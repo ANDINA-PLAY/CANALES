@@ -1,34 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| CANAL DE FUTBOL HD ( SOLO EVENTOS)
-http://playhispano.org:8080/Casjahj/Jhajsac/86549
-#EXTINF:-1 tvg-name="ECUA| ESPN 4 SUR HD" tvg-logo="http://iptvglobal.site:25461/images/653b93084b5991f352db71698acf708f.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| ESPN 4 SUR HD
-http://playhispano.org:8080/Casjahj/Jhajsac/119644
-#EXTINF:-1 tvg-name="EC | El Canal del Futbol SD*" tvg-logo="http://iptvglobal.site:25461/images/c637335bebf911578e18934c20810750.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC | El Canal del Futbol SD*
-http://playhispano.org:8080/Casjahj/Jhajsac/129488
-#EXTINF:-1 tvg-name="ECUADOR| GOL TV" tvg-logo="http://miarea.vip:8080/images/9d665ee347de60cae5e035f601866fa1.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUADOR| GOL TV
-http://playhispano.org:8080/Casjahj/Jhajsac/140676
-#EXTINF:-1 tvg-name="ECUA| GOLTV HD*" tvg-logo="http://playhispano.org:25461/images/d83efbc5a641efaf1e2c665df5664dfc.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECUA| GOLTV HD*
-http://playhispano.org:8080/Casjahj/Jhajsac/140677
-#EXTINF:-1 tvg-name="Liga MX Atlas vs Toluca 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Atlas vs Toluca 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135286
-#EXTINF:-1 tvg-name="Liga MX Atlas vs Toluca 17:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Atlas vs Toluca 17:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135287
-#EXTINF:-1 tvg-name="Liga MX America vs Leon 19:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX America vs Leon 19:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135288
-#EXTINF:-1 tvg-name="Liga MX America vs Leon 19:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX America vs Leon 19:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135289
-#EXTINF:-1 tvg-name="Liga MX America vs Leon 19:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX America vs Leon 19:00 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135290
-#EXTINF:-1 tvg-name="Liga MX Santos vs Chivas 21:05" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Santos vs Chivas 21:05
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135291
-#EXTINF:-1 tvg-name="Liga MX Santos vs Chivas 21:05 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Santos vs Chivas 21:05 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135292
-#EXTINF:-1 tvg-name="Liga MX Santos vs Chivas 21:05 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Santos vs Chivas 21:05 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135293
-#EXTINF:-1 tvg-name="Liga MX Fem Cruz Azul vs Queretaro 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Fem Cruz Azul vs Queretaro 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135294
-#EXTINF:-1 tvg-name="Bundesliga Bochum vs Borussia Dortmund 07:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Bochum vs Borussia Dortmund 07:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135295
+#EXTINF:-1 tvg-name="Gol TV (ec)" tvg-logo="http://boxdigital.xyz:8080/images/8b3590f2bd2bed884ce49c2272db05f4.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",Gol TV (ec)
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216756
+#EXTINF:-1 tvg-name="Gol TV FHD (ec)" tvg-logo="http://boxdigital.xyz:8080/images/8b3590f2bd2bed884ce49c2272db05f4.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",Gol TV FHD (ec)
+http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216757
+#EXTINF:-1 tvg-name="El Canal Del Futbol FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",El Canal Del Futbol FHD (EC)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304386
+#EXTINF:-1 tvg-name="El Canal Del Futbol. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",El Canal Del Futbol. FHD (EC)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304387
+#EXTINF:-1 tvg-name="Gol TV SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",Gol TV SD (EC)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304390
+#EXTINF:-1 tvg-name="Gol TV. SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",Gol TV. SD (EC)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304391
+#EXTINF:-1 tvg-name="EC: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/4e651280cec3e8ddd698e0346e1f0c89.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC: DirecTV Sports
+http://iptvmedia.live:8080/F27091/3fb29cc1/297387
+#EXTINF:-1 tvg-name="EC: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1bf210da223abb1c92d30691bb8195f9.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC: DirecTV Sports 2
+http://iptvmedia.live:8080/F27091/3fb29cc1/167019
+#EXTINF:-1 tvg-name="EC: DirecTV Sports Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6c1a7fc42180811cd8169159e1b8a1ea.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC: DirecTV Sports Plus
+http://iptvmedia.live:8080/F27091/3fb29cc1/167021
+#EXTINF:-1 tvg-name="EC: ECDF El canal del futbol" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f805ae4308ed3d174045a5e4833f724f.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC: ECDF El canal del futbol
+http://iptvmedia.live:8080/F27091/3fb29cc1/298698
+#EXTINF:-1 tvg-name="EC: Gol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/089d3c030026876ce63099c5164b7359.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",EC: Gol TV
+http://iptvmedia.live:8080/F27091/3fb29cc1/9163
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Dep|| Gol TV  | Ecuador *
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/28047
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Dep|| Gol TV | Ecuador SD LADP.
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19549
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Dep|| Gol TV | Ecuador
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/18709
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Ecuador|| Directv Sports 1
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/30273
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Ecuador|| Directv Sports 2
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/26814
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Ecuador|| Directv Sports Plus
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/30274
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Ecuador|| EL CANAL DEL FUTBOL FHD
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127080
+#EXTINF:-1 group-title="➤ ZONA ECUADOR DEPORTES ⚽",Ecuador|| EL CANAL DEL FUTBOL SD
+http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127082
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Gol TV  (tv)
+http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
 #EXTINF:-1 tvg-name="Bundesliga Colonia vs Wolfsburgo 07:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Colonia vs Wolfsburgo 07:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135296
 #EXTINF:-1 tvg-name="Bundesliga Darmstadt vs Union Berlin 07:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Darmstadt vs Union Berlin 07:30
@@ -37,18 +47,12 @@ http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135297
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135298
 #EXTINF:-1 tvg-name="Bundesliga Heidenheim vs Hoffenheim 07:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Heidenheim vs Hoffenheim 07:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135299
-#EXTINF:-1 tvg-name="Bundesliga Borussia M´gladbachs vs Bayer Leverkusen 10:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Borussia M´gladbachs vs Bayer Leverkusen 10:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135300
 #EXTINF:-1 tvg-name="Liga EA Sports Cadiz vs Almeria 11:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga EA Sports Cadiz vs Almeria 11:00
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135301
 #EXTINF:-1 tvg-name="Liga EA Sports Granada vs Mallorca 11:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga EA Sports Granada vs Mallorca 11:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135302
-#EXTINF:-1 tvg-name="Liga EA Sports Sevilla vs Girona 13:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga EA Sports Sevilla vs Girona 13:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135303
 #EXTINF:-1 tvg-name="Ligue 1 Marsella vs Brest 11:00" group-title="➤ FUTBOLEROS HOY ⚽",Ligue 1 Marsella vs Brest 11:00
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135304
-#EXTINF:-1 tvg-name="Ligue 1 PSG vs Lens 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Ligue 1 PSG vs Lens 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135305
 #EXTINF:-1 tvg-name="Premier League Bournemouth vs Tottenham 05:30" group-title="➤ FUTBOLEROS HOY ⚽",Premier League Bournemouth vs Tottenham 05:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135306
 #EXTINF:-1 tvg-name="Premier League Arsenal vs Fulham 08:00" group-title="➤ FUTBOLEROS HOY ⚽",Premier League Arsenal vs Fulham 08:00
@@ -65,126 +69,276 @@ http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135311
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135312
 #EXTINF:-1 tvg-name="Serie A Monza vs Empoli 10:30" group-title="➤ FUTBOLEROS HOY ⚽",Serie A Monza vs Empoli 10:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135313
-#EXTINF:-1 tvg-name="Serie A Milan vs Torino 12:45" group-title="➤ FUTBOLEROS HOY ⚽",Serie A Milan vs Torino 12:45
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135314
-#EXTINF:-1 tvg-name="Serie A Verona vs Roma 12:45" group-title="➤ FUTBOLEROS HOY ⚽",Serie A Verona vs Roma 12:45
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135315
 #EXTINF:-1 tvg-name="Liga Escocia Ross Country vs Rangers 05:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Escocia Ross Country vs Rangers 05:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135316
-#EXTINF:-1 tvg-name="Liga Grecia AEK vs Panserraikos 12:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Grecia AEK vs Panserraikos 12:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135317
 #EXTINF:-1 tvg-name="Liga Turquia Trabzonspor vs Rizespor 10:15" group-title="➤ FUTBOLEROS HOY ⚽",Liga Turquia Trabzonspor vs Rizespor 10:15
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135318
 #EXTINF:-1 tvg-name="Liga Argentina San Lorenzo vs Belgrano 11:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina San Lorenzo vs Belgrano 11:30
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135319
-#EXTINF:-1 tvg-name="Liga Argentina Estudiantes vs Union 13:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina Estudiantes vs Union 13:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135320
-#EXTINF:-1 tvg-name="Liga Argentina Newell´s vs Lanus 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina Newell´s vs Lanus 16:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135321
-#EXTINF:-1 tvg-name="Liga Argentina Talleres vs Huracan 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina Talleres vs Huracan 16:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135322
-#EXTINF:-1 tvg-name="Liga Argentina Tigre vs Racing 18:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina Tigre vs Racing 18:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135323
-#EXTINF:-1 tvg-name="Brasileirao Flamengo vs Internacional 15:30" group-title="➤ FUTBOLEROS HOY ⚽",Brasileirao Flamengo vs Internacional 15:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135324
-#EXTINF:-1 tvg-name="Brasileirao Corinthians vs Goias 18:00" group-title="➤ FUTBOLEROS HOY ⚽",Brasileirao Corinthians vs Goias 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135325
-#EXTINF:-1 tvg-name="Liga Canada HFX Wanderers vs Valour 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Canada HFX Wanderers vs Valour 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135326
-#EXTINF:-1 tvg-name="Liga Canada Atl Ottawa vs Forge 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Canada Atl Ottawa vs Forge 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135327
-#EXTINF:-1 tvg-name="Liga Chile Copiapo vs U Española 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Chile Copiapo vs U Española 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135328
-#EXTINF:-1 tvg-name="Liga Chile U Catolica vs Ñublense 15:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Chile U Catolica vs Ñublense 15:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135329
-#EXTINF:-1 tvg-name="Liga Colombia Envigado vs Junior 15:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia Envigado vs Junior 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135330
-#EXTINF:-1 tvg-name="Liga Colombia U Magdalena vs Alianza Petrolera 17:10" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia U Magdalena vs Alianza Petrolera 17:10
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135331
-#EXTINF:-1 tvg-name="Liga Colombia La Equidad vs Tolima 19:20" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia La Equidad vs Tolima 19:20
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135332
-#EXTINF:-1 tvg-name="Liga Tica Grecia vs Perez Zeledon 15:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Tica Grecia vs Perez Zeledon 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135333
-#EXTINF:-1 tvg-name="Liga Tica Sporting San Jose vs Liberia 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Tica Sporting San Jose vs Liberia 16:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135334
-#EXTINF:-1 tvg-name="Liga Tica San Carlos vs Saprissa 19:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Tica San Carlos vs Saprissa 19:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135335
-#EXTINF:-1 tvg-name="Liga Ecuador Ind del Valle vs U Catolica 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Ecuador Ind del Valle vs U Catolica 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135336
-#EXTINF:-1 tvg-name="Liga Ecuador Guayaquil City vs orense 14:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Ecuador Guayaquil City vs orense 14:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135337
-#EXTINF:-1 tvg-name="Liga Ecuador Mushuc vs Barcelona 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Ecuador Mushuc vs Barcelona 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135338
-#EXTINF:-1 tvg-name="MLS Atlanta Utd vs Nashville 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Atlanta Utd vs Nashville 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135339
-#EXTINF:-1 tvg-name="MLS Montreal vs New England Revolution 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Montreal vs New England Revolution 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135340
-#EXTINF:-1 tvg-name="MLS Charlotte vs Los Angeles FC 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Charlotte vs Los Angeles FC 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135341
-#EXTINF:-1 tvg-name="MLS Cincinnati vs New York City 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Cincinnati vs New York City 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135342
-#EXTINF:-1 tvg-name="MLS Columbus Crew vs Toronto 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Columbus Crew vs Toronto 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135343
-#EXTINF:-1 tvg-name="MLS DC United vs Philadelphia Union 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS DC United vs Philadelphia Union 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135344
-#EXTINF:-1 tvg-name="MLS New York Red Bulls vs Inter Miami 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS New York Red Bulls vs Inter Miami 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135345
-#EXTINF:-1 tvg-name="MLS Orlando City vs St Louis City 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Orlando City vs St Louis City 17:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135346
-#EXTINF:-1 tvg-name="MLS Dallas vs Austin 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Dallas vs Austin 18:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135347
-#EXTINF:-1 tvg-name="MLS Sporting Kansas City vs San Jose Earthquakes 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Sporting Kansas City vs San Jose Earthquakes 18:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135348
-#EXTINF:-1 tvg-name="MLS Real Salt Lake vs Houston Dynamo 19:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Real Salt Lake vs Houston Dynamo 19:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135349
-#EXTINF:-1 tvg-name="MLS Los Angeles Galaxy vs Chicago Fire 20:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Los Angeles Galaxy vs Chicago Fire 20:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135350
-#EXTINF:-1 tvg-name="MLS Portland Timbers vs Vancouver Whitecaps 20:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Portland Timbers vs Vancouver Whitecaps 20:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135351
-#EXTINF:-1 tvg-name="Liga Guatemala Comunicaciones vs Malacateco 18:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Guatemala Comunicaciones vs Malacateco 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135352
-#EXTINF:-1 tvg-name="Liga Honduras Motagua vs Olimpia 19:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Honduras Motagua vs Olimpia 19:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135353
-#EXTINF:-1 tvg-name="Liga Panama Tauro vs Dep Universitario 15:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Panama Tauro vs Dep Universitario 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135354
-#EXTINF:-1 tvg-name="Liga Panama Herrera vs Arabe Unido 17:15" group-title="➤ FUTBOLEROS HOY ⚽",Liga Panama Herrera vs Arabe Unido 17:15
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135355
-#EXTINF:-1 tvg-name="Liga Panama Chiriqui vs Alianza 19:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Panama Chiriqui vs Alianza 19:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135356
 #EXTINF:-1 tvg-name="Liga Peru Union Comercio vs AD Cantolao 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Peru Union Comercio vs AD Cantolao 12:00
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135357
-#EXTINF:-1 tvg-name="Liga Peru Carlos Mannucci vs Cienciano 14:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Peru Carlos Mannucci vs Cienciano 14:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135358
-#EXTINF:-1 tvg-name="Liga Peru Binacional vs Cusco 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Peru Binacional vs Cusco 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135359
-#EXTINF:-1 tvg-name="Liga Peru Alianza Lima vs Alianza Atl 19:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Peru Alianza Lima vs Alianza Atl 19:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135360
 #EXTINF:-1 tvg-name="Liga Uruguay Plaza Colonia vs River Plate 10:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Uruguay Plaza Colonia vs River Plate 10:00
 http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135361
-#EXTINF:-1 tvg-name="Liga Uruguay Liverpool vs Danubio 12:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Uruguay Liverpool vs Danubio 12:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135362
-#EXTINF:-1 tvg-name="Liga Uruguay Cerro Largo vs Nacional 15:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Uruguay Cerro Largo vs Nacional 15:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135363
+#EXTINF:-1 tvg-name="03:00 | Cabo Verde vs. Georgia | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",03:00 | Cabo Verde vs. Georgia | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399288.ts
+#EXTINF:-1 tvg-name="03:00 | Holloway vs. The Korean Zombie | HD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/ufc.png" group-title="➤ FUTBOLEROS HOY ⚽",03:00 | Holloway vs. The Korean Zombie | HD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399289.ts
+#EXTINF:-1 tvg-name="03:00 | Sudán del Sur vs. Puerto Rico | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",03:00 | Sudán del Sur vs. Puerto Rico | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399290.ts
+#EXTINF:-1 tvg-name="03:45 | Jordania vs. Grecia | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",03:45 | Jordania vs. Grecia | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399291.ts
+#EXTINF:-1 tvg-name="04:45 | Irán vs. Brasil | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",04:45 | Irán vs. Brasil | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399292.ts
+#EXTINF:-1 tvg-name="06:30 | AFC Bournemouth vs. Tottenham Hotspur | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",06:30 | AFC Bournemouth vs. Tottenham Hotspur | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399293.ts
+#EXTINF:-1 tvg-name="06:30 | Eslovenia vs. Venezuela | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",06:30 | Eslovenia vs. Venezuela | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399294.ts
+#EXTINF:-1 tvg-name="07:00 | Serbia vs. China | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",07:00 | Serbia vs. China | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399295.ts
+#EXTINF:-1 tvg-name="07:40 | Estados Unidos vs. Nueva Zelanda | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",07:40 | Estados Unidos vs. Nueva Zelanda | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399296.ts
+#EXTINF:-1 tvg-name="08:30 | Bochum vs. Borussia Dortmund | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Bochum vs. Borussia Dortmund | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399297.ts
+#EXTINF:-1 tvg-name="08:30 | Darmstadt 98 vs. Union Berlin | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Darmstadt 98 vs. Union Berlin | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399298.ts
+#EXTINF:-1 tvg-name="08:30 | España vs. Costa de Marfil | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | España vs. Costa de Marfil | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399299.ts
+#EXTINF:-1 tvg-name="08:30 | Freiburg vs. Werder Bremen | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Freiburg vs. Werder Bremen | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399300.ts
+#EXTINF:-1 tvg-name="08:30 | Heidenheim vs. Hoffenheim | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Heidenheim vs. Hoffenheim | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399301.ts
+#EXTINF:-1 tvg-name="08:30 | Köln vs. Wolfsburg | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Köln vs. Wolfsburg | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399302.ts
+#EXTINF:-1 tvg-name="09:00 | Arsenal vs. Fulham | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Arsenal vs. Fulham | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399303.ts
+#EXTINF:-1 tvg-name="09:00 | Brentford vs. Crystal Palace | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Brentford vs. Crystal Palace | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399304.ts
+#EXTINF:-1 tvg-name="09:00 | Everton vs. Wolverhampton Wanderers | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Everton vs. Wolverhampton Wanderers | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399305.ts
+#EXTINF:-1 tvg-name="09:00 | Manchester United vs. Nottingham Forest | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Manchester United vs. Nottingham Forest | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399306.ts
+#EXTINF:-1 tvg-name="09:30 | Arouca vs. Portimonense | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",09:30 | Arouca vs. Portimonense | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399307.ts
+#EXTINF:-1 tvg-name="10:00 | Burgos vs. Real Oviedo | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Burgos vs. Real Oviedo | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399308.ts
+#EXTINF:-1 tvg-name="11:00 | Plaza Colonia vs. CA River Plate | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",11:00 | Plaza Colonia vs. CA River Plate | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399309.ts
+#EXTINF:-1 tvg-name="11:30 | Borussia M'gladbach vs. Bayer Leverkusen | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Borussia M'gladbach vs. Bayer Leverkusen | ᴮᵁᴺᴰᴱˢᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399310.ts
+#EXTINF:-1 tvg-name="11:30 | Brighton & Hove Albion vs. West Ham United | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Brighton & Hove Albion vs. West Ham United | ᴾᴿᴱᴹᴵᴱᴿ ᴸᴱᴬᴳᵁᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399311.ts
+#EXTINF:-1 tvg-name="11:30 | Frosinone vs. Atalanta | ˢᴱᴿᴵᴱ ᴬ" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Frosinone vs. Atalanta | ˢᴱᴿᴵᴱ ᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399312.ts
+#EXTINF:-1 tvg-name="11:30 | Monza vs. Empoli | ˢᴱᴿᴵᴱ ᴬ" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Monza vs. Empoli | ˢᴱᴿᴵᴱ ᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399313.ts
+#EXTINF:-1 tvg-name="11:45 | PSV vs. Go Ahead Eagles | ᴱᴿᴱᴰᴵⱽᴵˢᴵᴱ" tvg-logo="http://209.126.82.213/logos/eventos/eredivisie.png" group-title="➤ FUTBOLEROS HOY ⚽",11:45 | PSV vs. Go Ahead Eagles | ᴱᴿᴱᴰᴵⱽᴵˢᴵᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399314.ts
+#EXTINF:-1 tvg-name="12:00 | Chicago Bears vs. Buffalo Bills | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Chicago Bears vs. Buffalo Bills | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399315.ts
+#EXTINF:-1 tvg-name="12:00 | Cádiz vs. Almería | ᴸᴬᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Cádiz vs. Almería | ᴸᴬᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399316.ts
+#EXTINF:-1 tvg-name="12:00 | Farense vs. Chaves | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Farense vs. Chaves | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399317.ts
+#EXTINF:-1 tvg-name="12:00 | Green Bay Packers vs. Seattle Seahawks | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Green Bay Packers vs. Seattle Seahawks | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399318.ts
+#EXTINF:-1 tvg-name="12:00 | Kansas City Chiefs vs. Cleveland Browns | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Kansas City Chiefs vs. Cleveland Browns | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399319.ts
+#EXTINF:-1 tvg-name="12:00 | Minnesota Vikings vs. Arizona Cardinals | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Minnesota Vikings vs. Arizona Cardinals | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399320.ts
+#EXTINF:-1 tvg-name="12:00 | Olympique Marseille vs. Brest | ᴸᴵᴳᵁᴱ ¹" tvg-logo="http://209.126.82.213/logos/eventos/league_1.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Olympique Marseille vs. Brest | ᴸᴵᴳᵁᴱ ¹
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399321.ts
+#EXTINF:-1 tvg-name="12:00 | Tenerife vs. Real Zaragoza | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Tenerife vs. Real Zaragoza | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399322.ts
+#EXTINF:-1 tvg-name="12:30 | Granada vs. Mallorca | ᴸᴬᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",12:30 | Granada vs. Mallorca | ᴸᴬᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399323.ts
+#EXTINF:-1 tvg-name="12:30 | San Lorenzo vs. Belgrano | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",12:30 | San Lorenzo vs. Belgrano | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399324.ts
+#EXTINF:-1 tvg-name="13:00 | Cruz Azul vs. Querétaro | ᴸᴵᴳᴬ ᴹˣ ᶠᴱᴹᴱᴺᴵᴸ" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx_femenil.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Cruz Azul vs. Querétaro | ᴸᴵᴳᴬ ᴹˣ ᶠᴱᴹᴱᴺᴵᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399325.ts
+#EXTINF:-1 tvg-name="13:00 | Independiente del Valle vs. Universidad Católica | ᴸᴵᴳᴬ ᴾᴿᴼ" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Independiente del Valle vs. Universidad Católica | ᴸᴵᴳᴬ ᴾᴿᴼ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399326.ts
+#EXTINF:-1 tvg-name="13:30 | Liverpool Montevideo vs. Danubio FC | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",13:30 | Liverpool Montevideo vs. Danubio FC | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399327.ts
+#EXTINF:-1 tvg-name="13:45 | Hellas Verona vs. Roma | ˢᴱᴿᴵᴱ ᴬ" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",13:45 | Hellas Verona vs. Roma | ˢᴱᴿᴵᴱ ᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399328.ts
+#EXTINF:-1 tvg-name="13:45 | Milan vs. Torino | ˢᴱᴿᴵᴱ ᴬ" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",13:45 | Milan vs. Torino | ˢᴱᴿᴵᴱ ᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399329.ts
+#EXTINF:-1 tvg-name="14:00 | Deportes Copiapó vs. Unión Española | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴴᴵᴸᴱ" tvg-logo="http://209.126.82.213/logos/eventos/primera_chile.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Deportes Copiapó vs. Unión Española | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴴᴵᴸᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399330.ts
+#EXTINF:-1 tvg-name="14:00 | PSG vs. Lens | ᴸᴵᴳᵁᴱ ¹" tvg-logo="http://209.126.82.213/logos/eventos/league_1.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | PSG vs. Lens | ᴸᴵᴳᵁᴱ ¹
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399331.ts
+#EXTINF:-1 tvg-name="14:07 | Toronto Blue Jays vs. Guardianes de Cleveland | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",14:07 | Toronto Blue Jays vs. Guardianes de Cleveland | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399332.ts
+#EXTINF:-1 tvg-name="14:30 | Elche vs. Villarreal II | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Elche vs. Villarreal II | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399333.ts
+#EXTINF:-1 tvg-name="14:30 | Estudiantes vs. Unión Santa Fe | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Estudiantes vs. Unión Santa Fe | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399334.ts
+#EXTINF:-1 tvg-name="14:30 | Gil Vicente vs. Benfica | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Gil Vicente vs. Benfica | ᴾᴿᴵᴹᴱᴿᴬ ᴾᴼᴿᵀᵁᴳᴬᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399335.ts
+#EXTINF:-1 tvg-name="14:30 | Real Valladolid vs. Alcorcón | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Real Valladolid vs. Alcorcón | ᴸᴬᴸᴵᴳᴬ ᴴʸᴾᴱᴿᴹᴼᵀᴵᴼᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399336.ts
+#EXTINF:-1 tvg-name="14:30 | Sevilla vs. Girona | ᴸᴬᴸᴵᴳᴬ" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Sevilla vs. Girona | ᴸᴬᴸᴵᴳᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399337.ts
+#EXTINF:-1 tvg-name="15:00 | Diablos Rojos De Mexico vs. Pericos de Puebla | ᴸᴹᴮ" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:00 | Diablos Rojos De Mexico vs. Pericos de Puebla | ᴸᴹᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399338.ts
+#EXTINF:-1 tvg-name="15:05 | San Francisco Giants vs. Atlanta Braves | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:05 | San Francisco Giants vs. Atlanta Braves | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399339.ts
+#EXTINF:-1 tvg-name="15:10 | Boston Red Sox vs. Los Angeles Dodgers | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:10 | Boston Red Sox vs. Los Angeles Dodgers | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399340.ts
+#EXTINF:-1 tvg-name="15:10 | Miami Marlins vs. Washington Nationals | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:10 | Miami Marlins vs. Washington Nationals | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399341.ts
+#EXTINF:-1 tvg-name="15:10 | Seattle Mariners vs. Kansas City Royals | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:10 | Seattle Mariners vs. Kansas City Royals | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399342.ts
+#EXTINF:-1 tvg-name="15:10 | Tampa Bay Rays vs. New York Yankees | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:10 | Tampa Bay Rays vs. New York Yankees | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399343.ts
+#EXTINF:-1 tvg-name="15:30 | Guayaquil City vs. Orense | ᴸᴵᴳᴬ ᴾᴿᴼ" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",15:30 | Guayaquil City vs. Orense | ᴸᴵᴳᴬ ᴾᴿᴼ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399344.ts
+#EXTINF:-1 tvg-name="16:00 | Cerro Largo vs. Nacional | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",16:00 | Cerro Largo vs. Nacional | ᴾᴿᴵᴹᴱᴿᴬ ᵁᴿᵁᴳᵁᴬʸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399345.ts
+#EXTINF:-1 tvg-name="16:00 | Oleksandr Usyk vs. Daniel Dubois | HD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",16:00 | Oleksandr Usyk vs. Daniel Dubois | HD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399346.ts
+#EXTINF:-1 tvg-name="16:00 | Oleksandr Usyk vs. Daniel Dubois | SD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",16:00 | Oleksandr Usyk vs. Daniel Dubois | SD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399347.ts
+#EXTINF:-1 tvg-name="16:30 | Flamengo vs. Internacional | ᴮᴿᴬˢᴵᴸᴱᴵᴿᴬᴼ" tvg-logo="http://209.126.82.213/logos/eventos/brasileirao.png" group-title="➤ FUTBOLEROS HOY ⚽",16:30 | Flamengo vs. Internacional | ᴮᴿᴬˢᴵᴸᴱᴵᴿᴬᴼ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399348.ts
+#EXTINF:-1 tvg-name="16:30 | Universidad Católica vs. Ñublense | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴴᴵᴸᴱ" tvg-logo="http://209.126.82.213/logos/eventos/primera_chile.png" group-title="➤ FUTBOLEROS HOY ⚽",16:30 | Universidad Católica vs. Ñublense | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴴᴵᴸᴱ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399349.ts
+#EXTINF:-1 tvg-name="17:00 | New York Giants vs. New York Jets | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | New York Giants vs. New York Jets | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399350.ts
+#EXTINF:-1 tvg-name="17:00 | Newell's Old Boys vs. Lanús | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | Newell's Old Boys vs. Lanús | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399351.ts
+#EXTINF:-1 tvg-name="17:00 | Talleres Córdoba vs. Huracán | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | Talleres Córdoba vs. Huracán | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399352.ts
+#EXTINF:-1 tvg-name="17:05 | Washington Commanders vs. Cincinnati Bengals | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",17:05 | Washington Commanders vs. Cincinnati Bengals | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399353.ts
+#EXTINF:-1 tvg-name="17:10 | Detroit Tigers vs. Houston Astros | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",17:10 | Detroit Tigers vs. Houston Astros | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399354.ts
+#EXTINF:-1 tvg-name="17:45 | Jared Anderson vs. Andriy Rudenko | HD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",17:45 | Jared Anderson vs. Andriy Rudenko | HD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399355.ts
+#EXTINF:-1 tvg-name="17:45 | Jared Anderson vs. Andriy Rudenko | SD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",17:45 | Jared Anderson vs. Andriy Rudenko | SD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399356.ts
+#EXTINF:-1 tvg-name="18:00 | Atlas vs. Toluca | ᴸᴵᴳᴬ ᴹˣ" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Atlas vs. Toluca | ᴸᴵᴳᴬ ᴹˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399357.ts
+#EXTINF:-1 tvg-name="18:00 | Envigado vs. Junior | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_colombia.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Envigado vs. Junior | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399358.ts
+#EXTINF:-1 tvg-name="18:00 | Jacksonville Jaguars vs. Miami Dolphins | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Jacksonville Jaguars vs. Miami Dolphins | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399359.ts
+#EXTINF:-1 tvg-name="18:00 | Mushuc Runa vs. Barcelona | ᴸᴵᴳᴬ ᴾᴿᴼ" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Mushuc Runa vs. Barcelona | ᴸᴵᴳᴬ ᴾᴿᴼ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399360.ts
+#EXTINF:-1 tvg-name="18:00 | Tampa Bay Buccaneers vs. Baltimore Ravens | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Tampa Bay Buccaneers vs. Baltimore Ravens | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399361.ts
+#EXTINF:-1 tvg-name="18:10 | Chicago White Sox vs. Oakland Athletics | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Chicago White Sox vs. Oakland Athletics | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399362.ts
+#EXTINF:-1 tvg-name="18:10 | Milwaukee Brewers vs. San Diego Padres | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Milwaukee Brewers vs. San Diego Padres | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399363.ts
+#EXTINF:-1 tvg-name="18:10 | New York Mets vs. Los Angeles Angels | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | New York Mets vs. Los Angeles Angels | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399364.ts
+#EXTINF:-1 tvg-name="18:10 | Unión Magdalena vs. Alianza Petrolera | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_colombia.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Unión Magdalena vs. Alianza Petrolera | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399365.ts
+#EXTINF:-1 tvg-name="18:15 | Minnesota Twins vs. Texas Rangers | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | Minnesota Twins vs. Texas Rangers | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399366.ts
+#EXTINF:-1 tvg-name="18:15 | Philadelphia Phillies vs. St. Louis Cardinals | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | Philadelphia Phillies vs. St. Louis Cardinals | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399367.ts
+#EXTINF:-1 tvg-name="18:15 | Pittsburgh Pirates vs. Chicago Cubs | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | Pittsburgh Pirates vs. Chicago Cubs | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399368.ts
+#EXTINF:-1 tvg-name="18:30 | Atlanta United vs. Nashville SC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | Atlanta United vs. Nashville SC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399369.ts
+#EXTINF:-1 tvg-name="18:30 | CF Montréal vs. New England Revolution | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | CF Montréal vs. New England Revolution | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399370.ts
+#EXTINF:-1 tvg-name="18:30 | Charlotte FC vs. Los Angeles FC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | Charlotte FC vs. Los Angeles FC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399371.ts
+#EXTINF:-1 tvg-name="18:30 | Columbus Crew vs. Toronto FC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | Columbus Crew vs. Toronto FC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399372.ts
+#EXTINF:-1 tvg-name="18:30 | DC United vs. Philadelphia Union | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | DC United vs. Philadelphia Union | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399373.ts
+#EXTINF:-1 tvg-name="18:30 | FC Cincinnati vs. New York City FC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | FC Cincinnati vs. New York City FC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399374.ts
+#EXTINF:-1 tvg-name="18:30 | New York Red Bulls vs. Inter Miami | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | New York Red Bulls vs. Inter Miami | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399375.ts
+#EXTINF:-1 tvg-name="18:30 | Orlando City SC vs. St. Louis City SC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | Orlando City SC vs. St. Louis City SC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399376.ts
+#EXTINF:-1 tvg-name="19:00 | Corinthians vs. Goiás | ᴮᴿᴬˢᴵᴸᴱᴵᴿᴬᴼ" tvg-logo="http://209.126.82.213/logos/eventos/brasileirao.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Corinthians vs. Goiás | ᴮᴿᴬˢᴵᴸᴱᴵᴿᴬᴼ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399377.ts
+#EXTINF:-1 tvg-name="19:00 | Dallas Cowboys vs. Las Vegas Raiders | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Dallas Cowboys vs. Las Vegas Raiders | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399378.ts
+#EXTINF:-1 tvg-name="19:00 | Holloway vs. The Korean Zombie | SD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/ufc.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Holloway vs. The Korean Zombie | SD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399379.ts
+#EXTINF:-1 tvg-name="19:00 | Oscar Collazo vs. Garen Diagan | HD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Oscar Collazo vs. Garen Diagan | HD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399380.ts
+#EXTINF:-1 tvg-name="19:00 | Oscar Collazo vs. Garen Diagan | SD ᴮᴼˣ" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Oscar Collazo vs. Garen Diagan | SD ᴮᴼˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399381.ts
+#EXTINF:-1 tvg-name="19:10 | Arizona Diamondbacks vs. Cincinnati Reds | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",19:10 | Arizona Diamondbacks vs. Cincinnati Reds | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399382.ts
+#EXTINF:-1 tvg-name="19:30 | FC Dallas vs. Austin FC | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | FC Dallas vs. Austin FC | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399383.ts
+#EXTINF:-1 tvg-name="19:30 | Sporting Kansas City vs. San Jose Earthquakes | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Sporting Kansas City vs. San Jose Earthquakes | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399384.ts
+#EXTINF:-1 tvg-name="19:30 | Tigre vs. Racing Club | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Tigre vs. Racing Club | ˢᵁᴾᴱᴿᴸᴵᴳᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399385.ts
+#EXTINF:-1 tvg-name="20:00 | Algodoneros Unión Laguna vs. Toros de Tijuana | ᴸᴹᴮ" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | Algodoneros Unión Laguna vs. Toros de Tijuana | ᴸᴹᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399386.ts
+#EXTINF:-1 tvg-name="20:00 | América vs. León | ᴸᴵᴳᴬ ᴹˣ" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | América vs. León | ᴸᴵᴳᴬ ᴹˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399387.ts
+#EXTINF:-1 tvg-name="20:00 | Denver Broncos vs. Los Angeles Rams | ᴺᶠᴸ" tvg-logo="http://209.126.82.213/logos/eventos/nfl.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | Denver Broncos vs. Los Angeles Rams | ᴺᶠᴸ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399388.ts
+#EXTINF:-1 tvg-name="20:05 | Tecolotes Dos Laredos vs. Sultanes de Monterrey | ᴸᴹᴮ" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:05 | Tecolotes Dos Laredos vs. Sultanes de Monterrey | ᴸᴹᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399389.ts
+#EXTINF:-1 tvg-name="20:20 | La Equidad vs. Deportes Tolima | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ" tvg-logo="http://209.126.82.213/logos/eventos/primera_colombia.png" group-title="➤ FUTBOLEROS HOY ⚽",20:20 | La Equidad vs. Deportes Tolima | ᴾᴿᴵᴹᴱᴿᴬ ᶜᴼᴸᴼᴹᴮᴵᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399390.ts
+#EXTINF:-1 tvg-name="20:30 | Real Salt Lake vs. Houston Dynamo | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",20:30 | Real Salt Lake vs. Houston Dynamo | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399391.ts
+#EXTINF:-1 tvg-name="21:30 | Los Angeles Galaxy vs. Chicago Fire | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",21:30 | Los Angeles Galaxy vs. Chicago Fire | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399392.ts
+#EXTINF:-1 tvg-name="21:30 | Portland Timbers vs. Vancouver Whitecaps | ᴹᴸˢ" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",21:30 | Portland Timbers vs. Vancouver Whitecaps | ᴹᴸˢ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399393.ts
+#EXTINF:-1 tvg-name="22:05 | Santos Laguna vs. Guadalajara | ᴸᴵᴳᴬ ᴹˣ" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",22:05 | Santos Laguna vs. Guadalajara | ᴸᴵᴳᴬ ᴹˣ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/399394.ts
+#EXTINF:-1 tvg-name="02 | DSPORTS + ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/1488b670730b32bae4449e4e195ac2ae.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS + ECUADOR HD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/437287
+#EXTINF:-1 tvg-name="02 | DSPORTS 2 ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS 2 ECUADOR HD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/437289
+#EXTINF:-1 tvg-name="02 | DSPORTS ECUADOR 1" tvg-logo="http://zonamovie.live:8008/images/714d32d45f6cb3bc336a765119cb3c4c.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS ECUADOR 1
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/437291
+#EXTINF:-1 tvg-name="01 | PPV  # 1  (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",01 | PPV  # 1  (A LA HORA DEL EVENTO)
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531742
+#EXTINF:-1 tvg-name="01 | PPV # 2  (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",01 | PPV # 2  (A LA HORA DEL EVENTO)
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531743
+#EXTINF:-1 tvg-name="01 | PPV # 3 (A LA HORA DEL EVENTO)" tvg-logo="https://static.vecteezy.com/system/resources/previews/009/118/230/original/ppv-logo-ppv-letter-ppv-letter-logo-design-initials-ppv-logo-linked-with-circle-and-uppercase-monogram-logo-ppv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",01 | PPV # 3 (A LA HORA DEL EVENTO)
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531744
+#EXTINF:-1 tvg-name="02 | G-TV |  SEÑAL ADAPTIVA" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | G-TV |  SEÑAL ADAPTIVA
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531745
+#EXTINF:-1 tvg-name="02 | G-TV | 4K" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | G-TV | 4K
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531746
+#EXTINF:-1 tvg-name="02 | G-TV | 720 ▶️" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | G-TV | 720 ▶️
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531747
+#EXTINF:-1 tvg-name="02 | G-TV | HD" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | G-TV | HD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531748
+#EXTINF:-1 tvg-name="02 | G-TV | HD 2" tvg-logo="http://fanc.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | G-TV | HD 2
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531749
+#EXTINF:-1 tvg-name="GOLTV ECUADOR HD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",GOLTV ECUADOR HD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531750
+#EXTINF:-1 tvg-name="GOLTV ECUADOR SD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",GOLTV ECUADOR SD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531751
+#EXTINF:-1 tvg-name="GOLTV ECUADOR FHD" tvg-logo="http://svtv.xyz:8000/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",GOLTV ECUADOR FHD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531752
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL 720" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",04 | EL CANAL DEL FUTBOL 720
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531753
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",04 | EL CANAL DEL FUTBOL FHD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531754
+#EXTINF:-1 tvg-name="04 | EL CANAL DEL FUTBOL HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",04 | EL CANAL DEL FUTBOL HD
+http://zonamovie.live:8080/Micaplay/mU10HmNgmp/531755
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",SP: EC: Gol TV HD
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/15127.ts
 #EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",SP: EC: Gol TV FHD
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/115764.ts
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECU-Gol TV  (tv)
 http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2461
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV  SD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/30462
-#EXTINF:-1 group-title="➤ ZONA LIGA PRO ECUADOR ⚽",ECUADOR | Gol TV HD (E)
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2462
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Dep|| Gol TV  | Ecuador *
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/28047
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Dep|| Gol TV | Ecuador SD LADP.
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/19549
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Dep|| Gol TV | Ecuador
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/18709
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Dep|| Directv Sports Plus | Ecuador
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/46837
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Canela TV
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/65224
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Directv Sports 1
@@ -205,8 +359,6 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/65218
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/65217
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Gamavision
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/84539
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Gol TV-HD
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/84525
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Oromar Television HD
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/65212
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| RTS HD
@@ -235,8 +387,6 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/54748
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1124937
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| TC MI CANAL HD :)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1124938
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| RTS HD :)
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1124939
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| Oromar TV HD :)
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1124940
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| GolTV Internacional :)
@@ -247,8 +397,6 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1124943
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1133697
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| EL CANAL DEL FUTBOL FHD
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127080
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| EL CANAL DEL FUTBOL HD
-http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127081
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| EL CANAL DEL FUTBOL SD
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127082
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| TELERAMA
@@ -259,14 +407,10 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1203779
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1203780
 #EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",Ecuador|| OROMAR
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1203781
-#EXTINF:-1 group-title="🇪🇨 ECUADOR  ★  V I P  ★",ECUADOR | Teleamazonas UHD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="🇪🇨 ECUADOR  ★  V I P  ★",ECU-Gol TV  (tv)
 http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
 #EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU-Teleamazona Costa (X)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="🇪🇨 ECUADOR  ★  V I P  ★",ECU-Teleamazona Costa (X)(720)
 http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22156
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU-TC Television (X)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png" group-title="🇪🇨 ECUADOR  ★  V I P  ★",ECU-TC Television (X)(1080)
-http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22155
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="EC | Telerama" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telerama-2-logo-png-transparent.png" group-title="🇪🇨 ECUADOR  ★  V I P  ★",EC | Telerama
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219710
 #EXTINF:-1 tvg-name="EC|  Gama TV" tvg-logo="http://ceoapps.org/logos/gamatv.png" group-title="🇪🇨 ECUADOR  ★  V I P  ★",EC|  Gama TV
@@ -407,10 +551,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13733.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1573.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★★★",EC: Ecuador TV *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13732.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★★",EC: Ecuavisa
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1577.ts
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★★",EC: Oromar
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1581.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★★★",EC: TC Television
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/1583.ts
 #EXTINF:-1 tvg-name="Canela TV (ec)" tvg-logo="http://boxdigital.xyz:8080/images/9442f2ca09ba2f1c820ad9ae0cc3f2e2.png" group-title="🇪🇨 ECUADOR ★★",Canela TV (ec)
@@ -423,8 +563,6 @@ http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216738
 http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216739
 #EXTINF:-1 tvg-name="ECO TV (pa)" tvg-logo="http://boxdigital.xyz:8080/images/5119e0c536925531d4b8ba4ac5f62175.png" group-title="🇪🇨 ECUADOR ★★",ECO TV (pa)
 http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216741
-#EXTINF:-1 tvg-name="Ecuador TV HD (ec)" tvg-logo="http://boxdigital.xyz:8080/images/4063eacde0630a896b14a954b3079387.png" group-title="🇪🇨 ECUADOR ★★",Ecuador TV HD (ec)
-http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216742
 #EXTINF:-1 tvg-name="Ecuador TV* (ec)" tvg-logo="http://boxdigital.xyz:8080/images/4063eacde0630a896b14a954b3079387.png" group-title="🇪🇨 ECUADOR ★★",Ecuador TV* (ec)
 http://lista.deluxeprime.net:8080/tinoco/RxAVWUQ6sa/216743
 #EXTINF:-1 tvg-name="Ecuavisa FHD Quito (ec)" tvg-logo="http://boxdigital.xyz:8080/images/020fa2106ab508f65a5ebc0e1dde5569.png" group-title="🇪🇨 ECUADOR ★★",Ecuavisa FHD Quito (ec)
@@ -509,22 +647,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304397
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
 #EXTINF:-1 tvg-name="Asomavisión SD (EC)" group-title="🇪🇨 ECUADOR ★★",Asomavisión SD (EC)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304404
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | DirecTV Sports
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2452
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | Ecuador TV HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2465
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | Ecuavisa Costa HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2471
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | Oromar HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2458
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | TC Television
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2449
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | TC Television HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2448
-#EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",ECUADOR | Teleamazonas UHD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/2444
-#EXTINF:-1 tvg-name="EC | ECUAVISA FHD (GYE)" tvg-logo="http://iptvglobal.site:25461/images/f72e82230f5736c303c6b5d46c54ccb6.png" group-title="🇪🇨 ECUADOR ★★",EC | ECUAVISA FHD (GYE)
-http://playhispano.org:8080/Casjahj/Jhajsac/129475
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",EC: Canela Tv
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/348.ts
 #EXTINF:-1 group-title="🇪🇨 ECUADOR ★★",EC: Ecuador TV (MOVIL)
@@ -633,8 +755,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121856
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/187724
 #EXTINF:-1 tvg-name="Directv Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports HD (ARG)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
 #EXTINF:-1 tvg-name="Directv Sports HD (CO)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports HD (CO)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
 #EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN SD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",ESPN SD (CL)
@@ -711,8 +831,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34717
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34724
 #EXTINF:-1 tvg-name="Directv Sports HD (ECU)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports HD (ECU)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318007
-#EXTINF:-1 tvg-name="Directv Sports HD (PE)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports HD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318008
 #EXTINF:-1 tvg-name="Directv Sports 2 (ec)" tvg-logo="http://209.126.82.213/LogosP/Ecuador/ec_DirectvSports.png" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports 2 (ec)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/318010
 #EXTINF:-1 tvg-name="Directv Sports Eventos 2  ™" group-title="➤ ⚽  COPA LIBERTADORES & SUDAMERICANA ⚽",Directv Sports Eventos 2  ™
@@ -817,8 +935,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313116
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35258
 #EXTINF:-1 tvg-name="HBO Xtreme HD (MX)" tvg-logo="https://img.tvcl.xyz/cinepremium/hboxtreme.png" group-title="➤ ZONA LATINO ★ V I P ★",HBO Xtreme HD (MX)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302666
-#EXTINF:-1 tvg-name="Universal Cinema FHD (LAT)*" group-title="➤ ZONA LATINO ★ V I P ★",Universal Cinema FHD (LAT)*
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312948
 #EXTINF:-1 tvg-id="MX - FOX Premium Movies HD" tvg-name="Universal Cinema FHD (LAT)" group-title="➤ ZONA LATINO ★ V I P ★",Universal Cinema FHD (LAT)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34871
 #EXTINF:-1 tvg-name="Universal Cinema HD (MX)" group-title="➤ ZONA LATINO ★ V I P ★",Universal Cinema HD (MX)
@@ -839,8 +955,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34851
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302742
 #EXTINF:-1 tvg-name="Universal Premiere FHD (LAT)*" group-title="➤ ZONA LATINO ★ V I P ★",Universal Premiere FHD (LAT)*
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312912
-#EXTINF:-1 tvg-name="Universal Premiere FHD (LAT)*" group-title="➤ ZONA LATINO ★ V I P ★",Universal Premiere FHD (LAT)*
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312947
 #EXTINF:-1 tvg-id="MX - Star Series HD" tvg-name="Universal Premiere FHD (LAT)" group-title="➤ ZONA LATINO ★ V I P ★",Universal Premiere FHD (LAT)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34875
 #EXTINF:-1 tvg-name="Universal Premiere Oeste SD (LAT)" group-title="➤ ZONA LATINO ★ V I P ★",Universal Premiere Oeste SD (LAT)
@@ -973,8 +1087,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/255.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/98.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Space HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/133.ts
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Star Action Full HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/250.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Star Channel
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14933.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Star Channel *
@@ -991,16 +1103,12 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/254.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5916.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Studio Universal HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14861.ts
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13436.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/93.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/134.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT HD *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3371.ts
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT Series
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13437.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT Series Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/94.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",TNT Series HD
@@ -1017,8 +1125,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5935.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13035.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Universal Channel Full HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3335.ts
-#EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Universal Reality Full HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14001.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Warner Channel *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/5943.ts
 #EXTINF:-1 group-title="➤ ZONA LATINO ★ V I P ★",Warner Channel Full HD
@@ -1059,8 +1165,6 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/116
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/117
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="CINE: CINEMAXᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: CINEMAXᴴᴰ ⁽ᵒᵖ²⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/119
-#EXTINF:-1 tvg-name="CINE: CLARO CINEMAᴴᴰ" tvg-logo="https://i.ibb.co/2jPFbFZ/CLAROCINEMA.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: CLARO CINEMAᴴᴰ
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/120
 #EXTINF:-1 tvg-name="CINE: DHEᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: DHEᴴᴰ ⁽ᵒᵖ¹⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/121
 #EXTINF:-1 tvg-name="CINE: DHEᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: DHEᴴᴰ ⁽ᵒᵖ²⁾
@@ -1139,8 +1243,6 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/160
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/161
 #EXTINF:-1 tvg-name="CINE: STAR CHANNELᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: STAR CHANNELᴴᴰ ⁽ᵒᵖ³⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/162
-#EXTINF:-1 tvg-name="CINE: TNTᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TNTᴴᴰ ⁽ᵒᵖ¹⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/166
 #EXTINF:-1 tvg-name="CINE: TNTᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TNTᴴᴰ ⁽ᵒᵖ²⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/167
 #EXTINF:-1 tvg-name="CINE: TNTᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TNTᴴᴰ ⁽ᵒᵖ³⁾
@@ -1157,8 +1259,6 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/172
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/173
 #EXTINF:-1 tvg-name="CINE: A3 CINEᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: A3 CINEᴴᴰ ⁽ᵒᵖ¹⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/174
-#EXTINF:-1 tvg-name="CINE: A3 SERIESᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: A3 SERIESᴴᴰ ⁽ᵒᵖ¹⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/175
 #EXTINF:-1 tvg-name="CINE: CINEMAXᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: CINEMAXᴴᴰ ⁽ᵒᵖ²⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/176
 #EXTINF:-1 tvg-name="CINE: CINEMAX ACTIONᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: CINEMAX ACTIONᴴᴰ ⁽ᵒᵖ¹⁾
@@ -1241,12 +1341,8 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/220
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/221
 #EXTINF:-1 tvg-name="CINE: SYFYᴴᴰ ⁽ᵒᵖ¹⁾" group-title="➤ ZONA LATINO ★ V I P ★",CINE: SYFYᴴᴰ ⁽ᵒᵖ¹⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/222
-#EXTINF:-1 tvg-name="CINE: SYFYᴴᴰ ⁽ᵒᵖ²⁾" group-title="➤ ZONA LATINO ★ V I P ★",CINE: SYFYᴴᴰ ⁽ᵒᵖ²⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/223
 #EXTINF:-1 tvg-name="CINE: SYFYᴴᴰ ⁽ᵒᵖ³⁾" group-title="➤ ZONA LATINO ★ V I P ★",CINE: SYFYᴴᴰ ⁽ᵒᵖ³⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/224
-#EXTINF:-1 tvg-name="CINE: SYFYᴴᴰ ⁽ᴼᴾ⁴⁾" group-title="➤ ZONA LATINO ★ V I P ★",CINE: SYFYᴴᴰ ⁽ᴼᴾ⁴⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/225
 #EXTINF:-1 tvg-name="CINE: TBSᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TBSᴴᴰ ⁽ᵒᵖ¹⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/226
 #EXTINF:-1 tvg-name="CINE: TBSᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/m9R16xG/TBS.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TBSᴴᴰ ⁽ᵒᵖ²⁾
@@ -1255,8 +1351,6 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/227
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/228
 #EXTINF:-1 tvg-name="CINE: TCMᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TCMᴴᴰ ⁽ᵒᵖ¹⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/229
-#EXTINF:-1 tvg-name="CINE: TCMᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TCMᴴᴰ ⁽ᵒᵖ²⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/230
 #EXTINF:-1 tvg-name="CINE: TCMᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: TCMᴴᴰ ⁽ᵒᵖ³⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/231
 #EXTINF:-1 tvg-name="CINE: UNIVERSAL CHANNELᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: UNIVERSAL CHANNELᴴᴰ ⁽ᵒᵖ¹⁾
@@ -1265,8 +1359,6 @@ http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/232
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/233
 #EXTINF:-1 tvg-name="CINE: UNIVERSAL CHANNELᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: UNIVERSAL CHANNELᴴᴰ ⁽ᵒᵖ³⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/234
-#EXTINF:-1 tvg-name="CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ¹⁾
-http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/235
 #EXTINF:-1 tvg-name="CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ²⁾
 http://premiumultra.xyz:8080/d7e7w8s9/j2h3s7c8/236
 #EXTINF:-1 tvg-name="CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="➤ ZONA LATINO ★ V I P ★",CINE: WARNER CHANNELᴴᴰ ⁽ᵒᵖ³⁾
@@ -1377,8 +1469,6 @@ http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/18580
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/3962
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="http://descargas.podzone.net/logos/-UFC-network.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - UFC  NETWORK FHD
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/4082
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - UNIVISION TUDN HD" tvg-logo="http://descargas.podzone.net/logos/-univision-TUDN.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - UNIVISION TUDN HD
-http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/4117
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN PLUS MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-plus.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - ESPN PLUS MX
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/4120
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN EXTRA SUR FHD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-extra.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - ESPN EXTRA SUR FHD
@@ -1403,8 +1493,6 @@ http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/43637
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/43638
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - ESPN 3 SUR SD
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/43639
-#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - FOX SPORTS 3 SUR SD
-http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/43640
 #EXTINF:-1 tvg-name="LD - UFC LIVE HD" tvg-logo="http://descargas.podzone.net/logos/-UFC-live.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - UFC LIVE HD
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/53372
 #EXTINF:-1 tvg-name="LD - ESPN CHILE HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - ESPN CHILE HD
@@ -1451,32 +1539,8 @@ http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/1159094
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/1159095
 #EXTINF:-1 tvg-name="LD - ESPN 2 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LD - ESPN 2 BRASIL
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/1159096
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Bein Sports La Liga HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/3215
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Claro Sports HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1309
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Arg) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1263
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 1 (Mx) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1266
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN 2 (Arg) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1264
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | ESPN U HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1271
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports (CO) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1279
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 1 (Mx) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1275
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Fox Sports 2 (Arg) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1273
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | Red Bull TV HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1301
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",Deportes HD | TUDN (Mx) HD
-http://veotv.net:25461/AMANDAMARIN/krgEHPJdp1/1285
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",LA - Fox Sports Chile
 http://2hubs.ddns.net:25461/Joecool/qkN8PaJdwM54/62565
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",beIN SPORTS Ñ HD *
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/10776.ts
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/40.ts
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports 2
@@ -1487,8 +1551,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/38.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/39.ts
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTv Sports HD (Chile) *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/14796.ts
-#EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",DirecTV Sports Plus HD
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13956.ts
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 Argentina
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/11649.ts
 #EXTINF:-1 group-title="➤ ZONA DEPORTES LATINOS  ⚽⚾",ESPN 2 Full HD
@@ -1551,8 +1613,6 @@ http://iptvmedia.live:8080/F27091/3fb29cc1/9061
 http://iptvmedia.live:8080/F27091/3fb29cc1/9050
 #EXTINF:-1 tvg-name="MX: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png" group-title="➤ ZONA CULTURA ★ V I P ★",MX: Investigation Discovery
 http://iptvmedia.live:8080/F27091/3fb29cc1/9056
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/75e37e438d6803fe9b58acec81ba18ce.gif" group-title="➤ ZONA CULTURA ★ V I P ★",LATINO| DISCOVERY THEATHER PREMIUN FHD (DUAL AUDIO)
-http://playhispano.org:8080/Casjahj/Jhajsac/86846
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="MyC - DISCOVERY THEATER" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="➤ ZONA CULTURA ★ V I P ★",MyC - DISCOVERY THEATER
 http://50.7.66.234:8080/Jomyson@/6373DCD3.pass/4119
 #EXTINF:-1 tvg-id="History2.mx" tvg-name="MyC - H2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="➤ ZONA CULTURA ★ V I P ★",MyC - H2
@@ -1607,8 +1667,6 @@ http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13622.ts
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/110.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery Theater HD
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/118.ts
-#EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery TLC
-http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/13435.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery TLC *
 http://live.iptv.wtf:80/live/pldavrtr/tKHmyf5009/3314.ts
 #EXTINF:-1 group-title="➤ ZONA CULTURA ★ V I P ★",Discovery TLC Full HD
@@ -1819,12 +1877,6 @@ http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/37807
 http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/62997
 #EXTINF:-1 tvg-name="24/7 Yo Soy Betty la fea (e)(720)" tvg-logo="https://1.bp.blogspot.com/-AGgjTxDmh1w/Xs921ebGYTI/AAAAAAAAAM0/yeOdjPSpXbYjC65YBPECYiiGcTj5M6hrgCK4BGAsYHg/betty.png" group-title="➤ ZONA NOVELAS",24/7 Yo Soy Betty la fea (e)(720)
 http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/37792
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SSTV-SKY:AZTECA CORAZON" tvg-logo="https://i.picasion.com/pic92/84671326563aa7fc3b468f2a2f48247c.gif" group-title="➤ ZONA NOVELAS",SSTV-SKY:AZTECA CORAZON
-http://playhispano.org:8080/Casjahj/Jhajsac/107053
-#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="NOV-tlNovela (M)(1080)" group-title="➤ ZONA NOVELAS",NOV-tlNovela (M)(1080)
-http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/69579
-#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="NOV-TLN tlnovelas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-N420mNP_oto/Xz895w5_E8I/AAAAAAAABKc/P3YF5UNR_Bc8CSSdn1ZXVL5HQ7UN8RJWQCLcBGAsYHQ/w200-h200/7%2BTln%2BNovelas.png" group-title="➤ ZONA NOVELAS",NOV-TLN tlnovelas (M)(SD)
-http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/1286
 #EXTINF:-1 tvg-id="4Music.uk" tvg-name="NOV-Unicable (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" group-title="➤ ZONA NOVELAS",NOV-Unicable (M)(1080)
 http://tv.onplas.xyz:43201/L0vjEGB3MC/GF8Nqw8gZ5/1283
 #EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="NOV-Univision TeleNovelas (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="➤ ZONA NOVELAS",NOV-Univision TeleNovelas (TV)(720)
@@ -1915,12 +1967,6 @@ http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/114174
 http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/114229
 #EXTINF:-1 tvg-name="RAD ll RADIO GALAXIA FM (PP)" tvg-logo="http://latinoamericatv.vip:8080/images/71525db3d7ce6674cd80958ef7d6c2f4.png" group-title="➤ ZONA VIDEO Y AUDIO",RAD ll RADIO GALAXIA FM (PP)
 http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/114234
-#EXTINF:-1 tvg-name="RAD ll JC RADIO FM (PP)" tvg-logo="http://latinoamericatv.vip:8080/images/09e305bf5a6d06255a5afaa5ecbe77fd.png" group-title="➤ ZONA VIDEO Y AUDIO",RAD ll JC RADIO FM (PP)
-http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/114235
-#EXTINF:-1 tvg-name="RAD ll RADIO TROPICALIDA FM (PP)" tvg-logo="http://latinoamericatv.vip:8080/images/0818cda5294155dd72ae83440cdc5faa.png" group-title="➤ ZONA VIDEO Y AUDIO",RAD ll RADIO TROPICALIDA FM (PP)
-http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/114280
-#EXTINF:-1 tvg-name="RADIO REDONDA GUAYAQUIL" tvg-logo="http://daleplay.club:8080/images/862a7cde3eac396f84615fccbf6de8d0.jpg" group-title="➤ ZONA VIDEO Y AUDIO",RADIO REDONDA GUAYAQUIL
-http://daleplaypro.com:8080/Listandb72736as/Kejenbrb737/132993
 #EXTINF:-1 group-title="➤ ZONA VIDEO Y AUDIO",Music: Zona Latina (CL)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/36562.ts
 #EXTINF:-1 tvg-name="MUS - MUSIC TOP" tvg-logo="http://descargas.podzone.net/logos/-MUSIC-TOP.png" group-title="➤ ZONA VIDEO Y AUDIO",MUS - MUSIC TOP
@@ -1931,8 +1977,6 @@ http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132169.ts
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132170.ts
 #EXTINF:-1 group-title="➤ ZONA VIDEO Y AUDIO",Music: Classic Project 3 (Pop 2000-2004)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132171.ts
-#EXTINF:-1 group-title="➤ ZONA VIDEO Y AUDIO",Music: Classic Project 4 (90s)
-http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132172.ts
 #EXTINF:-1 group-title="➤ ZONA VIDEO Y AUDIO",Music: Classic Project 5 (Rock Pop 90s)
 http://tv.titanicos.net:2095/armandom00ninter/OiuHUx01xN/132173.ts
 #EXTINF:-1 group-title="➤ ZONA VIDEO Y AUDIO",Music: Classic Project 6 (Pop 2004-2006)
@@ -2233,8 +2277,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302720
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313076
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="SyFy HD (MX)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="➤ ZONA CINE  ★ V I P ★",SyFy HD (MX)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302722
-#EXTINF:-1 tvg-name="SyFy FHD (LAT)*" group-title="➤ ZONA CINE  ★ V I P ★",SyFy FHD (LAT)*
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312930
 #EXTINF:-1 tvg-name="SyFy FHD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="➤ ZONA CINE  ★ V I P ★",SyFy FHD (LAT)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312795
 #EXTINF:-1 tvg-id="CL - TCM" tvg-name="TCM  SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/tcm.png" group-title="➤ ZONA CINE  ★ V I P ★",TCM  SD (CL*)
@@ -2285,8 +2327,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50596
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50597
 #EXTINF:-1 tvg-name="24/7 VIP El Laboratorio de Dexter SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 VIP El Laboratorio de Dexter SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50598
-#EXTINF:-1 tvg-name="24/7 VIP Futurama HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 VIP Futurama HD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50599
 #EXTINF:-1 tvg-name="24/7 VIP Happy tree friends FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 VIP Happy tree friends FHD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50601
 #EXTINF:-1 tvg-name="24/7 VIP Jimmy Neutron SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 VIP Jimmy Neutron SD
@@ -2357,8 +2397,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49166
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49168
 #EXTINF:-1 tvg-name="24/7 NCIS Los Angeles SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 NCIS Los Angeles SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49181
-#EXTINF:-1 tvg-name="24/7 Los Magnificos Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 Los Magnificos Temp 1 SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49182
 #EXTINF:-1 tvg-name="24/7 MacGiver (2016) Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 MacGiver (2016) Temp 1 SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49186
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 ER Sala de Urgencias SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 ER Sala de Urgencias SD
@@ -2401,8 +2439,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49257
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49258
 #EXTINF:-1 tvg-name="24/7 Los Años Maravillosos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 Los Años Maravillosos SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49259
-#EXTINF:-1 tvg-name="24/7 El Oso Yogui SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 El Oso Yogui SD
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49262
 #EXTINF:-1 tvg-name="24/7 Candy Candy SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 Candy Candy SD
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49264
 #EXTINF:-1 tvg-name="24/7 La Casa de los Dibujos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="➤ ZONA 24/7",24/7 La Casa de los Dibujos SD
