@@ -39,58 +39,102 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127080
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127082
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Gol TV  (tv)
 http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
-#EXTINF:-1 tvg-name="Expansion MX Venados vs Tapatio 19:05" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Venados vs Tapatio 19:05
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135718
-#EXTINF:-1 tvg-name="Expansion MX Correcaminos vs Oaxaca 21:05" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Correcaminos vs Oaxaca 21:05
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135719
-#EXTINF:-1 tvg-name="Champions League Galatasaray vs Molde 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Galatasaray vs Molde 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135720
-#EXTINF:-1 tvg-name="Champions League Galatasaray vs Molde 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Galatasaray vs Molde 13:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135721
-#EXTINF:-1 tvg-name="Champions League Galatasaray vs Molde 13:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Galatasaray vs Molde 13:00 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135722
-#EXTINF:-1 tvg-name="Champions League Panathinaikos vs Braga 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Panathinaikos vs Braga 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135723
-#EXTINF:-1 tvg-name="Champions League Panathinaikos vs Braga 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Panathinaikos vs Braga 13:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135724
-#EXTINF:-1 tvg-name="Champions League Young Boys vs M Haifa 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Young Boys vs M Haifa 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135725
-#EXTINF:-1 tvg-name="Champions League Young Boys vs M Haifa 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Young Boys vs M Haifa 13:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135726
-#EXTINF:-1 tvg-name="Libertadores Internacional vs Bolivar 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Internacional vs Bolivar 16:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135727
-#EXTINF:-1 tvg-name="Libertadores Internacional vs Bolivar 16:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Internacional vs Bolivar 16:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135728
-#EXTINF:-1 tvg-name="Sudamericana Estudiantes vs Corinthians 18:30" group-title="➤ FUTBOLEROS HOY ⚽",Sudamericana Estudiantes vs Corinthians 18:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135729
-#EXTINF:-1 tvg-name="Sudamericana Estudiantes vs Corinthians 18:30 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Sudamericana Estudiantes vs Corinthians 18:30 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135730
-#EXTINF:-1 tvg-name="CONCACAF Cartagines vs Dep Universitario 18:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Cartagines vs Dep Universitario 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135731
-#EXTINF:-1 tvg-name="CONCACAF Saprissa vs Coban Imperial 18:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Saprissa vs Coban Imperial 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135732
-#EXTINF:-1 tvg-name="CONCACAF Independiente vs FAS 20:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Independiente vs FAS 20:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135733
-#EXTINF:-1 tvg-name="CONCACAF Olimpia vs Xelaju 20:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Olimpia vs Xelaju 20:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135734
-#EXTINF:-1 tvg-name="Amistoso Fem America vs Barcelona 20:00" group-title="➤ FUTBOLEROS HOY ⚽",Amistoso Fem America vs Barcelona 20:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135735
-#EXTINF:-1 tvg-name="Amistoso Fem Tigres vs Real Madrid 20:00" group-title="➤ FUTBOLEROS HOY ⚽",Amistoso Fem Tigres vs Real Madrid 20:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135736
-#EXTINF:-1 tvg-name="Carabao Cup Fulham vs Tottenham 12:45" group-title="➤ FUTBOLEROS HOY ⚽",Carabao Cup Fulham vs Tottenham 12:45
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135737
-#EXTINF:-1 tvg-name="Carabao Cup Fulham vs Tottenham 12:45 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Carabao Cup Fulham vs Tottenham 12:45 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135738
-#EXTINF:-1 tvg-name="Carabao Cup Salford vs Leeds utd 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Carabao Cup Salford vs Leeds utd 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135739
-#EXTINF:-1 tvg-name="Liga Colombia Dep Pasto vs Once Caldas 19:10" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia Dep Pasto vs Once Caldas 19:10
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135740
-#EXTINF:-1 tvg-name="Liga Saudi Al Akhdoud vs Al Taawon 09:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Akhdoud vs Al Taawon 09:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135741
-#EXTINF:-1 tvg-name="Liga Saudi Al Ahli vs Al Taee 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Ahli vs Al Taee 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135742
-#EXTINF:-1 tvg-name="Al Nassr Riyadh vs Al Shabab 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Al Nassr Riyadh vs Al Shabab 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135743
+#EXTINF:-1 tvg-name="Liga MX Toluca vs Monterrey 19:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Toluca vs Monterrey 19:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135853
+#EXTINF:-1 tvg-name="Liga MX Toluca vs Monterrey 19:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Toluca vs Monterrey 19:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135854
+#EXTINF:-1 tvg-name="Liga MX Toluca vs Monterrey 19:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Toluca vs Monterrey 19:00 OPC 3
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135855
+#EXTINF:-1 tvg-name="Liga MX Queretaro vs Atlas 19:06" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Queretaro vs Atlas 19:06
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135856
+#EXTINF:-1 tvg-name="Liga MX Queretaro vs Atlas 19:06 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Queretaro vs Atlas 19:06 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135863
+#EXTINF:-1 tvg-name="Liga MX Queretaro vs Atlas 19:06 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Queretaro vs Atlas 19:06 OPC 3
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135864
+#EXTINF:-1 tvg-name="Liga MX Tigres vs Santos 21:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Tigres vs Santos 21:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135865
+#EXTINF:-1 tvg-name="Liga MX Tigres vs Santos 21:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Tigres vs Santos 21:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135866
+#EXTINF:-1 tvg-name="Liga MX Tigres vs Santos 21:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Tigres vs Santos 21:00 OPC 3
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135867
+#EXTINF:-1 tvg-name="Expansion MX Tepatitlan vs Cancun 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Tepatitlan vs Cancun 17:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135869
+#EXTINF:-1 tvg-name="Expansion MX Tlaxcala vs Celaya 19:05" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Tlaxcala vs Celaya 19:05
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135870
+#EXTINF:-1 tvg-name="Expansion MX Atl La Paz vs Sonora 21:05" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Atl La Paz vs Sonora 21:05
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135871
+#EXTINF:-1 tvg-name="Liga MX Fem Pachuca vs Atlas 19:06" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Fem Pachuca vs Atlas 19:06
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135872
+#EXTINF:-1 tvg-name="Champions League AEK vs Antwerp 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League AEK vs Antwerp 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135873
+#EXTINF:-1 tvg-name="Champions League AEK vs Antwerp 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League AEK vs Antwerp 13:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135874
+#EXTINF:-1 tvg-name="Champions League Copenhague vs Rakow 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Copenhague vs Rakow 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135875
+#EXTINF:-1 tvg-name="Champions League Copenhague vs Rakow 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Copenhague vs Rakow 13:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135876
+#EXTINF:-1 tvg-name="Champions League Copenhague vs Rakow 13:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Champions League Copenhague vs Rakow 13:00 OPC 3
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135877
+#EXTINF:-1 tvg-name="Champions League PSV vs Rangers 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Champions League PSV vs Rangers 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135878
+#EXTINF:-1 tvg-name="Champions League PSV vs Rangers 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Champions League PSV vs Rangers 13:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135879
+#EXTINF:-1 tvg-name="Champions League PSV vs Rangers 13:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Champions League PSV vs Rangers 13:00 OPC 3
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135880
+#EXTINF:-1 tvg-name="Libertadores Palmeiras vs Pereira 18:30" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Palmeiras vs Pereira 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135881
+#EXTINF:-1 tvg-name="Libertadores Palmeiras vs Pereira 18:30 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Palmeiras vs Pereira 18:30 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135882
+#EXTINF:-1 tvg-name="Libertadores Racing vs Boca Jrs 18:30" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Racing vs Boca Jrs 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135883
+#EXTINF:-1 tvg-name="Libertadores Racing vs Boca Jrs 18:30 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Libertadores Racing vs Boca Jrs 18:30 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135884
+#EXTINF:-1 tvg-name="Sudamericana Defensa y Justicia vs Botafogo 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Sudamericana Defensa y Justicia vs Botafogo 16:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135885
+#EXTINF:-1 tvg-name="Sudamericana Defensa y Justicia vs Botafogo 16:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Sudamericana Defensa y Justicia vs Botafogo 16:00 OPC 2
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135886
+#EXTINF:-1 tvg-name="CONCACAF Real España vs Aguila 18:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Real España vs Aguila 18:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135887
+#EXTINF:-1 tvg-name="CONCACAF Comunicaciones vs Herediano 20:00" group-title="➤ FUTBOLEROS HOY ⚽",CONCACAF Comunicaciones vs Herediano 20:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135888
+#EXTINF:-1 tvg-name="Carabao Cup Doncaster vs Everton 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Carabao Cup Doncaster vs Everton 13:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135890
+#EXTINF:-1 tvg-name="Copa Argentina Talleres vs Colon 11:00" group-title="➤ FUTBOLEROS HOY ⚽",Copa Argentina Talleres vs Colon 11:00
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135897
+#EXTINF:-1 tvg-name="Copa Argentina Argentinos Jrs vs San Martin SJ 13:15" group-title="➤ FUTBOLEROS HOY ⚽",Copa Argentina Argentinos Jrs vs San Martin SJ 13:15
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135898
+#EXTINF:-1 tvg-name="Copa Argentina San Lorenzo vs Belgrano 15:30" group-title="➤ FUTBOLEROS HOY ⚽",Copa Argentina San Lorenzo vs Belgrano 15:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135899
+#EXTINF:-1 tvg-name="Liga Colombia U Magdalena vs America de Cali 17:15" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia U Magdalena vs America de Cali 17:15
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135900
+#EXTINF:-1 tvg-name="Liga Colombia Aguilas Doradas vs Atl Nacional 19:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia Aguilas Doradas vs Atl Nacional 19:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135901
+#EXTINF:-1 tvg-name="MLS Atlanta vs Cincinnati 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Atlanta vs Cincinnati 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135902
+#EXTINF:-1 tvg-name="MLS Charlotte vs Orlando City 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Charlotte vs Orlando City 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135903
+#EXTINF:-1 tvg-name="MLS Inter Miami vs Nashville 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Inter Miami vs Nashville 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135904
+#EXTINF:-1 tvg-name="MLS New England Revolution vs New York Red Bulls 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS New England Revolution vs New York Red Bulls 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135905
+#EXTINF:-1 tvg-name="MLS New York City vs Montreal 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS New York City vs Montreal 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135906
+#EXTINF:-1 tvg-name="MLS Toronto vs Philadelphia Union 17:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Toronto vs Philadelphia Union 17:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135907
+#EXTINF:-1 tvg-name="MLS Austin vs Seattle Sounders 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Austin vs Seattle Sounders 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135908
+#EXTINF:-1 tvg-name="MLS Chicago Fire vs Vancouver Whitecaps 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Chicago Fire vs Vancouver Whitecaps 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135909
+#EXTINF:-1 tvg-name="MLS Houston Dynamo vs Columbus Crew 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Houston Dynamo vs Columbus Crew 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135910
+#EXTINF:-1 tvg-name="MLS Minnesota United vs Colorado Rapids 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Minnesota United vs Colorado Rapids 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135911
+#EXTINF:-1 tvg-name="MLS St Louis City vs Dallas 18:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS St Louis City vs Dallas 18:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135912
+#EXTINF:-1 tvg-name="MLS Portland Timbers vs Real Salt Lake 20:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS Portland Timbers vs Real Salt Lake 20:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135913
+#EXTINF:-1 tvg-name="MLS San Jose Earthquakes vs Los Angeles Galaxy 20:30" group-title="➤ FUTBOLEROS HOY ⚽",MLS San Jose Earthquakes vs Los Angeles Galaxy 20:30
+http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/135914
 #EXTINF:-1 tvg-name="02 | DSPORTS + ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/1488b670730b32bae4449e4e195ac2ae.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS + ECUADOR HD
 http://zonamovie.live:8080/Micaplay/mU10HmNgmp/437287
 #EXTINF:-1 tvg-name="02 | DSPORTS 2 ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS 2 ECUADOR HD
