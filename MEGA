@@ -39,68 +39,278 @@ http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127080
 http://moontools.me:8080/latin_entertainment/latin_entertainmentexchan/1127082
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU-Gol TV  (tv)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="➤ ZONA ECUADOR DEPORTES ⚽",ECU-Gol TV  (tv)
 http://tv.kis2.xyz:43201/qkabierta69/FA6m9NqkPw/22153
-#EXTINF:-1 tvg-name="Liga MX Juarez vs Mazatlan 19:06" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Juarez vs Mazatlan 19:06
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136113
-#EXTINF:-1 tvg-name="Liga MX Juarez vs Mazatlan 19:06 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Juarez vs Mazatlan 19:06 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136114
-#EXTINF:-1 tvg-name="Liga MX Juarez vs Mazatlan 19:06 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Juarez vs Mazatlan 19:06 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136115
-#EXTINF:-1 tvg-name="Liga MX Puebla vs Tijuana 21:10" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Puebla vs Tijuana 21:10
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136116
-#EXTINF:-1 tvg-name="Liga MX Puebla vs Tijuana 21:10 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Puebla vs Tijuana 21:10 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136117
-#EXTINF:-1 tvg-name="Liga MX Puebla vs Tijuana 21:10 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Puebla vs Tijuana 21:10 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136118
-#EXTINF:-1 tvg-name="Expansion MX Leones Negros vs Morelia 21:05" group-title="➤ FUTBOLEROS HOY ⚽",Expansion MX Leones Negros vs Morelia 21:05
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136119
-#EXTINF:-1 tvg-name="Liga MX Fem Queretaro vs Toluca 17:06" group-title="➤ FUTBOLEROS HOY ⚽",Liga MX Fem Queretaro vs Toluca 17:06
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136120
-#EXTINF:-1 tvg-name="Amistoso Fem Tigres vs Barcelona 20:00" group-title="➤ FUTBOLEROS HOY ⚽",Amistoso Fem Tigres vs Barcelona 20:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136121
-#EXTINF:-1 tvg-name="Bundesliga Borussia Dortmund vs Heidenheim 12:30" group-title="➤ FUTBOLEROS HOY ⚽",Bundesliga Borussia Dortmund vs Heidenheim 12:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136122
-#EXTINF:-1 tvg-name="Liga EA Sports Cadiz vs Villareal 11:30" group-title="➤ FUTBOLEROS HOY ⚽",Liga EA Sports Cadiz vs Villareal 11:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136123
-#EXTINF:-1 tvg-name="Liga EA Sports Almeria vs Celta de Vigo 14:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga EA Sports Almeria vs Celta de Vigo 14:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136124
-#EXTINF:-1 tvg-name="Ligue 1 Nantes vs Marsella 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Ligue 1 Nantes vs Marsella 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136125
-#EXTINF:-1 tvg-name="Premier League Luton vs West Ham 13:00" group-title="➤ FUTBOLEROS HOY ⚽",Premier League Luton vs West Ham 13:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136126
-#EXTINF:-1 tvg-name="Premier League Luton vs West Ham 13:00 OPC 2" group-title="➤ FUTBOLEROS HOY ⚽",Premier League Luton vs West Ham 13:00 OPC 2
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136127
-#EXTINF:-1 tvg-name="Premier League Luton vs West Ham 13:00 OPC 3" group-title="➤ FUTBOLEROS HOY ⚽",Premier League Luton vs West Ham 13:00 OPC 3
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136128
-#EXTINF:-1 tvg-name="Serie A Sassuolo vs Verona 10:30" group-title="➤ FUTBOLEROS HOY ⚽",Serie A Sassuolo vs Verona 10:30
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136129
-#EXTINF:-1 tvg-name="Serie A Roma vs Milan 12:45" group-title="➤ FUTBOLEROS HOY ⚽",Serie A Roma vs Milan 12:45
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136130
-#EXTINF:-1 tvg-name="Liga Belgica Leuven vs Kortrijk 12:45" group-title="➤ FUTBOLEROS HOY ⚽",Liga Belgica Leuven vs Kortrijk 12:45
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136131
-#EXTINF:-1 tvg-name="Liga Portugal Vizela vs Gil Vicente 13:15" group-title="➤ FUTBOLEROS HOY ⚽",Liga Portugal Vizela vs Gil Vicente 13:15
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136132
-#EXTINF:-1 tvg-name="Liga Argentina Central Cordoba vs Platense 18:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Argentina Central Cordoba vs Platense 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136133
-#EXTINF:-1 tvg-name="Liga Chile U La Calera vs Copiapo 17:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Chile U La Calera vs Copiapo 17:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136134
-#EXTINF:-1 tvg-name="Liga Colombia Boyaca Chico vs Envigado 17:05" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia Boyaca Chico vs Envigado 17:05
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136135
-#EXTINF:-1 tvg-name="Liga Colombia Tolima vs Atl Bucaramanga 19:10" group-title="➤ FUTBOLEROS HOY ⚽",Liga Colombia Tolima vs Atl Bucaramanga 19:10
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136136
-#EXTINF:-1 tvg-name="Liga Ecuador Delfin vs Ind del Valle 18:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Ecuador Delfin vs Ind del Valle 18:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136137
-#EXTINF:-1 tvg-name="Liga Panama Tauro vs Independiente 19:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Panama Tauro vs Independiente 19:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136138
-#EXTINF:-1 tvg-name="Liga Uruguay Wanderers vs Montevideo City 16:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Uruguay Wanderers vs Montevideo City 16:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136139
-#EXTINF:-1 tvg-name="Liga Saudi Al Feiha vs Al Raed 09:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Feiha vs Al Raed 09:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136144
-#EXTINF:-1 tvg-name="Liga Saudi Al Taee vs Abha 09:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Taee vs Abha 09:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136145
-#EXTINF:-1 tvg-name="Liga Saudi Al Ittihad vs Al Hilal 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Ittihad vs Al Hilal 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136146
-#EXTINF:-1 tvg-name="Liga Saudi Al Riyadh vs Al Akhdoud 12:00" group-title="➤ FUTBOLEROS HOY ⚽",Liga Saudi Al Riyadh vs Al Akhdoud 12:00
-http://rhinotvplus.com:8080/Cplay2121/Cplayevent56/136147
+#EXTINF:-1 tvg-name="02:30 | Finlandia vs. Venezuela |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",02:30 | Finlandia vs. Venezuela |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402676.ts
+#EXTINF:-1 tvg-name="03:00 | Angola vs. Sudán del Sur |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",03:00 | Angola vs. Sudán del Sur |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402677.ts
+#EXTINF:-1 tvg-name="03:45 | Nueva Zelanda vs. Egipto |   ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",03:45 | Nueva Zelanda vs. Egipto |   ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402678.ts
+#EXTINF:-1 tvg-name="04:45 | Sudan vs. Angola | ᶠᴵᴮᴬ" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",04:45 | Sudan vs. Angola | ᶠᴵᴮᴬ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402679.ts
+#EXTINF:-1 tvg-name="06:10 | Japón vs. Cabo Verde |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",06:10 | Japón vs. Cabo Verde |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402680.ts
+#EXTINF:-1 tvg-name="06:30 | Sheffield United vs. Everton | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",06:30 | Sheffield United vs. Everton | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402681.ts
+#EXTINF:-1 tvg-name="06:30 | Sunderland vs. Southampton | ENG ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/carabao_cup.png" group-title="➤ FUTBOLEROS HOY ⚽",06:30 | Sunderland vs. Southampton | ENG ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402682.ts
+#EXTINF:-1 tvg-name="06:30 | Sunderland vs. Southampton | SPA  ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/carabao_cup.png" group-title="➤ FUTBOLEROS HOY ⚽",06:30 | Sunderland vs. Southampton | SPA  ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402683.ts
+#EXTINF:-1 tvg-name="07:00 | Real Sociedad vs. Granada | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",07:00 | Real Sociedad vs. Granada | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402684.ts
+#EXTINF:-1 tvg-name="07:00 | Real Sociedad vs. Granada | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",07:00 | Real Sociedad vs. Granada | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402685.ts
+#EXTINF:-1 tvg-name="07:10 | Filipinas vs. China |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",07:10 | Filipinas vs. China |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402686.ts
+#EXTINF:-1 tvg-name="07:30 | Jordania vs. Mexico |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",07:30 | Jordania vs. Mexico |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402687.ts
+#EXTINF:-1 tvg-name="08:30 | Augsburg vs. Bochum |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Augsburg vs. Bochum |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402688.ts
+#EXTINF:-1 tvg-name="08:30 | Bayer Leverkusen vs. Darmstadt 98 |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Bayer Leverkusen vs. Darmstadt 98 |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402689.ts
+#EXTINF:-1 tvg-name="08:30 | Hoffenheim vs. Wolfsburg |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Hoffenheim vs. Wolfsburg |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402690.ts
+#EXTINF:-1 tvg-name="08:30 | Irán vs. Líbano |  ✭ F̼I̼B̼A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Irán vs. Líbano |  ✭ F̼I̼B̼A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402691.ts
+#EXTINF:-1 tvg-name="08:30 | Stuttgart vs. Freiburg |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Stuttgart vs. Freiburg |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402692.ts
+#EXTINF:-1 tvg-name="08:30 | Werder Bremen vs. Mainz 05 |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",08:30 | Werder Bremen vs. Mainz 05 |  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402693.ts
+#EXTINF:-1 tvg-name="09:00 | Brentford vs. AFC Bournemouth | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Brentford vs. AFC Bournemouth | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402694.ts
+#EXTINF:-1 tvg-name="09:00 | Brighton & Hove Albion vs. Newcastle United | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Brighton & Hove Albion vs. Newcastle United | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402695.ts
+#EXTINF:-1 tvg-name="09:00 | Burnley vs. Tottenham Hotspur | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Burnley vs. Tottenham Hotspur | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402696.ts
+#EXTINF:-1 tvg-name="09:00 | Chelsea vs. Nottingham Forest | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Chelsea vs. Nottingham Forest | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402697.ts
+#EXTINF:-1 tvg-name="09:00 | Manchester City vs. Fulham | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/premier_league.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Manchester City vs. Fulham | ✭ P̼r̼e̼m̼i̼e̼r̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402698.ts
+#EXTINF:-1 tvg-name="09:00 | Stoke City vs. Preston North End | SPA ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/carabao_cup.png" group-title="➤ FUTBOLEROS HOY ⚽",09:00 | Stoke City vs. Preston North End | SPA ✭ C̼h̼a̼m̼p̼i̼o̼n̼c̼h̼i̼p̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402699.ts
+#EXTINF:-1 tvg-name="09:15 | Real Madrid vs. Getafe | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",09:15 | Real Madrid vs. Getafe | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402700.ts
+#EXTINF:-1 tvg-name="09:15 | Real Madrid vs. Getafe | SD ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",09:15 | Real Madrid vs. Getafe | SD ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402701.ts
+#EXTINF:-1 tvg-name="09:15 | Real Madrid vs. Getafe | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",09:15 | Real Madrid vs. Getafe | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402702.ts
+#EXTINF:-1 tvg-name="09:15 | Sporting Gijón vs. Burgos |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",09:15 | Sporting Gijón vs. Burgos |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402703.ts
+#EXTINF:-1 tvg-name="09:30 | Casa Pia vs. Rio Ave | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",09:30 | Casa Pia vs. Rio Ave | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402704.ts
+#EXTINF:-1 tvg-name="10:00 | Brest vs. Rennes |  ✭ L̼i̼g̼u̼e̼ 1̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/league_1.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Brest vs. Rennes |  ✭ L̼i̼g̼u̼e̼ 1̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402705.ts
+#EXTINF:-1 tvg-name="10:00 | Court 4 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 4 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402706.ts
+#EXTINF:-1 tvg-name="10:00 | Court 5 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 5 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402707.ts
+#EXTINF:-1 tvg-name="10:00 | Court 6 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 6 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402708.ts
+#EXTINF:-1 tvg-name="10:00 | Court 7 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 7 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402709.ts
+#EXTINF:-1 tvg-name="10:00 | Court 8 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 8 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402710.ts
+#EXTINF:-1 tvg-name="10:00 | Court 9 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 9 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402711.ts
+#EXTINF:-1 tvg-name="10:00 | Court 10 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 10 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402712.ts
+#EXTINF:-1 tvg-name="10:00 | Court 11 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 11 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402713.ts
+#EXTINF:-1 tvg-name="10:00 | Court 12 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 12 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402714.ts
+#EXTINF:-1 tvg-name="10:00 | Court 13 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 13 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402715.ts
+#EXTINF:-1 tvg-name="10:00 | Court 14 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 14 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402716.ts
+#EXTINF:-1 tvg-name="10:00 | Court 15 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 15 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402717.ts
+#EXTINF:-1 tvg-name="10:00 | Court 17 | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Court 17 | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402718.ts
+#EXTINF:-1 tvg-name="10:00 | Grandstand | ᵁˢ ᴼᴾᴱᴺ" tvg-logo="http://209.126.82.213/logos/eventos/us_opencup.png" group-title="➤ FUTBOLEROS HOY ⚽",10:00 | Grandstand | ᵁˢ ᴼᴾᴱᴺ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402719.ts
+#EXTINF:-1 tvg-name="10:30 | Danubio vs. Cerro Largo |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",10:30 | Danubio vs. Cerro Largo |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402720.ts
+#EXTINF:-1 tvg-name="11:30 | Bologna vs. Cagliari |  ✭ S̼e̼r̼i̼e̼ A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Bologna vs. Cagliari |  ✭ S̼e̼r̼i̼e̼ A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402721.ts
+#EXTINF:-1 tvg-name="11:30 | Borussia M'gladbach vs. Bayern München | ENG  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Borussia M'gladbach vs. Bayern München | ENG  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402722.ts
+#EXTINF:-1 tvg-name="11:30 | Borussia M'gladbach vs. Bayern München | SPA  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/bundesliga.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Borussia M'gladbach vs. Bayern München | SPA  ✭ B̼u̼n̼d̼e̼s̼l̼i̼g̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402723.ts
+#EXTINF:-1 tvg-name="11:30 | Deportivo Alavés vs. Valencia | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Deportivo Alavés vs. Valencia | ENG ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402724.ts
+#EXTINF:-1 tvg-name="11:30 | Deportivo Alavés vs. Valencia | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Deportivo Alavés vs. Valencia | SPA ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402725.ts
+#EXTINF:-1 tvg-name="11:30 | Levante vs. Real Oviedo |   ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Levante vs. Real Oviedo |   ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402726.ts
+#EXTINF:-1 tvg-name="11:30 | Udinese vs. Frosinone |  ✭ S̼e̼r̼i̼e̼ A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",11:30 | Udinese vs. Frosinone |  ✭ S̼e̼r̼i̼e̼ A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402727.ts
+#EXTINF:-1 tvg-name="12:00 | Ciryl Gane vs. Serghei Spivac | ENG  ✭ U̼F̼C̼ ✭" tvg-logo="http://209.126.82.213/logos/eventos/ufc.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Ciryl Gane vs. Serghei Spivac | ENG  ✭ U̼F̼C̼ ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402728.ts
+#EXTINF:-1 tvg-name="12:00 | Ciryl Gane vs. Serghei Spivac | SD  ✭ U̼F̼C̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/ufc.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Ciryl Gane vs. Serghei Spivac | SD  ✭ U̼F̼C̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402729.ts
+#EXTINF:-1 tvg-name="12:00 | Ciryl Gane vs. Serghei Spivac | SPA  ✭ U̼F̼C̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/ufc.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Ciryl Gane vs. Serghei Spivac | SPA  ✭ U̼F̼C̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402730.ts
+#EXTINF:-1 tvg-name="12:00 | Famalicão vs. Farense | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Famalicão vs. Farense | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402731.ts
+#EXTINF:-1 tvg-name="12:00 | Liam Smith vs. Chris Eubank Jr 2 |  ✭ B̼O̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",12:00 | Liam Smith vs. Chris Eubank Jr 2 |  ✭ B̼O̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402732.ts
+#EXTINF:-1 tvg-name="13:00 | Al Hazm vs. Al Nassr |    ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/saudipro_league.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Al Hazm vs. Al Nassr |    ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402733.ts
+#EXTINF:-1 tvg-name="13:00 | Al Hazm vs. Al Nassr |  ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/saudipro_league.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Al Hazm vs. Al Nassr |  ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402734.ts
+#EXTINF:-1 tvg-name="13:00 | Al Hazm vs. Al Nassr | ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/saudipro_league.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Al Hazm vs. Al Nassr | ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402735.ts
+#EXTINF:-1 tvg-name="13:00 | Al Ittifaq vs. Dhamk |   ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/saudipro_league.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Al Ittifaq vs. Dhamk |   ✭ S̼a̼u̼d̼i̼ P̼r̼o̼ L̼e̼a̼g̼u̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402736.ts
+#EXTINF:-1 tvg-name="13:00 | Gimnasia La Plata vs. Independiente |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Gimnasia La Plata vs. Independiente |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402737.ts
+#EXTINF:-1 tvg-name="13:00 | Libertad vs. Mushuc Runa | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | Libertad vs. Mushuc Runa | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402738.ts
+#EXTINF:-1 tvg-name="13:00 | RKC Waalwijk vs. PSV |  ✭ E̼r̼e̼d̼i̼v̼i̼s̼i̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/eredivisie.png" group-title="➤ FUTBOLEROS HOY ⚽",13:00 | RKC Waalwijk vs. PSV |  ✭ E̼r̼e̼d̼i̼v̼i̼s̼i̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402739.ts
+#EXTINF:-1 tvg-name="13:30 | Boston River vs. Peñarol |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",13:30 | Boston River vs. Peñarol |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402740.ts
+#EXTINF:-1 tvg-name="13:30 | Napoli vs. Lazio |  ✭ S̼e̼r̼i̼e̼ A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",13:30 | Napoli vs. Lazio |  ✭ S̼e̼r̼i̼e̼ A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402741.ts
+#EXTINF:-1 tvg-name="13:45 | Atalanta vs. Monza |  ✭ S̼e̼r̼i̼e̼ A̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/serie_a.png" group-title="➤ FUTBOLEROS HOY ⚽",13:45 | Atalanta vs. Monza |  ✭ S̼e̼r̼i̼e̼ A̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402742.ts
+#EXTINF:-1 tvg-name="13:45 | Gaziantepspor vs. Galatasaray |  ✭ S̼u̼p̼e̼r̼ L̼i̼g̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/super_lig.png" group-title="➤ FUTBOLEROS HOY ⚽",13:45 | Gaziantepspor vs. Galatasaray |  ✭ S̼u̼p̼e̼r̼ L̼i̼g̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402743.ts
+#EXTINF:-1 tvg-name="14:00 | Athletico-PR vs. Atlético Mineiro |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/brasileirao.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Athletico-PR vs. Atlético Mineiro |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402744.ts
+#EXTINF:-1 tvg-name="14:00 | Elche vs. Racing Santander |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Elche vs. Racing Santander |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402745.ts
+#EXTINF:-1 tvg-name="14:00 | Goiás vs. Internacional |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/brasileirao.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Goiás vs. Internacional |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402746.ts
+#EXTINF:-1 tvg-name="14:00 | Lyndon Arthu vs. Braian Nahuel Suarez |    ✭ B̼O̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Lyndon Arthu vs. Braian Nahuel Suarez |    ✭ B̼O̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402747.ts
+#EXTINF:-1 tvg-name="14:00 | Monaco vs. Lens |  ✭ L̼i̼g̼u̼e̼ 1̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/league_1.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Monaco vs. Lens |  ✭ L̼i̼g̼u̼e̼ 1̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402748.ts
+#EXTINF:-1 tvg-name="14:00 | Real Betis vs. Rayo Vallecano | ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/laliga.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Real Betis vs. Rayo Vallecano | ✭ L̼a̼l̼i̼g̼a̼ E̼A̼ S̼p̼o̼r̼t̼s̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402749.ts
+#EXTINF:-1 tvg-name="14:00 | Universidad Chile vs. Colo-Colo |  ✭ P̼r̼i̼m̼e̼r̼a̼ C̼h̼i̼l̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_chile.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Universidad Chile vs. Colo-Colo |  ✭ P̼r̼i̼m̼e̼r̼a̼ C̼h̼i̼l̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402750.ts
+#EXTINF:-1 tvg-name="14:00 | Villarreal II vs. Cartagena |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_hypermotion.png" group-title="➤ FUTBOLEROS HOY ⚽",14:00 | Villarreal II vs. Cartagena |  ✭ L̼a̼l̼i̼g̼a̼ H̼y̼p̼e̼r̼m̼o̼t̼i̼o̼n̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402751.ts
+#EXTINF:-1 tvg-name="14:30 | Benfica vs. Vitória Guimarães | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_portugal.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Benfica vs. Vitória Guimarães | ✭ L̼i̼g̼a̼ P̼o̼r̼t̼u̼g̼a̼l̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402752.ts
+#EXTINF:-1 tvg-name="14:30 | Lanús vs. Godoy Cruz |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | Lanús vs. Godoy Cruz |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402753.ts
+#EXTINF:-1 tvg-name="14:30 | New York City vs. Vancouver Whitecaps |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",14:30 | New York City vs. Vancouver Whitecaps |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402754.ts
+#EXTINF:-1 tvg-name="15:05 | Washington Nationals vs. Miami Marlins |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:05 | Washington Nationals vs. Miami Marlins |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402755.ts
+#EXTINF:-1 tvg-name="15:07 | Oakland Athletics vs. Los Angeles Angels |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",15:07 | Oakland Athletics vs. Los Angeles Angels |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402756.ts
+#EXTINF:-1 tvg-name="15:30 | Universidad Católica vs. El Nacional | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",15:30 | Universidad Católica vs. El Nacional | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402757.ts
+#EXTINF:-1 tvg-name="17:00 | Belgrano vs. Newell's Old Boys |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | Belgrano vs. Newell's Old Boys |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402758.ts
+#EXTINF:-1 tvg-name="17:00 | Huachipato vs. Curicó Unido |  ✭ P̼r̼i̼m̼e̼r̼a̼ C̼h̼i̼l̼e̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_chile.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | Huachipato vs. Curicó Unido |  ✭ P̼r̼i̼m̼e̼r̼a̼ C̼h̼i̼l̼e̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402759.ts
+#EXTINF:-1 tvg-name="17:00 | Huracán vs. Colón |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",17:00 | Huracán vs. Colón |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402760.ts
+#EXTINF:-1 tvg-name="17:10 | Guardianes de Cleveland vs. Tampa Bay Rays |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",17:10 | Guardianes de Cleveland vs. Tampa Bay Rays |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402761.ts
+#EXTINF:-1 tvg-name="17:40 | Cincinnati Reds vs. Chicago Cubs |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",17:40 | Cincinnati Reds vs. Chicago Cubs |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402762.ts
+#EXTINF:-1 tvg-name="18:00 | Emelec vs. Aucas | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_ecuador.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | Emelec vs. Aucas | ✭ L̼i̼g̼a̼ P̼r̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402763.ts
+#EXTINF:-1 tvg-name="18:00 | La Luz vs. Defensor Sporting |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_uruguay.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | La Luz vs. Defensor Sporting |  ✭ P̼r̼i̼m̼e̼r̼a̼ U̼r̼u̼g̼u̼a̼y̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402764.ts
+#EXTINF:-1 tvg-name="18:00 | León vs. Necaxa |  ✭ L̼i̼g̼a̼ M̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",18:00 | León vs. Necaxa |  ✭ L̼i̼g̼a̼ M̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402765.ts
+#EXTINF:-1 tvg-name="18:05 | Boyacá Chicó vs. Envigado |  ✭ L̼i̼g̼a̼ B̼e̼t̼ P̼l̼a̼y̼ ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_colombia.png" group-title="➤ FUTBOLEROS HOY ⚽",18:05 | Boyacá Chicó vs. Envigado |  ✭ L̼i̼g̼a̼ B̼e̼t̼ P̼l̼a̼y̼ ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402766.ts
+#EXTINF:-1 tvg-name="18:10 | Chicago White Sox vs. Detroit Tigers |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Chicago White Sox vs. Detroit Tigers |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402767.ts
+#EXTINF:-1 tvg-name="18:10 | Houston Astros vs. New York Yankees |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Houston Astros vs. New York Yankees |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402768.ts
+#EXTINF:-1 tvg-name="18:10 | Kansas City Royals vs. Boston Red Sox |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | Kansas City Royals vs. Boston Red Sox |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402769.ts
+#EXTINF:-1 tvg-name="18:10 | New York Mets vs. Seattle Mariners |   ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:10 | New York Mets vs. Seattle Mariners |   ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402770.ts
+#EXTINF:-1 tvg-name="18:15 | Milwaukee Brewers vs. Philadelphia Phillies |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | Milwaukee Brewers vs. Philadelphia Phillies |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402771.ts
+#EXTINF:-1 tvg-name="18:15 | St. Louis Cardinals vs. Pittsburgh Pirates |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | St. Louis Cardinals vs. Pittsburgh Pirates |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402772.ts
+#EXTINF:-1 tvg-name="18:15 | Texas Rangers vs. Minnesota Twins |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",18:15 | Texas Rangers vs. Minnesota Twins |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402773.ts
+#EXTINF:-1 tvg-name="18:30 | CF Montréal vs. Columbus Crew |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | CF Montréal vs. Columbus Crew |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402774.ts
+#EXTINF:-1 tvg-name="18:30 | Cincinnati vs. Orlando City SC |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | Cincinnati vs. Orlando City SC |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402775.ts
+#EXTINF:-1 tvg-name="18:30 | DC United vs. Chicago Fire |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | DC United vs. Chicago Fire |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402776.ts
+#EXTINF:-1 tvg-name="18:30 | New England vs. Austin |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",18:30 | New England vs. Austin |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402777.ts
+#EXTINF:-1 tvg-name="19:00 | Botafogo vs. Flamengo |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/brasileirao.png" group-title="➤ FUTBOLEROS HOY ⚽",19:00 | Botafogo vs. Flamengo |  ✭ B̼r̼a̼s̼i̼l̼e̼i̼r̼a̼o̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402778.ts
+#EXTINF:-1 tvg-name="19:10 | Arizona Diamondbacks vs. Baltimore Orioles |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",19:10 | Arizona Diamondbacks vs. Baltimore Orioles |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402779.ts
+#EXTINF:-1 tvg-name="19:10 | Colorado Rockies vs. Toronto Blue Jays |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",19:10 | Colorado Rockies vs. Toronto Blue Jays |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402780.ts
+#EXTINF:-1 tvg-name="19:30 | Dallas vs. Atlanta United |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Dallas vs. Atlanta United |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402781.ts
+#EXTINF:-1 tvg-name="19:30 | Nashville SC vs. Charlotte |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Nashville SC vs. Charlotte |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402782.ts
+#EXTINF:-1 tvg-name="19:30 | Sporting KC vs. St. Louis City |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Sporting KC vs. St. Louis City |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402783.ts
+#EXTINF:-1 tvg-name="19:30 | Vélez Sarsfield vs. River Plate |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_argentina.png" group-title="➤ FUTBOLEROS HOY ⚽",19:30 | Vélez Sarsfield vs. River Plate |  ✭ S̼u̼p̼e̼r̼l̼i̼g̼a̼ A̼r̼g̼e̼n̼t̼i̼n̼a̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402784.ts
+#EXTINF:-1 tvg-name="19:40 | San Diego Padres vs. San Francisco Giants |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",19:40 | San Diego Padres vs. San Francisco Giants |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402785.ts
+#EXTINF:-1 tvg-name="20:00 | Pericos de Puebla vs. Leones de Yucatan | ✭ L̼M̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | Pericos de Puebla vs. Leones de Yucatan | ✭ L̼M̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402786.ts
+#EXTINF:-1 tvg-name="20:00 | Santos Laguna vs. Pumas UNAM |  ✭ L̼i̼g̼a̼ M̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | Santos Laguna vs. Pumas UNAM |  ✭ L̼i̼g̼a̼ M̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402787.ts
+#EXTINF:-1 tvg-name="20:00 | Tecolotes de los Dos Laredos vs. Algodoneros de Unión Laguna |  ✭ L̼M̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:00 | Tecolotes de los Dos Laredos vs. Algodoneros de Unión Laguna |  ✭ L̼M̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402788.ts
+#EXTINF:-1 tvg-name="20:05 | Tigres UANL vs. Querétaro |  ✭ L̼i̼g̼a̼ M̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",20:05 | Tigres UANL vs. Querétaro |  ✭ L̼i̼g̼a̼ M̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402789.ts
+#EXTINF:-1 tvg-name="20:10 | Deportes Tolima vs. Atlético Bucaramanga |  ✭ L̼i̼g̼a̼ B̼e̼t̼ P̼l̼a̼y̼ ✭" tvg-logo="http://209.126.82.213/logos/eventos/primera_colombia.png" group-title="➤ FUTBOLEROS HOY ⚽",20:10 | Deportes Tolima vs. Atlético Bucaramanga |  ✭ L̼i̼g̼a̼ B̼e̼t̼ P̼l̼a̼y̼ ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402790.ts
+#EXTINF:-1 tvg-name="20:10 | Los Angeles Dodgers vs. Atlanta Braves |  ✭ M̼L̼B̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:10 | Los Angeles Dodgers vs. Atlanta Braves |  ✭ M̼L̼B̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402791.ts
+#EXTINF:-1 tvg-name="20:30 | Real Salt Lake vs. Colorado Rapids |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",20:30 | Real Salt Lake vs. Colorado Rapids |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402792.ts
+#EXTINF:-1 tvg-name="20:40 | Oakland Athletics vs. Los Angeles Angels | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:40 | Oakland Athletics vs. Los Angeles Angels | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402793.ts
+#EXTINF:-1 tvg-name="20:40 | San Diego Padres vs. San Francisco Giants | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",20:40 | San Diego Padres vs. San Francisco Giants | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402794.ts
+#EXTINF:-1 tvg-name="21:00 | Algodoneros Unión Laguna vs. Tecolotes Dos Laredos | ᴸᴹᴮ" tvg-logo="http://209.126.82.213/logos/eventos/lmb.png" group-title="➤ FUTBOLEROS HOY ⚽",21:00 | Algodoneros Unión Laguna vs. Tecolotes Dos Laredos | ᴸᴹᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402795.ts
+#EXTINF:-1 tvg-name="21:10 | Los Angeles Dodgers vs. Atlanta Braves | ᴹᴸᴮ" tvg-logo="http://209.126.82.213/logos/eventos/mlb.png" group-title="➤ FUTBOLEROS HOY ⚽",21:10 | Los Angeles Dodgers vs. Atlanta Braves | ᴹᴸᴮ
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402796.ts
+#EXTINF:-1 tvg-name="21:30 | LA Galaxy vs. Houston Dynamo |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",21:30 | LA Galaxy vs. Houston Dynamo |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402797.ts
+#EXTINF:-1 tvg-name="21:30 | Seattle Sounders FC vs. Portland Timbers |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",21:30 | Seattle Sounders FC vs. Portland Timbers |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402798.ts
+#EXTINF:-1 tvg-name="21:30 | SJ Earthquakes vs. Minnesota United |  ✭ M̼L̼S̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/mls.png" group-title="➤ FUTBOLEROS HOY ⚽",21:30 | SJ Earthquakes vs. Minnesota United |  ✭ M̼L̼S̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402799.ts
+#EXTINF:-1 tvg-name="22:10 | Cruz Azul vs. América |  ✭ L̼i̼g̼a̼ M̼X̼  ✭" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",22:10 | Cruz Azul vs. América |  ✭ L̼i̼g̼a̼ M̼X̼  ✭
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402800.ts
+#EXTINF:-1 tvg-name="22:10 | Puebla vs. Tijuana |" tvg-logo="http://209.126.82.213/logos/eventos/liga_mx.png" group-title="➤ FUTBOLEROS HOY ⚽",22:10 | Puebla vs. Tijuana |
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402801.ts
+#EXTINF:-1 tvg-name="23:00 | Miguel Roman vs. Daniel Cordova |" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",23:00 | Miguel Roman vs. Daniel Cordova |
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402802.ts
+#EXTINF:-1 tvg-name="23:00 | Miguel Roman vs. Daniel Cordova |" tvg-logo="http://209.126.82.213/logos/eventos/boxing.png" group-title="➤ FUTBOLEROS HOY ⚽",23:00 | Miguel Roman vs. Daniel Cordova |
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402803.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 1  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 1  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402804.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 2  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 2  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402805.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 3  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 3  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402806.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 4  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 4  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402807.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 5  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 5  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402808.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 6  ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 6  ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402809.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 7 ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 7 ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402810.ts
+#EXTINF:-1 tvg-name="Mundial FIBA 8 ᶠᴵᴮᴬ ²⁰²³" tvg-logo="http://209.126.82.213/logos/eventos/fiba.png" group-title="➤ FUTBOLEROS HOY ⚽",Mundial FIBA 8 ᶠᴵᴮᴬ ²⁰²³
+http://tv.dominiotv.xyz:25461/live/ThaSpswum6TA/kPjxAbzt48zG/402811.ts
 #EXTINF:-1 tvg-name="02 | DSPORTS + ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/1488b670730b32bae4449e4e195ac2ae.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS + ECUADOR HD
 http://zonamovie.live:8080/Micaplay/mU10HmNgmp/437287
 #EXTINF:-1 tvg-name="02 | DSPORTS 2 ECUADOR HD" tvg-logo="http://zonamovie.live:8008/images/24e5a156e53bde694d1b4fb2f252b331.png" group-title="➤ ZONA LIGA PRO ECUADOR ⚽",02 | DSPORTS 2 ECUADOR HD
